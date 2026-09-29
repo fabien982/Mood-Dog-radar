@@ -1,7 +1,7 @@
 {
- "updated": "2026-09-29T23:11:06+00:00",
- "count": 119,
- "new_count": 119,
+ "updated": "2026-09-29T23:43:43+00:00",
+ "count": 131,
+ "new_count": 12,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -13,7 +13,7 @@
   },
   "Recherche web": {
    "ok": true,
-   "found": 167
+   "found": 166
   },
   "Pages surveillées": {
    "ok": true,
@@ -38,6 +38,11 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "appel à candidatures",
     "festival",
@@ -46,7 +51,8 @@
     "recherche"
    ],
    "score": 90,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "3b0b8745aa14",
@@ -64,6 +70,11 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "appel à candidatures",
     "festival",
@@ -72,7 +83,8 @@
     "recherche"
    ],
    "score": 90,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "d1e7f10dd172",
@@ -90,6 +102,11 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "appel à candidatures",
     "food truck",
@@ -99,7 +116,8 @@
     "recherchons"
    ],
    "score": 90,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "62176c8f8628",
@@ -117,6 +135,13 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "06 71 34 85 16"
+    ],
+    "forms": []
+   },
    "keywords": [
     "appel à candidatures",
     "food truck",
@@ -125,7 +150,8 @@
     "recherche"
    ],
    "score": 90,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "26b35c810278",
@@ -143,6 +169,11 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "appel à candidatures",
     "food truck",
@@ -150,7 +181,8 @@
     "fête"
    ],
    "score": 85,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "cc00d9425fce",
@@ -168,6 +200,11 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "appel à candidatures",
     "food truck",
@@ -175,7 +212,8 @@
     "fête"
    ],
    "score": 85,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "d376d73ef78d",
@@ -193,6 +231,11 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "appel à candidatures",
     "food truck",
@@ -200,7 +243,8 @@
     "fête"
    ],
    "score": 85,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "7eda6148426f",
@@ -218,6 +262,11 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "appel à candidatures",
     "food truck",
@@ -225,7 +274,8 @@
     "fête"
    ],
    "score": 85,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "90f803005996",
@@ -243,6 +293,11 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "appel à candidatures",
     "food truck",
@@ -250,7 +305,8 @@
     "fête"
    ],
    "score": 85,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "7cd03d2638ee",
@@ -268,6 +324,11 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "appel à candidatures",
     "food truck",
@@ -275,7 +336,8 @@
     "fête"
    ],
    "score": 85,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "86e9d0b037ae",
@@ -293,6 +355,11 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "appel à candidatures",
     "festival",
@@ -302,32 +369,8 @@
     "foodtruck"
    ],
    "score": 85,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "c9c1ed7314c4",
-   "title": "RECHERCHE EMPLACEMENT FOOD TRUCK – VAUCLUSE 🍔 ...",
-   "summary": "Bonjour à tous, Nous recherchons un emplacement sur Orange pour notre food truck le vendredi soir, avec : • suffisamment de place pour accueillir notre food ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/marine.jr/posts/4508659222756436/",
-   "organizer": null,
-   "city": "Orange",
-   "dept": "84",
-   "lat": 44.1298,
-   "lon": 4.81332,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "emplacement",
-    "food truck",
-    "recherche",
-    "recherchons"
-   ],
-   "score": 85,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "9bb5ae16e7ba",
@@ -345,6 +388,11 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "emplacement",
     "food truck",
@@ -352,7 +400,8 @@
     "recherchons"
    ],
    "score": 85,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "3c71b3a05011",
@@ -370,13 +419,19 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "appel à candidatures",
     "food trucks",
     "food-truck"
    ],
    "score": 80,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "4e2d2c6c396c",
@@ -394,6 +449,11 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "festival",
     "food truck",
@@ -401,7 +461,98 @@
     "recherche"
    ],
    "score": 80,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "129397f4b478",
+   "title": "Bonjour,",
+   "summary": "Bonjour à tous, Nous recherchons un emplacement sur Orange pour notre food truck le vendredi soir, avec : • suffisamment de place pour accueillir notre food ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/2668990413111113/posts/29088229810760480/",
+   "organizer": null,
+   "city": "Orange",
+   "dept": "84",
+   "lat": 44.1298,
+   "lon": 4.81332,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "emplacement",
+    "food truck",
+    "recherchons"
+   ],
+   "score": 80,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "fdd99c093901",
+   "title": "Bonjour tout le monde",
+   "summary": "Nous recherchons un emplacement situé dans un rayon de 15 km autour de Grasse. ... food truck Les Burgers de Cécile Secteur : Avignon, Le Pontet ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/97421annoncesetpubs/posts/3506708959487949/",
+   "organizer": null,
+   "city": "Avignon",
+   "dept": "84",
+   "lat": 43.93635,
+   "lon": 4.84886,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "emplacement",
+    "food truck",
+    "recherchons"
+   ],
+   "score": 80,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "55748a45b264",
+   "title": "Bonjour à toutes et à tous,",
+   "summary": "... food truck en urgence à cause d'un problème technique. 🛠️ Nous faisons ... Nous recherchons un emplacement situé dans un rayon de 15 km autour de Grasse.",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/1676294565915881/posts/4464836793728297/",
+   "organizer": null,
+   "city": "Grasse",
+   "dept": "06",
+   "lat": 43.65406,
+   "lon": 6.93776,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "emplacement",
+    "food truck",
+    "recherchons"
+   ],
+   "score": 80,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "b8dbee93955a",
@@ -425,79 +576,8 @@
     "recherchons"
    ],
    "score": 80,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "129397f4b478",
-   "title": "Bonjour,",
-   "summary": "Bonjour à tous, Nous recherchons un emplacement sur Orange pour notre food truck le vendredi soir, avec : • suffisamment de place pour accueillir notre food ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/2668990413111113/posts/29088229810760480/",
-   "organizer": null,
-   "city": "Orange",
-   "dept": "84",
-   "lat": 44.1298,
-   "lon": 4.81332,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "emplacement",
-    "food truck",
-    "recherchons"
-   ],
-   "score": 80,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "fdd99c093901",
-   "title": "Bonjour tout le monde",
-   "summary": "Nous recherchons un emplacement situé dans un rayon de 15 km autour de Grasse. ... food truck Les Burgers de Cécile Secteur : Avignon, Le Pontet ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/97421annoncesetpubs/posts/3506708959487949/",
-   "organizer": null,
-   "city": "Avignon",
-   "dept": "84",
-   "lat": 43.93635,
-   "lon": 4.84886,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "emplacement",
-    "food truck",
-    "recherchons"
-   ],
-   "score": 80,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "55748a45b264",
-   "title": "Bonjour à toutes et à tous,",
-   "summary": "... food truck en urgence à cause d'un problème technique. 🛠️ Nous faisons ... Nous recherchons un emplacement situé dans un rayon de 15 km autour de Grasse.",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/1676294565915881/posts/4464836793728297/",
-   "organizer": null,
-   "city": "Grasse",
-   "dept": "06",
-   "lat": 43.65406,
-   "lon": 6.93776,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "emplacement",
-    "food truck",
-    "recherchons"
-   ],
-   "score": 80,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "95966f54dd17",
@@ -515,12 +595,55 @@
    "deadline": "2026-10-31",
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "01 02 03 04 05",
+     "06 07 08 09 10"
+    ],
+    "forms": [
+     "https://mesinfos.fr/38000-grenoble/affaire-eric-piolle-elisa-martin-mais-ou-est-passe-le-dossier-confie-au-parquet-de-valence-338946.html",
+     "https://mesinfos.fr/69000-lyon/elections-senatoriales-dix-listes-dans-le-rhone-bruno-bernard-en-candidat-surprise-338921.html",
+     "https://mesinfos.fr/91000-evry/pepites-du-commerce-91-les-candidats-de-l-edition-2027-appeles-a-s-inscrire-338345.html"
+    ]
+   },
    "keywords": [
     "appel à candidatures",
     "food truck"
    ],
    "score": 75,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "5c6768367e45",
+   "title": "Soirée Food Trucks Ville de Vedène Mercredi 23/09 Midi",
+   "summary": "Swaggernaut Officiel ▻ Recherche Food truck événements. 10w · Public · RECHERCHE FOOD TRUCKS — AVIGNON — SAISON ÉTÉ Influence Évènementiel recherche des ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/188307668927/posts/10164752393138928/",
+   "organizer": null,
+   "city": "Avignon",
+   "dept": "84",
+   "lat": 43.93635,
+   "lon": 4.84886,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food truck",
+    "food trucks",
+    "recherche"
+   ],
+   "score": 75,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "983e38abb88d",
@@ -538,36 +661,18 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "food truck",
     "recherche"
    ],
    "score": 75,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "d94ff51e46c1",
-   "title": "Lire l'article : https://www.echodumardi.com/culture-loisirs ...",
-   "summary": "Swaggernaut Officiel ▻ Recherche Food truck événements. 11w · Public · RECHERCHE FOOD TRUCKS — AVIGNON — SAISON ÉTÉ Influence Évènementiel recherche des ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/lechodumardi/posts/lire-larticle-suite-au-succ%C3%A8s-des-vendredis-food-trucks-de-montfavet-en-juillet-/1728136978851692/",
-   "organizer": null,
-   "city": "Avignon",
-   "dept": "84",
-   "lat": 43.93635,
-   "lon": 4.84886,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "food truck",
-    "food trucks",
-    "recherche"
-   ],
-   "score": 75,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "7eca15d7a480",
@@ -585,13 +690,81 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "food truck",
     "food trucks",
     "recherchons"
    ],
    "score": 75,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "5132c25d2062",
+   "title": "🚚 RECHERCHE GARAGE POUR FOOD TRUCK",
+   "summary": "Bonsoir nous recherchons un garage qui peut accueillir notre Food truck 3m10 ... Food Truck à Saint Laurent du Var. Un parking, emplacement privée ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/29479053001/posts/10163631439083002/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "emplacement",
+    "food truck",
+    "recherche",
+    "recherchons"
+   ],
+   "score": 75,
+   "found_at": "2026-09-29T23:43:43+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "07ec057a2974",
+   "title": "🇮🇹 Pappa e Citti 🇮🇹 Food truck 📍 Tous les jeudis à ...",
+   "summary": "RECHERCHE EMPLACEMENT FOOD TRUCK – VAUCLUSE Bonjour à tous ! ... recherchons un food truck pour participer à cette belle journée festive à Caderousse.",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/la.vie.a.koenigsmacker/posts/4427485107500327/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "emplacement",
+    "food truck",
+    "recherche",
+    "recherchons"
+   ],
+   "score": 75,
+   "found_at": "2026-09-29T23:43:43+00:00",
+   "contact_checked": true
   },
   {
    "id": "16b646aed4d8",
@@ -609,13 +782,380 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "appel à candidatures",
     "exposants",
     "food truck"
    ],
    "score": 70,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "cd66321091e2",
+   "title": "Reel by Antoine Fradet (@unairdesarrasin) · September 13 ...",
+   "summary": "Photo by Food Truck Café & Pâtisserie - Charente Nouvelle-Aquitaine on August 31, ... APPEL À CANDIDATURES FOOD-TRUCKS 2027 On recherche les nouveaux ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.instagram.com/reel/DdOOXdZAS98/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "appel à candidatures",
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "52c60762993a",
+   "title": "🚚 RECHERCHE FOOD-TRUCK – SAINT-MAXIMIN ...",
+   "summary": "Appel à candidatures : installation d'un food-truck sur le domaine public communal Afin de dynamiser le centre-bourg, la commune de Saint-Chaffrey ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/464711687781403/posts/2128947611357794/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "appel à candidatures",
+    "food-truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "a93079904cfe",
+   "title": "Pause gourmande au festival ! Retrouvez le food truck ...",
+   "summary": "... likes, 0 comments - meeple_attack on September 25, 2026: \" Pause gourmande au festival ! Retrouvez le food truck ... APPEL À CANDIDATURES FOOD-TRUCKS 2027 On ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.instagram.com/p/DdtmG1bDS8Y/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "appel à candidatures",
+    "festival",
+    "food truck"
+   ],
+   "score": 70,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "77eebce001b2",
+   "title": "Fête locale de Fronton (31) édition 2026 📹 Shaker",
+   "summary": "Appel à candidatures : Fête du Lac de Cadarsac 2026 ! Vous êtes gérant d'un Food Truck aux saveurs irrésistibles ou un exposant/artisan passionné ? La ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/ffdso/posts/f%C3%AAte-locale-de-fronton-31-%C3%A9dition-2026-shaker/1502996288527481/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "appel à candidatures",
+    "food truck",
+    "fête"
+   ],
+   "score": 70,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "9ef377f11734",
+   "title": "Le comite des fêtes Aunay-sous-Auneau 28.",
+   "summary": "cherche un food truck de la région ( burger / pizzas / bruschettas ..) et un ... Bonjour à tous Appel à candidatures – 3ᵉ Marché de Noël Dans le ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/1236005089804447/posts/38456684380643050/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "appel à candidatures",
+    "cherche",
+    "food truck"
+   ],
+   "score": 70,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "5513b625bbf3",
+   "title": "Festival Alimenterre",
+   "summary": "Appel à candidatures | Festival du Lin et de la Fibre Artistique — Édition ... Marie-Danièle Thériault ▻ Food Truck Et Cuisine De Rue Au Québec. 12w ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/festivalALIMENTERRE/posts/-appel-%C3%A0-participation-hashtagfestivalalimenterre2026-%EF%B8%8F-envie-de-faire-bouger-le/1515894340565925/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "appel à candidatures",
+    "festival",
+    "food truck"
+   ],
+   "score": 70,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "cf3ed8026622",
+   "title": "FESTIVAL ESCALE CROISÉE Les 3 & 4 octobre 2026 à ...",
+   "summary": "APPEL À CANDIDATURES – FESTIVAL ESCALE CROISÉE Les 3 & 4 octobre 2026 à ... Food-truck, buvette, restauration salée ou sucrée, boissons… Vous ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.instagram.com/reel/Dc3ipkhNVE8/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-04",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "appel à candidatures",
+    "festival",
+    "food-truck"
+   ],
+   "score": 70,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "76e4bc6c6559",
+   "title": "Préparez-vous, le marché nocturne de Jassans-Riottier, c' ...",
+   "summary": "ARTISANS FOOD TRUCK STRUCTURE POUR ENFANT ET PLEIN D'AUTRES SURPRISES VOUS ATTENDENT ! ... ✨ Appel à candidatures – Marché nocturne des créateurs ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/1803650906531786/posts/4736670759896438/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "appel à candidatures",
+    "food truck",
+    "marché nocturne"
+   ],
+   "score": 70,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "081affcd3cdf",
+   "title": "Appel à projet 📢 ✍️ Création du visuel du Festival ...",
+   "summary": "APPEL À CANDIDATURES – FOOD-TRUCKS ET BUVETTE ... Food-truck, buvette, restauration salée ou sucrée, boissons…",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.instagram.com/p/DdTO4tnjSyM/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "appel à candidatures",
+    "festival",
+    "food-truck"
+   ],
+   "score": 70,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "c9c1ed7314c4",
+   "title": "RECHERCHE EMPLACEMENT FOOD TRUCK – VAUCLUSE 🍔 ...",
+   "summary": "Bonjour , je recherche un Food Truck pour le vendredi 19 Septembre pour une inauguration de la société dans laquelle je travaille . Si vous avez des noms et ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/marine.jr/posts/4508659222756436/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "emplacement",
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "cb54465ad285",
+   "title": "Hello la team !",
+   "summary": "Hello la team ! J’ai une recherche un peu particulière, je suis gérante d’un foodtruck et je recherche un emplacement privé deux fois par semaine ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/wantedcommunitybordeaux/posts/27959579610403938/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "emplacement",
+    "foodtruck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "bd956d5a0669",
+   "title": "Vy-les-Lure : Croki, la plateforme qui permet de trouver un ...",
+   "summary": "Vy-les-Lure : Croki, la plateforme qui permet de trouver un food truck en un clic ... // Recherche Foodtruck Hauts-de-France\\\\ Bonjour, nous recherchons un (ou ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/affichesde/posts/vy-les-lure-croki-la-plateforme-qui-permet-de-trouver-un-food-truck-en-un-clic/1655110776614933/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food truck",
+    "foodtruck",
+    "recherche",
+    "recherchons"
+   ],
+   "score": 70,
+   "found_at": "2026-09-29T23:43:43+00:00",
+   "contact_checked": true
   },
   {
    "id": "e20f4e0a4e85",
@@ -639,247 +1179,8 @@
     "food truck"
    ],
    "score": 70,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "cd66321091e2",
-   "title": "Reel by Antoine Fradet (@unairdesarrasin) · September 13 ...",
-   "summary": "Photo by Food Truck Café & Pâtisserie - Charente Nouvelle-Aquitaine on August 31, ... APPEL À CANDIDATURES FOOD-TRUCKS 2027 On recherche les nouveaux ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.instagram.com/reel/DdOOXdZAS98/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "appel à candidatures",
-    "food truck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "52c60762993a",
-   "title": "🚚 RECHERCHE FOOD-TRUCK – SAINT-MAXIMIN ...",
-   "summary": "Appel à candidatures : installation d'un food-truck sur le domaine public communal Afin de dynamiser le centre-bourg, la commune de Saint-Chaffrey ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/464711687781403/posts/2128947611357794/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "appel à candidatures",
-    "food-truck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "a93079904cfe",
-   "title": "Pause gourmande au festival ! Retrouvez le food truck ...",
-   "summary": "... likes, 0 comments - meeple_attack on September 25, 2026: \" Pause gourmande au festival ! Retrouvez le food truck ... APPEL À CANDIDATURES FOOD-TRUCKS 2027 On ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.instagram.com/p/DdtmG1bDS8Y/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "appel à candidatures",
-    "festival",
-    "food truck"
-   ],
-   "score": 70,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "77eebce001b2",
-   "title": "Fête locale de Fronton (31) édition 2026 📹 Shaker",
-   "summary": "Appel à candidatures : Fête du Lac de Cadarsac 2026 ! Vous êtes gérant d'un Food Truck aux saveurs irrésistibles ou un exposant/artisan passionné ? La ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/ffdso/posts/f%C3%AAte-locale-de-fronton-31-%C3%A9dition-2026-shaker/1502996288527481/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "appel à candidatures",
-    "food truck",
-    "fête"
-   ],
-   "score": 70,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "9ef377f11734",
-   "title": "Le comite des fêtes Aunay-sous-Auneau 28.",
-   "summary": "cherche un food truck de la région ( burger / pizzas / bruschettas ..) et un ... Bonjour à tous Appel à candidatures – 3ᵉ Marché de Noël Dans le ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/1236005089804447/posts/38456684380643050/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "appel à candidatures",
-    "cherche",
-    "food truck"
-   ],
-   "score": 70,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "5513b625bbf3",
-   "title": "Festival Alimenterre",
-   "summary": "Appel à candidatures | Festival du Lin et de la Fibre Artistique — Édition ... Marie-Danièle Thériault ▻ Food Truck Et Cuisine De Rue Au Québec. 12w ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/festivalALIMENTERRE/posts/-appel-%C3%A0-participation-hashtagfestivalalimenterre2026-%EF%B8%8F-envie-de-faire-bouger-le/1515894340565925/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "appel à candidatures",
-    "festival",
-    "food truck"
-   ],
-   "score": 70,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "cf3ed8026622",
-   "title": "FESTIVAL ESCALE CROISÉE Les 3 & 4 octobre 2026 à ...",
-   "summary": "APPEL À CANDIDATURES – FESTIVAL ESCALE CROISÉE Les 3 & 4 octobre 2026 à ... Food-truck, buvette, restauration salée ou sucrée, boissons… Vous ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.instagram.com/reel/Dc3ipkhNVE8/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-04",
-   "published": null,
-   "keywords": [
-    "appel à candidatures",
-    "festival",
-    "food-truck"
-   ],
-   "score": 70,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "76e4bc6c6559",
-   "title": "Préparez-vous, le marché nocturne de Jassans-Riottier, c' ...",
-   "summary": "ARTISANS FOOD TRUCK STRUCTURE POUR ENFANT ET PLEIN D'AUTRES SURPRISES VOUS ATTENDENT ! ... ✨ Appel à candidatures – Marché nocturne des créateurs ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/1803650906531786/posts/4736670759896438/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "appel à candidatures",
-    "food truck",
-    "marché nocturne"
-   ],
-   "score": 70,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "081affcd3cdf",
-   "title": "Appel à projet 📢 ✍️ Création du visuel du Festival ...",
-   "summary": "APPEL À CANDIDATURES – FOOD-TRUCKS ET BUVETTE ... Food-truck, buvette, restauration salée ou sucrée, boissons…",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.instagram.com/p/DdTO4tnjSyM/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "appel à candidatures",
-    "festival",
-    "food-truck"
-   ],
-   "score": 70,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "cb54465ad285",
-   "title": "Hello la team !",
-   "summary": "Hello la team ! J’ai une recherche un peu particulière, je suis gérante d’un foodtruck et je recherche un emplacement privé deux fois par semaine ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/wantedcommunitybordeaux/posts/27959579610403938/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "emplacement",
-    "foodtruck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "a1396cd728b0",
@@ -905,7 +1206,8 @@
     "recherchons"
    ],
    "score": 70,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "4491d54af301",
@@ -923,12 +1225,18 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "appel à candidatures",
     "food truck"
    ],
    "score": 65,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "bb068fdb47f5",
@@ -946,12 +1254,18 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "appel à candidatures",
     "food truck"
    ],
    "score": 65,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "2192cd47562b",
@@ -969,12 +1283,18 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "appel à candidatures",
     "food truck"
    ],
    "score": 65,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "42218999fe34",
@@ -992,12 +1312,18 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "appel à candidatures",
     "food truck"
    ],
    "score": 65,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "3641361e0f27",
@@ -1015,12 +1341,18 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "appel à candidatures",
     "food-truck"
    ],
    "score": 65,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "46979d3889a3",
@@ -1038,12 +1370,18 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "appel à candidatures",
     "food truck"
    ],
    "score": 65,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "6a6ad11d5926",
@@ -1061,12 +1399,18 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "appel à candidatures",
     "food truck"
    ],
    "score": 65,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "f30cc9bf22a9",
@@ -1084,12 +1428,18 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "appel à candidatures",
     "food-truck"
    ],
    "score": 65,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "6f45daeddebf",
@@ -1107,12 +1457,18 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "appel à candidatures",
     "food truck"
    ],
    "score": 65,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "5460f80ecd01",
@@ -1130,12 +1486,18 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "appel à candidatures",
     "food truck"
    ],
    "score": 65,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "53f6bcbeb585",
@@ -1153,12 +1515,18 @@
    "deadline": null,
    "event_date": "2026-10-03",
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "appel à candidatures",
     "food truck"
    ],
    "score": 65,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "ca876c67d769",
@@ -1176,12 +1544,21 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [
+     "legale@lepetitjournal.net",
+     "mp@lepetitjournal.net"
+    ],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "appel à candidatures",
     "food truck"
    ],
    "score": 65,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "f5b7759683eb",
@@ -1199,37 +1576,23 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [
+     "contact@cotesudevents.fr"
+    ],
+    "phones": [
+     "04 30 22 04 81"
+    ],
+    "forms": []
+   },
    "keywords": [
     "food truck",
     "recherche",
     "vente ambulante"
    ],
    "score": 65,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "5c6768367e45",
-   "title": "Soirée Food Trucks Ville de Vedène Mercredi 23/09 Midi",
-   "summary": "Swaggernaut Officiel ▻ Recherche Food truck événements. 10w · Public ... Vanessa Del ▻ Sorties entre vegans, végéta*iens dans les Bouches du Rhône. 1y ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/188307668927/posts/10164752393138928/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "food truck",
-    "food trucks",
-    "recherche"
-   ],
-   "score": 65,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "da689e1ec9c2",
@@ -1247,6 +1610,11 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "food truck",
     "food trucks",
@@ -1254,31 +1622,8 @@
     "recherche"
    ],
    "score": 65,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "a0c44827c5ed",
-   "title": "SOIRÉE FOOD TRUCK JEUDI 10 SEPTEMBRE 2026 ☀️",
-   "summary": "RECHERCHE FOOD TRUCK – SAISON 2026 Bonjour à tous Je suis à la recherche de food trucks spécialisés en plancha, BBQ ou brasero pour plusieurs dates ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/1676294565915881/posts/4467226213489355/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "food truck",
-    "food trucks",
-    "recherche"
-   ],
-   "score": 65,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "0de7b97850f7",
@@ -1296,13 +1641,49 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "food truck",
     "food trucks",
     "recherche"
    ],
    "score": 65,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "b65132a03df7",
+   "title": "Bonjour 🚚 Vous organisez un événement et vous",
+   "summary": "Je recherche des événements où installer mon food truck ou je propose aussi mon foodtruck à la location pour tous vos événements privés anniversaire ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/1596938953893204/posts/4528849120702158/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food truck",
+    "foodtruck",
+    "recherche"
+   ],
+   "score": 65,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "c5d7cbd3e5cb",
@@ -1320,13 +1701,19 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "food truck",
     "food trucks",
     "recherche"
    ],
    "score": 65,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "927dad5e37ea",
@@ -1344,12 +1731,28 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [
+     "emilie.lacombe@laregion.fr",
+     "realis@laregion.fr",
+     "realis@agence-adocc.com"
+    ],
+    "phones": [
+     "04 34 08 10 10"
+    ],
+    "forms": [
+     "https://www.laregion-realis.fr/IMG/pdf/0/a/9/fiche_identite_du_dossier_-appel_a_projet_10.pdf",
+     "https://www.laregion-realis.fr/46140",
+     "https://www.laregion-realis.fr/Appel-a-projets-2026-2027#Formulaire-de-contact"
+    ]
+   },
    "keywords": [
     "food truck",
     "recherche"
    ],
    "score": 65,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "9034b8c847e6",
@@ -1367,13 +1770,49 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "food truck",
     "food trucks",
     "recherche"
    ],
    "score": 65,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "e6a3eceb7df6",
+   "title": "Journée du cheval aujourd'hui",
+   "summary": "Bonjour,Je recherche un food truck souhaitant être présent le vendredi 5 ... soirée Food-Truck sur la place du marché ? (Il me semble mais je ne ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/408228489225451/posts/28460646583556932/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food truck",
+    "food-truck",
+    "recherche"
+   ],
+   "score": 65,
+   "found_at": "2026-09-29T23:43:43+00:00",
+   "contact_checked": true
   },
   {
    "id": "7bdc76956a1e",
@@ -1391,13 +1830,19 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "food truck",
     "recherchons",
     "restauration ambulante"
    ],
    "score": 65,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "d69729e0c463",
@@ -1415,6 +1860,11 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "exposants",
     "food truck",
@@ -1423,7 +1873,8 @@
     "vide-grenier"
    ],
    "score": 65,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "99a9949356be",
@@ -1441,13 +1892,49 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "food truck",
     "food trucks",
     "recherchons"
    ],
    "score": 65,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "e0a7c25b0520",
+   "title": "nous aimerions des burgers au poulet. Halal Ainsi qu'un brunch ...",
+   "summary": "Bonjour, CHERCHE FOOD TRUCK Nous aimerions un ou deux food-truck qui proposent des burgers, des pizzas, salades, galettes ou même de la cuisine asiatique ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/210581819495479/posts/2386475211906118/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "cherche",
+    "food truck",
+    "food-truck"
+   ],
+   "score": 65,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "e4938626dd04",
@@ -1465,13 +1952,19 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "food truck",
     "food trucks",
     "recherchons"
    ],
    "score": 65,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "a57e13c7d71c",
@@ -1489,12 +1982,18 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "food truck",
     "recherchons"
    ],
    "score": 65,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "cdac634859bc",
@@ -1512,12 +2011,18 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "food truck",
     "recherchons"
    ],
    "score": 65,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "40a9c14ca112",
@@ -1540,7 +2045,8 @@
     "recherchons"
    ],
    "score": 65,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "aa81f213c7b9",
@@ -1558,12 +2064,21 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://www.mariages.net/users-signup.php",
+     "https://www.mariages.net/emp-Acceso.php"
+    ]
+   },
    "keywords": [
     "food truck",
     "recherche"
    ],
    "score": 60,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "53c5182ac3c1",
@@ -1581,12 +2096,18 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "food truck",
     "recherche"
    ],
    "score": 60,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "a8259e6d976b",
@@ -1604,6 +2125,13 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 50 54 84"
+    ],
+    "forms": []
+   },
    "keywords": [
     "exposants",
     "food truck",
@@ -1611,7 +2139,66 @@
     "recherche"
    ],
    "score": 60,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "7107034fdf4b",
+   "title": "Foire de marseille du 25 septembre au 5 Octobre venez à la ...",
+   "summary": "... FOOD TRUCK ! À l'occasion du Forum des Associations, un marché sera organisé le samedi 5 septembre sur la Place de la Mairie, de 9h à 13h. Nous recherchons ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/claudea1r/posts/foire-de-marseille-du-25-septembre-au-5-octobre-venez-%C3%A0-la-rencontre-dexperts-de/38592869743693177/",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-05",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food truck",
+    "recherchons"
+   ],
+   "score": 60,
+   "found_at": "2026-09-29T23:43:43+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "d8a1eda313e1",
+   "title": "Notre salon de la rénovation et de l'Habitat made in Hautes ...",
+   "summary": "Quattro Gap 19 et 20 Septembre Ouverture des portes à 09h00 ☕Café/Viennoiseries offertes 3 Food Truck ‍ 20 Exposants du Res'Haut Nombreux ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/61575864630821/posts/notre-salon-de-la-r%C3%A9novation-et-de-lhabitat-made-in-hautes-alpes-cest-ce-week-en/122193368606862154/",
+   "organizer": null,
+   "city": "Gap",
+   "dept": "05",
+   "lat": 44.56323,
+   "lon": 6.07678,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "exposants",
+    "food truck"
+   ],
+   "score": 60,
+   "found_at": "2026-09-29T23:43:43+00:00",
+   "contact_checked": true
   },
   {
    "id": "b58f22f97358",
@@ -1634,7 +2221,8 @@
     "recherchons"
    ],
    "score": 60,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "5767fcf2b826",
@@ -1652,13 +2240,22 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://www.infolocale.fr/decouvrir/?utm_campaign=front&utm_source=home&utm_medium=bouton&utm_content=inscription",
+     "https://s.infolocale.fr/login/connexion.aspx?mode=light&backColor=transparent&overlay=hidden&hiddenBlock=inscription&utm_campaign=front&utm_source=home&utm_medium=bouton&utm_content=connexion"
+    ]
+   },
    "keywords": [
     "festival",
     "food truck",
     "recherche"
    ],
    "score": 55,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "075924f714a8",
@@ -1676,13 +2273,22 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "07 85 56 05 78",
+     "07 82 47 30 03"
+    ],
+    "forms": []
+   },
    "keywords": [
     "food truck",
     "fête",
     "recherche"
    ],
    "score": 55,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "7bf83bcdfd4a",
@@ -1700,13 +2306,19 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "food truck",
     "recherche",
     "recherchons"
    ],
    "score": 55,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "2d9d455c4fa1",
@@ -1724,13 +2336,19 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "food truck",
     "recherche",
     "recherchons"
    ],
    "score": 55,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "e4906e3229d4",
@@ -1748,12 +2366,18 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "food truck",
     "recherche"
    ],
    "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "4f85db425679",
@@ -1771,12 +2395,18 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "food truck",
     "recherche"
    ],
    "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "67c83742b25e",
@@ -1794,12 +2424,23 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [
+     "contact.donyandco@gmail.com"
+    ],
+    "phones": [
+     "07 67 88 67 99",
+     "07 50 00 62 72"
+    ],
+    "forms": []
+   },
    "keywords": [
     "food truck",
     "recherche"
    ],
    "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "066b7ee91479",
@@ -1817,35 +2458,18 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "food truck",
     "recherche"
    ],
    "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "f2098643069c",
-   "title": "Ouvrir son food truck dans sa trentaine, c'est quitter un ...",
-   "summary": "... recherche d'événements et de nouveaux clients… C'est connaître les journées ... Ouvrir son food truck dans sa trentaine, c'est quitter un...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/anais.cm.568/videos/ouvrir-son-food-truck-dans-sa-trentaine-cest-quitter-un-emploi-stable-et-une-s%C3%A9c/2141601886764731/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "09709c36e37a",
@@ -1863,12 +2487,47 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "food truck",
     "recherche"
    ],
    "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "f2098643069c",
+   "title": "Ouvrir son food truck dans sa trentaine, c'est quitter un ...",
+   "summary": "... recherche d'événements et de nouveaux clients… C'est connaître les journées ... Ouvrir son food truck dans sa trentaine, c'est quitter un...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/anais.cm.568/videos/ouvrir-son-food-truck-dans-sa-trentaine-cest-quitter-un-emploi-stable-et-une-s%C3%A9c/2141601886764731/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "b6da6eedbdbd",
@@ -1886,12 +2545,18 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "food-truck",
     "recherche"
    ],
    "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "fd9b4aecd785",
@@ -1909,12 +2574,18 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "food truck",
     "recherche"
    ],
    "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "d94ea555432b",
@@ -1932,20 +2603,28 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://www.1001salles.com/inscription-professionnel"
+    ]
+   },
    "keywords": [
     "food-truck",
     "recherche"
    ],
    "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
-   "id": "32d71ead7a56",
-   "title": "♨️A VOS AGENDAS c'est la rentrée ...",
-   "summary": "À travers notre association Les Toques Solidaires, nous nous engageons aux côtés de la recherche ... food-truck de crêpes et galettes. Aussi, ATTENTION ...",
+   "id": "cb8db1aa5810",
+   "title": "Camion pizza d'occasion - Équipements pour commerces ...",
+   "summary": "FOOD TRUCK PIZZA 2022 – 17 000 km – Four Grand-Mère – Clé en main. 51 990 ... Sauvegarder la recherche. 1; 2 · 3 · 4 · Accueil · Matériel professionnel ...",
    "type": "Événement",
    "source": "Recherche web",
-   "url": "https://www.instagram.com/reel/DdIqdLxo8e0/",
+   "url": "https://www.leboncoin.fr/ck/equipements_pour_commerces_marches/camion-pizza",
    "organizer": null,
    "city": null,
    "dept": null,
@@ -1955,12 +2634,18 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
-    "food-truck",
+    "food truck",
     "recherche"
    ],
    "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "388af5385ecf",
@@ -1978,12 +2663,47 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "food truck",
     "recherche"
    ],
    "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "32d71ead7a56",
+   "title": "♨️A VOS AGENDAS c'est la rentrée ...",
+   "summary": "À travers notre association Les Toques Solidaires, nous nous engageons aux côtés de la recherche ... food-truck de crêpes et galettes. Aussi, ATTENTION ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.instagram.com/reel/DdIqdLxo8e0/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food-truck",
+    "recherche"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "231a2a6aec25",
@@ -2001,12 +2721,877 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "food truck",
     "recherche"
    ],
    "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "6c70a3d02702",
+   "title": "Location de salle dans les Alpes-Maritimes (06) : 149 lieux ...",
+   "summary": "Food-truck. Grazing table. Cuisine 0. Type de cuisine. Type de cuisine. Régime ... Aucun résultat pour cette recherche. Type d'événement. Mariage; Anniversaire",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.1001salles.com/location-de-salle-2-alpes-maritimes-d.html",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://www.1001salles.com/inscription-professionnel"
+    ]
+   },
+   "keywords": [
+    "food-truck",
+    "recherche"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:43:43+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "0db415baf18a",
+   "title": "Angelino Pizza, Food truck à Villeneuve",
+   "summary": "Angelino Pizza, Food truck à Villeneuve. Camion pizza Sur La Brillanne, Dabisse et ... Recherche; Menu; Pied de page. Alpes-de-Haute-Provence – Agence de ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.tourisme-alpes-haute-provence.com/ou-manger/4934260_food-truck-villeneuve-angelino-pizza/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "b8d4c3a70236",
+   "title": "🍔 Ce dimanche 27 septembre, le food truck sera fermé. ...",
+   "summary": "Alpakagirl_68220 ▻ Recherche Food truck événements. 3w · Public · UPDATE / RECHERCHE SUSPENDUE Un immense MERCI à tous ! La recherche est officiellement ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/PaintballVeckring/posts/-ce-dimanche-27-septembre-le-food-truck-sera-ferm%C3%A9pensez-%C3%A0-pr%C3%A9voir-votre-barbecu/1499765332179962/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "63b764772ac4",
+   "title": "Annonces food truck vasp d'occasion - Équipements pour ...",
+   "summary": "Résultats de recherche : 174 annonces ; Camion Magasin réalisation récente Mars 2024. 58 500 €. Prix: 58 500 €.. Baisse de prix ; Food Truck Traiteur italien. 54 ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.leboncoin.fr/ck/equipements_pour_commerces_marches/food-truck-vasp/p-3",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "6f438bf37fe3",
+   "title": "Salle de réception dans les Alpes-de-Haute-Provence (04)",
+   "summary": "Food-truck. Grazing table. Cuisine 0. Type de cuisine. Type de cuisine. Régime ... Aucun résultat pour cette recherche. Type d'événement. Mariage; Anniversaire",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.1001salles.com/salle-de-reception-2-alpes-de-haute-provence-d.html",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://www.1001salles.com/inscription-professionnel"
+    ]
+   },
+   "keywords": [
+    "food-truck",
+    "recherche"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "5d95ab6ce69a",
+   "title": "Grand rendez-vous des 14 et 15 août - ARAULES - Haute-Loire",
+   "summary": "... recherche. Catégorie. Categories, Fêtes, Fêtes locales, Fêtes foraines, Carnavals ... Food Truck commerces ambulants, Carte, Divers, Soirée, Projection, Loisirs ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://flanerbouger.fr/events/fetes-locales/43200-grand-rendez-vous-des-14-et-15-aout-araules-942066",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [
+     "contact@flanerbouger.fr"
+    ],
+    "phones": [],
+    "forms": [
+     "https://flanerbouger.fr/events/inscription.php",
+     "https://www.flanerbouger.fr/events/creer-votre-evenement.php"
+    ]
+   },
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "3c1bd4d925d4",
+   "title": "Gusto Pizza, Food truck à La Brillanne",
+   "summary": "Gusto Pizza, Food truck à La Brillanne. Près du Centre Commercial Carrefour Market ... Recherche; Menu; Pied de page. Alpes-de-Haute-Provence – Agence de ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.tourisme-alpes-haute-provence.com/ou-manger/4751196_food-truck-la-brillanne-gusto-pizza/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "80e20e607827",
+   "title": "Recherche par mot clé : La cuisine réunionnaise s'exporte",
+   "summary": "Jean-Martial Moidiva a investi la somme reçue lors d'un licenciement économique dans un food-truck. Ouvert il y a près d'un an, K Riz Péi est présent sur ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.reunionnaisdumonde.com/dina-morgabine/emploi/offres-d-emploi/mot/la-cuisine-reunionnaise-s-exporte/?tri=date",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food-truck",
+    "recherche"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "2435cfc169ee",
+   "title": "Demandez un devis Location food truck en Haute-Savoie",
+   "summary": "Faites appel à L'H et Vous, le Camion Gourmand à Annecy pour vous concocter des menus de fête. En vous faisant profiter de la location de son food truck, le ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.evenementielpourtous.com/traiteur/location-de-food-truck/auvergne-rhone-alpes/haute-savoie",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [
+     "info@evenementielpourtous.com"
+    ],
+    "phones": [],
+    "forms": [
+     "https://www.evenementielpourtous.com/prestataire/inscription"
+    ]
+   },
+   "keywords": [
+    "food truck",
+    "fête"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "efd7dfdbb936",
+   "title": "Salle de réception dans les Hautes-Alpes (05)",
+   "summary": "Food-truck. Grazing table. Cuisine 0. Type de cuisine. Type de cuisine. Régime ... Aucun résultat pour cette recherche. Type d'événement. Mariage; Anniversaire",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.1001salles.com/salle-de-reception-2-hautes-alpes-d.html",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://www.1001salles.com/inscription-professionnel"
+    ]
+   },
+   "keywords": [
+    "food-truck",
+    "recherche"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "7dabf59e8612",
+   "title": "Retour sur notre évènement de ce week-end. Merci au @ ...",
+   "summary": "Armelle Buhot ▻ FOOD TRUCK FRANCE, ANNONCE ET ÉVÉNEMENT. 14w · Public · Bonjour, Je suis à la recherche d'un food truck pour le 2/7 midi sur dinan pour un ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/1100440910515889/posts/2187101878516448/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "301020833b2a",
+   "title": "Mister Simon - Vérifiez la disponibilité et les prix",
+   "summary": "Mister Simon est un food truck événementiel basé en Haute-Savoie, pensé pour ... Continuer la recherche. Chez Mère Grand. Saint-Gervais ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.mariages.net/food-truck/mister-simon--e435459",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://www.mariages.net/users-signup.php",
+     "https://www.mariages.net/emp-Acceso.php"
+    ]
+   },
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "2ec607d49f83",
+   "title": "Les stands de restauration vous attendent au village ...",
+   "summary": "Pour la prochaine Doubstacles, on recherche des food-trucks pour régaler nos participants ! ... Soirée food truck pendant le tournoi de l'AS Quinçay Tennis !",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.instagram.com/reel/DddsdhsocvU/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:43:43+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "9a419fc3e0ef",
+   "title": "Tracteur pulling, concours de vaches laitières, marché fermier ...",
+   "summary": "... FOOD TRUCK ! À l'occasion du Forum des Associations, un marché sera organisé le samedi 5 septembre sur la Place de la Mairie, de 9h à 13h. Nous recherchons ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/leprogres.beaujolaisouestrhodanien/posts/tracteur-pulling-concours-de-vaches-laiti%C3%A8res-march%C3%A9-fermier-les-5-et-6-septembr/1720852899484596/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food truck",
+    "recherchons"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:43:43+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "6928e8436e36",
+   "title": "Vend food truck tout équipé,",
+   "summary": "Bonjour, nous recherchons un food truck d'occasion bon etat pour Bruxelles ... • Autoterm 4d avec bouche coffre (orienté pour chauffer le lit) et bouches ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/1533855860764465/posts/2361955971287779/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food truck",
+    "recherchons"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:43:43+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "61e566f9fad1",
+   "title": "Bonjour à tous,",
+   "summary": "Nous recherchons pour notre marche de Noël du 22 novembre 2026 à pommevic 82 - un food truck aligot, truffade , tartiflette . Un vendeur d'huîtres pour ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/1299240421557768/posts/1669276227887517/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-22",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food truck",
+    "recherchons"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "a0c44827c5ed",
+   "title": "SOIRÉE FOOD TRUCK JEUDI 10 SEPTEMBRE 2026 ☀️",
+   "summary": "Nous recherchons idéalement un food truck de burgers ou de pâtes. Si vous avez de bonnes recommandations ou si vous connaissez des professionnels sérieux ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/1676294565915881/posts/4467226213489355/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food truck",
+    "recherchons"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "915ed7519278",
+   "title": "C'est la rentrée et le moment de choisir son ...",
+   "summary": "Nous recherchons idéalement un food truck de burgers ou de pâtes. Si vous avez de bonnes recommandations ou si vous connaissez des professionnels sérieux dans ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/1210568416138207/posts/2399421100586260/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food truck",
+    "recherchons"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "c3ba73bc0937",
+   "title": "Bonjour à tous Food truck spécialisé dans les grillades",
+   "summary": "... recherchons un food truck pizzas ou un traiteur pizzas qui puisse proposer une prestation halal. Si vous connaissez quelqu'un de sérieux ou si vous êtes ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/455705689117968/posts/1851663122855544/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food truck",
+    "recherchons"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "d94ff51e46c1",
+   "title": "Lire l'article : https://www.echodumardi.com/culture-loisirs ...",
+   "summary": "... Food truck de Roquemaure Je suis également disponible pour vos événements ... recherchons donc des food-trucks, producteurs, artisans et créateurs ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/lechodumardi/posts/lire-larticle-suite-au-succ%C3%A8s-des-vendredis-food-trucks-de-montfavet-en-juillet-/1728136978851692/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food truck",
+    "recherchons"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "e1539a84d63b",
+   "title": "Bonjour,",
+   "summary": "Bonjour, Suis à un désistement, nous recherchons un food truck de spécialité italiennes (hors pizzas). Pour ce week-end, les 25,26 et 27 septembre prochains à ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/1052429426732653/posts/1446176650691260/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food truck",
+    "recherchons"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:43:43+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "970bd4125967",
+   "title": "Bonjour",
+   "summary": "CharmingBlueberry8318 ▻ mariage Vaucluse 84 petit budget. 7w · Public · Bonjour Nous recherchons un food truck pizza pour un lendemain de mariage La date ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/160642250418170/posts/965311333284587/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food truck",
+    "recherchons"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "e00b71550128",
+   "title": "Nous proposons food truck des années 60 avec une carte ...",
+   "summary": "Carole Delbey ▻ Marché de Noël 2026 et Événements Artisanaux. 1d · Public · Bonjour Nous recherchons un food truck proposant uniquement du salé pour le marché ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/1299240421557768/posts/1674352684046538/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food truck",
+    "recherchons"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "447987778cc3",
+   "title": "L'opération \"TRUCK DE L'EMPLOI\" fera une halte le jeudi ...",
+   "summary": "Nous recherchons un groupe pour animer la partie repas (food truck) se déroulant de 19h à 23h avec un style festif qui parle à toutes les générations. Petit ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/Actu88/posts/lop%C3%A9ration-truck-de-lemploi-fera-une-halte-le-jeudi-24-septembrerdv-de-9h-%C3%A0-12h-/1945772469669557/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food truck",
+    "recherchons"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "ab2d114aa4b5",
+   "title": "du 25 au 27 septembre, bbs food truck se mobilise",
+   "summary": "... recherchons donc uniquement un food truck pour la restauration (salé, sucré… toutes propositions bienvenues !). Ambiance chaleureuse, musique live et public ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/858719658955090/posts/1678735040286877/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food truck",
+    "recherchons"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "3bd9f915ff08",
+   "title": "A partir du mercredi 16 septembre le Titi Truck sera, le soir ...",
+   "summary": "... recherchons des trucks (sauf friterie) Animation musicale à chaque date. Si ... food-truck idéal pour le 12 septembre ! Je tenais à remercier du ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/304382876343560/posts/28948260824862383/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food-truck",
+    "recherchons"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "03853d79cbbc",
+   "title": "🚨NOUVEAUX HORAIRES 🚨 À partir du 1er septembre 📅 🍔 ...",
+   "summary": "NOUVEAUX HORAIRES À partir du 1er septembre Votre food truck sera fermé tous les JEUDIS. On vous retrouve les autres ... recherchons un food truck ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/242705587162765/posts/1818621869571121/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food truck",
+    "recherchons"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "c0f8d0361233",
+   "title": "🍺🚐 𝕌ℕ𝔼 𝔾ℝ𝔸ℕ𝔻𝔼 ℙℝ𝔼𝕄𝕀𝔼̀ℝ𝔼 𝔸𝕌 𝕊𝔸𝕃𝕆ℕ 𝔻𝕌 ...",
+   "summary": "... FOOD-TRUCK DE BIÈRE LOCALE au Salon du Véhicule d'Aventure… Eh bien, ENFIN 3 ... recherchons plusieurs food-trucks et concepts gourmands pour rejoindre l' ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/100057459729506/posts/-%F0%9D%95%8C%E2%84%95%F0%9D%94%BC-%F0%9D%94%BE%E2%84%9D%F0%9D%94%B8%E2%84%95%F0%9D%94%BB%F0%9D%94%BC-%E2%84%99%E2%84%9D%F0%9D%94%BC%F0%9D%95%84%F0%9D%95%80%F0%9D%94%BC%CC%80%E2%84%9D%F0%9D%94%BC-%F0%9D%94%B8%F0%9D%95%8C-%F0%9D%95%8A%F0%9D%94%B8%F0%9D%95%83%F0%9D%95%86%E2%84%95-%F0%9D%94%BB%F0%9D%95%8C-%F0%9D%95%8D%F0%9D%94%BC%CC%81%E2%84%8D%F0%9D%95%80%E2%84%82%F0%9D%95%8C%F0%9D%95%83%F0%9D%94%BC-%F0%9D%94%BB%F0%9D%94%B8%F0%9D%95%8D%F0%9D%94%BC%E2%84%95%F0%9D%95%8B%F0%9D%95%8C%E2%84%9D%F0%9D%94%BC-%F0%9D%94%BB%F0%9D%94%BC-%E2%84%99%E2%84%9D%F0%9D%95%86%F0%9D%95%8D%F0%9D%94%BC%E2%84%95%E2%84%82%F0%9D%94%BC-en-15-ans-et-3/1587143129877663/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food-truck",
+    "recherchons"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "8e7e9f4a0942",
+   "title": "Samedi 5 septembre, de 10 à 17 heures, L'Esquisse a ...",
+   "summary": "... FOOD TRUCK ! À l'occasion du Forum des Associations, un marché sera organisé le samedi 5 septembre sur la Place de la Mairie, de 9h à 13h. Nous recherchons ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/ledauphinechambery/posts/samedi-5-septembre-de-10-%C3%A0-17-heures-lesquisse-a-accueilli-le-forum-des-associat/1512198760939103/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food truck",
+    "recherchons"
+   ],
+   "score": 50,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "e04425fdac80",
@@ -2029,283 +3614,8 @@
     "recherche"
    ],
    "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "0db415baf18a",
-   "title": "Angelino Pizza, Food truck à Villeneuve",
-   "summary": "Angelino Pizza, Food truck à Villeneuve. Camion pizza Sur La Brillanne, Dabisse et ... Recherche; Menu; Pied de page. Alpes-de-Haute-Provence – Agence de ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.tourisme-alpes-haute-provence.com/ou-manger/4934260_food-truck-villeneuve-angelino-pizza/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "63b764772ac4",
-   "title": "Annonces food truck vasp d'occasion - Équipements pour ...",
-   "summary": "Résultats de recherche : 174 annonces ; Camion Magasin réalisation récente Mars 2024. 58 500 €. Prix: 58 500 €.. Baisse de prix ; Food Truck Traiteur italien. 54 ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.leboncoin.fr/ck/equipements_pour_commerces_marches/food-truck-vasp/p-3",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "6f438bf37fe3",
-   "title": "Salle de réception dans les Alpes-de-Haute-Provence (04)",
-   "summary": "Food-truck. Grazing table. Cuisine 0. Type de cuisine. Type de cuisine. Régime ... Aucun résultat pour cette recherche. Type d'événement. Mariage; Anniversaire",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.1001salles.com/salle-de-reception-2-alpes-de-haute-provence-d.html",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "food-truck",
-    "recherche"
-   ],
-   "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "5d95ab6ce69a",
-   "title": "Grand rendez-vous des 14 et 15 août - ARAULES - Haute-Loire",
-   "summary": "... recherche. Catégorie. Categories, Fêtes, Fêtes locales, Fêtes foraines, Carnavals ... Food Truck commerces ambulants, Carte, Divers, Soirée, Projection, Loisirs ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://flanerbouger.fr/events/fetes-locales/43200-grand-rendez-vous-des-14-et-15-aout-araules-942066",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "3c1bd4d925d4",
-   "title": "Gusto Pizza, Food truck à La Brillanne",
-   "summary": "Gusto Pizza, Food truck à La Brillanne. Près du Centre Commercial Carrefour Market ... Recherche; Menu; Pied de page. Alpes-de-Haute-Provence – Agence de ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.tourisme-alpes-haute-provence.com/ou-manger/4751196_food-truck-la-brillanne-gusto-pizza/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "80e20e607827",
-   "title": "Recherche par mot clé : La cuisine réunionnaise s'exporte",
-   "summary": "Jean-Martial Moidiva a investi la somme reçue lors d'un licenciement économique dans un food-truck. Ouvert il y a près d'un an, K Riz Péi est présent sur ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.reunionnaisdumonde.com/dina-morgabine/emploi/offres-d-emploi/mot/la-cuisine-reunionnaise-s-exporte/?tri=date",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "food-truck",
-    "recherche"
-   ],
-   "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "2435cfc169ee",
-   "title": "Demandez un devis Location food truck en Haute-Savoie",
-   "summary": "Faites appel à L'H et Vous, le Camion Gourmand à Annecy pour vous concocter des menus de fête. En vous faisant profiter de la location de son food truck, le ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.evenementielpourtous.com/traiteur/location-de-food-truck/auvergne-rhone-alpes/haute-savoie",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "food truck",
-    "fête"
-   ],
-   "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "efd7dfdbb936",
-   "title": "Salle de réception dans les Hautes-Alpes (05)",
-   "summary": "Food-truck. Grazing table. Cuisine 0. Type de cuisine. Type de cuisine. Régime ... Aucun résultat pour cette recherche. Type d'événement. Mariage; Anniversaire",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.1001salles.com/salle-de-reception-2-hautes-alpes-d.html",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "food-truck",
-    "recherche"
-   ],
-   "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "7dabf59e8612",
-   "title": "Retour sur notre évènement de ce week-end. Merci au @ ...",
-   "summary": "Armelle Buhot ▻ FOOD TRUCK FRANCE, ANNONCE ET ÉVÉNEMENT. 14w · Public · Bonjour, Je suis à la recherche d'un food truck pour le 2/7 midi sur dinan pour un ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/1100440910515889/posts/2187101878516448/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "b8d4c3a70236",
-   "title": "🍔 Ce dimanche 27 septembre, le food truck sera fermé. ...",
-   "summary": "Alpakagirl_68220 ▻ Recherche Food truck événements. 3w · Public · UPDATE / RECHERCHE SUSPENDUE Un immense MERCI à tous ! La recherche est officiellement ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/PaintballVeckring/posts/-ce-dimanche-27-septembre-le-food-truck-sera-ferm%C3%A9pensez-%C3%A0-pr%C3%A9voir-votre-barbecu/1499765332179962/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "301020833b2a",
-   "title": "Mister Simon - Vérifiez la disponibilité et les prix",
-   "summary": "Mister Simon est un food truck événementiel basé en Haute-Savoie, pensé pour ... Continuer la recherche. Chez Mère Grand. Saint-Gervais ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.mariages.net/food-truck/mister-simon--e435459",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "cb8db1aa5810",
-   "title": "Camion pizza d'occasion - Équipements pour commerces ...",
-   "summary": "FOOD TRUCK PIZZA 2022 – 17 000 km – Four Grand-Mère – Clé en main. 51 990 ... Sauvegarder la recherche. 1; 2 · 3 · 4 · Accueil · Matériel professionnel ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.leboncoin.fr/ck/equipements_pour_commerces_marches/camion-pizza",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "a9bc659792e2",
@@ -2328,7 +3638,8 @@
     "recherchons"
    ],
    "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "d8e9ddf7ff08",
@@ -2351,99 +3662,8 @@
     "recherchons"
    ],
    "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "61e566f9fad1",
-   "title": "Bonjour à tous,",
-   "summary": "Nous recherchons pour notre marche de Noël du 22 novembre 2026 à pommevic 82 - un food truck aligot, truffade , tartiflette . Un vendeur d'huîtres pour ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/1299240421557768/posts/1669276227887517/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-22",
-   "published": null,
-   "keywords": [
-    "food truck",
-    "recherchons"
-   ],
-   "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "b65132a03df7",
-   "title": "Bonjour 🚚 Vous organisez un événement et vous",
-   "summary": "... food truck spécialisé dans les sandwichs au pain bagnat généreusement garnis ... recherchons des prestataires déclarés, assurés et en ordre, avec une ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/1596938953893204/posts/4528849120702158/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "food truck",
-    "recherchons"
-   ],
-   "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "915ed7519278",
-   "title": "C'est la rentrée et le moment de choisir son ...",
-   "summary": "Nous recherchons idéalement un food truck de burgers ou de pâtes. Si vous avez de bonnes recommandations ou si vous connaissez des professionnels sérieux dans ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/1210568416138207/posts/2399421100586260/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "food truck",
-    "recherchons"
-   ],
-   "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "c3ba73bc0937",
-   "title": "Bonjour à tous Food truck spécialisé dans les grillades",
-   "summary": "... recherchons un food truck pizzas ou un traiteur pizzas qui puisse proposer une prestation halal. Si vous connaissez quelqu'un de sérieux ou si vous êtes ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/455705689117968/posts/1851663122855544/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "food truck",
-    "recherchons"
-   ],
-   "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "911ca7046e6d",
@@ -2466,145 +3686,8 @@
     "recherchons"
    ],
    "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "970bd4125967",
-   "title": "Bonjour",
-   "summary": "CharmingBlueberry8318 ▻ mariage Vaucluse 84 petit budget. 7w · Public · Bonjour Nous recherchons un food truck pizza pour un lendemain de mariage La date ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/160642250418170/posts/965311333284587/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "food truck",
-    "recherchons"
-   ],
-   "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "e0a7c25b0520",
-   "title": "nous aimerions des burgers au poulet. Halal Ainsi qu'un brunch ...",
-   "summary": "21 et 22 juin 2027 Nous recherchons des traiteurs ainsi que food truck pour un renouvellement de mariage. Nous serions en petit comité ( une quinzaine de ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/210581819495479/posts/2386475211906118/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2027-06-22",
-   "published": null,
-   "keywords": [
-    "food truck",
-    "recherchons"
-   ],
-   "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "e00b71550128",
-   "title": "Nous proposons food truck des années 60 avec une carte ...",
-   "summary": "Carole Delbey ▻ Marché de Noël 2026 et Événements Artisanaux. 1d · Public · Bonjour Nous recherchons un food truck proposant uniquement du salé pour le marché ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/1299240421557768/posts/1674352684046538/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "food truck",
-    "recherchons"
-   ],
-   "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "447987778cc3",
-   "title": "L'opération \"TRUCK DE L'EMPLOI\" fera une halte le jeudi ...",
-   "summary": "Nous recherchons un groupe pour animer la partie repas (food truck) se déroulant de 19h à 23h avec un style festif qui parle à toutes les générations. Petit ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/Actu88/posts/lop%C3%A9ration-truck-de-lemploi-fera-une-halte-le-jeudi-24-septembrerdv-de-9h-%C3%A0-12h-/1945772469669557/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "food truck",
-    "recherchons"
-   ],
-   "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "ab2d114aa4b5",
-   "title": "du 25 au 27 septembre, bbs food truck se mobilise",
-   "summary": "... recherchons donc uniquement un food truck pour la restauration (salé, sucré… toutes propositions bienvenues !). Ambiance chaleureuse, musique live et public ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/858719658955090/posts/1678735040286877/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "food truck",
-    "recherchons"
-   ],
-   "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "3bd9f915ff08",
-   "title": "A partir du mercredi 16 septembre le Titi Truck sera, le soir ...",
-   "summary": "... recherchons des trucks (sauf friterie) Animation musicale à chaque date. Si ... food-truck idéal pour le 12 septembre ! Je tenais à remercier du ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/304382876343560/posts/28948260824862383/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "food-truck",
-    "recherchons"
-   ],
-   "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "11f2f80f4a2d",
@@ -2627,53 +3710,8 @@
     "recherchons"
    ],
    "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "03853d79cbbc",
-   "title": "🚨NOUVEAUX HORAIRES 🚨 À partir du 1er septembre 📅 🍔 ...",
-   "summary": "NOUVEAUX HORAIRES À partir du 1er septembre Votre food truck sera fermé tous les JEUDIS. On vous retrouve les autres ... recherchons un food truck ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/242705587162765/posts/1818621869571121/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "food truck",
-    "recherchons"
-   ],
-   "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "c0f8d0361233",
-   "title": "🍺🚐 𝕌ℕ𝔼 𝔾ℝ𝔸ℕ𝔻𝔼 ℙℝ𝔼𝕄𝕀𝔼̀ℝ𝔼 𝔸𝕌 𝕊𝔸𝕃𝕆ℕ 𝔻𝕌 ...",
-   "summary": "... FOOD-TRUCK DE BIÈRE LOCALE au Salon du Véhicule d'Aventure… Eh bien, ENFIN 3 ... recherchons plusieurs food-trucks et concepts gourmands pour rejoindre l' ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/100057459729506/posts/-%F0%9D%95%8C%E2%84%95%F0%9D%94%BC-%F0%9D%94%BE%E2%84%9D%F0%9D%94%B8%E2%84%95%F0%9D%94%BB%F0%9D%94%BC-%E2%84%99%E2%84%9D%F0%9D%94%BC%F0%9D%95%84%F0%9D%95%80%F0%9D%94%BC%CC%80%E2%84%9D%F0%9D%94%BC-%F0%9D%94%B8%F0%9D%95%8C-%F0%9D%95%8A%F0%9D%94%B8%F0%9D%95%83%F0%9D%95%86%E2%84%95-%F0%9D%94%BB%F0%9D%95%8C-%F0%9D%95%8D%F0%9D%94%BC%CC%81%E2%84%8D%F0%9D%95%80%E2%84%82%F0%9D%95%8C%F0%9D%95%83%F0%9D%94%BC-%F0%9D%94%BB%F0%9D%94%B8%F0%9D%95%8D%F0%9D%94%BC%E2%84%95%F0%9D%95%8B%F0%9D%95%8C%E2%84%9D%F0%9D%94%BC-%F0%9D%94%BB%F0%9D%94%BC-%E2%84%99%E2%84%9D%F0%9D%95%86%F0%9D%95%8D%F0%9D%94%BC%E2%84%95%E2%84%82%F0%9D%94%BC-en-15-ans-et-3/1587143129877663/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "food-truck",
-    "recherchons"
-   ],
-   "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "7165a5a4509b",
@@ -2696,30 +3734,8 @@
     "recherche"
    ],
    "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
-  },
-  {
-   "id": "8e7e9f4a0942",
-   "title": "Samedi 5 septembre, de 10 à 17 heures, L'Esquisse a ...",
-   "summary": "... FOOD TRUCK ! À l'occasion du Forum des Associations, un marché sera organisé le samedi 5 septembre sur la Place de la Mairie, de 9h à 13h. Nous recherchons ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/ledauphinechambery/posts/samedi-5-septembre-de-10-%C3%A0-17-heures-lesquisse-a-accueilli-le-forum-des-associat/1512198760939103/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "keywords": [
-    "food truck",
-    "recherchons"
-   ],
-   "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "51e61ee2570c",
@@ -2742,7 +3758,8 @@
     "recherchons"
    ],
    "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "f9829f7fc065",
@@ -2765,7 +3782,8 @@
     "recherchons"
    ],
    "score": 50,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "62f8348047e8",
@@ -2783,11 +3801,17 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "food truck"
    ],
    "score": 45,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   },
   {
    "id": "4edfbfd60d29",
@@ -2805,11 +3829,49 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "food truck"
    ],
    "score": 45,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "5a68a4ac5362",
+   "title": "Just 1 Délice",
+   "summary": "Mood Dog, c'est un food truck qui met tout le monde de bonne humeur. Des recettes généreuses, du fait-maison et des produits soigneusement sélectionnés, pour ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://mooddogevents.fr/our-team/notre-chef/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [
+     "contact@mooddogevents.com"
+    ],
+    "phones": [
+     "07 50 69 49 64"
+    ],
+    "forms": []
+   },
+   "keywords": [
+    "food truck"
+   ],
+   "score": 45,
+   "found_at": "2026-09-29T23:43:43+00:00",
+   "contact_checked": true
   },
   {
    "id": "b4a9c48703fd",
@@ -2827,11 +3889,17 @@
    "deadline": null,
    "event_date": null,
    "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
    "keywords": [
     "food truck"
    ],
    "score": 45,
-   "found_at": "2026-09-29T23:11:06+00:00"
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
   }
  ]
 }
