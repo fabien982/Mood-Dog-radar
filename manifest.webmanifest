@@ -1,0 +1,17 @@
+{
+  "name": "Mood Dog Radar",
+  "short_name": "Radar",
+  "description": "Opportunités pour le food truck Mood Dog Events : appels à candidatures, marchés publics, événements.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#16243F",
+  "theme_color": "#16243F",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

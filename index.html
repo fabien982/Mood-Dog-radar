@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Mood Dog Radar</title>
+  <meta name="description" content="Opportunités food truck : appels à candidatures, marchés publics et événements.">
+  <meta name="theme-color" content="#16243F">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Radar">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="brand">
+      <svg class="logo" viewBox="0 0 64 64" aria-hidden="true"><rect x="4" y="18" width="56" height="28" rx="14" fill="#E8A317"/><rect x="10" y="24" width="44" height="16" rx="8" fill="#C8322B"/><path d="M14 32c4-5 8 5 12 0s8 5 12 0 8 5 12 0" stroke="#FFD65C" stroke-width="3" fill="none" stroke-linecap="round"/></svg>
+      <div>
+        <h1>Mood Dog Radar</h1>
+        <p id="subtitle">Chargement…</p>
+      </div>
+      <button class="icon-btn" id="btn-info" aria-label="Infos sur la recherche">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 11v6M12 7.5v.5" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg>
+      </button>
+    </div>
+
+    <div class="switch" role="tablist" aria-label="Affichage">
+      <button role="tab" aria-selected="true" data-view="liste">Liste</button>
+      <button role="tab" aria-selected="false" data-view="carte">Carte</button>
+    </div>
+
+    <label class="search">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      <input id="q" type="search" placeholder="Ville, fête, marché…" autocomplete="off" aria-label="Rechercher">
+    </label>
+
+    <nav class="chips" id="chips" aria-label="Filtres">
+      <button data-f="tout" class="on">Tout</button>
+      <button data-f="cand">Candidatures</button>
+      <button data-f="marche">Marchés publics</button>
+      <button data-f="event">Événements</button>
+      <button data-f="fav">Favoris</button>
+      <button data-f="suivi">Mon suivi</button>
+      <button data-f="masque">Masqués</button>
+    </nav>
+
+    <div class="tools">
+      <select id="dept" aria-label="Département"><option value="">Tous les départements</option></select>
+      <select id="sort" aria-label="Trier">
+        <option value="echeance">Clôture la plus proche</option>
+        <option value="score">Plus pertinents</option>
+        <option value="recent">Plus récents</option>
+        <option value="distance">Plus proches de moi</option>
+      </select>
+    </div>
+  </header>
+
+  <main>
+    <section id="liste" class="list" aria-live="polite"></section>
+    <section id="carte" class="map-wrap" hidden><div id="map"></div></section>
+  </main>
+
+  <dialog id="sheet" class="sheet"><div class="sheet-body" id="sheet-body"></div></dialog>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js" defer></script>
+  <script src="app.js" defer></script>
+</body>
+</html>
