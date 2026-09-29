@@ -281,16 +281,44 @@ KW_EXCL = KW.get("exclus", [])
 DEPTS = [str(d).zfill(2) for d in CFG.get("departements", [])]
 TOWNS = sorted(CFG.get("villes", []), key=len, reverse=True)
 
+# Une annonce du web doit montrer qu'on CHERCHE un food truck (pas un food truck qui fait sa pub).
+RE_SIGNAL = re.compile(
+    r"appel a (candidature|manifestation|projet)|\bami\b|\baot\b|occupation (temporaire )?du domaine public"
+    r"|dossier de candidature|candidatures? (ouvertes|jusqu|avant)|inscriptions? (ouvertes|exposants)"
+    r"|(recherch|cherch)\w*\s+(\S+\s+){0,4}(food[\s-]?trucks?|foodtrucks?|restauration|traiteurs?|exposants|producteurs|commercants)"
+    r"|(appel|recherche|place|emplacement)s?\s+(\S+\s+){0,3}(exposants|commercants ambulants)"
+    r"|emplacements? (disponibles?|libres?|a pourvoir|pour (un |des )?food)"
+)
+RE_STRONG = re.compile(
+    r"appel a (candidature|manifestation)|dossier de candidature|\baot\b|occupation (temporaire )?du domaine public"
+    r"|(recherch|cherch)\w*\s+(\S+\s+){0,4}(food[\s-]?trucks?|foodtrucks?)"
+)
+RE_PROMO = re.compile(
+    r"retrouvez[- ]nous|venez nous (voir|retrouver)|nous serons|on vous attend|suivez[- ]nous|notre (menu|carte)"
+    r"|a bientot|commandez|tous les (lundis|mardis|mercredis|jeudis|vendredis|samedis|dimanches)"
+)
+
+
+def has_signal(nt: str) -> bool:
+    extra = [norm(x) for x in CFG.get("signaux", [])]
+    return bool(RE_SIGNAL.search(nt)) or any(x in nt for x in extra)
+
+
+def is_promo(nt: str) -> bool:
+    return bool(RE_PROMO.search(nt)) and not RE_STRONG.search(nt)
+
+
 SOURCE_WEIGHT = {"BOAMP": 50, "Alerte Google": 40, "Recherche web": 30, "Page surveillée": 45}
 
 
 def classify(nt: str, source: str) -> str:
     if source == "BOAMP":
         return "Marché public"
-    if re.search(r"appel a (candidature|manifestation|projet)|\bami\b|candidatures?", nt):
+    if re.search(r"appel a (candidature|manifestation|projet)|\bami\b|dossier de candidature"
+                 r"|candidatures? (ouvertes|jusqu|avant)|\baot\b|occupation (temporaire )?du domaine public", nt):
         return "Appel à candidatures"
-    if re.search(r"\baot\b|occupation (temporaire )?du domaine public|emplacement", nt):
-        return "Appel à candidatures"
+    if re.search(r"(recherch|cherch)\w*\s+(\S+\s+){0,4}(food[\s-]?trucks?|foodtrucks?|exposants|producteurs)", nt):
+        return "Recherche un food truck"
     return "Événement"
 
 
@@ -339,6 +367,8 @@ def make_event(source: str, title: str, url: str, summary: str = "", organizer: 
         return None
     if contains_any(nt, KW_EXCL):
         return None
+    if source != "BOAMP" and (not has_signal(nt) or is_promo(nt)):
+        return None
 
     if not deadline and not event_date:
         deadline, event_date = find_dates(full)
@@ -354,7 +384,7 @@ def make_event(source: str, title: str, url: str, summary: str = "", organizer: 
     bonus = contains_any(nt, KW_BONUS)
     kind = classify(nt, source)
     score = SOURCE_WEIGHT.get(source, 30) + min(30, 15 * len(main)) + min(20, 5 * len(bonus))
-    score += 15 if kind == "Appel à candidatures" else 0
+    score += 15 if kind == "Appel à candidatures" else 10 if kind == "Recherche un food truck" else 0
     score += 10 if deadline else 0
     score += 10 if loc["dept"] in DEPTS else 0
 
@@ -680,8 +710,20 @@ def main() -> int:
 
     keep_days = int(CFG.get("conserver_jours", 90))
     for uid, ev in old.items():
-        if uid not in merged and ev.get("url") not in seen_urls and still_valid(ev, keep_days):
-            merged[uid] = ev
+        if uid in merged or ev.get("url") in seen_urls or not still_valid(ev, keep_days):
+            continue
+        again = make_event(ev.get("source", ""), ev.get("title", ""), ev.get("url", ""),
+                           summary=ev.get("summary", ""), organizer=ev.get("organizer") or "",
+                           deadline=ev.get("deadline"), event_date=ev.get("event_date"),
+                           required_terms=KW_MAIN + (CFG.get("boamp", {}).get("termes", []) if ev.get("source") == "BOAMP" else []),
+                           depts=[ev["dept"]] if ev.get("dept") else None, city_hint=ev.get("city") or "")
+        if again is None:
+            continue  # ne passe plus les filtres : on l'enlève
+        for k in ("found_at", "contact", "contact_checked", "lat", "lon", "city", "dept", "approx"):
+            if k in ev:
+                again[k] = ev[k]
+        again["id"] = uid
+        merged[uid] = again
 
     events = [e for e in merged.values() if still_valid(e, keep_days)]
     events.sort(key=lambda e: (-(e.get("score") or 0), e.get("deadline") or "9999"))

@@ -112,6 +112,34 @@ motscles:
     - offre d'emploi
     - cdi
     - cdd
+    - garage
+    - hangar
+    - local commercial
+    - parking pour
+    - stockage
+    - recrute
+    - recrutement
+    - cuisinier
+    - serveur
+    - cession
+    - reprise
+    - à louer
+    - a louer
+    - location
+    - leasing
+    - fabricant
+    - aménagement de food truck
+    - devenir franchisé
+
+# Expressions supplémentaires qui montrent qu'on cherche un food truck
+# (en plus de celles déjà connues du robot : appel à candidatures, recherche food truck, AOT, exposants...)
+signaux:
+  - on cherche un food truck
+  - besoin d'un food truck
+  - food truck bienvenu
+  - food trucks bienvenus
+  - places disponibles
+  - réservez votre emplacement
 
 # Combien de jours on garde une annonce sans date une fois trouvée.
 conserver_jours: 90
