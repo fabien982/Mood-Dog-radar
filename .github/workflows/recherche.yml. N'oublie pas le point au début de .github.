@@ -1,0 +1,41 @@
+name: Recherche automatique
+
+on:
+  schedule:
+    - cron: "15 5 * * *"
+    - cron: "15 15 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  recherche:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Installer
+        run: pip install -r scraper/requirements.txt
+      - name: Chercher les opportunités
+        env:
+          BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          APP_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+        run: python scraper/scrape.py
+      - name: Enregistrer les résultats
+        run: |
+          git config user.name "mood-dog-radar"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "Rien de nouveau"
+          else
+            git commit -m "Recherche du $(date +'%d/%m/%Y %H:%M')"
+            git push
+          fi
