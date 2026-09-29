@@ -131,8 +131,9 @@ boamp:
 # --- Source 2 : Alertes Google (gratuit) -------------------------------
 # Crée des alertes sur https://www.google.fr/alerts avec « Diffuser via : Flux RSS »,
 # puis colle ici l'adresse de chaque flux (voir le guide README).
-google_alertes: []
-#  - "https://www.google.fr/alerts/feeds/XXXXXXXX/YYYYYYYY"
+google_alertes:
+  - "https://www.google.fr/alerts/feeds/09082416725181126299/7435741501459155554"
+  - "https://www.google.fr/alerts/feeds/09082416725181126299/8918699910266218604"
 
 # --- Source 3 : Recherche web (clé API Brave ou Serper, facultatif) -----
 recherche_web:
