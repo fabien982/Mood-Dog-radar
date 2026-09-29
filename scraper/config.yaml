@@ -1,0 +1,161 @@
+# =====================================================================
+#  MOOD DOG RADAR — réglages de la recherche automatique
+#  Tu peux modifier ce fichier directement sur GitHub (icône crayon).
+#  Les lignes qui commencent par # sont des commentaires.
+# =====================================================================
+
+# --- Ta zone de travail -------------------------------------------------
+# Numéros des départements où tu acceptes d'aller.
+# Les annonces situées ailleurs sont ignorées.
+departements: ["04", "05", "06", "13", "83", "84"]
+
+# Mots utilisés dans les recherches web (une recherche par zone et par modèle).
+zones_recherche:
+  - "Bouches-du-Rhône"
+  - "Var"
+  - "Vaucluse"
+  - "Alpes-Maritimes"
+  - "Alpes-de-Haute-Provence"
+  - "Hautes-Alpes"
+
+# Villes repérées dans le texte des annonces pour les placer sur la carte.
+# Ajoute les communes de ton secteur.
+villes:
+  - Marseille
+  - Aix-en-Provence
+  - Toulon
+  - Nice
+  - Avignon
+  - Arles
+  - Martigues
+  - Aubagne
+  - La Ciotat
+  - Salon-de-Provence
+  - Istres
+  - Vitrolles
+  - Marignane
+  - Gardanne
+  - Cassis
+  - La Seyne-sur-Mer
+  - Hyères
+  - Fréjus
+  - Saint-Raphaël
+  - Draguignan
+  - Brignoles
+  - Sanary-sur-Mer
+  - Six-Fours-les-Plages
+  - Bandol
+  - Saint-Maximin-la-Sainte-Baume
+  - Cannes
+  - Antibes
+  - Grasse
+  - Menton
+  - Carpentras
+  - Orange
+  - Cavaillon
+  - Pertuis
+  - Apt
+  - L'Isle-sur-la-Sorgue
+  - Manosque
+  - Digne-les-Bains
+  - Forcalquier
+  - Sisteron
+  - Gap
+  - Briançon
+  - Embrun
+
+# --- Mots-clés ---------------------------------------------------------
+motscles:
+  # Une annonce doit contenir AU MOINS UN de ces mots pour être gardée.
+  principaux:
+    - food truck
+    - food trucks
+    - foodtruck
+    - food-truck
+    - camion restaurant
+    - camion-restaurant
+    - restauration ambulante
+    - restauration itinérante
+    - commerce ambulant
+    - commerçants ambulants
+    - vente ambulante
+    - street food
+  # Ces mots rendent l'annonce plus intéressante (meilleur classement).
+  bonus:
+    - appel à candidature
+    - appel à candidatures
+    - appel à manifestation d'intérêt
+    - candidature
+    - emplacement
+    - AOT
+    - occupation du domaine public
+    - marché nocturne
+    - marché estival
+    - festival
+    - fête
+    - brocante
+    - vide-grenier
+    - concert
+    - recherche
+    - recherchons
+    - cherche
+    - exposants
+  # Une annonce qui contient un de ces mots est ignorée (ventes de camions, franchises...).
+  exclus:
+    - à vendre
+    - a vendre
+    - vends
+    - vente de food truck
+    - location de food truck
+    - franchise
+    - leboncoin
+    - offre d'emploi
+    - cdi
+    - cdd
+
+# Combien de jours on garde une annonce sans date une fois trouvée.
+conserver_jours: 90
+
+# --- Source 1 : BOAMP (marchés publics, gratuit, sans inscription) ------
+boamp:
+  actif: true
+  jours: 120          # on regarde les annonces publiées ces 120 derniers jours
+  termes:
+    - food truck
+    - foodtruck
+    - restauration ambulante
+    - commerce ambulant
+    - camion restaurant
+    - vente ambulante
+
+# --- Source 2 : Alertes Google (gratuit) -------------------------------
+# Crée des alertes sur https://www.google.fr/alerts avec « Diffuser via : Flux RSS »,
+# puis colle ici l'adresse de chaque flux (voir le guide README).
+google_alertes: []
+#  - "https://www.google.fr/alerts/feeds/XXXXXXXX/YYYYYYYY"
+
+# --- Source 3 : Recherche web (clé API Brave ou Serper, facultatif) -----
+recherche_web:
+  actif: true
+  max_requetes: 18     # par passage, pour rester dans le quota gratuit
+  modeles:
+    - '"appel à candidatures" "food truck" {zone}'
+    - '"recherche" "food truck" événement {zone}'
+    - 'site:facebook.com "recherchons" "food truck" {zone}'
+
+# --- Source 4 : Pages surveillées (mairies, offices de tourisme...) -----
+# Le robot lit ces pages à chaque passage et garde les passages qui parlent de food truck.
+# Tu peux aussi mettre l'adresse d'un flux RSS.
+pages_surveillees:
+  - nom: "Ville d'Aix-en-Provence - actualités"
+    url: "https://www.aixenprovence.fr/Actualites"
+    ville: "Aix-en-Provence"
+  - nom: "Ville de Marseille - actualités"
+    url: "https://www.marseille.fr/actualites"
+    ville: "Marseille"
+  - nom: "Ville de Toulon - actualités"
+    url: "https://www.toulon.fr/actualites"
+    ville: "Toulon"
+  - nom: "Ville d'Avignon - actualités"
+    url: "https://www.avignon.fr/actualites"
+    ville: "Avignon"
