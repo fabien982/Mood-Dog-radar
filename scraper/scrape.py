@@ -140,6 +140,90 @@ def find_dates(text: str) -> tuple[str | None, str | None]:
             event_date.isoformat() if event_date else None)
 
 
+# -------------------------------------------------------------- contacts ---
+
+RE_EMAIL = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9-]+(?:\.[A-Za-z0-9-]+)*\.[A-Za-z]{2,}")
+RE_PHONE = re.compile(r"(?<!\d)(?:(?:\+|00)33[\s.\-]?|0)[1-9](?:[\s.\-]?\d{2}){4}(?!\d)")
+RE_FORM = re.compile(r"(formulaire|candidat|inscri|dossier|exposant|forms\.gle|docs\.google\.com/forms|"
+                     r"framaforms|helloasso|typeform|jotform|tally\.so)", re.I)
+BAD_EMAIL = ("example", "exemple", "sentry", "wixpress", "noreply", "no-reply", "domain", "votre", "email@",
+             "nom@", "prenom", "@2x", ".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg")
+SKIP_FETCH = ("facebook.com", "fb.com", "instagram.com", "x.com", "twitter.com", "tiktok.com",
+              "linkedin.com", "youtube.com", "leboncoin.fr")
+
+
+def _phone_fmt(raw: str) -> str | None:
+    digits = re.sub(r"\D", "", raw)
+    if digits.startswith("0033"):
+        digits = "0" + digits[4:]
+    elif digits.startswith("33") and len(digits) == 11:
+        digits = "0" + digits[2:]
+    if len(digits) != 10 or not digits.startswith("0"):
+        return None
+    return " ".join(digits[i:i + 2] for i in range(0, 10, 2))
+
+
+def extract_contacts(text: str = "", soup=None, base: str = "") -> dict:
+    emails, phones, forms = [], [], []
+    blob = text or ""
+    if soup is not None:
+        for a in soup.find_all("a", href=True):
+            href = a["href"].strip()
+            if href.lower().startswith("mailto:"):
+                blob += " " + href[7:].split("?")[0]
+            elif href.lower().startswith("tel:"):
+                blob += " " + href[4:]
+            else:
+                label = clean(a.get_text(" "))
+                if RE_FORM.search(href) or RE_FORM.search(label):
+                    link = urljoin(base, href)
+                    if link.startswith("http") and link not in forms and link.rstrip("/") != base.rstrip("/"):
+                        forms.append(link)
+        blob += " " + soup.get_text(" ")
+    for m in RE_EMAIL.findall(blob):
+        e = m.strip(".").lower()
+        if not any(b in e for b in BAD_EMAIL) and e not in emails:
+            emails.append(e)
+    for m in RE_PHONE.findall(blob):
+        ph = _phone_fmt(m)
+        if ph and ph not in phones:
+            phones.append(ph)
+    return {"emails": emails[:3], "phones": phones[:3], "forms": forms[:3]}
+
+
+def merge_contacts(a: dict | None, b: dict | None) -> dict:
+    out = {"emails": [], "phones": [], "forms": []}
+    for src in (a or {}, b or {}):
+        for k in out:
+            for v in src.get(k, []):
+                if v not in out[k]:
+                    out[k].append(v)
+    return {k: v[:3] for k, v in out.items()}
+
+
+def enrich_contacts(events: list[dict], budget: int = 60) -> None:
+    """ouvre la page de chaque nouvelle annonce pour y chercher e-mail, téléphone, formulaire"""
+    for ev in events:
+        if ev.get("contact_checked") or budget <= 0:
+            continue
+        host = urlparse(ev["url"]).netloc.lower()
+        ev["contact_checked"] = True
+        if any(host.endswith(d) for d in SKIP_FETCH):
+            continue
+        budget -= 1
+        try:
+            r = session.get(ev["url"], timeout=12)
+            if not r.ok or "html" not in r.headers.get("content-type", ""):
+                continue
+            soup = BeautifulSoup(r.content[:1_500_000], "html.parser")
+            for tag in soup(["script", "style", "noscript"]):
+                tag.decompose()
+            ev["contact"] = merge_contacts(ev.get("contact"), extract_contacts(soup=soup, base=ev["url"]))
+        except Exception:
+            pass
+        time.sleep(0.3)
+
+
 # ---------------------------------------------------------- géolocalisation ---
 
 DEPT_CENTER = {
@@ -287,6 +371,7 @@ def make_event(source: str, title: str, url: str, summary: str = "", organizer: 
         "lat": loc["lat"], "lon": loc["lon"], "approx": bool(loc.get("approx")),
         "deadline": deadline, "event_date": event_date,
         "published": published,
+        "contact": extract_contacts(full),
         "keywords": sorted(set(main + bonus))[:8],
         "score": min(100, score),
     }
@@ -584,7 +669,10 @@ def main() -> int:
             continue
         seen_urls.add(ev["url"])
         if ev["id"] in old:
-            ev["found_at"] = old[ev["id"]].get("found_at", now_iso)
+            prev = old[ev["id"]]
+            ev["found_at"] = prev.get("found_at", now_iso)
+            ev["contact"] = merge_contacts(prev.get("contact"), ev.get("contact"))
+            ev["contact_checked"] = prev.get("contact_checked", False)
         else:
             ev["found_at"] = now_iso
             new_events.append(ev)
@@ -597,6 +685,7 @@ def main() -> int:
 
     events = [e for e in merged.values() if still_valid(e, keep_days)]
     events.sort(key=lambda e: (-(e.get("score") or 0), e.get("deadline") or "9999"))
+    enrich_contacts(events, budget=int(CFG.get("pages_contacts_max", 60)))
 
     payload = {
         "updated": now_iso,
