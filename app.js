@@ -9,7 +9,7 @@ const STATUS = {
   refuse: "Refusé",
   masque: "Masqué",
 };
-const TYPE_CLASS = { "Appel à candidatures": "cand", "Marché public": "marche", "Événement": "event" };
+const TYPE_CLASS = { "Appel à candidatures": "cand", "Recherche un food truck": "cand", "Marché public": "marche", "Événement": "event" };
 const MONTHS = ["janv.", "févr.", "mars", "avr.", "mai", "juin", "juil.", "août", "sept.", "oct.", "nov.", "déc."];
 
 const $ = (s, el = document) => el.querySelector(s);
