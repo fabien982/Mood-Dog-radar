@@ -211,3 +211,7 @@ main { max-width: 760px; margin: 0 auto; }
   #map { height: calc(100vh - 300px); }
 }
 .btn:disabled { opacity: .45; cursor: default; }
+.contact-list { display: grid; gap: 8px; }
+.contact-list .btn { text-align: center; word-break: break-word; }
+.note.subject { min-height: 0; margin-bottom: 8px; }
+.note.tpl { min-height: 260px; font-size: .92rem; }

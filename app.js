@@ -25,6 +25,50 @@ let state = { fav: {}, status: {}, notes: {}, seen: {} };
 try { state = Object.assign(state, JSON.parse(localStorage.getItem(STORE_KEY) || "{}")); } catch (e) { /* rien */ }
 function save() { try { localStorage.setItem(STORE_KEY, JSON.stringify(state)); } catch (e) { /* stockage plein ou bloqué */ } }
 
+/* ---------- message de candidature ---------- */
+const DEFAULT_SUBJECT = "Candidature food truck : {titre}";
+const DEFAULT_BODY = `Bonjour,
+
+Je vous contacte au sujet de votre annonce « {titre} ».
+
+Je m'appelle Fabien Ronsain et je gère le food truck Mood Dog Events. Nous serions ravis de participer à votre événement et d'y apporter notre bonne humeur.
+
+Vous pouvez découvrir notre univers sur notre site : mooddogevents.fr
+Je peux vous envoyer sur demande notre menu, des photos du camion, notre Kbis et notre attestation d'assurance.
+
+Pourriez-vous m'indiquer les modalités de participation (dossier à fournir, tarif de l'emplacement, électricité disponible) ?
+
+Bien cordialement,
+Fabien Ronsain
+Mood Dog Events
+[ton numéro de téléphone]`;
+function tpl() {
+  return { subject: state.subject || DEFAULT_SUBJECT, body: state.body || DEFAULT_BODY };
+}
+function fill(text, ev) {
+  return text.replaceAll("{titre}", ev.title.slice(0, 120)).replaceAll("{lien}", ev.url)
+    .replaceAll("{lieu}", ev.city || "").replaceAll("{date}", ev.event_date ? fmtDate(ev.event_date) : "");
+}
+function hasContact(ev) {
+  const c = ev.contact || {};
+  return !!((c.emails && c.emails.length) || (c.phones && c.phones.length) || (c.forms && c.forms.length));
+}
+function contactBlock(ev) {
+  const c = ev.contact || {};
+  const t = tpl();
+  const subject = encodeURIComponent(fill(t.subject, ev));
+  const body = encodeURIComponent(fill(t.body, ev));
+  const host = (u) => { try { return new URL(u).hostname.replace(/^www\./, ""); } catch (e) { return "lien"; } };
+  const rows = [
+    ...(c.emails || []).map((m) => `<a class="btn main" href="mailto:${esc(m)}?subject=${subject}&body=${body}">Envoyer ma demande à ${esc(m)}</a>`),
+    ...(c.phones || []).map((p) => `<a class="btn" href="tel:${esc(p.replace(/\s/g, ""))}">Appeler le ${esc(p)}</a>`),
+    ...(c.forms || []).map((f) => `<a class="btn" href="${esc(f)}" target="_blank" rel="noopener">Formulaire ou dossier (${esc(host(f))})</a>`),
+  ];
+  const none = rows.length ? "" : `<p class="help">Aucun contact trouvé automatiquement. Ouvre l'annonce : le contact est souvent en bas de la page ou dans la publication. Tu peux copier ton message et le coller dans un e-mail ou sur Messenger.</p>`;
+  return `<p class="status-title">Candidater</p>${none}<div class="contact-list">${rows.join("")}
+    <button class="btn" data-act="copy">Copier mon message</button></div>`;
+}
+
 /* ---------- dates ---------- */
 function daysUntil(iso) {
   if (!iso) return null;
@@ -81,6 +125,7 @@ function visible() {
     if (st === "masque") return false;
     if (filter === "fav" && !state.fav[ev.id]) return false;
     if (filter === "suivi" && st === "etudier" && !state.notes[ev.id]) return false;
+    if (filter === "contact" && !hasContact(ev)) return false;
     if (["cand", "marche", "event"].includes(filter) && TYPE_CLASS[ev.type] !== filter) return false;
     if (dept && ev.dept !== dept) return false;
     if (q) {
@@ -126,6 +171,7 @@ function card(ev) {
         ${isNew(ev) ? '<span class="tag new">Nouveau</span>' : ""}
         <span class="tag ${TYPE_CLASS[ev.type] || ""}">${esc(ev.type)}</span>
         ${st && st !== "etudier" ? `<span class="tag st">${esc(STATUS[st])}</span>` : ""}
+        ${hasContact(ev) ? '<span class="tag">Contact</span>' : ""}
       </div>
       <h2>${esc(ev.title)}</h2>
       <p class="where">${esc(place || ev.organizer || ev.source)}${esc(dist)}</p>
@@ -222,6 +268,7 @@ function openEvent(id) {
       ${dest ? `<a class="btn" href="https://www.google.com/maps/dir/?api=1&destination=${dest}" target="_blank" rel="noopener">Itinéraire</a>` : ""}
       <button class="btn" data-act="share">Partager</button>
     </div>
+    ${contactBlock(ev)}
     <p class="status-title">Où j'en suis</p>
     <div class="statuses">${Object.entries(STATUS).map(([k, v]) =>
       `<button data-st="${k}" class="${k === st ? "on" : ""}">${esc(v)}</button>`).join("")}</div>
@@ -247,6 +294,10 @@ function openEvent(id) {
     } else if (t.dataset.act === "share") {
       const data = { title: ev.title, text: `${ev.title} ${ev.deadline ? "(clôture " + fmtDate(ev.deadline) + ")" : ""}`, url: ev.url };
       try { if (navigator.share) await navigator.share(data); else { await navigator.clipboard.writeText(ev.url); t.textContent = "Lien copié"; } } catch (err) { /* partage annulé */ }
+    } else if (t.dataset.act === "copy") {
+      const t2 = tpl();
+      const text = fill(t2.subject, ev) + "\n\n" + fill(t2.body, ev);
+      try { await navigator.clipboard.writeText(text); t.textContent = "Message copié"; } catch (err) { t.textContent = "Copie impossible"; }
     } else if (t.dataset.act === "close") {
       $("#sheet").close();
     }
@@ -299,9 +350,22 @@ function openInfo() {
     <ul class="src-list">${src || "<li>Aucune recherche effectuée pour l'instant.</li>"}</ul>
     ${actions ? `<a class="btn main" href="${actions}" target="_blank" rel="noopener">Lancer une recherche maintenant</a>` : ""}
     <p class="help">Sur GitHub : ouvre « Recherche automatique », puis « Run workflow ». Les résultats arrivent ici en 2 à 3 minutes.</p>
-    <p class="help">Tes favoris, statuts et notes restent sur ce téléphone.</p>
+    <p class="status-title">Mon message de candidature</p>
+    <p class="help">Utilisé par le bouton « Envoyer ma demande ». {titre} est remplacé par le nom de l'annonce.</p>
+    <input class="note subject" id="tpl-subject" value="${esc(tpl().subject)}" aria-label="Objet du message">
+    <textarea class="note tpl" id="tpl-body" aria-label="Texte du message">${esc(tpl().body)}</textarea>
+    <button class="btn" data-act="reset-tpl">Rétablir le message d'origine</button>
+    <p class="help">Tes favoris, statuts, notes et ton message restent sur ce téléphone.</p>
     <button class="btn close" data-act="close">Fermer</button>`;
-  $("#sheet-body").onclick = (e) => { if (e.target.closest("[data-act=close]")) $("#sheet").close(); };
+  $("#tpl-subject").oninput = (e) => { state.subject = e.target.value; save(); };
+  $("#tpl-body").oninput = (e) => { state.body = e.target.value; save(); };
+  $("#sheet-body").onclick = (e) => {
+    if (e.target.closest("[data-act=close]")) $("#sheet").close();
+    if (e.target.closest("[data-act=reset-tpl]")) {
+      delete state.subject; delete state.body; save();
+      $("#tpl-subject").value = DEFAULT_SUBJECT; $("#tpl-body").value = DEFAULT_BODY;
+    }
+  };
   $("#sheet").showModal();
 }
 
