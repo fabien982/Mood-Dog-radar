@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T22:04:00+00:00",
+ "updated": "2026-09-29T22:43:42+00:00",
  "count": 0,
  "new_count": 0,
  "sources": {
@@ -9,8 +9,7 @@
   },
   "Alertes Google": {
    "ok": true,
-   "found": 0,
-   "note": "Aucun flux configuré"
+   "found": 0
   },
   "Recherche web": {
    "ok": true,
