@@ -1,1 +1,38 @@
-{}
+{
+ "marseille": {
+  "lat": 43.282,
+  "lon": 5.405,
+  "city": "Marseille",
+  "dept": "13"
+ },
+ "aix-en-provence": {
+  "lat": 43.54137,
+  "lon": 5.40612,
+  "city": "Aix-en-Provence",
+  "dept": "13"
+ },
+ "draguignan": {
+  "lat": 43.53234,
+  "lon": 6.46034,
+  "city": "Draguignan",
+  "dept": "83"
+ },
+ "avignon": {
+  "lat": 43.93635,
+  "lon": 4.84886,
+  "city": "Avignon",
+  "dept": "84"
+ },
+ "orange": {
+  "lat": 44.1298,
+  "lon": 4.81332,
+  "city": "Orange",
+  "dept": "84"
+ },
+ "grasse": {
+  "lat": 43.65406,
+  "lon": 6.93776,
+  "city": "Grasse",
+  "dept": "06"
+ }
+}
