@@ -397,6 +397,37 @@ def src_google_alerts() -> list[dict]:
     return out
 
 
+def _serper(q: str, key: str) -> list[tuple]:
+    """Serper : on essaie avec le filtre « dernier mois », puis sans si l'API refuse."""
+    attempts = [
+        {"q": q, "gl": "fr", "hl": "fr", "tbs": "qdr:m"},
+        {"q": q, "gl": "fr", "hl": "fr"},
+        {"q": q},
+    ]
+    last = None
+    for payload in attempts:
+        r = session.post("https://google.serper.dev/search", json=payload,
+                         headers={"X-API-KEY": key.strip(), "Content-Type": "application/json"},
+                         timeout=TIMEOUT)
+        if r.ok:
+            return [(it.get("title"), it.get("link"), it.get("snippet"), it.get("date"))
+                    for it in r.json().get("organic", [])]
+        last = f"Serper {r.status_code} : {r.text[:160]}"
+        if r.status_code in (401, 403):
+            break  # clé refusée : inutile d'insister
+    raise RuntimeError(last or "Serper : pas de réponse")
+
+
+def _brave(q: str, key: str) -> list[tuple]:
+    r = session.get("https://api.search.brave.com/res/v1/web/search",
+                    params={"q": q, "country": "fr", "search_lang": "fr", "count": 20, "freshness": "pm"},
+                    headers={"X-Subscription-Token": key.strip(), "Accept": "application/json"}, timeout=TIMEOUT)
+    if not r.ok:
+        raise RuntimeError(f"Brave {r.status_code} : {r.text[:160]}")
+    return [(it.get("title"), it.get("url"), it.get("description"), it.get("page_age"))
+            for it in (r.json().get("web") or {}).get("results", [])]
+
+
 def src_web_search() -> list[dict]:
     conf = CFG.get("recherche_web", {})
     brave, serper = os.getenv("BRAVE_API_KEY"), os.getenv("SERPER_API_KEY")
@@ -404,28 +435,25 @@ def src_web_search() -> list[dict]:
         return []
     queries = [tpl.format(zone=z) for tpl in conf.get("modeles", []) for z in CFG.get("zones_recherche", [])]
     out: list[dict] = []
+    errors: list[str] = []
+    done = 0
     for q in queries[: int(conf.get("max_requetes", 18))]:
-        results = []
-        if brave:
-            r = session.get("https://api.search.brave.com/res/v1/web/search",
-                            params={"q": q, "country": "fr", "search_lang": "fr", "count": 20, "freshness": "pm"},
-                            headers={"X-Subscription-Token": brave, "Accept": "application/json"}, timeout=TIMEOUT)
-            r.raise_for_status()
-            for it in (r.json().get("web") or {}).get("results", []):
-                results.append((it.get("title"), it.get("url"), it.get("description"), it.get("page_age")))
-        else:
-            r = session.post("https://google.serper.dev/search",
-                             json={"q": q, "gl": "fr", "hl": "fr", "num": 20, "tbs": "qdr:m"},
-                             headers={"X-API-KEY": serper}, timeout=TIMEOUT)
-            r.raise_for_status()
-            for it in r.json().get("organic", []):
-                results.append((it.get("title"), it.get("link"), it.get("snippet"), None))
+        try:
+            results = _brave(q, brave) if brave else _serper(q, serper)
+            done += 1
+        except Exception as exc:
+            errors.append(str(exc))
+            if len(errors) >= 3 and done == 0:
+                break  # la source ne répond pas du tout : on s'arrête
+            continue
         for title, url, snippet, age in results:
             ev = make_event("Recherche web", title or "", url or "", summary=snippet or "",
                             published=iso_or_none(age))
             if ev:
                 out.append(ev)
-        time.sleep(1.1)  # Brave gratuit : 1 requête par seconde
+        time.sleep(1.1)
+    if done == 0 and errors:
+        raise RuntimeError(errors[0])
     return out
 
 
