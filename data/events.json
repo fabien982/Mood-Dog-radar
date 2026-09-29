@@ -1,1 +1,27 @@
-{"updated": null, "count": 0, "new_count": 0, "sources": {}, "events": []}
+{
+ "updated": "2026-09-29T22:04:00+00:00",
+ "count": 0,
+ "new_count": 0,
+ "sources": {
+  "BOAMP": {
+   "ok": true,
+   "found": 0
+  },
+  "Alertes Google": {
+   "ok": true,
+   "found": 0,
+   "note": "Aucun flux configuré"
+  },
+  "Recherche web": {
+   "ok": true,
+   "found": 0,
+   "note": "Aucune clé API configurée"
+  },
+  "Pages surveillées": {
+   "ok": true,
+   "found": 0,
+   "errors": []
+  }
+ },
+ "events": []
+}
