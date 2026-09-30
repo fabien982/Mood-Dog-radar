@@ -162,6 +162,10 @@ boamp:
 google_alertes:
   - "https://www.google.fr/alerts/feeds/09082416725181126299/7435741501459155554"
   - "https://www.google.fr/alerts/feeds/09082416725181126299/8918699910266218604"
+  - "https://www.google.fr/alerts/feeds/09082416725181126299/3228459978877100543"
+  - "https://www.google.fr/alerts/feeds/09082416725181126299/11689301998925386899"
+  - "https://www.google.fr/alerts/feeds/09082416725181126299/17067609991950702410"
+  - "https://www.google.fr/alerts/feeds/09082416725181126299/9746109399651660703"
 
 # --- Source 3 : Recherche web (clé API Brave ou Serper, facultatif) -----
 recherche_web:
