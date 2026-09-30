@@ -1,7 +1,7 @@
 {
- "updated": "2026-09-30T00:21:22+00:00",
- "count": 22,
- "new_count": 8,
+ "updated": "2026-09-30T05:27:39+00:00",
+ "count": 24,
+ "new_count": 3,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -9,11 +9,11 @@
   },
   "Alertes Google": {
    "ok": true,
-   "found": 0
+   "found": 1
   },
   "Recherche web": {
    "ok": true,
-   "found": 26
+   "found": 29
   },
   "Pages surveillées": {
    "ok": true,
@@ -22,6 +22,36 @@
   }
  },
  "events": [
+  {
+   "id": "ac18238e3233",
+   "title": "Bientôt des food trucks sur la Corniche Kennedy à Marseille - mesinfos",
+   "summary": "C'est en tous cas le vœu de la mairie de Marseille qui lance un appel à manifestation d'intérêt (AMI). ... Vous pouvez envoyer votre candidature pour ...",
+   "type": "Appel à candidatures",
+   "source": "Alerte Google",
+   "url": "https://mesinfos.fr/13000-marseille/bientot-des-food-trucks-sur-la-corniche-kennedy-a-marseille-339858.html",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": "2026-09-29",
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "candidature",
+    "food trucks"
+   ],
+   "score": 90,
+   "found_at": "2026-09-30T05:27:39+00:00",
+   "contact_checked": true
+  },
   {
    "id": "d1e7f10dd172",
    "title": "️❤️FOODTRUCK TROUVÉ ❤️❗️🌭 ...",
@@ -87,36 +117,6 @@
    "contact_checked": true
   },
   {
-   "id": "4e2d2c6c396c",
-   "title": "Bientôt des food trucks sur la Corniche Kennedy à Marseille",
-   "summary": "L'attribution de la place pour un food-truck, suite à l'appel à manifestation d'intérêt en cours, sera octroyée jusqu'au 31 décembre 2028. Soit deux ans de ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://mesinfos.fr/13000-marseille/bientot-des-food-trucks-sur-la-corniche-kennedy-a-marseille-339858.html",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "food trucks",
-    "food-truck"
-   ],
-   "score": 90,
-   "found_at": "2026-09-30T00:21:22+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "d94ff51e46c1",
    "title": "Lire l'article : https://www.echodumardi.com/culture-loisirs ...",
    "summary": "Swaggernaut Officiel ▻ Recherche Food truck événements. 11w · Public ... recherche des food trucks pour la saison d'été au Vendôme à Avignon (rooftop ...",
@@ -144,6 +144,36 @@
    ],
    "score": 85,
    "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "85605bf2d297",
+   "title": "Lire l'article : https://www.echodumardi.com/actualite/le- ...",
+   "summary": "... recherche des food trucks pour la saison d'été au Vendôme à Avignon (rooftop ... ✨ [RECHERCHE FOOD TRUCK SUCRÉ] ✨ Salut le groupe, Dans le cadre ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/lechodumardi/posts/lire-larticle-%C3%A0-loccasion-du-festival-bien-bon-les-meilleurs-foodtrucks-du-terri/1743978593934197/",
+   "organizer": null,
+   "city": "Avignon",
+   "dept": "84",
+   "lat": 43.93635,
+   "lon": 4.84886,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food truck",
+    "food trucks",
+    "recherche"
+   ],
+   "score": 85,
+   "found_at": "2026-09-30T05:27:39+00:00",
    "contact_checked": true
   },
   {
@@ -328,6 +358,35 @@
    "contact_checked": true
   },
   {
+   "id": "24ffc84c3d6e",
+   "title": "Food-trucks à Marseille : la Ville lance un appel ...",
+   "summary": "Les professionnels de la restauration ambulante sont invités à candidater ... La Ville de Marseille ouvre un nouvel appel à manifestation d'intérêt ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.petitesaffiches.fr/actualites,069/economie,045/food-trucks-a-marseille-la-ville,46153.html?lang=fr",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "restauration ambulante"
+   ],
+   "score": 75,
+   "found_at": "2026-09-30T05:27:39+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "5c6768367e45",
    "title": "Soirée Food Trucks Ville de Vedène Mercredi 23/09 Midi",
    "summary": "... recherche des food trucks pour la saison d'été au Vendôme à Avignon (rooftop + terrasse piscine) Créneaux à pourvoir sur toutes nos ouvertures ...",
@@ -505,6 +564,36 @@
    "contact_checked": true
   },
   {
+   "id": "99da557fd0cf",
+   "title": "CE SAMEDI 12 SEPTEMBRE! Sainte-Justine-de-Newton",
+   "summary": "... var Nous Recherchons un food truck sucré Veuillez me contacter Merci a vous ... RECHERCHE FOOD TRUCK — Samedi 6 juin, midi.",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/1045696432116756/posts/28716091727983854/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2027-06-06",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food truck",
+    "recherche",
+    "recherchons"
+   ],
+   "score": 65,
+   "found_at": "2026-09-29T23:56:38+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "0698367f5a55",
    "title": "Nouveaux panneaux pour le Food Truck SHOP TON ...",
    "summary": "RECHERCHE EMPLACEMENT FOOD TRUCK – VAUCLUSE Bonjour à tous ! Je ... mairie de la Boisse ! Mairie de la Boisse De 18h30 à 21h00 ...",
@@ -649,35 +738,6 @@
    ],
    "score": 60,
    "found_at": "2026-09-29T23:11:06+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "99da557fd0cf",
-   "title": "CE SAMEDI 12 SEPTEMBRE! Sainte-Justine-de-Newton",
-   "summary": "... var Nous Recherchons un food truck sucré Veuillez me contacter Merci a vous ... Nous recherchons un food truck pour le samedi 12 septembre sur la Gorgue !",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/1045696432116756/posts/28716091727983854/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "keywords": [
-    "food truck",
-    "recherchons"
-   ],
-   "score": 60,
-   "found_at": "2026-09-29T23:56:38+00:00",
    "contact_checked": true
   }
  ]
