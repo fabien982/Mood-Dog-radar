@@ -113,11 +113,13 @@ def _mk_date(d: int, m: int, y: int | None) -> date | None:
     return result
 
 
-def find_dates(text: str) -> tuple[str | None, str | None]:
+def find_dates(text: str, guess_year: bool = True) -> tuple[str | None, str | None]:
     """renvoie (date_limite, date_evenement) au format AAAA-MM-JJ si on en trouve"""
     t = norm(text)
     found: list[tuple[int, date]] = []
     for m in RE_TXT.finditer(t):
+        if not m.group(3) and not guess_year:
+            continue  # « 14 juillet » sans année : impossible de savoir si c'est cette année
         d = _mk_date(int(m.group(1)), MONTHS[m.group(2)], int(m.group(3)) if m.group(3) else None)
         if d:
             found.append((m.start(), d))
@@ -448,8 +450,13 @@ def make_event(source: str, title: str, url: str, summary: str = "", organizer: 
     elif source != "BOAMP" and (not has_signal(nt) or is_promo(nt)):
         return None
 
+    web = source in ("Recherche web", "Alerte Google")
+    if web:
+        years = [int(y) for y in re.findall(r"\b(20[1-3]\d)\b", full)]
+        if years and max(years) < TODAY.year:
+            return None  # l'annonce ne parle que d'années passées
     if not deadline and not event_date:
-        deadline, event_date = find_dates(full)
+        deadline, event_date = find_dates(full, guess_year=not web)
     if deadline and deadline < TODAY.isoformat():
         return None
     if not deadline and event_date and event_date < TODAY.isoformat():
@@ -697,6 +704,9 @@ def src_web_search() -> list[dict]:
                     raise RuntimeError(errors[0])
                 continue
             for title, url, snippet, age in results:
+                y = re.search(r"\b(20[1-3]\d)\b", str(age or ""))
+                if y and int(y.group(1)) < TODAY.year:
+                    continue  # page publiée une année précédente
                 ev = make_event("Recherche web", title or "", url or "", summary=snippet or "",
                                 published=iso_or_none(age), mode=mode)
                 if ev:
@@ -894,7 +904,8 @@ def main() -> int:
             continue
         again = make_event(ev.get("source", ""), ev.get("title", ""), ev.get("url", ""),
                            summary=ev.get("summary", ""), organizer=ev.get("organizer") or "",
-                           deadline=ev.get("deadline"), event_date=ev.get("event_date"),
+                           deadline=None if ev.get("source") in ("Recherche web", "Alerte Google") else ev.get("deadline"),
+                           event_date=None if ev.get("source") in ("Recherche web", "Alerte Google") else ev.get("event_date"),
                            required_terms=(KW_MAIN + CFG.get("boamp", {}).get("termes", [])) if ev.get("source") == "BOAMP" else None,
                            depts=[ev["dept"]] if ev.get("dept") else None, city_hint=ev.get("city") or "",
                            mode=ev.get("mode", "demandes"))
