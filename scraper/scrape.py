@@ -231,6 +231,9 @@ DEPT_CENTER = {
     "13": (43.54, 5.09), "83": (43.46, 6.22), "84": (44.00, 5.18),
 }
 # code postal suivi d'un nom de ville (évite de confondre avec « 10000 visiteurs »)
+RE_DEPT_PAREN = re.compile(r"\((0[1-9]|[1-8]\d|9[0-5]|2[AB])\)")
+REGION_WORDS = ["provence", "paca", "cote d'azur", "luberon", "camargue", "alpilles", "verdon",
+                "sainte-baume", "calanques", "riviera", "haute-provence", "pays d'aix"]
 RE_POSTCODE = re.compile(r"\b((?:0[1-9]|[1-8]\d|9[0-5])\d{3})\s+[A-ZÀ-Ý]")
 
 try:
@@ -343,6 +346,9 @@ def locate(text: str, city_hint: str = "", depts: list[str] | None = None) -> di
             loc.update(g)
     if not loc["dept"] and postcode_dept and not city_hint:
         loc["dept"] = postcode_dept
+    m = RE_DEPT_PAREN.search(text)  # « Fronton (31) » : indice très fiable
+    if m and not city_hint and (not loc["dept"] or m.group(1) not in DEPTS):
+        loc["dept"] = m.group(1)
     if not loc["dept"] and depts:
         in_zone = [d for d in depts if d in DEPTS] or depts
         loc["dept"] = in_zone[0]
@@ -380,9 +386,15 @@ def make_event(source: str, title: str, url: str, summary: str = "", organizer: 
     loc = locate(full, city_hint, depts)
     if DEPTS and loc["dept"] and loc["dept"] not in DEPTS:
         return None
+    if DEPTS and source in ("Recherche web", "Alerte Google") and loc["dept"] not in DEPTS:
+        zone_words = [norm(z) for z in CFG.get("zones_recherche", []) + TOWNS] + REGION_WORDS
+        if not contains_any(nt, zone_words):
+            return None  # aucun lieu de ta zone dans l'annonce : trop incertain
 
     bonus = contains_any(nt, KW_BONUS)
     kind = classify(nt, source)
+    if source in ("Recherche web", "Alerte Google") and kind == "Événement":
+        return None  # le web ne garde que les appels à candidatures et les recherches de food truck
     score = SOURCE_WEIGHT.get(source, 30) + min(30, 15 * len(main)) + min(20, 5 * len(bonus))
     score += 15 if kind == "Appel à candidatures" else 10 if kind == "Recherche un food truck" else 0
     score += 10 if deadline else 0
@@ -512,6 +524,10 @@ def src_google_alerts() -> list[dict]:
     return out
 
 
+class SkipSource(Exception):
+    pass
+
+
 def _serper(q: str, key: str) -> list[tuple]:
     """Serper : on essaie avec le filtre « dernier mois », puis sans si l'API refuse."""
     attempts = [
@@ -548,6 +564,9 @@ def src_web_search() -> list[dict]:
     brave, serper = os.getenv("BRAVE_API_KEY"), os.getenv("SERPER_API_KEY")
     if not conf.get("actif", True) or not (brave or serper):
         return []
+    if (conf.get("une_fois_par_jour", True) and os.getenv("GITHUB_EVENT_NAME") == "schedule"
+            and datetime.now(timezone.utc).hour >= 12):
+        raise SkipSource("recherche web faite le matin seulement (économise le quota)")
     queries = [tpl.format(zone=z) for tpl in conf.get("modeles", []) for z in CFG.get("zones_recherche", [])]
     out: list[dict] = []
     errors: list[str] = []
@@ -674,6 +693,8 @@ def main() -> int:
             found = fn()
             collected += found
             status[name] = {"ok": True, "found": len(found)}
+        except SkipSource as exc:
+            status[name] = {"ok": True, "found": 0, "note": str(exc)}
         except Exception as exc:
             status[name] = {"ok": False, "found": 0, "error": f"{exc.__class__.__name__}: {exc}"[:200]}
         log(f"{name}: {status[name]}")

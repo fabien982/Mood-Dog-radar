@@ -166,11 +166,14 @@ google_alertes:
 # --- Source 3 : Recherche web (clé API Brave ou Serper, facultatif) -----
 recherche_web:
   actif: true
-  max_requetes: 18     # par passage, pour rester dans le quota gratuit
+  une_fois_par_jour: true   # le matin seulement, pour que le quota gratuit dure ~3 mois
+  max_requetes: 30
   modeles:
     - '"appel à candidatures" "food truck" {zone}'
-    - '"recherche" "food truck" événement {zone}'
-    - 'site:facebook.com "recherchons" "food truck" {zone}'
+    - '"recherche des food trucks" OR "recherchons des food trucks" OR "recherche food truck" {zone}'
+    - '"food truck" exposants inscription fête OR festival OR marché {zone}'
+    - '"appel à manifestation d''intérêt" "food truck" OR "restauration ambulante" {zone}'
+    - 'mairie "food truck" emplacement OR AOT OR "domaine public" {zone}'
 
 # --- Source 4 : Pages surveillées (mairies, offices de tourisme...) -----
 # Le robot lit ces pages à chaque passage et garde les passages qui parlent de food truck.
