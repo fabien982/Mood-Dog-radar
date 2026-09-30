@@ -40,5 +40,11 @@
   "lon": 6.07678,
   "city": "Gap",
   "dept": "05"
+ },
+ "saint-maximin-la-sainte-baume": {
+  "lat": 43.44631,
+  "lon": 5.86618,
+  "city": "Saint-Maximin-la-Sainte-Baume",
+  "dept": "83"
  }
 }
