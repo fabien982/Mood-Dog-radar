@@ -126,6 +126,7 @@ function visible() {
     if (filter === "fav" && !state.fav[ev.id]) return false;
     if (filter === "suivi" && st === "etudier" && !state.notes[ev.id]) return false;
     if (filter === "contact" && !hasContact(ev)) return false;
+    if (filter === "date" && !ev.deadline && !ev.event_date) return false;
     if (["cand", "marche", "event"].includes(filter) && TYPE_CLASS[ev.type] !== filter) return false;
     if (dept && ev.dept !== dept) return false;
     if (q) {
@@ -174,7 +175,8 @@ function card(ev) {
         ${hasContact(ev) ? '<span class="tag">Contact</span>' : ""}
       </div>
       <h2>${esc(ev.title)}</h2>
-      <p class="where">${esc(place || ev.organizer || ev.source)}${esc(dist)}</p>
+      ${ev.summary && ev.summary !== ev.title ? `<p class="snip">${esc(ev.summary)}</p>` : ""}
+      <p class="where">${esc(place || ev.organizer || "Lieu non précisé")}${esc(dist)} <span class="src">${esc(ev.source)}</span></p>
     </div>
     ${state.fav[ev.id] ? '<span class="fav-mark" aria-label="Favori">★</span>' : ""}
   </button>`;
