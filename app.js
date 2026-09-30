@@ -29,7 +29,7 @@ function save() { try { localStorage.setItem(STORE_KEY, JSON.stringify(state)); 
 const DEFAULT_SUBJECT = "Candidature food truck : {titre}";
 const DEFAULT_BODY = `Bonjour,
 
-Je vous contacte au sujet de votre annonce « {titre} ».
+Je vous contacte au sujet de « {titre} ».
 
 Je m'appelle Fabien Ronsain et je gère le food truck Mood Dog Events. Nous serions ravis de participer à votre événement et d'y apporter notre bonne humeur.
 
@@ -176,7 +176,7 @@ function card(ev) {
       </div>
       <h2>${esc(ev.title)}</h2>
       ${ev.summary && ev.summary !== ev.title ? `<p class="snip">${esc(ev.summary)}</p>` : ""}
-      <p class="where">${esc(place || ev.organizer || "Lieu non précisé")}${esc(dist)} <span class="src">${esc(ev.source)}</span></p>
+      <p class="where">${esc(place || ev.organizer || "Lieu non précisé")}${esc(dist)} <span class="src">${esc(ev.via || ev.source)}</span></p>
     </div>
     ${state.fav[ev.id] ? '<span class="fav-mark" aria-label="Favori">★</span>' : ""}
   </button>`;
@@ -253,7 +253,7 @@ function openEvent(id) {
     ["Date", ev.event_date && fmtDate(ev.event_date)],
     ["Lieu", [ev.city, ev.dept && `(${ev.dept})`].filter(Boolean).join(" ")],
     ["Organisateur", ev.organizer],
-    ["Source", ev.source],
+    ["Source", ev.via ? `${ev.via} (${ev.source})` : ev.source],
     ["Trouvé", ago(ev.found_at)],
   ].filter(([, v]) => v);
 
