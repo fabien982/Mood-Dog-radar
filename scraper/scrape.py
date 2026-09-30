@@ -274,6 +274,54 @@ def geocode(query: str) -> dict | None:
     return None
 
 
+RE_PLACE = re.compile(
+    r"(?:\b[àa]|\bde|\bd'|\bdu|\bau|\bsur)\s+"
+    r"((?:Saint|Sainte|St|Ste|Le|La|Les|L')?[\s'-]?[A-ZÉÈÂÎ][\w'’-]+(?:[\s-](?:de|du|des|la|le|les|sur|en|d')?[\s-]?[A-ZÉÈÂÎ][\w'’-]+){0,3})"
+)
+NOT_PLACES = {"noel", "provence", "france", "musique", "jazz", "rock", "la", "le", "les", "fete", "festival",
+              "l'ete", "printemps", "automne", "hiver", "food", "truck", "mairie", "ville", "office", "tourisme"}
+
+
+def geocode_in_zone(name: str) -> dict | None:
+    """cherche une commune de ce nom DANS tes départements (il y a plusieurs Saint-Maximin en France)"""
+    key = "zone:" + norm(name)
+    if key in GEOCACHE:
+        return GEOCACHE[key]
+    for url in ("https://data.geopf.fr/geocodage/search", "https://api-adresse.data.gouv.fr/search/"):
+        try:
+            r = session.get(url, params={"q": name, "type": "municipality", "limit": 10}, timeout=15)
+            if not r.ok:
+                continue
+            for f in r.json().get("features") or []:
+                p = f.get("properties", {})
+                dept = (p.get("context") or "").split(",")[0].strip()
+                if dept in DEPTS and p.get("score", 1) >= 0.6:
+                    lon, lat = f["geometry"]["coordinates"]
+                    res = {"lat": round(lat, 5), "lon": round(lon, 5), "city": p.get("city") or p.get("name"), "dept": dept}
+                    GEOCACHE[key] = res
+                    return res
+            GEOCACHE[key] = None
+            return None
+        except Exception:
+            continue
+    return None
+
+
+def guess_place(text: str) -> dict | None:
+    tries = 0
+    for m in RE_PLACE.finditer(text):
+        name = m.group(1).strip(" -'’")
+        if norm(name) in NOT_PLACES or len(name) < 3:
+            continue
+        g = geocode_in_zone(name)
+        if g:
+            return g
+        tries += 1
+        if tries >= 3:
+            break
+    return None
+
+
 # ---------------------------------------------------------------- config ---
 
 CFG = yaml.safe_load(CONFIG_FILE.read_text("utf-8")) or {}
@@ -309,6 +357,26 @@ def has_signal(nt: str) -> bool:
 
 def is_promo(nt: str) -> bool:
     return bool(RE_PROMO.search(nt)) and not RE_STRONG.search(nt)
+
+
+KW_EVENTS = KW.get("evenements", ["fete", "festival", "marche nocturne", "vide-grenier", "brocante",
+                                    "feria", "foire", "corso", "carnaval", "concert", "guinguette"])
+RE_EVENT_BAD = re.compile(r"\bannule|retour en images|en photos|bilan de|replay|resultats? du")
+
+
+def km_between(lat1: float, lon1: float, lat2: float, lon2: float) -> float:
+    import math
+    r = math.radians
+    a = math.sin(r(lat2 - lat1) / 2) ** 2 + math.cos(r(lat1)) * math.cos(r(lat2)) * math.sin(r(lon2 - lon1) / 2) ** 2
+    return 2 * 6371 * math.asin(math.sqrt(a))
+
+
+def via_label(url: str) -> str | None:
+    host = urlparse(url).netloc.lower()
+    for dom, label in (("instagram.com", "Instagram"), ("facebook.com", "Facebook"), ("fb.com", "Facebook")):
+        if host.endswith(dom):
+            return label
+    return None
 
 
 SOURCE_WEIGHT = {"BOAMP": 50, "Alerte Google": 40, "Recherche web": 30, "Page surveillée": 45}
@@ -361,19 +429,23 @@ def locate(text: str, city_hint: str = "", depts: list[str] | None = None) -> di
 def make_event(source: str, title: str, url: str, summary: str = "", organizer: str = "",
                city_hint: str = "", depts: list[str] | None = None, deadline: str | None = None,
                event_date: str | None = None, published: str | None = None,
-               required_terms: list[str] | None = None) -> dict | None:
+               required_terms: list[str] | None = None, mode: str = "demandes") -> dict | None:
     title, summary = clean(title), clean(summary)
     if not title or not url:
         return None
     full = f"{title}. {summary}. {organizer}"
     nt = norm(full)
+    events_mode = mode == "evenements"
 
-    main = contains_any(nt, required_terms or KW_MAIN)
+    main = contains_any(nt, required_terms or (KW_EVENTS if events_mode else KW_MAIN))
     if not main:
         return None
     if contains_any(nt, KW_EXCL):
         return None
-    if source != "BOAMP" and (not has_signal(nt) or is_promo(nt)):
+    if events_mode:
+        if is_promo(nt) or RE_EVENT_BAD.search(nt):
+            return None
+    elif source != "BOAMP" and (not has_signal(nt) or is_promo(nt)):
         return None
 
     if not deadline and not event_date:
@@ -386,15 +458,27 @@ def make_event(source: str, title: str, url: str, summary: str = "", organizer: 
     loc = locate(full, city_hint, depts)
     if DEPTS and loc["dept"] and loc["dept"] not in DEPTS:
         return None
+    if DEPTS and source in ("Recherche web", "Alerte Google") and not loc["dept"]:
+        g = guess_place(full)
+        if g:
+            loc.update(g)
+            loc["approx"] = False
     if DEPTS and source in ("Recherche web", "Alerte Google") and loc["dept"] not in DEPTS:
         zone_words = [norm(z) for z in CFG.get("zones_recherche", []) + TOWNS] + REGION_WORDS
         if not contains_any(nt, zone_words):
             return None  # aucun lieu de ta zone dans l'annonce : trop incertain
 
+    centre = CFG.get("centre")
+    if centre and loc.get("lat") is not None and not loc.get("approx"):
+        dist = km_between(centre["lat"], centre["lon"], loc["lat"], loc["lon"])
+        if dist > float(CFG.get("rayon_km", 9999)):
+            return None
     bonus = contains_any(nt, KW_BONUS)
     kind = classify(nt, source)
-    if source in ("Recherche web", "Alerte Google") and kind == "Événement":
-        return None  # le web ne garde que les appels à candidatures et les recherches de food truck
+    if source in ("Recherche web", "Alerte Google") and kind == "Événement" and not events_mode:
+        return None  # côté « demandes », le web ne garde que les appels et les recherches de food truck
+    if events_mode and not (event_date or deadline):
+        return None  # une fête sans date ne t'aide pas à remplir ton agenda
     score = SOURCE_WEIGHT.get(source, 30) + min(30, 15 * len(main)) + min(20, 5 * len(bonus))
     score += 15 if kind == "Appel à candidatures" else 10 if kind == "Recherche un food truck" else 0
     score += 10 if deadline else 0
@@ -414,6 +498,8 @@ def make_event(source: str, title: str, url: str, summary: str = "", organizer: 
         "deadline": deadline, "event_date": event_date,
         "published": published,
         "contact": extract_contacts(full),
+        "mode": mode,
+        "via": via_label(url),
         "keywords": sorted(set(main + bonus))[:8],
         "score": min(100, score),
     }
@@ -513,14 +599,23 @@ def real_link(link: str) -> str:
 
 def src_google_alerts() -> list[dict]:
     out: list[dict] = []
-    for feed_url in CFG.get("google_alertes") or []:
-        r = session.get(feed_url, timeout=TIMEOUT)
-        r.raise_for_status()
-        for it in parse_feed(r.content):
+    feeds = CFG.get("google_alertes") or []
+    failed = []
+    for feed_url in feeds:
+        try:
+            r = session.get(feed_url, timeout=TIMEOUT)
+            r.raise_for_status()
+            items = parse_feed(r.content)
+        except Exception as exc:
+            failed.append(str(exc)[:120])
+            continue
+        for it in items:
             ev = make_event("Alerte Google", it["title"], real_link(it["link"]), summary=it["summary"],
                             published=iso_or_none(it["published"]))
             if ev:
                 out.append(ev)
+    if feeds and len(failed) == len(feeds):
+        raise RuntimeError(failed[0])
     return out
 
 
@@ -559,35 +654,92 @@ def _brave(q: str, key: str) -> list[tuple]:
             for it in (r.json().get("web") or {}).get("results", [])]
 
 
+WEB_RUNS: dict = {}   # dernière date de passage de chaque groupe (gardée dans events.json)
+
+
+def _web_groups(conf: dict) -> list[dict]:
+    if conf.get("groupes"):
+        return conf["groupes"]
+    return [{"nom": "Candidatures", "type": "demandes", "tous_les_jours": 1,
+             "max": conf.get("max_requetes", 18), "modeles": conf.get("modeles", [])}]
+
+
 def src_web_search() -> list[dict]:
     conf = CFG.get("recherche_web", {})
     brave, serper = os.getenv("BRAVE_API_KEY"), os.getenv("SERPER_API_KEY")
     if not conf.get("actif", True) or not (brave or serper):
         return []
-    if (conf.get("une_fois_par_jour", True) and os.getenv("GITHUB_EVENT_NAME") == "schedule"
-            and datetime.now(timezone.utc).hour >= 12):
+    scheduled = os.getenv("GITHUB_EVENT_NAME") == "schedule"
+    if conf.get("une_fois_par_jour", True) and scheduled and datetime.now(timezone.utc).hour >= 12:
         raise SkipSource("recherche web faite le matin seulement (économise le quota)")
-    queries = [tpl.format(zone=z) for tpl in conf.get("modeles", []) for z in CFG.get("zones_recherche", [])]
+    years = f"{TODAY.year} OR {TODAY.year + 1}"
     out: list[dict] = []
     errors: list[str] = []
     done = 0
-    for q in queries[: int(conf.get("max_requetes", 18))]:
-        try:
-            results = _brave(q, brave) if brave else _serper(q, serper)
-            done += 1
-        except Exception as exc:
-            errors.append(str(exc))
-            if len(errors) >= 3 and done == 0:
-                break  # la source ne répond pas du tout : on s'arrête
-            continue
-        for title, url, snippet, age in results:
-            ev = make_event("Recherche web", title or "", url or "", summary=snippet or "",
-                            published=iso_or_none(age))
-            if ev:
-                out.append(ev)
-        time.sleep(1.1)
+    for group in _web_groups(conf):
+        name = group.get("nom", "web")
+        every = int(group.get("tous_les_jours", 1))
+        last = WEB_RUNS.get(name)
+        if last and (TODAY - date.fromisoformat(last)).days < every:
+            continue  # ce groupe a déjà tourné récemment
+        mode = group.get("type", "demandes")
+        queries = [tpl.replace("{annee}", years).format(zone=z)
+                   for tpl in group.get("modeles", []) for z in CFG.get("zones_recherche", [])]
+        group_done = 0
+        for q in queries[: int(group.get("max", 30))]:
+            try:
+                results = _brave(q, brave) if brave else _serper(q, serper)
+                done += 1
+                group_done += 1
+            except Exception as exc:
+                errors.append(str(exc))
+                if len(errors) >= 3 and done == 0:
+                    raise RuntimeError(errors[0])
+                continue
+            for title, url, snippet, age in results:
+                ev = make_event("Recherche web", title or "", url or "", summary=snippet or "",
+                                published=iso_or_none(age), mode=mode)
+                if ev:
+                    out.append(ev)
+            time.sleep(1.1)
+        if group_done:
+            WEB_RUNS[name] = TODAY.isoformat()
     if done == 0 and errors:
         raise RuntimeError(errors[0])
+    return out
+
+
+RE_LEAD_DATE = re.compile(r"^\s*(\d{1,2}\s+\w+\.?\s+\d{4}\s*(au|-|–)?\s*)+", re.I)
+
+
+def scan_agenda(page: dict) -> list[dict]:
+    """lit un agenda d'office de tourisme (plusieurs pages) et garde les fêtes datées"""
+    base, name = page["url"], page.get("nom") or page["url"]
+    pages = max(1, int(page.get("pages", 1)))
+    out: list[dict] = []
+    seen: set[str] = set()
+    for n in range(1, pages + 1):
+        url = base if n == 1 else urljoin(base if base.endswith("/") else base + "/", f"page/{n}/")
+        r = session.get(url, timeout=TIMEOUT)
+        if r.status_code == 404:
+            break
+        r.raise_for_status()
+        soup = BeautifulSoup(r.text, "html.parser")
+        for tag in soup(["script", "style", "noscript", "header", "footer", "nav", "form"]):
+            tag.decompose()
+        for a in soup.find_all("a", href=True):
+            text = clean(a.get_text(" "))
+            link = urljoin(url, a["href"])
+            if len(text) < 25 or link in seen or not RE_TXT.search(norm(text)):
+                continue
+            seen.add(link)
+            heading = a.find(["h2", "h3", "h4", "strong"])
+            title = clean(heading.get_text(" ")) if heading else RE_LEAD_DATE.sub("", text)[:120]
+            ev = make_event("Page surveillée", title or text[:120], link, summary=text, organizer=name,
+                            mode="evenements", required_terms=KW_EVENTS + KW.get("evenements_agenda", []))
+            if ev:
+                out.append(ev)
+        time.sleep(1)
     return out
 
 
@@ -597,6 +749,12 @@ def src_pages() -> tuple[list[dict], list[str]]:
     for page in CFG.get("pages_surveillees") or []:
         url, city = page.get("url"), page.get("ville", "")
         name = page.get("nom") or url
+        if page.get("type") == "evenements":
+            try:
+                out += scan_agenda(page)
+            except Exception as exc:
+                errors.append(f"{name} : {exc.__class__.__name__}")
+            continue
         try:
             r = session.get(url, timeout=TIMEOUT)
             r.raise_for_status()
@@ -684,6 +842,7 @@ def main() -> int:
     except Exception:
         previous = {}
     old = {e["id"]: e for e in previous.get("events", [])}
+    WEB_RUNS.update(previous.get("web_runs", {}))
 
     status: dict[str, dict] = {}
     collected: list[dict] = []
@@ -736,8 +895,9 @@ def main() -> int:
         again = make_event(ev.get("source", ""), ev.get("title", ""), ev.get("url", ""),
                            summary=ev.get("summary", ""), organizer=ev.get("organizer") or "",
                            deadline=ev.get("deadline"), event_date=ev.get("event_date"),
-                           required_terms=KW_MAIN + (CFG.get("boamp", {}).get("termes", []) if ev.get("source") == "BOAMP" else []),
-                           depts=[ev["dept"]] if ev.get("dept") else None, city_hint=ev.get("city") or "")
+                           required_terms=(KW_MAIN + CFG.get("boamp", {}).get("termes", [])) if ev.get("source") == "BOAMP" else None,
+                           depts=[ev["dept"]] if ev.get("dept") else None, city_hint=ev.get("city") or "",
+                           mode=ev.get("mode", "demandes"))
         if again is None:
             continue  # ne passe plus les filtres : on l'enlève
         for k in ("found_at", "contact", "contact_checked", "lat", "lon", "city", "dept", "approx"):
@@ -755,6 +915,7 @@ def main() -> int:
         "count": len(events),
         "new_count": len(new_events),
         "sources": status,
+        "web_runs": WEB_RUNS,
         "events": events,
     }
     EVENTS_FILE.write_text(json.dumps(payload, ensure_ascii=False, indent=1), "utf-8")

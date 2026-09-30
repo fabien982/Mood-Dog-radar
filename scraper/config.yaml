@@ -5,64 +5,92 @@
 # =====================================================================
 
 # --- Ta zone de travail -------------------------------------------------
-# Numéros des départements où tu acceptes d'aller.
-# Les annonces situées ailleurs sont ignorées.
-departements: ["04", "05", "06", "13", "83", "84"]
+# Point de départ et distance maximale (à vol d'oiseau).
+centre: {nom: "Saint-Raphaël", lat: 43.4253, lon: 6.7684}
+rayon_km: 150
 
-# Mots utilisés dans les recherches web (une recherche par zone et par modèle).
+# Départements touchés par ce rayon. Les annonces ailleurs sont ignorées.
+departements: ["83", "06", "13", "04", "84", "05"]
+
+# Zones utilisées dans les recherches web (une recherche par zone et par modèle).
 zones_recherche:
-  - "Bouches-du-Rhône"
   - "Var"
-  - "Vaucluse"
   - "Alpes-Maritimes"
+  - "Bouches-du-Rhône"
   - "Alpes-de-Haute-Provence"
-  - "Hautes-Alpes"
+  - "Fréjus Saint-Raphaël Estérel"
+  - "Golfe de Saint-Tropez"
 
-# Villes repérées dans le texte des annonces pour les placer sur la carte.
-# Ajoute les communes de ton secteur.
+# Communes reconnues dans le texte pour placer les annonces sur la carte.
+# Les autres villages sont aussi reconnus s'ils sont dans tes départements.
 villes:
+  - Saint-Raphaël
+  - Agay
+  - Fréjus
+  - Saint-Aygulf
+  - Puget-sur-Argens
+  - Roquebrune-sur-Argens
+  - Les Issambres
+  - Les Adrets-de-l'Estérel
+  - Sainte-Maxime
+  - Saint-Tropez
+  - Grimaud
+  - Cogolin
+  - Gassin
+  - Ramatuelle
+  - La Croix-Valmer
+  - Cavalaire-sur-Mer
+  - Le Lavandou
+  - Bormes-les-Mimosas
+  - La Londe-les-Maures
+  - Hyères
+  - Toulon
+  - La Seyne-sur-Mer
+  - Six-Fours-les-Plages
+  - Sanary-sur-Mer
+  - Bandol
+  - Le Muy
+  - Les Arcs
+  - Draguignan
+  - Trans-en-Provence
+  - Lorgues
+  - Vidauban
+  - Le Luc
+  - Le Cannet-des-Maures
+  - Brignoles
+  - Saint-Maximin-la-Sainte-Baume
+  - Fayence
+  - Seillans
+  - Callian
+  - Montauroux
+  - Tanneron
+  - Bagnols-en-Forêt
+  - Callas
+  - Salernes
+  - Aups
+  - Cannes
+  - Mandelieu-la-Napoule
+  - Théoule-sur-Mer
+  - Le Cannet
+  - Antibes
+  - Juan-les-Pins
+  - Vallauris
+  - Grasse
+  - Mougins
+  - Valbonne
+  - Cagnes-sur-Mer
+  - Nice
+  - Menton
+  - La Ciotat
+  - Aubagne
   - Marseille
   - Aix-en-Provence
-  - Toulon
-  - Nice
-  - Avignon
-  - Arles
-  - Martigues
-  - Aubagne
-  - La Ciotat
-  - Salon-de-Provence
-  - Istres
-  - Vitrolles
-  - Marignane
-  - Gardanne
-  - Cassis
-  - La Seyne-sur-Mer
-  - Hyères
-  - Fréjus
-  - Saint-Raphaël
-  - Draguignan
-  - Brignoles
-  - Sanary-sur-Mer
-  - Six-Fours-les-Plages
-  - Bandol
-  - Saint-Maximin-la-Sainte-Baume
-  - Cannes
-  - Antibes
-  - Grasse
-  - Menton
-  - Carpentras
-  - Orange
-  - Cavaillon
-  - Pertuis
-  - Apt
-  - L'Isle-sur-la-Sorgue
   - Manosque
+  - Gréoux-les-Bains
+  - Riez
+  - Moustiers-Sainte-Marie
+  - Castellane
   - Digne-les-Bains
-  - Forcalquier
-  - Sisteron
-  - Gap
-  - Briançon
-  - Embrun
 
 # --- Mots-clés ---------------------------------------------------------
 motscles:
@@ -100,6 +128,41 @@ motscles:
     - recherchons
     - cherche
     - exposants
+  # Mots qui désignent une fête ou un événement (recherche « Fêtes et festivals »).
+  evenements:
+    - fête
+    - fêtes
+    - festival
+    - festivités
+    - marché nocturne
+    - marchés nocturnes
+    - marché de noël
+    - marché de producteurs
+    - vide-grenier
+    - vide-greniers
+    - brocante
+    - feria
+    - foire
+    - corso
+    - carnaval
+    - concert
+    - guinguette
+    - bal
+    - fête de la musique
+    - 14 juillet
+  # Mots en plus reconnus dans les agendas d'offices de tourisme.
+  evenements_agenda:
+    - sardinade
+    - aïoli
+    - soirée
+    - animation
+    - marché
+    - salon
+    - fêtes
+    - journée
+    - course
+    - trail
+    - gala
   # Une annonce qui contient un de ces mots est ignorée (ventes de camions, franchises...).
   exclus:
     - à vendre
@@ -170,28 +233,46 @@ google_alertes:
 # --- Source 3 : Recherche web (clé API Brave ou Serper, facultatif) -----
 recherche_web:
   actif: true
-  une_fois_par_jour: true   # le matin seulement, pour que le quota gratuit dure ~3 mois
-  max_requetes: 30
-  modeles:
-    - '"appel à candidatures" "food truck" {zone}'
-    - '"recherche des food trucks" OR "recherchons des food trucks" OR "recherche food truck" {zone}'
-    - '"food truck" exposants inscription fête OR festival OR marché {zone}'
-    - '"appel à manifestation d''intérêt" "food truck" OR "restauration ambulante" {zone}'
-    - 'mairie "food truck" emplacement OR AOT OR "domaine public" {zone}'
+  une_fois_par_jour: true   # les passages automatiques ne cherchent sur le web que le matin
+  # Chaque groupe a son rythme. {zone} = chaque zone de « zones_recherche », {annee} = cette année et la suivante.
+  groupes:
+    - nom: "Candidatures"
+      type: demandes          # on veut qu'on CHERCHE un food truck
+      tous_les_jours: 1
+      max: 30
+      modeles:
+        - '"appel à candidatures" "food truck" {zone}'
+        - '"recherche des food trucks" OR "recherchons des food trucks" OR "recherche food truck" {zone}'
+        - '"food truck" exposants inscription fête OR festival OR marché {zone}'
+        - '"appel à manifestation d''intérêt" "food truck" OR "restauration ambulante" {zone}'
+        - 'mairie "food truck" emplacement OR AOT OR "domaine public" {zone}'
+
+    - nom: "Instagram"
+      type: demandes
+      tous_les_jours: 1
+      max: 12
+      modeles:
+        - 'site:instagram.com "food truck" "appel à candidatures" OR recherche OR recherchons {zone}'
+        - 'site:instagram.com "food trucks" exposants OR inscriptions {zone}'
+
+    - nom: "Fêtes et festivals"
+      type: evenements        # toutes les fêtes à venir, pour démarcher toi-même les organisateurs
+      tous_les_jours: 7       # une fois par semaine suffit
+      max: 42
+      modeles:
+        - '"fête du village" OR "fête votive" OR "fête patronale" OR "fête locale" {zone} {annee}'
+        - 'festival {zone} {annee} programme dates'
+        - '"marché nocturne" OR "marchés nocturnes" OR "marché de noël" {zone} {annee}'
+        - '"vide-grenier" OR brocante OR foire {zone} {annee}'
+        - 'feria OR carnaval OR corso OR "fête de la musique" {zone} {annee}'
+        - 'concert OR guinguette "plein air" {zone} {annee}'
+        - 'site:instagram.com fête OR festival OR "marché nocturne" {zone} {annee}'
 
 # --- Source 4 : Pages surveillées (mairies, offices de tourisme...) -----
 # Le robot lit ces pages à chaque passage et garde les passages qui parlent de food truck.
 # Tu peux aussi mettre l'adresse d'un flux RSS.
 pages_surveillees:
-  - nom: "Ville d'Aix-en-Provence - actualités"
-    url: "https://www.aixenprovence.fr/Actualites"
-    ville: "Aix-en-Provence"
-  - nom: "Ville de Marseille - actualités"
-    url: "https://www.marseille.fr/actualites"
-    ville: "Marseille"
-  - nom: "Ville de Toulon - actualités"
-    url: "https://www.toulon.fr/actualites"
-    ville: "Toulon"
-  - nom: "Ville d'Avignon - actualités"
-    url: "https://www.avignon.fr/actualites"
-    ville: "Avignon"
+  - nom: "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)"
+    url: "https://www.esterel-cotedazur.com/en/visit/agenda/"
+    type: evenements   # agenda : on garde toutes les fêtes datées
+    pages: 6           # nombre de pages de l'agenda à lire
