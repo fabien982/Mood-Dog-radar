@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-30T11:47:29+00:00",
- "count": 77,
- "new_count": 0,
+ "updated": "2026-09-30T15:28:56+00:00",
+ "count": 78,
+ "new_count": 1,
  "sources": {
   "BOAMP": {
    "ok": true,
-   "found": 0
+   "found": 1
   },
   "Alertes Google": {
    "ok": true,
@@ -13,7 +13,8 @@
   },
   "Recherche web": {
    "ok": true,
-   "found": 0
+   "found": 0,
+   "note": "recherche web faite le matin seulement (économise le quota)"
   },
   "Pages surveillées": {
    "ok": true,
@@ -194,6 +195,36 @@
    ],
    "score": 90,
    "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "2e162ebbfe3b",
+   "title": "Convention De Mise A Disposition Ponctuelle Du Domaine Public Pour L'Exploitation D'Une Activité De Restauration Mobile De Type Food-Truck Sur Le Campus Carlone D'Université Cote D",
+   "summary": "Avis de marché. Prestations de services, Denrées alimentaires",
+   "type": "Marché public",
+   "source": "BOAMP",
+   "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-94461",
+   "organizer": "Université Côte d'Azur",
+   "city": null,
+   "dept": "06",
+   "lat": 43.94,
+   "lon": 7.18,
+   "approx": true,
+   "deadline": "2026-10-21",
+   "event_date": null,
+   "published": "2026-09-30",
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "food-truck"
+   ],
+   "score": 85,
+   "found_at": "2026-09-30T15:28:56+00:00",
    "contact_checked": true
   },
   {
