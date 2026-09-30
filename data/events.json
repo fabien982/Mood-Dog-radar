@@ -1,7 +1,7 @@
 {
- "updated": "2026-09-30T15:28:56+00:00",
+ "updated": "2026-09-30T23:12:34+00:00",
  "count": 78,
- "new_count": 1,
+ "new_count": 0,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -13,8 +13,7 @@
   },
   "Recherche web": {
    "ok": true,
-   "found": 0,
-   "note": "recherche web faite le matin seulement (économise le quota)"
+   "found": 0
   },
   "Pages surveillées": {
    "ok": true,
