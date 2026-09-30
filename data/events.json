@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-30T11:36:15+00:00",
- "count": 99,
+ "updated": "2026-09-30T11:47:29+00:00",
+ "count": 77,
  "new_count": 0,
  "sources": {
   "BOAMP": {
@@ -268,109 +268,6 @@
    "contact_checked": true
   },
   {
-   "id": "ecd03db0076e",
-   "title": "Département des Alpes-Maritimes",
-   "summary": "... plein air, ambiance festive sur le Cours Mirabeau. Parade[s] – Grand concert de clôture le 29 juin sur le Cours Mirabeau (à ne pas manquer !). Fête de la ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/departement06/posts/%EF%B8%8F-un-%C3%A9t%C3%A9-de-spectacles-de-rencontres-et-de-beaux-moments-partag%C3%A9s-tout-au-long-d/1511160254372640/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": "2027-06-29",
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": "Facebook",
-   "keywords": [
-    "concert",
-    "fête"
-   ],
-   "score": 80,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "a797aa86bc43",
-   "title": "Il s'en passe des choses ce week-end dans le Var (18 et 19 ...",
-   "summary": "... Fête du Village (jusqu'au 20 juillet) Saint-Maximin: Marchés Nocturnes à ... Carcès: Fête Patronale Sainte Marguerite à 19h30. Saint-Zacharie: Festival ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.varinfos.fr/news/il-s-en-passe-des-choses-ce-week-end-dans-le-var-18-et-19-juillet-1011",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": "2027-07-20",
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [
-     "contact@varinfos.fr"
-    ],
-    "phones": [
-     "06 25 74 21 12",
-     "06 65 74 21 12"
-    ],
-    "forms": [
-     "https://www.varinfos.fr/inscription"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival",
-    "fête",
-    "marchés nocturnes"
-   ],
-   "score": 80,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "19dad7affa6d",
-   "title": "Les festivités de l'été à La Londe les Maures",
-   "summary": "Festival des Oliviers - 7 juillet au 25 août 2026 Festival. Fête Nationale - 14 juillet 2026 ---------------- Sunset DJ - 15 juillet 2026. La Londe Jazz ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.frequence-sud.fr/m/art-20010-les_festivites_de_l_ete_a_la_londe_les_maures_la_londe-les-maures",
-   "organizer": null,
-   "city": "La Londe-les-Maures",
-   "dept": "83",
-   "lat": 43.14765,
-   "lon": 6.2513,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2027-07-07",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "14 juillet",
-    "festival",
-    "festivités",
-    "fête"
-   ],
-   "score": 80,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "58291e06d858",
    "title": "Brocante et vide-grenier Pierrefeu-du-Var (83390)",
    "summary": "11 Octobre 2026 · Hyères Puces st nicolas · Hyères Vide grenier centr'azur · Néoules Vide grenier brocante · Carqueiranne Vide-greniers - brocante · La Valette-du- ...",
@@ -554,73 +451,6 @@
    "keywords": [
     "brocante",
     "vide-grenier"
-   ],
-   "score": 80,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "0c311bffdbe8",
-   "title": "Festival Var 2026 programme des meilleurs festivals",
-   "summary": "Le département du Var programme en 2026 de nombreux festivals. Retrouvez ... Fête de la musique dans le Var. Le 21 juin, la Fête de la musique 2027 dans ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://83.agendaculturel.fr/festival/",
-   "organizer": null,
-   "city": "Vars",
-   "dept": "05",
-   "lat": 44.59117,
-   "lon": 6.68776,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2027-06-21",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": [
-     "https://83.agendaculturel.fr/inscription.html"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival",
-    "fête",
-    "fête de la musique"
-   ],
-   "score": 80,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "d7c4a8fb78af",
-   "title": "Les festivités de l'été à Port-de-Bouc - Du 25/06/2026 au ...",
-   "summary": "La Fête de la Musique - 19 & 20 juin 2026 ... Rendez-vous pris le vendredi 19 juin avec Franck Castello et le samedi 20, deuxième concert gratuit spécial année ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.frequence-sud.fr/m/art-34460-les_festivites_de_l_ete_a_port-de-bouc_port-de-bouc",
-   "organizer": null,
-   "city": "Port-de-Bouc",
-   "dept": "13",
-   "lat": 43.41407,
-   "lon": 4.9891,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2027-06-19",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert",
-    "festivités",
-    "fête",
-    "fête de la musique"
    ],
    "score": 80,
    "found_at": "2026-09-30T10:17:04+00:00",
@@ -1021,37 +851,6 @@
    "contact_checked": true
   },
   {
-   "id": "331e94847d3b",
-   "title": "Fêtes et foires en Provence-Alpes-Côte d'Azur 2026 | FêtesMap",
-   "summary": "Fête votive: Fête locale du Muy, Le Muy. Fête votive. 31 juil. - 4 août 2026 ... Fête votive: Fête Patronale de la Saint-Laurent d'Arvieux, Arvieux. Fête ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://fetesmap.com/provence-alpes-cote-dazur",
-   "organizer": null,
-   "city": "Le Muy",
-   "dept": "83",
-   "lat": 43.46258,
-   "lon": 6.55565,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2027-07-31",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "fête",
-    "fêtes"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "eb2c1659ffc7",
    "title": "MARCHÉ DE NOËL DU BROC 2026 🎄 Artisans, créateurs ...",
    "summary": "❄️ Cette année, le marché de Noël de Barjols aura lieu le samedi 12 décembre 2026 ! À cette occasion, la Mairie de Barjols recherche des exposants pour ...",
@@ -1119,198 +918,6 @@
     "exposants",
     "marché de noël",
     "recherche"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "06d2c2b54a2d",
-   "title": "Le Marché nocturne de Cassis",
-   "summary": "... marchés nocturnes dans les Bouches du Rhône où flâner en famille. agenda. je veux y aller ! Du 25 juin au 31 août 2026. Terminé. Marché nocturne de Cassis. 2026 ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.frequence-sud.fr/m/art-90263-le_marche_nocturne_de_cassis_cassis",
-   "organizer": null,
-   "city": "Cassis",
-   "dept": "13",
-   "lat": 43.22349,
-   "lon": 5.54883,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2027-06-25",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": [
-     "https://www.frequence-sud.fr/m/art-34829-tour_d_horizon_des_marches_nocturnes_de_l_ete_dans_les_bouches-du-rhone_bouches_du_rhone"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "marché nocturne",
-    "marchés nocturnes"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "c82f721c5e60",
-   "title": "Les festivités de l'été à Fréjus - Du 01/06/2026 au 31/08/2026",
-   "summary": "Les marchés nocturnes - 27 juin au 30 août 2026. Marché nocturne de Fréjus ... Tout l'été du 27 juin au 30 août, on flâne sur le marché nocturne à Fréjus.",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.frequence-sud.fr/m/art-11215-les_festivites_de_l_ete_a_frejus_frejus",
-   "organizer": null,
-   "city": "Fréjus",
-   "dept": "83",
-   "lat": 43.44566,
-   "lon": 6.77051,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2027-06-27",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festivités",
-    "marché nocturne",
-    "marchés nocturnes"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "7a2e76d1f69a",
-   "title": "Vide-Greniers de Villars-sur-Var — Samedi 26 Septembre ...",
-   "summary": "Bonjour à toutes, bonjour à tous, le dimanche 23 juin, faites un détour par Saint-Vallier, à notre vide-grenier, le soleil sera au rendez-vous !",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/1636331596496543/posts/27833490616353950/",
-   "organizer": null,
-   "city": "Villars-sur-Var",
-   "dept": "06",
-   "lat": 43.93756,
-   "lon": 7.08443,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2027-06-23",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": "Facebook",
-   "keywords": [
-    "vide-grenier",
-    "vide-greniers"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "55b2ea814913",
-   "title": "Fête de la Musique Menton 2026 - Concerts gratuits le 21 juin",
-   "summary": "La Fête de la Musique 2026 à Menton se tient le dimanche 21 juin, de 10h à 18h, gratuitement dans toute la ville. La Ville de Menton accueille amateurs, groupes ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-menton",
-   "organizer": null,
-   "city": "Menton",
-   "dept": "06",
-   "lat": 43.79152,
-   "lon": 7.5006,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2027-06-21",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "fête",
-    "fête de la musique"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "066d5ec93e6a",
-   "title": "Fête de la Musique Marseille 2026 - Concerts gratuits le 21 juin",
-   "summary": "La Fête de la Musique 2026 à Marseille se tient le dimanche 21 juin, gratuitement dans toute la ville. Le temps fort de la journée est « La Voie est Libre » : ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-marseille",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2027-06-21",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 91 55 11 10",
-     "04 91 55 20 43"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "fête",
-    "fête de la musique"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "ad1dcf627f55",
-   "title": "Fête de la Musique Manosque 2026 - Festivals en France",
-   "summary": "La Fête de la Musique 2026 à Manosque : concerts gratuits dans le cœur de ville autour du dimanche 21 juin, des places du centre au parc de Drouille.",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-manosque",
-   "organizer": null,
-   "city": "Manosque",
-   "dept": "04",
-   "lat": 43.82654,
-   "lon": 5.79024,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2027-06-21",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "fête",
-    "fête de la musique"
    ],
    "score": 75,
    "found_at": "2026-09-30T10:17:04+00:00",
@@ -1989,39 +1596,6 @@
    "contact_checked": true
   },
   {
-   "id": "8dcc3ba1586b",
-   "title": "Évènements autour de Saint-Aygulf - Agenda des ...",
-   "summary": "Du 1er juillet au 3 septembre, place de la Poste : Marché nocturne de 20h à minuit. Début septembre : Fête votive. Renseignements au 04 94 81 22 09. En ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.france-voyage.com/evenements/saint-aygulf-commune-83801.htm",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2027-07-01",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 94 81 22 09"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "fête",
-    "marché nocturne"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "19aa93f10c05",
    "title": "Marchés de Noël en Provence-Alpes-Côte d'Azur — 2026",
    "summary": "La Seyne-sur-Mer · Marché des Sablettes. du 1 janvier au 31 décembre 2026 · En extérieur ; Fontvieille · 43ème Foire aux Santons et 29ème Marché de Noël - Edition ...",
@@ -2035,7 +1609,7 @@
    "lon": 5.87965,
    "approx": false,
    "deadline": null,
-   "event_date": "2027-01-01",
+   "event_date": "2026-12-31",
    "published": null,
    "contact": {
     "emails": [],
@@ -2228,7 +1802,7 @@
    "lon": null,
    "approx": false,
    "deadline": null,
-   "event_date": "2027-06-06",
+   "event_date": null,
    "published": null,
    "contact": {
     "emails": [],
@@ -2381,100 +1955,6 @@
    "contact_checked": true
   },
   {
-   "id": "68a346407b28",
-   "title": "Les Meilleurs Festivals et évènements de l'été dans le Var ...",
-   "summary": "Du 26 juin au 28 juillet 2026, le Festival d'été de Châteauvallon à Ollioules. Du 26 juin au 31 août 2026, concerts jazz, rock, classique, magie, cirque, danse ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://cotedazur.kidiklik.fr/articles/447284-les-meilleurs-festivals-et-evenements-de-lete-dans-le-var-et-les-alpes-maritimes",
-   "organizer": null,
-   "city": "Ollioules",
-   "dept": "83",
-   "lat": 43.13497,
-   "lon": 5.85392,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2027-06-26",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": [
-     "https://cotedazur.kidiklik.fr/newsletter.html"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "score": 60,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "cba8cf4ad74c",
-   "title": "Le BōM Festival 2026 - Festival gratuit et éco-sensible à Plan ...",
-   "summary": "Édition 2026 — Vendredi 3 et samedi 4 juillet à Plan-d'Aups · Une programmation musicale resserrée et exigeante · Ateliers, spectacles jeune public et ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.festivalenfrance.com/festival/le-bom-festival",
-   "organizer": null,
-   "city": "Aups",
-   "dept": "83",
-   "lat": 43.6287,
-   "lon": 6.22307,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2027-07-04",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "09 71 55 56 46"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "score": 60,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "afdf7a4163b2",
-   "title": "Côte d'Azur : terre de jazz… et de festivals",
-   "summary": "Le festival Jazz au Château à Cagnes-sur-Mer attire chaque vendredi soir, du 27 juin au 12 septembre 2026, un public fidèle et des touristes pour ses concerts ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://cotedazurfrance.fr/a-faire/art-et-culture/cote-dazur-terre-de-jazz-et-de-festivals/",
-   "organizer": null,
-   "city": "Cagnes-sur-Mer",
-   "dept": "06",
-   "lat": 43.67564,
-   "lon": 7.15009,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2027-06-27",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "score": 60,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "27081910503b",
    "title": "Agenda Alpes Maritimes (06)",
    "summary": "Agenda des évènements dans les Alpes Maritimes. du 28 septembre 2026 au 3 octobre 2026. Nice. Festival Cinéroman 8ème édition. En Savoir Plus. le 29 septembre ...",
@@ -2572,70 +2052,6 @@
    "contact_checked": true
   },
   {
-   "id": "d4f7bb6d5052",
-   "title": "Festivals 2026 en région Sud-Provence-Côte-d'Azur",
-   "summary": "A AJACCIO (Corse). 28 juillet-2 août 2026. Aio Festival. Variétés. Site officiel; Dans les ALPES de HAUTE-PROVENCE (05). 11-15 août 2026. Musique au coeur ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://classiqueenprovence.fr/festivals-2026-en-region-sud-provence-cote-dazur/",
-   "organizer": null,
-   "city": null,
-   "dept": "05",
-   "lat": 44.66,
-   "lon": 6.26,
-   "approx": true,
-   "deadline": null,
-   "event_date": "2027-07-28",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": [
-     "https://classiqueenprovence.fr/dossier-choregies-choc-2026-tous-nos-articles/"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "score": 60,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "d5878c8d925e",
-   "title": "​Festival d'Aix-en-Provence 2026 – Parcours initiatiques",
-   "summary": "Ça y est ! , la programmation du Festival d'Aix 2026 est désormais connue ; les grands axes en ayant été dévoilés le 12 décembre lors d'une conférence de ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.concertclassic.com/article/festival-daix-en-provence-2026-parcours-initiatiques",
-   "organizer": null,
-   "city": "Aix-en-Provence",
-   "dept": "13",
-   "lat": 43.54137,
-   "lon": 5.40612,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-12",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": [
-     "https://www.concertclassic.com/articles?fulltext_search=dossier"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "score": 60,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "dd687234fba5",
    "title": "Concert Marseille - Aix : place de concert, billet ...",
    "summary": "Dominique A en concert partout en France en 2027 Le nouvel album de Dominique A, \"Spirales\", sortira le 9 octobre 2026, ce sera l'occasion pour son auteur de reprendre la route au printemps 2027 ! Au programme : un concert à La Cigale (Paris) le 24 mars 2027 et une tournée dans toute la France et en Belgique.",
@@ -2662,36 +2078,6 @@
    "via": null,
    "keywords": [
     "concert"
-   ],
-   "score": 60,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "9eb1c27836f6",
-   "title": "Festival des Antipodes 2026 : le cinéma d'ailleurs à Saint- ...",
-   "summary": "Direction l'autre bout du monde sans quitter le golfe de Saint-Tropez ! Du 15 au 18 octobre, la 28ème édition du Festival des Antipodes met à l'honneur le ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.le-mensuel.com/festival-des-antipodes-2026-australie-nouvelle-zelande-saint-tropez/",
-   "organizer": null,
-   "city": "Saint-Tropez",
-   "dept": "83",
-   "lat": 43.26495,
-   "lon": 6.65812,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-18",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
    ],
    "score": 60,
    "found_at": "2026-09-30T10:17:04+00:00",
@@ -2755,41 +2141,6 @@
    "via": "Instagram",
    "keywords": [
     "festival"
-   ],
-   "score": 60,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "a51d929cec17",
-   "title": "Inscriptions ouvertes pour le marché nocturne estival 2026 de ...",
-   "summary": "Le marché nocturne de Saint-Raphaël se tiendra du 27 juin au 13 septembre 2026, tous les soirs de 19h00 à 1h00, sur la promenade de Lattre de Tassigny, ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://deveco.esterelcotedazur-agglo.fr/inscriptions-ouvertes-pour-le-marche-nocturne-estival-2026-de-saint-raphael/",
-   "organizer": null,
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2027-06-27",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 94 82 64 45",
-     "04 94 52 62 30"
-    ],
-    "forms": [
-     "https://www.ville-saintraphael.fr/fileadmin/ARBORESCENCE/UTILE/Economie___Commerces/Commerce_et_artisanat/Dossier_March%C3%A9_Nocturne_2026.pdf"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "marché nocturne"
    ],
    "score": 60,
    "found_at": "2026-09-30T10:17:04+00:00",
@@ -2934,7 +2285,7 @@
    "lon": 5.40612,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-11-13",
+   "event_date": "2026-12-31",
    "published": null,
    "contact": {
     "emails": [],
@@ -3049,38 +2400,6 @@
    "contact_checked": true
   },
   {
-   "id": "77338a815c80",
-   "title": "Sortie à Cavalaire-sur-Mer : tous les événements à venir",
-   "summary": "Marché de Noël bio et éthique. 13 décembre. Marché de Noël bio et éthique. Place de l'Eglise. Marché bio et zéro déchet avec des producteurs bio et locaux ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.alentoor.fr/cavalaire-sur-mer/agenda",
-   "organizer": null,
-   "city": "Cavalaire-sur-Mer",
-   "dept": "83",
-   "lat": 43.17787,
-   "lon": 6.52443,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-13",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 98 12 64 00"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "marché de noël"
-   ],
-   "score": 55,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "31e945b55051",
    "title": "Fête votive Saint Rémy de Provence 2026 : programme complet",
    "summary": "Fête votive Saint Rémy de Provence. 25 Sep 2026 au 4 Oct 2026 Événement sur toute la journée Ville de Saint-Rémy De Provence Saint-Rémy De Provence, Bouches ...",
@@ -3107,38 +2426,6 @@
    "via": null,
    "keywords": [
     "fête"
-   ],
-   "score": 50,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "b60a749c5f81",
-   "title": "Soirées Estivales des Alpes-Maritimes 2026",
-   "summary": "Le Festival des Mots — du 17 juillet au 8 août 2026. Huit lectures en plein air, huit communes, huit comédiens : le Festival des Mots met le texte au centre, ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.festivalenfrance.com/festival/soirees-estivales-des-alpes-maritimes",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2027-07-17",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "08 05 56 65 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
    ],
    "score": 50,
    "found_at": "2026-09-30T10:17:04+00:00",
