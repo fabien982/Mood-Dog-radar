@@ -1,7 +1,7 @@
 {
- "updated": "2026-09-30T05:27:39+00:00",
+ "updated": "2026-09-30T07:27:44+00:00",
  "count": 24,
- "new_count": 3,
+ "new_count": 0,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -13,7 +13,7 @@
   },
   "Recherche web": {
    "ok": true,
-   "found": 29
+   "found": 26
   },
   "Pages surveillées": {
    "ok": true,
@@ -53,6 +53,37 @@
    "contact_checked": true
   },
   {
+   "id": "52c60762993a",
+   "title": "🚚 RECHERCHE FOOD-TRUCK – SAINT-MAXIMIN ...",
+   "summary": "RECHERCHE FOOD-TRUCK – SAINT-MAXIMIN-LA-SAINTE-BAUME Nous recherchons ... recherchons des food trucks ou traiteur type paella, méchoui, cochon ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/464711687781403/posts/2128947611357794/",
+   "organizer": null,
+   "city": "Saint-Maximin-la-Sainte-Baume",
+   "dept": "83",
+   "lat": 43.44631,
+   "lon": 5.86618,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "food trucks",
+    "food-truck",
+    "recherche",
+    "recherchons"
+   ],
+   "score": 90,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "d1e7f10dd172",
    "title": "️❤️FOODTRUCK TROUVÉ ❤️❗️🌭 ...",
    "summary": "APPEL À CANDIDATURES – FOOD TRUCKS 2026 ! La Fête des Places ... var Nous Recherchons un food truck sucré Veuillez me contacter Merci a vous.",
@@ -79,37 +110,6 @@
     "food trucks",
     "foodtruck",
     "fête",
-    "recherchons"
-   ],
-   "score": 90,
-   "found_at": "2026-09-29T23:11:06+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "52c60762993a",
-   "title": "🚚 RECHERCHE FOOD-TRUCK – SAINT-MAXIMIN ...",
-   "summary": "RECHERCHE FOOD-TRUCK – SAINT-MAXIMIN-LA-SAINTE-BAUME Nous recherchons ... recherchons des food trucks ou traiteur type paella, méchoui, cochon ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/464711687781403/posts/2128947611357794/",
-   "organizer": null,
-   "city": "Saint-Maximin-la-Sainte-Baume",
-   "dept": "83",
-   "lat": 43.44631,
-   "lon": 5.86618,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "keywords": [
-    "food trucks",
-    "food-truck",
-    "recherche",
     "recherchons"
    ],
    "score": 90,
@@ -232,37 +232,6 @@
     "food truck",
     "food trucks",
     "recherche"
-   ],
-   "score": 80,
-   "found_at": "2026-09-29T23:11:06+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "9bb5ae16e7ba",
-   "title": "Les Pizzas de Clara - Recherche Food truck événements",
-   "summary": "Nous recherchons un emplacement situé dans un rayon de 15 km autour de Grasse. ... RECHERCHE EMPLACEMENT FOOD TRUCK – VAUCLUSE Bonjour à tous ! Je ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/1052429426732653/posts/1437767261532199/",
-   "organizer": null,
-   "city": "Grasse",
-   "dept": "06",
-   "lat": 43.65406,
-   "lon": 6.93776,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "keywords": [
-    "emplacement",
-    "food truck",
-    "recherche",
-    "recherchons"
    ],
    "score": 80,
    "found_at": "2026-09-29T23:11:06+00:00",
@@ -591,6 +560,36 @@
    ],
    "score": 65,
    "found_at": "2026-09-29T23:56:38+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "9bb5ae16e7ba",
+   "title": "Les Pizzas de Clara - Recherche Food truck événements",
+   "summary": "Recherche Food truck événements. Les pizzas de Clara5d. LES PIZZAS DE ... RECHERCHE EMPLACEMENT FOOD TRUCK – VAUCLUSE Bonjour à tous !",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/1052429426732653/posts/1437767261532199/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "keywords": [
+    "emplacement",
+    "food truck",
+    "recherche"
+   ],
+   "score": 65,
+   "found_at": "2026-09-29T23:11:06+00:00",
    "contact_checked": true
   },
   {
