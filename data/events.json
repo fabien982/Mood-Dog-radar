@@ -1,7 +1,7 @@
 {
- "updated": "2026-09-30T23:12:34+00:00",
- "count": 78,
- "new_count": 0,
+ "updated": "2026-10-01T05:27:39+00:00",
+ "count": 85,
+ "new_count": 11,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -9,30 +9,63 @@
   },
   "Alertes Google": {
    "ok": true,
-   "found": 1
+   "found": 0
   },
   "Recherche web": {
    "ok": true,
-   "found": 0
+   "found": 32
   },
   "Pages surveillées": {
    "ok": true,
-   "found": 20,
+   "found": 21,
    "errors": []
   }
  },
  "web_runs": {
-  "Candidatures": "2026-09-30",
-  "Instagram": "2026-09-30",
+  "Candidatures": "2026-10-01",
+  "Instagram": "2026-10-01",
   "Fêtes et festivals": "2026-09-30"
  },
  "events": [
   {
-   "id": "ac18238e3233",
-   "title": "Bientôt des food trucks sur la Corniche Kennedy à Marseille - mesinfos",
-   "summary": "C'est en tous cas le vœu de la mairie de Marseille qui lance un appel à manifestation d'intérêt (AMI). ... Vous pouvez envoyer votre candidature pour ...",
+   "id": "52c60762993a",
+   "title": "🚚 RECHERCHE FOOD-TRUCK – SAINT-MAXIMIN ...",
+   "summary": "RECHERCHE FOOD-TRUCK – SAINT-MAXIMIN-LA-SAINTE-BAUME Nous recherchons ... recherchons des food trucks ou traiteur type paella, méchoui, cochon ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/464711687781403/posts/2128947611357794/",
+   "organizer": null,
+   "city": "Saint-Maximin-la-Sainte-Baume",
+   "dept": "83",
+   "lat": 43.44631,
+   "lon": 5.86618,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food trucks",
+    "food-truck",
+    "recherche",
+    "recherchons"
+   ],
+   "score": 90,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "4e2d2c6c396c",
+   "title": "Bientôt des food trucks sur la Corniche Kennedy à Marseille",
+   "summary": "L'attribution de la place pour un food-truck, suite à l'appel à manifestation d'intérêt en cours, sera octroyée jusqu'au 31 décembre 2028. Soit deux ans de ...",
    "type": "Appel à candidatures",
-   "source": "Alerte Google",
+   "source": "Recherche web",
    "url": "https://mesinfos.fr/13000-marseille/bientot-des-food-trucks-sur-la-corniche-kennedy-a-marseille-339858.html",
    "organizer": null,
    "city": "Marseille",
@@ -42,7 +75,7 @@
    "approx": false,
    "deadline": null,
    "event_date": null,
-   "published": "2026-09-29",
+   "published": null,
    "contact": {
     "emails": [],
     "phones": [],
@@ -52,11 +85,11 @@
    "via": null,
    "keywords": [
     "appel à manifestation d'intérêt",
-    "candidature",
-    "food trucks"
+    "food trucks",
+    "food-truck"
    ],
    "score": 90,
-   "found_at": "2026-09-30T05:27:39+00:00",
+   "found_at": "2026-10-01T05:27:39+00:00",
    "contact_checked": true
   },
   {
@@ -97,6 +130,41 @@
    "contact_checked": true
   },
   {
+   "id": "47ceb1d3ac3d",
+   "title": "STAGE INITIATION HANDPAN FREJUS",
+   "summary": "24 Oct 2026 STAGE INITIATION HANDPAN FREJUS Envie de découvrir le handpan ? Découvrez cet instrument magique lors d'une journée d'initiation: secrets de fabrication avec Koan, voyage sonore et concert ! Instrument fourni, aucun niveau requis. Places limitées à 10 personnes. Réservez vite ! Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/stage-initiation-handpan-frejus-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-24",
+   "published": null,
+   "contact": {
+    "emails": [
+     "info@keapan.com"
+    ],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert",
+    "journée"
+   ],
+   "score": 90,
+   "found_at": "2026-10-01T05:27:39+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "7e4a0944dbed",
    "title": "lankaises, créoles, burgers, tartes flambées,… sans oublier ...",
    "summary": "APPEL À CANDIDATURES – FOOD TRUCKS 2026 ! ... Aimé Garnier ▻ Les Animations du Golfe de Saint-Tropez ... Un food truck bières artisanales Bière Truck ...",
@@ -126,39 +194,6 @@
    ],
    "score": 90,
    "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "52c60762993a",
-   "title": "🚚 RECHERCHE FOOD-TRUCK – SAINT-MAXIMIN ...",
-   "summary": "RECHERCHE FOOD-TRUCK – SAINT-MAXIMIN-LA-SAINTE-BAUME Nous recherchons ... recherchons des food trucks ou traiteur type paella, méchoui, cochon ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/464711687781403/posts/2128947611357794/",
-   "organizer": null,
-   "city": "Saint-Maximin-la-Sainte-Baume",
-   "dept": "83",
-   "lat": 43.44631,
-   "lon": 5.86618,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food trucks",
-    "food-truck",
-    "recherche",
-    "recherchons"
-   ],
-   "score": 90,
-   "found_at": "2026-09-29T23:11:06+00:00",
    "contact_checked": true
   },
   {
@@ -298,6 +333,38 @@
    "contact_checked": true
   },
   {
+   "id": "4dbfa2ea7715",
+   "title": "En place sur la marche de Garéoult, nouvelle place cette ...",
+   "summary": "Aujourd'hui c'est festival de food truck et stand artisanaux à Fabrègues de 10h 18h ... NOUVEAU MARCHÉ 100 % LOCAL – APPEL À CANDIDATURES !",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.instagram.com/reel/Dd3DVLgjL6z/",
+   "organizer": null,
+   "city": "Garéoult",
+   "dept": "83",
+   "lat": 43.33631,
+   "lon": 6.04314,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Instagram",
+   "keywords": [
+    "appel à candidatures",
+    "festival",
+    "food truck"
+   ],
+   "score": 80,
+   "found_at": "2026-10-01T05:27:39+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "58291e06d858",
    "title": "Brocante et vide-grenier Pierrefeu-du-Var (83390)",
    "summary": "11 Octobre 2026 · Hyères Puces st nicolas · Hyères Vide grenier centr'azur · Néoules Vide grenier brocante · Carqueiranne Vide-greniers - brocante · La Valette-du- ...",
@@ -425,37 +492,6 @@
    "contact_checked": true
   },
   {
-   "id": "67ca020ac41e",
-   "title": "Brocante et vide-grenier Fréjus (83370) - Septembre 2026",
-   "summary": "28 Septembre 2026. Grimaud Brocante de port-grimaud ; 29 Septembre 2026. Saint-Raphaël Brocante professionnelle ; 30 Septembre 2026. Sainte-Maxime Brocante.",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://brocabrac.fr/83/frejus/septembre/",
-   "organizer": null,
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-09-30",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "brocante",
-    "vide-grenier"
-   ],
-   "score": 80,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "1f7ce1d2d1c2",
    "title": "Brocante et vide-grenier Saint-Tropez (83990)",
    "summary": "04 Octobre 2026 · Grimaud Brocante - vide grenier · Puget-sur-Argens Vide greniers - parking carrefour · Le Luc Vide grenier - brocante · Draguignan Vide maison.",
@@ -484,6 +520,287 @@
    ],
    "score": 80,
    "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "30a02e913fbf",
+   "title": "Logis de la Chabotterie",
+   "summary": "... appel à candidatures. Nous avons hâte de découvrir vos créations ! #Hyères ... food truck et bien d'autres surprises ! Vernissage musical de 11h à ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/Logis.de.la.Chabotterie/posts/-envie-de-cr%C3%A9er-%C3%A0-votre-tour-lors-des-journ%C3%A9es-europ%C3%A9ennes-du-patrimoine-le-logi/1517776823727970/",
+   "organizer": null,
+   "city": "Hyères",
+   "dept": "83",
+   "lat": 43.11673,
+   "lon": 6.20255,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "appel à candidatures",
+    "food truck"
+   ],
+   "score": 75,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "76880c572ae4",
+   "title": "🤝 Un don pour Mission Harpon ! Nous sommes heureux d'avoir ...",
+   "summary": "... Saint-Tropez and 4 others at Cogolin - Golf De St Tropez. ... Food Truck sur place Parking gratuit 🎟️ ... APPEL À CANDIDATURES – Salon de la Gourmandise ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/203174439802208/posts/28066606176365660/",
+   "organizer": null,
+   "city": "Saint-Tropez",
+   "dept": "83",
+   "lat": 43.26495,
+   "lon": 6.65812,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "appel à candidatures",
+    "food truck"
+   ],
+   "score": 75,
+   "found_at": "2026-10-01T05:27:39+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "fd507d392b57",
+   "title": "Samedi 21 novembre , la Run Disco Party au Golf du Bassin Bleu !",
+   "summary": "#journéesdupatrimoine #jep2026 - in Ville de Saint- Tropez. ... Food Truck sur place Parking gratuit 🎟️ ... APPEL À CANDIDATURES – Salon de la ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/203174439802208/posts/28109182725441338/",
+   "organizer": null,
+   "city": "Saint-Tropez",
+   "dept": "83",
+   "lat": 43.26495,
+   "lon": 6.65812,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "appel à candidatures",
+    "food truck"
+   ],
+   "score": 75,
+   "found_at": "2026-10-01T05:27:39+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "e5f740f16568",
+   "title": "Bonjour,",
+   "summary": "Recherche food truck sucré – Anniversaire ... Bonjour, je recherche des food trucks sur la ... Anonymous participant ▻ Tu sais que tu viens des Alpes-Maritimes ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/488396098211880/posts/2836100683441398/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "food trucks",
+    "recherche"
+   ],
+   "score": 75,
+   "found_at": "2026-10-01T05:27:39+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "5432199f13b1",
+   "title": "Pas de service ce midi food truck en panne",
+   "summary": "Recherche Food truck événements. la crêpe qui roule5d. Pas de service ce midi ... Le Camion Bleu Foodtruck Barcelonnette ▻ Alpes-de-Haute-Provence | Entre Ciel ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/1052429426732653/posts/1445472387428353/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "foodtruck",
+    "recherche"
+   ],
+   "score": 75,
+   "found_at": "2026-09-30T00:21:22+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "24ffc84c3d6e",
+   "title": "Food-trucks à Marseille : la Ville lance un appel ...",
+   "summary": "Les professionnels de la restauration ambulante sont invités à candidater ... La Ville de Marseille ouvre un nouvel appel à manifestation d'intérêt ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.petitesaffiches.fr/actualites,069/economie,045/food-trucks-a-marseille-la-ville,46153.html?lang=fr",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "restauration ambulante"
+   ],
+   "score": 75,
+   "found_at": "2026-09-30T05:27:39+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "ff2c97113b03",
+   "title": "Food-trucks à Marseille : la Ville lance un appel ...",
+   "summary": "Les professionnels de la restauration ambulante sont invités à candidater ... La Ville de Marseille ouvre un nouvel appel à manifestation d'intérêt ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.petitesaffiches.fr/actualites,069/economie,045/food-trucks-a-marseille-la-ville,46153.html",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "restauration ambulante"
+   ],
+   "score": 75,
+   "found_at": "2026-09-30T00:21:22+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "543014d56a6a",
+   "title": "Ville de Saint Hilaire de Riez",
+   "summary": "Appel à manifestation d'intérêt – Marché du Village de Noël] Et si vous ... restauration ambulante. Au programme : marché artisanal, animations, Père ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/sainthilairederiez/posts/-appel-%C3%A0-manifestation-dint%C3%A9r%C3%AAt-march%C3%A9-du-village-de-no%C3%ABlet-si-vous-participiez-/1541148218054672/",
+   "organizer": null,
+   "city": "Riez",
+   "dept": "04",
+   "lat": 43.8182,
+   "lon": 6.08304,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "restauration ambulante"
+   ],
+   "score": 75,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "0d452955d7fc",
+   "title": "Magazine de la Ville de Roquebrune ...",
+   "summary": "d'occupation du domaine public (foires et marchés) – Présidence de la ... Et pour celles et ceux qui s'at- tardent en promenade, le food truck aux ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.roquebrune-cap-martin.fr/epublications/16104-site-officiel.htm?download=7505",
+   "organizer": null,
+   "city": "Roquebrune-sur-Argens",
+   "dept": "83",
+   "lat": 43.42692,
+   "lon": 6.66176,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "food truck",
+    "occupation du domaine public"
+   ],
+   "score": 75,
+   "found_at": "2026-10-01T05:27:39+00:00",
    "contact_checked": true
   },
   {
@@ -725,159 +1042,36 @@
    "contact_checked": true
   },
   {
-   "id": "30a02e913fbf",
-   "title": "Logis de la Chabotterie",
-   "summary": "... appel à candidatures. Nous avons hâte de découvrir vos créations ! #Hyères ... food truck et bien d'autres surprises ! Vernissage musical de 11h à ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/Logis.de.la.Chabotterie/posts/-envie-de-cr%C3%A9er-%C3%A0-votre-tour-lors-des-journ%C3%A9es-europ%C3%A9ennes-du-patrimoine-le-logi/1517776823727970/",
-   "organizer": null,
-   "city": "Hyères",
+   "id": "8961c5399959",
+   "title": "Festival de la craie",
+   "summary": "17 Oct 2026 Festival de la craie 17e édition du Festival de la craie. Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/festival-de-la-craie-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
    "dept": "83",
-   "lat": 43.11673,
-   "lon": 6.20255,
+   "lat": 43.44268,
+   "lon": 6.84991,
    "approx": false,
    "deadline": null,
-   "event_date": null,
+   "event_date": "2026-10-17",
    "published": null,
    "contact": {
     "emails": [],
-    "phones": [],
+    "phones": [
+     "04 98 11 89 00",
+     "04 94 19 10 60"
+    ],
     "forms": []
    },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "appel à candidatures",
-    "food truck"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "5432199f13b1",
-   "title": "Pas de service ce midi food truck en panne",
-   "summary": "Recherche Food truck événements. la crêpe qui roule5d. Pas de service ce midi ... Le Camion Bleu Foodtruck Barcelonnette ▻ Alpes-de-Haute-Provence | Entre Ciel ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/1052429426732653/posts/1445472387428353/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "foodtruck",
-    "recherche"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T00:21:22+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "24ffc84c3d6e",
-   "title": "Food-trucks à Marseille : la Ville lance un appel ...",
-   "summary": "Les professionnels de la restauration ambulante sont invités à candidater ... La Ville de Marseille ouvre un nouvel appel à manifestation d'intérêt ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.petitesaffiches.fr/actualites,069/economie,045/food-trucks-a-marseille-la-ville,46153.html?lang=fr",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
+   "mode": "evenements",
    "via": null,
    "keywords": [
-    "appel à manifestation d'intérêt",
-    "restauration ambulante"
+    "festival"
    ],
    "score": 75,
-   "found_at": "2026-09-30T05:27:39+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "ff2c97113b03",
-   "title": "Food-trucks à Marseille : la Ville lance un appel ...",
-   "summary": "Les professionnels de la restauration ambulante sont invités à candidater ... La Ville de Marseille ouvre un nouvel appel à manifestation d'intérêt ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.petitesaffiches.fr/actualites,069/economie,045/food-trucks-a-marseille-la-ville,46153.html",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "restauration ambulante"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T00:21:22+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "543014d56a6a",
-   "title": "Ville de Saint Hilaire de Riez",
-   "summary": "Appel à manifestation d'intérêt – Marché du Village de Noël] Et si vous ... restauration ambulante. Au programme : marché artisanal, animations, Père ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/sainthilairederiez/posts/-appel-%C3%A0-manifestation-dint%C3%A9r%C3%AAt-march%C3%A9-du-village-de-no%C3%ABlet-si-vous-participiez-/1541148218054672/",
-   "organizer": null,
-   "city": "Riez",
-   "dept": "04",
-   "lat": 43.8182,
-   "lon": 6.08304,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "restauration ambulante"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T10:17:04+00:00",
+   "found_at": "2026-10-01T05:27:39+00:00",
    "contact_checked": true
   },
   {
@@ -984,6 +1178,315 @@
    "contact_checked": true
   },
   {
+   "id": "3831763cdcb3",
+   "title": "Cagnes sur Mer (@salonhabitatcagnessurmer)",
+   "summary": "Bonjour, Nous recherchons des food trucks pour ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.instagram.com/salonhabitatcagnessurmer/",
+   "organizer": null,
+   "city": "La Seyne-sur-Mer",
+   "dept": "83",
+   "lat": 43.09333,
+   "lon": 5.87965,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Instagram",
+   "keywords": [
+    "food trucks",
+    "recherchons"
+   ],
+   "score": 70,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "0841421641f7",
+   "title": "Saint Raphaël, septembre 2026",
+   "summary": "RECHERCHE FOOD TRUCK – SAISON 2026 Le Domaine de Valescure à Saint ... Saint-Raphaël et Fréjus, mené conjointement avec la Ville de Fréjus. Suivi d ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/saintraphaelvar/posts/2017815455550428/",
+   "organizer": null,
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "f5b45e38d571",
+   "title": "2 places pour Aqualand valables jusqu'à la fin de saison ...",
+   "summary": "... Saint Raphaël- Frejus quand...... 32w · Public · RECHERCHE FOOD TRUCK – SAISON 2026 Le Domaine de Valescure à Saint Raphaël est à la recherche d'un ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/2151317428505616/posts/4257738227863515/",
+   "organizer": null,
+   "city": "Fréjus",
+   "dept": "83",
+   "lat": 43.44566,
+   "lon": 6.77051,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-10-01T05:27:39+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "2233eb679ccc",
+   "title": "Sagasdom 2026 Le salon dd la gastronomie des outre mer ...",
+   "summary": "Recherche Food Truck – Salon du Mariage du Domaine Meryt Dans le cadre ... Aimé Garnier ▻ Les Animations du Golfe de Saint-Tropez. 23w · Public ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/babette.derozieres/posts/sagasdom-2026le-salon-dd-la-gastronomie-des-outre-mer-f%C3%AAte-ses-10-ans-je-vous-at/10239224254122067/",
+   "organizer": null,
+   "city": "Saint-Tropez",
+   "dept": "83",
+   "lat": 43.26495,
+   "lon": 6.65812,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "376c40b12ef6",
+   "title": "Les cuisinière 4 f disponible le 08/09/2026",
+   "summary": "May be an image of text that says 'RECHERCHE FOOD TRUCK'. LaPetite Daisy and ... S'telle Nobecourt ▻ Les annonces du golfe de Saint Tropez et d'ailleurs.",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/zeghoudi13/posts/les-cuisini%C3%A8re-4-f-disponible-le-08092026/1405607731552941/",
+   "organizer": null,
+   "city": "Saint-Tropez",
+   "dept": "83",
+   "lat": 43.26495,
+   "lon": 6.65812,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "f8b39e05f362",
+   "title": "Vide grenier à St Saturnin Retrouver votre Food truck",
+   "summary": "Recherche Food Truck – Forum des Associations-vide grenier Saint Mammes ... golfe de st tropez a grimaud dans le var le mardi soir. Le mardi soir ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/cantalauvergne.legroupe/posts/2204274803451343/",
+   "organizer": null,
+   "city": "Grimaud",
+   "dept": "83",
+   "lat": 43.28228,
+   "lon": 6.54503,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "7b7d421e7327",
+   "title": "Ciao Gusto qualite ด์ REMORQUE ÉQUIPÉE& & CLÉEN ...",
+   "summary": "... Golfe de Saint Tropez. May be an image of ‎text that says '‎Mariné جت ... Recherche food truck camion ou remorque avec carte grise vasp Glace crepes gauffre.",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/1440985121067303/posts/1634301818402298/",
+   "organizer": null,
+   "city": "Saint-Tropez",
+   "dept": "83",
+   "lat": 43.26495,
+   "lon": 6.65812,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "1e79bb13ffd1",
+   "title": "Ce dimanche 6 septembre 2026, le couple a célébré l' ...",
+   "summary": "Léa Goutard ▻ Mariage Loire 42/43. 25w · Public · Recherche FOOD TRUCK ... Indira Toprek ▻ Saint-Tropez, Golfe de St- Tropez & Plus, Groupe [ i ♥️ ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/gala.fr/posts/ce-dimanche-6-septembre-2026-le-couple-a-c%C3%A9l%C3%A9br%C3%A9-lanniversaire-de-son-m%C3%A2le-dans-/1566624988836213/",
+   "organizer": null,
+   "city": "Saint-Tropez",
+   "dept": "83",
+   "lat": 43.26495,
+   "lon": 6.65812,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "1ce52eb92bea",
+   "title": "Bonjour, je viens de rejoindre ce groupe car pour notre ...",
+   "summary": "Je recherche également un food truck, de préférence crêpes et galettes! ... Handicap & alors ▻ Département des Alpes de Haute Provence (04) (France). 6d ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/280569647653654/posts/1093141453063132/",
+   "organizer": null,
+   "city": null,
+   "dept": "04",
+   "lat": 44.09,
+   "lon": 6.24,
+   "approx": true,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-09-30T00:21:22+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "be3cf4bc3050",
+   "title": "La magie de Noël se prépare déjà à Valdeblore ! ...",
+   "summary": "Artisans, créateurs, producteurs locaux et food trucks, venez participer à cette belle journée et faire vivre la magie de Noël à Valdeblore. Candidatures avant ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.instagram.com/p/DdOSBu_Nm7M/",
+   "organizer": null,
+   "city": "Valdeblore",
+   "dept": "06",
+   "lat": 44.06806,
+   "lon": 7.1798,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Instagram",
+   "keywords": [
+    "food trucks"
+   ],
+   "score": 70,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "95f8b1c1a63e",
    "title": "Spartan Race Estérel Côte d'Azur",
    "summary": "02 Oct 2026 au 04 Oct 2026 Spartan Race Estérel Côte d'Azur The most famous obstacle course race is coming to Saint-Raphaël in October! Three races for a trifecta that promises to be incredible. Sign up now! Saint-Raphaël",
@@ -1047,38 +1550,6 @@
    "via": null,
    "keywords": [
     "soirée"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "adf7c8463439",
-   "title": "La Marche Rose sous les etoiles - 2eme edition",
-   "summary": "03 Oct 2026 La Marche Rose sous les etoiles - 2eme edition La Marche Rose sous les Étoiles, organisée par l’Association Les Raphaëloises pour accompagner les femmes touchées par un cancer du sein. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/la-marche-rose-sous-les-etoiles-2eme-edition-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-03",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "marché"
    ],
    "score": 70,
    "found_at": "2026-09-30T10:17:04+00:00",
@@ -1177,39 +1648,6 @@
    "via": null,
    "keywords": [
     "journée"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "755b1750bf25",
-   "title": "Loto Octobre Rose Lions Club",
-   "summary": "10 Oct 2026 Loto Octobre Rose Lions Club Le Lions Club Saint-Raphaël Côte d'Azur vous propose une soirée placée sous le signe de la chance et de la solidarité. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/loto-octobre-rose-lions-club/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-10",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "07 86 08 26 71",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "soirée"
    ],
    "score": 70,
    "found_at": "2026-09-30T10:17:04+00:00",
@@ -1317,65 +1755,36 @@
    "contact_checked": true
   },
   {
-   "id": "3831763cdcb3",
-   "title": "Cagnes sur Mer (@salonhabitatcagnessurmer)",
-   "summary": "Bonjour, Nous recherchons des food trucks pour ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.instagram.com/salonhabitatcagnessurmer/",
-   "organizer": null,
-   "city": "La Seyne-sur-Mer",
-   "dept": "83",
-   "lat": 43.09333,
-   "lon": 5.87965,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Instagram",
-   "keywords": [
-    "food trucks",
-    "recherchons"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "0841421641f7",
-   "title": "Saint Raphaël, septembre 2026",
-   "summary": "RECHERCHE FOOD TRUCK – SAISON 2026 Le Domaine de Valescure à Saint ... Saint-Raphaël et Fréjus, mené conjointement avec la Ville de Fréjus. Suivi d ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/saintraphaelvar/posts/2017815455550428/",
-   "organizer": null,
+   "id": "a4a6a042f210",
+   "title": "Salon des Minéraux de Saint-Raphaël",
+   "summary": "24 Oct 2026 au 25 Oct 2026 Salon des Minéraux de Saint-Raphaël 25ème édition : Cristaux, Fossiles, Gemmes, Météorites, Bijoux et Bien-être Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/salon-des-mineraux-de-saint-raphael-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
    "city": "Saint-Raphaël",
    "dept": "83",
    "lat": 43.44268,
    "lon": 6.84991,
    "approx": false,
    "deadline": null,
-   "event_date": null,
+   "event_date": "2026-10-24",
    "published": null,
    "contact": {
     "emails": [],
-    "phones": [],
+    "phones": [
+     "06 47 73 89 25",
+     "04 94 19 10 60"
+    ],
     "forms": []
    },
-   "mode": "demandes",
-   "via": "Facebook",
+   "mode": "evenements",
+   "via": null,
    "keywords": [
-    "food truck",
-    "recherche"
+    "salon"
    ],
    "score": 70,
-   "found_at": "2026-09-30T10:17:04+00:00",
+   "found_at": "2026-10-01T05:27:39+00:00",
    "contact_checked": true
   },
   {
@@ -1404,222 +1813,6 @@
    "keywords": [
     "food truck",
     "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "2233eb679ccc",
-   "title": "Sagasdom 2026 Le salon dd la gastronomie des outre mer ...",
-   "summary": "Recherche Food Truck – Salon du Mariage du Domaine Meryt Dans le cadre ... Aimé Garnier ▻ Les Animations du Golfe de Saint-Tropez. 23w · Public ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/babette.derozieres/posts/sagasdom-2026le-salon-dd-la-gastronomie-des-outre-mer-f%C3%AAte-ses-10-ans-je-vous-at/10239224254122067/",
-   "organizer": null,
-   "city": "Saint-Tropez",
-   "dept": "83",
-   "lat": 43.26495,
-   "lon": 6.65812,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "7b7d421e7327",
-   "title": "Ciao Gusto qualite ด์ REMORQUE ÉQUIPÉE& & CLÉEN ...",
-   "summary": "... Golfe de Saint Tropez. May be an image of ‎text that says '‎Mariné جت ... Recherche food truck camion ou remorque avec carte grise vasp Glace crepes gauffre.",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/1440985121067303/posts/1634301818402298/",
-   "organizer": null,
-   "city": "Saint-Tropez",
-   "dept": "83",
-   "lat": 43.26495,
-   "lon": 6.65812,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "376c40b12ef6",
-   "title": "Les cuisinière 4 f disponible le 08/09/2026",
-   "summary": "May be an image of text that says 'RECHERCHE FOOD TRUCK'. LaPetite Daisy and ... S'telle Nobecourt ▻ Les annonces du golfe de Saint Tropez et d'ailleurs.",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/zeghoudi13/posts/les-cuisini%C3%A8re-4-f-disponible-le-08092026/1405607731552941/",
-   "organizer": null,
-   "city": "Saint-Tropez",
-   "dept": "83",
-   "lat": 43.26495,
-   "lon": 6.65812,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "f8b39e05f362",
-   "title": "Vide grenier à St Saturnin Retrouver votre Food truck",
-   "summary": "Recherche Food Truck – Forum des Associations-vide grenier Saint Mammes ... golfe de st tropez a grimaud dans le var le mardi soir. Le mardi soir ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/cantalauvergne.legroupe/posts/2204274803451343/",
-   "organizer": null,
-   "city": "Grimaud",
-   "dept": "83",
-   "lat": 43.28228,
-   "lon": 6.54503,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "1e79bb13ffd1",
-   "title": "Ce dimanche 6 septembre 2026, le couple a célébré l' ...",
-   "summary": "Léa Goutard ▻ Mariage Loire 42/43. 25w · Public · Recherche FOOD TRUCK ... Indira Toprek ▻ Saint-Tropez, Golfe de St- Tropez & Plus, Groupe [ i ♥️ ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/gala.fr/posts/ce-dimanche-6-septembre-2026-le-couple-a-c%C3%A9l%C3%A9br%C3%A9-lanniversaire-de-son-m%C3%A2le-dans-/1566624988836213/",
-   "organizer": null,
-   "city": "Saint-Tropez",
-   "dept": "83",
-   "lat": 43.26495,
-   "lon": 6.65812,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "1ce52eb92bea",
-   "title": "Bonjour, je viens de rejoindre ce groupe car pour notre ...",
-   "summary": "Je recherche également un food truck, de préférence crêpes et galettes! ... Handicap & alors ▻ Département des Alpes de Haute Provence (04) (France). 6d ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/280569647653654/posts/1093141453063132/",
-   "organizer": null,
-   "city": null,
-   "dept": "04",
-   "lat": 44.09,
-   "lon": 6.24,
-   "approx": true,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T00:21:22+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "be3cf4bc3050",
-   "title": "La magie de Noël se prépare déjà à Valdeblore ! ...",
-   "summary": "Artisans, créateurs, producteurs locaux et food trucks, venez participer à cette belle journée et faire vivre la magie de Noël à Valdeblore. Candidatures avant ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.instagram.com/p/DdOSBu_Nm7M/",
-   "organizer": null,
-   "city": "Valdeblore",
-   "dept": "06",
-   "lat": 44.06806,
-   "lon": 7.1798,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Instagram",
-   "keywords": [
-    "food trucks"
    ],
    "score": 70,
    "found_at": "2026-09-30T10:17:04+00:00",
@@ -1879,6 +2072,37 @@
    ],
    "score": 60,
    "found_at": "2026-09-30T00:21:22+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "0319f2dff2b6",
+   "title": "👋 Bonjour à tous !",
+   "summary": "Anonymous participant ▻ Tu sais que tu viens des Alpes-Maritimes quand... 44w · Public ... Thaïs Nivaille ▻ Recherche Food truck événements. 4w · Public.",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/cestnormalaseraing/posts/2140592356589142/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 60,
+   "found_at": "2026-10-01T05:27:39+00:00",
    "contact_checked": true
   },
   {

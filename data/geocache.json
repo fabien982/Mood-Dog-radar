@@ -610,5 +610,27 @@
   "lon": 5.57825,
   "city": "Céreste-en-Luberon",
   "dept": "04"
+ },
+ "zone:gareoult": {
+  "lat": 43.33631,
+  "lon": 6.04314,
+  "city": "Garéoult",
+  "dept": "83"
+ },
+ "zone:noel du triadou": null,
+ "zone:golf du bassin bleu": null,
+ "zone:saint- tropez": {
+  "lat": 43.26495,
+  "lon": 6.65812,
+  "city": "Saint-Tropez",
+  "dept": "83"
+ },
+ "zone:haute-savoie": null,
+ "zone:centre": null,
+ "zone:roquebrune": {
+  "lat": 43.42692,
+  "lon": 6.66176,
+  "city": "Roquebrune-sur-Argens",
+  "dept": "83"
  }
 }
