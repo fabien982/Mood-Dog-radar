@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-01T15:24:16+00:00",
+ "updated": "2026-10-01T15:26:52+00:00",
  "count": 85,
  "new_count": 0,
  "sources": {
@@ -13,7 +13,8 @@
   },
   "Recherche web": {
    "ok": true,
-   "found": 0
+   "found": 0,
+   "note": "recherche web faite le matin seulement (économise le quota)"
   },
   "Pages surveillées": {
    "ok": true,
