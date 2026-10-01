@@ -632,5 +632,11 @@
   "lon": 6.66176,
   "city": "Roquebrune-sur-Argens",
   "dept": "83"
+ },
+ "gareoult": {
+  "lat": 43.33631,
+  "lon": 6.04314,
+  "city": "Garéoult",
+  "dept": "83"
  }
 }
