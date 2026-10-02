@@ -654,5 +654,12 @@
   "lon": 5.06204,
   "city": "Salon-de-Provence",
   "dept": "13"
+ },
+ "zone:l'isle d'abeau": null,
+ "cap-d'ail": {
+  "lat": 43.72615,
+  "lon": 7.39889,
+  "city": "Cap-d'Ail",
+  "dept": "06"
  }
 }
