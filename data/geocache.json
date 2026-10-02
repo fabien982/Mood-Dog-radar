@@ -638,5 +638,21 @@
   "lon": 6.04314,
   "city": "Garéoult",
   "dept": "83"
+ },
+ "zone:cap": {
+  "lat": 43.72615,
+  "lon": 7.39889,
+  "city": "Cap-d'Ail",
+  "dept": "06"
+ },
+ "zone:saint germain sur morin": null,
+ "zone:la sauvetat de saveres": null,
+ "zone:nord": null,
+ "zone:bien-etre de bois-guillaume suite": null,
+ "zone:salon": {
+  "lat": 43.6377,
+  "lon": 5.06204,
+  "city": "Salon-de-Provence",
+  "dept": "13"
  }
 }
