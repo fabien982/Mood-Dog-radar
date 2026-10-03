@@ -661,5 +661,7 @@
   "lon": 7.39889,
   "city": "Cap-d'Ail",
   "dept": "06"
- }
+ },
+ "zone:noel de terre d'eveil": null,
+ "zone:montfavet": null
 }
