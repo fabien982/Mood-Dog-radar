@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-04T09:18:55+00:00",
+ "updated": "2026-10-04T11:03:18+00:00",
  "count": 94,
- "new_count": 2,
+ "new_count": 0,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -13,7 +13,7 @@
   },
   "Recherche web": {
    "ok": true,
-   "found": 30
+   "found": 0
   },
   "Pages surveillées": {
    "ok": true,
@@ -27,71 +27,6 @@
   "Fêtes et festivals": "2026-09-30"
  },
  "events": [
-  {
-   "id": "52c60762993a",
-   "title": "🚚 RECHERCHE FOOD-TRUCK – SAINT-MAXIMIN ...",
-   "summary": "RECHERCHE FOOD-TRUCK – SAINT-MAXIMIN-LA-SAINTE-BAUME Nous recherchons ... recherchons des food trucks ou traiteur type paella, méchoui, cochon ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/464711687781403/posts/2128947611357794/",
-   "organizer": null,
-   "city": "Saint-Maximin-la-Sainte-Baume",
-   "dept": "83",
-   "lat": 43.44631,
-   "lon": 5.86618,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food trucks",
-    "food-truck",
-    "recherche",
-    "recherchons"
-   ],
-   "score": 90,
-   "found_at": "2026-09-29T23:11:06+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "4e2d2c6c396c",
-   "title": "Bientôt des food trucks sur la Corniche Kennedy à Marseille",
-   "summary": "L'attribution de la place pour un food-truck, suite à l'appel à manifestation d'intérêt en cours, sera octroyée jusqu'au 31 décembre 2028. Soit deux ans de ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://mesinfos.fr/13000-marseille/bientot-des-food-trucks-sur-la-corniche-kennedy-a-marseille-339858.html",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "food trucks",
-    "food-truck"
-   ],
-   "score": 90,
-   "found_at": "2026-10-01T05:27:39+00:00",
-   "contact_checked": true
-  },
   {
    "id": "082ff2b5094f",
    "title": "Les Itinérantes X Sacrée Musique",
@@ -194,6 +129,71 @@
    "keywords": [
     "concert",
     "journée"
+   ],
+   "score": 90,
+   "found_at": "2026-10-01T05:27:39+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "52c60762993a",
+   "title": "🚚 RECHERCHE FOOD-TRUCK – SAINT-MAXIMIN ...",
+   "summary": "RECHERCHE FOOD-TRUCK – SAINT-MAXIMIN-LA-SAINTE-BAUME Nous recherchons ... recherchons des food trucks ou traiteur type paella, méchoui, cochon ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/464711687781403/posts/2128947611357794/",
+   "organizer": null,
+   "city": "Saint-Maximin-la-Sainte-Baume",
+   "dept": "83",
+   "lat": 43.44631,
+   "lon": 5.86618,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food trucks",
+    "food-truck",
+    "recherche",
+    "recherchons"
+   ],
+   "score": 90,
+   "found_at": "2026-09-29T23:11:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "4e2d2c6c396c",
+   "title": "Bientôt des food trucks sur la Corniche Kennedy à Marseille",
+   "summary": "L'attribution de la place pour un food-truck, suite à l'appel à manifestation d'intérêt en cours, sera octroyée jusqu'au 31 décembre 2028. Soit deux ans de ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://mesinfos.fr/13000-marseille/bientot-des-food-trucks-sur-la-corniche-kennedy-a-marseille-339858.html",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "food trucks",
+    "food-truck"
    ],
    "score": 90,
    "found_at": "2026-10-01T05:27:39+00:00",
@@ -592,6 +592,279 @@
    "contact_checked": true
   },
   {
+   "id": "834430b1cd3b",
+   "title": "Festival international de la photographie surréaliste & créative de Fréjus",
+   "summary": "04 Oct 2026 Festival international de la photographie surréaliste & créative de Fréjus Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/festival-international-de-la-photographie-surrealiste-creative-de-frejus-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-04",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival"
+   ],
+   "score": 75,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "b901b9b4b2de",
+   "title": "Roc d'Azur",
+   "summary": "07 Oct 2026 au 11 Oct 2026 Roc d'Azur Since the very first Roc d’Azur organised in 1984 by Stéphane Hauvette with just 7 competitors, the event has continually grown into a 5-day festival which attracts over 20,000 participants, 300 exhibitors and 100,000 visitors! Les Issambres (Roquebrune sur Argens)",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/roc-dazur/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-07",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 19 89 89",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival"
+   ],
+   "score": 75,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "e5814a5d4718",
+   "title": "Festival du rire : Cash",
+   "summary": "09 Oct 2026 Festival du rire : Cash Découvrez la toute nouvelle comédie de l’auteur du « Bar des Grandes Gueules » et « Du Rififi à la Morgue » proposée par l'association Les Estérelles, dans le cadre du Festival du Rire à Saint-Raphaël. Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/festival-du-rire-cash-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-09",
+   "published": null,
+   "contact": {
+    "emails": [
+     "billetterie@ville-saintraphael.fr"
+    ],
+    "phones": [
+     "04 98 11 89 00",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival"
+   ],
+   "score": 75,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "d52b2791fa15",
+   "title": "CINE CONCERT \"THE SWINGSON SWING\" AU CINEMA LE VOX",
+   "summary": "09 Oct 2026 CINE CONCERT \"THE SWINGSON SWING\" AU CINEMA LE VOX Concert (LES SWINGSONS) + film (SWING de Tony GATLIF) Featuring LOUIS THOMAS Hommage a Tony GATLIF, cinéaste de la liberté, de l'exil et de la musique Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/cine-concert-the-swingson-swing-au-cinema-le-vox-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-09",
+   "published": null,
+   "contact": {
+    "emails": [
+     "cinemalevox@gmail.com"
+    ],
+    "phones": [
+     "04 94 51 15 11",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "score": 75,
+   "found_at": "2026-10-03T05:35:37+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "536f3438ab2d",
+   "title": "Concert - Back To The Police",
+   "summary": "16 Oct 2026 Concert - Back To The Police Back To The Police - Tribute Puget-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/concert-back-to-the-police/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Puget-sur-Argens",
+   "dept": "83",
+   "lat": 43.47045,
+   "lon": 6.68553,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-16",
+   "published": null,
+   "contact": {
+    "emails": [
+     "culture@mairie-puget-sur-argens.com"
+    ],
+    "phones": [
+     "04 94 19 61 35",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "score": 75,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "cadc40f5e387",
+   "title": "the Games Festival",
+   "summary": "17 Oct 2026 au 18 Oct 2026 the Games Festival On October 17 and 18, 2026, the Games Festival returns for an ambitious second edition, entirely dedicated to board games in all their forms, from curious beginners to expert players. Roquebrune-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/the-games-festival/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Roquebrune-sur-Argens",
+   "dept": "83",
+   "lat": 43.42692,
+   "lon": 6.66176,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-17",
+   "published": null,
+   "contact": {
+    "emails": [
+     "village@roquebrunesurargens.fr"
+    ],
+    "phones": [
+     "04 94 19 89 89",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival"
+   ],
+   "score": 75,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "8961c5399959",
+   "title": "Festival de la craie",
+   "summary": "17 Oct 2026 Festival de la craie 17e édition du Festival de la craie. Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/festival-de-la-craie-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-17",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 98 11 89 00",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival"
+   ],
+   "score": 75,
+   "found_at": "2026-10-01T05:27:39+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "b99c008cd834",
+   "title": "Festival urbain au Village Made In France",
+   "summary": "24 Oct 2026 Festival urbain au Village Made In France Une première édition qui va faire du bruit au Village Made In France ! Puget-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/festival-urbain-au-village-made-in-france-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Puget-sur-Argens",
+   "dept": "83",
+   "lat": 43.47045,
+   "lon": 6.68553,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-24",
+   "published": null,
+   "contact": {
+    "emails": [
+     "contact@levillagemadeinfrance.fr"
+    ],
+    "phones": [
+     "09 88 07 32 41",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival"
+   ],
+   "score": 75,
+   "found_at": "2026-10-03T05:35:37+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "30a02e913fbf",
    "title": "Logis de la Chabotterie",
    "summary": "... appel à candidatures. Nous avons hâte de découvrir vos créations ! #Hyères ... food truck et bien d'autres surprises ! Vernissage musical de 11h à ...",
@@ -904,279 +1177,6 @@
    "contact_checked": true
   },
   {
-   "id": "834430b1cd3b",
-   "title": "Festival international de la photographie surréaliste & créative de Fréjus",
-   "summary": "04 Oct 2026 Festival international de la photographie surréaliste & créative de Fréjus Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/festival-international-de-la-photographie-surrealiste-creative-de-frejus-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-04",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "b901b9b4b2de",
-   "title": "Roc d'Azur",
-   "summary": "07 Oct 2026 au 11 Oct 2026 Roc d'Azur Since the very first Roc d’Azur organised in 1984 by Stéphane Hauvette with just 7 competitors, the event has continually grown into a 5-day festival which attracts over 20,000 participants, 300 exhibitors and 100,000 visitors! Les Issambres (Roquebrune sur Argens)",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/roc-dazur/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-07",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 94 19 89 89",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "e5814a5d4718",
-   "title": "Festival du rire : Cash",
-   "summary": "09 Oct 2026 Festival du rire : Cash Découvrez la toute nouvelle comédie de l’auteur du « Bar des Grandes Gueules » et « Du Rififi à la Morgue » proposée par l'association Les Estérelles, dans le cadre du Festival du Rire à Saint-Raphaël. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/festival-du-rire-cash-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-09",
-   "published": null,
-   "contact": {
-    "emails": [
-     "billetterie@ville-saintraphael.fr"
-    ],
-    "phones": [
-     "04 98 11 89 00",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "d52b2791fa15",
-   "title": "CINE CONCERT \"THE SWINGSON SWING\" AU CINEMA LE VOX",
-   "summary": "09 Oct 2026 CINE CONCERT \"THE SWINGSON SWING\" AU CINEMA LE VOX Concert (LES SWINGSONS) + film (SWING de Tony GATLIF) Featuring LOUIS THOMAS Hommage a Tony GATLIF, cinéaste de la liberté, de l'exil et de la musique Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/cine-concert-the-swingson-swing-au-cinema-le-vox-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-09",
-   "published": null,
-   "contact": {
-    "emails": [
-     "cinemalevox@gmail.com"
-    ],
-    "phones": [
-     "04 94 51 15 11",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "score": 75,
-   "found_at": "2026-10-03T05:35:37+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "536f3438ab2d",
-   "title": "Concert - Back To The Police",
-   "summary": "16 Oct 2026 Concert - Back To The Police Back To The Police - Tribute Puget-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/concert-back-to-the-police/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Puget-sur-Argens",
-   "dept": "83",
-   "lat": 43.47045,
-   "lon": 6.68553,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-16",
-   "published": null,
-   "contact": {
-    "emails": [
-     "culture@mairie-puget-sur-argens.com"
-    ],
-    "phones": [
-     "04 94 19 61 35",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "cadc40f5e387",
-   "title": "the Games Festival",
-   "summary": "17 Oct 2026 au 18 Oct 2026 the Games Festival On October 17 and 18, 2026, the Games Festival returns for an ambitious second edition, entirely dedicated to board games in all their forms, from curious beginners to expert players. Roquebrune-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/the-games-festival/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-17",
-   "published": null,
-   "contact": {
-    "emails": [
-     "village@roquebrunesurargens.fr"
-    ],
-    "phones": [
-     "04 94 19 89 89",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "8961c5399959",
-   "title": "Festival de la craie",
-   "summary": "17 Oct 2026 Festival de la craie 17e édition du Festival de la craie. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/festival-de-la-craie-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-17",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 98 11 89 00",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "score": 75,
-   "found_at": "2026-10-01T05:27:39+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "b99c008cd834",
-   "title": "Festival urbain au Village Made In France",
-   "summary": "24 Oct 2026 Festival urbain au Village Made In France Une première édition qui va faire du bruit au Village Made In France ! Puget-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/festival-urbain-au-village-made-in-france-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Puget-sur-Argens",
-   "dept": "83",
-   "lat": 43.47045,
-   "lon": 6.68553,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-24",
-   "published": null,
-   "contact": {
-    "emails": [
-     "contact@levillagemadeinfrance.fr"
-    ],
-    "phones": [
-     "09 88 07 32 41",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "score": 75,
-   "found_at": "2026-10-03T05:35:37+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "d88f80702048",
    "title": "Fête de la science",
    "summary": "02 Oct 2026 au 12 Oct 2026 Fête de la science Événement national gratuit, la Fête de la science explore cette année les « Saveurs savantes », avec un programme proposé par la médiathèque. Saint-Raphaël",
@@ -1439,191 +1439,6 @@
    "via": "Instagram",
    "keywords": [
     "festival"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "3831763cdcb3",
-   "title": "Cagnes sur Mer (@salonhabitatcagnessurmer)",
-   "summary": "Bonjour, Nous recherchons des food trucks pour ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.instagram.com/salonhabitatcagnessurmer/",
-   "organizer": null,
-   "city": "La Seyne-sur-Mer",
-   "dept": "83",
-   "lat": 43.09333,
-   "lon": 5.87965,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Instagram",
-   "keywords": [
-    "food trucks",
-    "recherchons"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "2233eb679ccc",
-   "title": "Sagasdom 2026 Le salon dd la gastronomie des outre mer ...",
-   "summary": "Recherche Food Truck – Salon du Mariage du Domaine Meryt Dans le cadre ... Aimé Garnier ▻ Les Animations du Golfe de Saint-Tropez. 23w · Public ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/babette.derozieres/posts/sagasdom-2026le-salon-dd-la-gastronomie-des-outre-mer-f%C3%AAte-ses-10-ans-je-vous-at/10239224254122067/",
-   "organizer": null,
-   "city": "Saint-Tropez",
-   "dept": "83",
-   "lat": 43.26495,
-   "lon": 6.65812,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "376c40b12ef6",
-   "title": "Les cuisinière 4 f disponible le 08/09/2026",
-   "summary": "May be an image of text that says 'RECHERCHE FOOD TRUCK'. LaPetite Daisy and ... S'telle Nobecourt ▻ Les annonces du golfe de Saint Tropez et d'ailleurs.",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/zeghoudi13/posts/les-cuisini%C3%A8re-4-f-disponible-le-08092026/1405607731552941/",
-   "organizer": null,
-   "city": "Saint-Tropez",
-   "dept": "83",
-   "lat": 43.26495,
-   "lon": 6.65812,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "7b7d421e7327",
-   "title": "Ciao Gusto qualite ด์ REMORQUE ÉQUIPÉE& & CLÉEN ...",
-   "summary": "... Golfe de Saint Tropez. May be an image of ‎text that says '‎Mariné جت ... Recherche food truck camion ou remorque avec carte grise vasp Glace crepes gauffre.",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/1440985121067303/posts/1634301818402298/",
-   "organizer": null,
-   "city": "Saint-Tropez",
-   "dept": "83",
-   "lat": 43.26495,
-   "lon": 6.65812,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "f8b39e05f362",
-   "title": "Vide grenier à St Saturnin Retrouver votre Food truck",
-   "summary": "Melanie Revault ▻ Montereau-Fault-Yonne. 4w · Public · Recherche Food Truck – Forum des Associations-vide grenier Saint ... golfe de st tropez a grimaud dans ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/cantalauvergne.legroupe/posts/2204274803451343/",
-   "organizer": null,
-   "city": "Grimaud",
-   "dept": "83",
-   "lat": 43.28228,
-   "lon": 6.54503,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "be3cf4bc3050",
-   "title": "La magie de Noël se prépare déjà à Valdeblore ! ...",
-   "summary": "Artisans, créateurs, producteurs locaux et food trucks, venez participer à cette belle journée et faire vivre la magie de Noël à Valdeblore. Candidatures avant ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.instagram.com/p/DdOSBu_Nm7M/",
-   "organizer": null,
-   "city": "Valdeblore",
-   "dept": "06",
-   "lat": 44.06806,
-   "lon": 7.1798,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Instagram",
-   "keywords": [
-    "food trucks"
    ],
    "score": 70,
    "found_at": "2026-09-30T10:17:04+00:00",
@@ -1996,6 +1811,191 @@
    ],
    "score": 70,
    "found_at": "2026-10-01T05:27:39+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "3831763cdcb3",
+   "title": "Cagnes sur Mer (@salonhabitatcagnessurmer)",
+   "summary": "Bonjour, Nous recherchons des food trucks pour ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.instagram.com/salonhabitatcagnessurmer/",
+   "organizer": null,
+   "city": "La Seyne-sur-Mer",
+   "dept": "83",
+   "lat": 43.09333,
+   "lon": 5.87965,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Instagram",
+   "keywords": [
+    "food trucks",
+    "recherchons"
+   ],
+   "score": 70,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "2233eb679ccc",
+   "title": "Sagasdom 2026 Le salon dd la gastronomie des outre mer ...",
+   "summary": "Recherche Food Truck – Salon du Mariage du Domaine Meryt Dans le cadre ... Aimé Garnier ▻ Les Animations du Golfe de Saint-Tropez. 23w · Public ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/babette.derozieres/posts/sagasdom-2026le-salon-dd-la-gastronomie-des-outre-mer-f%C3%AAte-ses-10-ans-je-vous-at/10239224254122067/",
+   "organizer": null,
+   "city": "Saint-Tropez",
+   "dept": "83",
+   "lat": 43.26495,
+   "lon": 6.65812,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "376c40b12ef6",
+   "title": "Les cuisinière 4 f disponible le 08/09/2026",
+   "summary": "May be an image of text that says 'RECHERCHE FOOD TRUCK'. LaPetite Daisy and ... S'telle Nobecourt ▻ Les annonces du golfe de Saint Tropez et d'ailleurs.",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/zeghoudi13/posts/les-cuisini%C3%A8re-4-f-disponible-le-08092026/1405607731552941/",
+   "organizer": null,
+   "city": "Saint-Tropez",
+   "dept": "83",
+   "lat": 43.26495,
+   "lon": 6.65812,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "7b7d421e7327",
+   "title": "Ciao Gusto qualite ด์ REMORQUE ÉQUIPÉE& & CLÉEN ...",
+   "summary": "... Golfe de Saint Tropez. May be an image of ‎text that says '‎Mariné جت ... Recherche food truck camion ou remorque avec carte grise vasp Glace crepes gauffre.",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/1440985121067303/posts/1634301818402298/",
+   "organizer": null,
+   "city": "Saint-Tropez",
+   "dept": "83",
+   "lat": 43.26495,
+   "lon": 6.65812,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "f8b39e05f362",
+   "title": "Vide grenier à St Saturnin Retrouver votre Food truck",
+   "summary": "Melanie Revault ▻ Montereau-Fault-Yonne. 4w · Public · Recherche Food Truck – Forum des Associations-vide grenier Saint ... golfe de st tropez a grimaud dans ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/cantalauvergne.legroupe/posts/2204274803451343/",
+   "organizer": null,
+   "city": "Grimaud",
+   "dept": "83",
+   "lat": 43.28228,
+   "lon": 6.54503,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "be3cf4bc3050",
+   "title": "La magie de Noël se prépare déjà à Valdeblore ! ...",
+   "summary": "Artisans, créateurs, producteurs locaux et food trucks, venez participer à cette belle journée et faire vivre la magie de Noël à Valdeblore. Candidatures avant ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.instagram.com/p/DdOSBu_Nm7M/",
+   "organizer": null,
+   "city": "Valdeblore",
+   "dept": "06",
+   "lat": 44.06806,
+   "lon": 7.1798,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Instagram",
+   "keywords": [
+    "food trucks"
+   ],
+   "score": 70,
+   "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true
   },
   {
