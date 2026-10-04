@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-03T19:02:36+00:00",
- "count": 97,
- "new_count": 0,
+ "updated": "2026-10-04T09:18:55+00:00",
+ "count": 94,
+ "new_count": 2,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -13,91 +13,20 @@
   },
   "Recherche web": {
    "ok": true,
-   "found": 0,
-   "note": "recherche web faite le matin seulement (économise le quota)"
+   "found": 30
   },
   "Pages surveillées": {
    "ok": true,
-   "found": 26,
+   "found": 24,
    "errors": []
   }
  },
  "web_runs": {
-  "Candidatures": "2026-10-03",
-  "Instagram": "2026-10-03",
+  "Candidatures": "2026-10-04",
+  "Instagram": "2026-10-04",
   "Fêtes et festivals": "2026-09-30"
  },
  "events": [
-  {
-   "id": "082ff2b5094f",
-   "title": "Les Itinérantes X Sacrée Musique",
-   "summary": "10 Oct 2026 Les Itinérantes X Sacrée Musique Concert de la saison musicale de Sacrée Musique ! Une soirée à vivre dans le cadre exceptionnel de l'atrium de la Villa Aurélienne Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/les-itinerantes-x-sacree-musique-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-10",
-   "published": null,
-   "contact": {
-    "emails": [
-     "billetterie@sacreemusique.fr"
-    ],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert",
-    "soirée"
-   ],
-   "score": 90,
-   "found_at": "2026-10-02T05:26:58+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "47ceb1d3ac3d",
-   "title": "STAGE INITIATION HANDPAN FREJUS",
-   "summary": "24 Oct 2026 STAGE INITIATION HANDPAN FREJUS Envie de découvrir le handpan ? Découvrez cet instrument magique lors d'une journée d'initiation: secrets de fabrication avec Koan, voyage sonore et concert ! Instrument fourni, aucun niveau requis. Places limitées à 10 personnes. Réservez vite ! Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/stage-initiation-handpan-frejus-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-24",
-   "published": null,
-   "contact": {
-    "emails": [
-     "info@keapan.com"
-    ],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert",
-    "journée"
-   ],
-   "score": 90,
-   "found_at": "2026-10-01T05:27:39+00:00",
-   "contact_checked": true
-  },
   {
    "id": "52c60762993a",
    "title": "🚚 RECHERCHE FOOD-TRUCK – SAINT-MAXIMIN ...",
@@ -158,6 +87,113 @@
     "appel à manifestation d'intérêt",
     "food trucks",
     "food-truck"
+   ],
+   "score": 90,
+   "found_at": "2026-10-01T05:27:39+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "082ff2b5094f",
+   "title": "Les Itinérantes X Sacrée Musique",
+   "summary": "10 Oct 2026 Les Itinérantes X Sacrée Musique Concert de la saison musicale de Sacrée Musique ! Une soirée à vivre dans le cadre exceptionnel de l'atrium de la Villa Aurélienne Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/les-itinerantes-x-sacree-musique-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-10",
+   "published": null,
+   "contact": {
+    "emails": [
+     "billetterie@sacreemusique.fr"
+    ],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert",
+    "soirée"
+   ],
+   "score": 90,
+   "found_at": "2026-10-02T05:26:58+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "77e462009612",
+   "title": "Festival authentique vintage",
+   "summary": "18 Oct 2026 Festival authentique vintage Le Salon du Vintage de Fréjus vous donne rendez-vous le dimanche 18 octobre à la Base Nature François Léotard (parking derrière l’Espace Caquot) pour une journée exceptionnelle placée sous le signe du vintage Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/festival-authentique-vintage-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-18",
+   "published": null,
+   "contact": {
+    "emails": [
+     "salonticya06@gmail.com"
+    ],
+    "phones": [
+     "06 03 94 77 31",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival",
+    "journée",
+    "salon"
+   ],
+   "score": 90,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "47ceb1d3ac3d",
+   "title": "STAGE INITIATION HANDPAN FREJUS",
+   "summary": "24 Oct 2026 STAGE INITIATION HANDPAN FREJUS Envie de découvrir le handpan ? Découvrez cet instrument magique lors d'une journée d'initiation: secrets de fabrication avec Koan, voyage sonore et concert ! Instrument fourni, aucun niveau requis. Places limitées à 10 personnes. Réservez vite ! Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/stage-initiation-handpan-frejus-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-24",
+   "published": null,
+   "contact": {
+    "emails": [
+     "info@keapan.com"
+    ],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert",
+    "journée"
    ],
    "score": 90,
    "found_at": "2026-10-01T05:27:39+00:00",
@@ -258,41 +294,6 @@
    ],
    "score": 85,
    "found_at": "2026-09-30T15:28:56+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "d7ded5a9833c",
-   "title": "Play: \"Dear Parents\"",
-   "summary": "03 Oct 2026 Play: \"Dear Parents\" The LAC Association invites you to its first theater night of the new school year on Saturday, October 3, 2026, at 8:30 p.m., at the Salle des fêtes in Les Adrets-de-l’Estérel. Les Adrets-de-l'Estérel",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/play-dear-parents/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Les Adrets-de-l'Estérel",
-   "dept": "83",
-   "lat": 43.52692,
-   "lon": 6.83259,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-03",
-   "published": null,
-   "contact": {
-    "emails": [
-     "lacadrets@yahoo.fr"
-    ],
-    "phones": [
-     "06 59 20 70 19",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "fêtes"
-   ],
-   "score": 85,
-   "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true
   },
   {
@@ -433,6 +434,39 @@
    "contact_checked": true
   },
   {
+   "id": "c92caddee32a",
+   "title": "APPEL AUX FOOD TRUCKS / SUCRÉ, SALÉ 🌭🎂 Bonjour à tous ...",
+   "summary": "... recherchons des food trucks qui souhaiteraient ... RECHERCHE FOOD TRUCK — Samedi 6 juin, midi ... var Nous Recherchons un food truck sucré Veuillez me contacter ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/evenements.et.soirees/posts/4206600129473848/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "food trucks",
+    "recherche",
+    "recherchons"
+   ],
+   "score": 80,
+   "found_at": "2026-10-04T09:18:55+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "58291e06d858",
    "title": "Brocante et vide-grenier Pierrefeu-du-Var (83390)",
    "summary": "11 Octobre 2026 · Hyères Puces st nicolas · Hyères Vide grenier centr'azur · Néoules Vide grenier brocante · Carqueiranne Vide-greniers - brocante · La Valette-du- ...",
@@ -527,39 +561,6 @@
    "contact_checked": true
   },
   {
-   "id": "4cc36555316e",
-   "title": "Vide-Grenier - Fontan (06540) - 03 Octobre 2026",
-   "summary": "Brocantes près de chez moi le Samedi 03 Octobre 2026 · Tourrette-Levens Vide grenier du comité des fêtes · Saint-Vallier-de-Thiey Vide-greniers · Cannes Brocante ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://brocabrac.fr/evenement/1408366?d=2026-10-03",
-   "organizer": null,
-   "city": "Cannes",
-   "dept": "06",
-   "lat": 43.55547,
-   "lon": 7.00458,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-03",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "brocante",
-    "fêtes",
-    "vide-grenier",
-    "vide-greniers"
-   ],
-   "score": 80,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "1f7ce1d2d1c2",
    "title": "Brocante et vide-grenier Saint-Tropez (83990)",
    "summary": "04 Octobre 2026 · Grimaud Brocante - vide grenier · Puget-sur-Argens Vide greniers - parking carrefour · Le Luc Vide grenier - brocante · Draguignan Vide maison.",
@@ -588,314 +589,6 @@
    ],
    "score": 80,
    "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "834430b1cd3b",
-   "title": "Festival international de la photographie surréaliste & créative de Fréjus",
-   "summary": "26 Sep 2026 au 03 Oct 2026 Festival international de la photographie surréaliste & créative de Fréjus Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/festival-international-de-la-photographie-surrealiste-creative-de-frejus-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-03",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "d88f80702048",
-   "title": "Fête de la science",
-   "summary": "02 Oct 2026 au 12 Oct 2026 Fête de la science Événement national gratuit, la Fête de la science explore cette année les « Saveurs savantes », avec un programme proposé par la médiathèque. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/fete-de-la-science/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-12",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 98 11 89 00",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "fête"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "cf24cae61259",
-   "title": "Festival du Rire",
-   "summary": "07 Oct 2026 au 17 Oct 2026 Festival du Rire Le Festival du Rire revient pour sa 23e édition avec humoristes confirmés, jeunes talents et théâtre, en soutien à Octobre Rose. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/festival-du-rire/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-07",
-   "published": null,
-   "contact": {
-    "emails": [
-     "billetterie@ville-saintraphael.fr"
-    ],
-    "phones": [
-     "04 98 11 89 00",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "score": 75,
-   "found_at": "2026-10-02T05:26:58+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "b901b9b4b2de",
-   "title": "Roc d'Azur",
-   "summary": "07 Oct 2026 au 11 Oct 2026 Roc d'Azur Since the very first Roc d’Azur organised in 1984 by Stéphane Hauvette with just 7 competitors, the event has continually grown into a 5-day festival which attracts over 20,000 participants, 300 exhibitors and 100,000 visitors! Les Issambres (Roquebrune sur Argens)",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/roc-dazur/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-07",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 94 19 89 89",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "e5814a5d4718",
-   "title": "Festival du rire : Cash",
-   "summary": "09 Oct 2026 Festival du rire : Cash Découvrez la toute nouvelle comédie de l’auteur du « Bar des Grandes Gueules » et « Du Rififi à la Morgue » proposée par l'association Les Estérelles, dans le cadre du Festival du Rire à Saint-Raphaël. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/festival-du-rire-cash-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-09",
-   "published": null,
-   "contact": {
-    "emails": [
-     "billetterie@ville-saintraphael.fr"
-    ],
-    "phones": [
-     "04 98 11 89 00",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "d52b2791fa15",
-   "title": "CINE CONCERT \"THE SWINGSON SWING\" AU CINEMA LE VOX",
-   "summary": "09 Oct 2026 CINE CONCERT \"THE SWINGSON SWING\" AU CINEMA LE VOX Concert (LES SWINGSONS) + film (SWING de Tony GATLIF) Featuring LOUIS THOMAS Hommage a Tony GATLIF, cinéaste de la liberté, de l'exil et de la musique Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/cine-concert-the-swingson-swing-au-cinema-le-vox-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-09",
-   "published": null,
-   "contact": {
-    "emails": [
-     "cinemalevox@gmail.com"
-    ],
-    "phones": [
-     "04 94 51 15 11",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "score": 75,
-   "found_at": "2026-10-03T05:35:37+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "536f3438ab2d",
-   "title": "Concert - Back To The Police",
-   "summary": "16 Oct 2026 Concert - Back To The Police Back To The Police - Tribute Puget-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/concert-back-to-the-police/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Puget-sur-Argens",
-   "dept": "83",
-   "lat": 43.47045,
-   "lon": 6.68553,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-16",
-   "published": null,
-   "contact": {
-    "emails": [
-     "culture@mairie-puget-sur-argens.com"
-    ],
-    "phones": [
-     "04 94 19 61 35",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "cadc40f5e387",
-   "title": "the Games Festival",
-   "summary": "17 Oct 2026 au 18 Oct 2026 the Games Festival On October 17 and 18, 2026, the Games Festival returns for an ambitious second edition, entirely dedicated to board games in all their forms, from curious beginners to expert players. Roquebrune-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/the-games-festival/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-17",
-   "published": null,
-   "contact": {
-    "emails": [
-     "village@roquebrunesurargens.fr"
-    ],
-    "phones": [
-     "04 94 19 89 89",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "b99c008cd834",
-   "title": "Festival urbain au Village Made In France",
-   "summary": "24 Oct 2026 Festival urbain au Village Made In France Une première édition qui va faire du bruit au Village Made In France ! Puget-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/festival-urbain-au-village-made-in-france-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Puget-sur-Argens",
-   "dept": "83",
-   "lat": 43.47045,
-   "lon": 6.68553,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-24",
-   "published": null,
-   "contact": {
-    "emails": [
-     "contact@levillagemadeinfrance.fr"
-    ],
-    "phones": [
-     "09 88 07 32 41",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "score": 75,
-   "found_at": "2026-10-03T05:35:37+00:00",
    "contact_checked": true
   },
   {
@@ -1118,6 +811,37 @@
    "contact_checked": true
   },
   {
+   "id": "65b64e453ce7",
+   "title": "portdemarseillefos",
+   "summary": "Vous êtes professionnel de la restauration ambulante à Marseille ? La @villemarseille lance un Appel à Manifestation d'Intérêt (AMI) pour sélectionner des ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.instagram.com/p/Dd89UtQlDB3/",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Instagram",
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "restauration ambulante"
+   ],
+   "score": 75,
+   "found_at": "2026-10-04T09:18:55+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "543014d56a6a",
    "title": "Ville de Saint Hilaire de Riez",
    "summary": "Appel à manifestation d'intérêt – Marché du Village de Noël] Et si vous ... restauration ambulante. Au programme : marché artisanal, animations, Père ...",
@@ -1149,12 +873,43 @@
    "contact_checked": true
   },
   {
-   "id": "77e462009612",
-   "title": "Festival authentique vintage",
-   "summary": "18 Oct 2026 Festival authentique vintage Le Salon du Vintage de Fréjus vous donne rendez-vous le dimanche 18 octobre à la Base Nature François Léotard (parking derrière l’Espace Caquot) pour une journée exceptionnelle placée sous le signe du vintage Fréjus",
+   "id": "0d452955d7fc",
+   "title": "Magazine de la Ville de Roquebrune ...",
+   "summary": "d'occupation du domaine public (foires et marchés) – Présidence de la ... Et pour celles et ceux qui s'at- tardent en promenade, le food truck aux ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.roquebrune-cap-martin.fr/epublications/16104-site-officiel.htm?download=7505",
+   "organizer": null,
+   "city": "Roquebrune-sur-Argens",
+   "dept": "83",
+   "lat": 43.42692,
+   "lon": 6.66176,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "food truck",
+    "occupation du domaine public"
+   ],
+   "score": 75,
+   "found_at": "2026-10-01T05:27:39+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "834430b1cd3b",
+   "title": "Festival international de la photographie surréaliste & créative de Fréjus",
+   "summary": "04 Oct 2026 Festival international de la photographie surréaliste & créative de Fréjus Fréjus",
    "type": "Événement",
    "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/festival-authentique-vintage-4/",
+   "url": "https://www.esterel-cotedazur.com/en/cards/festival-international-de-la-photographie-surrealiste-creative-de-frejus-4/",
    "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
    "city": "Saint-Raphaël",
    "dept": "83",
@@ -1162,14 +917,184 @@
    "lon": 6.84991,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-10-18",
+   "event_date": "2026-10-04",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival"
+   ],
+   "score": 75,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "b901b9b4b2de",
+   "title": "Roc d'Azur",
+   "summary": "07 Oct 2026 au 11 Oct 2026 Roc d'Azur Since the very first Roc d’Azur organised in 1984 by Stéphane Hauvette with just 7 competitors, the event has continually grown into a 5-day festival which attracts over 20,000 participants, 300 exhibitors and 100,000 visitors! Les Issambres (Roquebrune sur Argens)",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/roc-dazur/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-07",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 19 89 89",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival"
+   ],
+   "score": 75,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "e5814a5d4718",
+   "title": "Festival du rire : Cash",
+   "summary": "09 Oct 2026 Festival du rire : Cash Découvrez la toute nouvelle comédie de l’auteur du « Bar des Grandes Gueules » et « Du Rififi à la Morgue » proposée par l'association Les Estérelles, dans le cadre du Festival du Rire à Saint-Raphaël. Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/festival-du-rire-cash-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-09",
    "published": null,
    "contact": {
     "emails": [
-     "salonticya06@gmail.com"
+     "billetterie@ville-saintraphael.fr"
     ],
     "phones": [
-     "06 03 94 77 31",
+     "04 98 11 89 00",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival"
+   ],
+   "score": 75,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "d52b2791fa15",
+   "title": "CINE CONCERT \"THE SWINGSON SWING\" AU CINEMA LE VOX",
+   "summary": "09 Oct 2026 CINE CONCERT \"THE SWINGSON SWING\" AU CINEMA LE VOX Concert (LES SWINGSONS) + film (SWING de Tony GATLIF) Featuring LOUIS THOMAS Hommage a Tony GATLIF, cinéaste de la liberté, de l'exil et de la musique Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/cine-concert-the-swingson-swing-au-cinema-le-vox-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-09",
+   "published": null,
+   "contact": {
+    "emails": [
+     "cinemalevox@gmail.com"
+    ],
+    "phones": [
+     "04 94 51 15 11",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "score": 75,
+   "found_at": "2026-10-03T05:35:37+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "536f3438ab2d",
+   "title": "Concert - Back To The Police",
+   "summary": "16 Oct 2026 Concert - Back To The Police Back To The Police - Tribute Puget-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/concert-back-to-the-police/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Puget-sur-Argens",
+   "dept": "83",
+   "lat": 43.47045,
+   "lon": 6.68553,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-16",
+   "published": null,
+   "contact": {
+    "emails": [
+     "culture@mairie-puget-sur-argens.com"
+    ],
+    "phones": [
+     "04 94 19 61 35",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "score": 75,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "cadc40f5e387",
+   "title": "the Games Festival",
+   "summary": "17 Oct 2026 au 18 Oct 2026 the Games Festival On October 17 and 18, 2026, the Games Festival returns for an ambitious second edition, entirely dedicated to board games in all their forms, from curious beginners to expert players. Roquebrune-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/the-games-festival/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Roquebrune-sur-Argens",
+   "dept": "83",
+   "lat": 43.42692,
+   "lon": 6.66176,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-17",
+   "published": null,
+   "contact": {
+    "emails": [
+     "village@roquebrunesurargens.fr"
+    ],
+    "phones": [
+     "04 94 19 89 89",
      "04 94 19 10 60"
     ],
     "forms": []
@@ -1217,6 +1142,109 @@
    "contact_checked": true
   },
   {
+   "id": "b99c008cd834",
+   "title": "Festival urbain au Village Made In France",
+   "summary": "24 Oct 2026 Festival urbain au Village Made In France Une première édition qui va faire du bruit au Village Made In France ! Puget-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/festival-urbain-au-village-made-in-france-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Puget-sur-Argens",
+   "dept": "83",
+   "lat": 43.47045,
+   "lon": 6.68553,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-24",
+   "published": null,
+   "contact": {
+    "emails": [
+     "contact@levillagemadeinfrance.fr"
+    ],
+    "phones": [
+     "09 88 07 32 41",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival"
+   ],
+   "score": 75,
+   "found_at": "2026-10-03T05:35:37+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "d88f80702048",
+   "title": "Fête de la science",
+   "summary": "02 Oct 2026 au 12 Oct 2026 Fête de la science Événement national gratuit, la Fête de la science explore cette année les « Saveurs savantes », avec un programme proposé par la médiathèque. Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/fete-de-la-science/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-12",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 98 11 89 00",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fête"
+   ],
+   "score": 75,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "cf24cae61259",
+   "title": "Festival du Rire",
+   "summary": "07 Oct 2026 au 17 Oct 2026 Festival du Rire Le Festival du Rire revient pour sa 23e édition avec humoristes confirmés, jeunes talents et théâtre, en soutien à Octobre Rose. Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/festival-du-rire/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-07",
+   "published": null,
+   "contact": {
+    "emails": [
+     "billetterie@ville-saintraphael.fr"
+    ],
+    "phones": [
+     "04 98 11 89 00",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival"
+   ],
+   "score": 75,
+   "found_at": "2026-10-02T05:26:58+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "a5ddd2a07dfc",
    "title": "Food-trucks à Marseille : la Ville lance un appel ...",
    "summary": "Les professionnels de la restauration ambulante sont invités à candidater ... La Ville de Marseille ouvre un nouvel appel à manifestation d'intérêt ...",
@@ -1245,37 +1273,6 @@
    ],
    "score": 75,
    "found_at": "2026-10-02T05:26:58+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "0d452955d7fc",
-   "title": "Magazine de la Ville de Roquebrune ...",
-   "summary": "d'occupation du domaine public (foires et marchés) – Présidence de la ... Et pour celles et ceux qui s'at- tardent en promenade, le food truck aux ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.roquebrune-cap-martin.fr/epublications/16104-site-officiel.htm?download=7505",
-   "organizer": null,
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "food truck",
-    "occupation du domaine public"
-   ],
-   "score": 75,
-   "found_at": "2026-10-01T05:27:39+00:00",
    "contact_checked": true
   },
   {
@@ -1448,407 +1445,6 @@
    "contact_checked": true
   },
   {
-   "id": "95f8b1c1a63e",
-   "title": "Spartan Race Estérel Côte d'Azur",
-   "summary": "02 Oct 2026 au 04 Oct 2026 Spartan Race Estérel Côte d'Azur The most famous obstacle course race is coming to Saint-Raphaël in October! Three races for a trifecta that promises to be incredible. Sign up now! Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/spartan-race-esterel-cote-dazur/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-04",
-   "published": null,
-   "contact": {
-    "emails": [
-     "hello@esterel-cotedazur.com"
-    ],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "course"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "adf7c8463439",
-   "title": "La Marche Rose sous les etoiles - 2eme edition",
-   "summary": "03 Oct 2026 La Marche Rose sous les etoiles - 2eme edition La Marche Rose sous les Étoiles, organisée par l’Association Les Raphaëloises pour accompagner les femmes touchées par un cancer du sein. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/la-marche-rose-sous-les-etoiles-2eme-edition-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-03",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "marché"
-   ],
-   "score": 70,
-   "found_at": "2026-10-02T05:26:58+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "e5fd08bb5031",
-   "title": "Marche Rose",
-   "summary": "04 Oct 2026 Marche Rose Chaque mois d’octobre, depuis de nombreuses années, des campagnes de sensibilisation au cancer du sein sont organisées partout en France. Pour la 4ème année sur la commune de Roquebrune-sur-Argens, l’association Roquebrune Sports organise la Marche Rose. Roquebrune-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/marche-rose-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-04",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "06 22 36 16 30",
-     "06 61 47 96 01",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "marché"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "755b1750bf25",
-   "title": "Loto Octobre Rose Lions Club",
-   "summary": "10 Oct 2026 Loto Octobre Rose Lions Club Le Lions Club Saint-Raphaël Côte d'Azur vous propose une soirée placée sous le signe de la chance et de la solidarité. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/loto-octobre-rose-lions-club/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-10",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "07 86 08 26 71",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "soirée"
-   ],
-   "score": 70,
-   "found_at": "2026-10-02T05:26:58+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "263cdf851a1d",
-   "title": "À la rencontre des commerçants, artisans et artistes du quartier République",
-   "summary": "10 Oct 2026 À la rencontre des commerçants, artisans et artistes du quartier République Exposition à ciel ouvert et animations proposées par L'Embouligue dans le cadre de la Journée Nationale du commerce de proximité et de l'artisanat. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/a-la-rencontre-des-commercants-artisans-et-artistes-du-quartier-republique-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-10",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "journée"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "915065c958b7",
-   "title": "Journée Nationale du Commerce de Proximité",
-   "summary": "10 Oct 2026 Journée Nationale du Commerce de Proximité À Saint-Raphaël le commerce c'est essentiel ! L'achat local, le choix qui a du sens. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/journee-nationale-du-commerce-de-proximite/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-10",
-   "published": null,
-   "contact": {
-    "emails": [
-     "contact@jaimesaintraphael.fr"
-    ],
-    "phones": [
-     "06 24 32 94 79",
-     "04 94 95 16 61",
-     "06 15 25 52 28"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "journée"
-   ],
-   "score": 70,
-   "found_at": "2026-10-02T05:26:58+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "61a7e94a8a29",
-   "title": "Soirée Night Fever",
-   "summary": "10 Oct 2026 Soirée Night Fever Samedi 10 Octobre 2026 venez à la dernière soirée dansante NIGHT FEVER de l'année 2026 organisée par Avem Evenements à l'Estérel Arena. et venez danser sur les meilleurs tubes des années 80 à nos jours. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/soiree-night-fever/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-10",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "06 41 56 83 47",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "soirée"
-   ],
-   "score": 70,
-   "found_at": "2026-10-02T05:26:58+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "c5d368376a1a",
-   "title": "Salon du Mariage au Village Made In France",
-   "summary": "10 Oct 2026 Salon du Mariage au Village Made In France Le salon du Mariage au Village Made In France revient le samedi 10 octobre de 10h à 17h ! Puget-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/salon-du-mariage-au-village-made-in-france-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Puget-sur-Argens",
-   "dept": "83",
-   "lat": 43.47045,
-   "lon": 6.68553,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-10",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "09 88 07 32 41",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "salon"
-   ],
-   "score": 70,
-   "found_at": "2026-10-03T05:35:37+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "687b7624278e",
-   "title": "Thomas Marty - Soirée caritative Octobre Rose",
-   "summary": "13 Oct 2026 Thomas Marty - Soirée caritative Octobre Rose Soirée caritative \"Octobre Rose\" - Thomas Marty en spectacle Puget-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/thomas-marty-soiree-caritative-octobre-rose/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Puget-sur-Argens",
-   "dept": "83",
-   "lat": 43.47045,
-   "lon": 6.68553,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-13",
-   "published": null,
-   "contact": {
-    "emails": [
-     "culture@mairie-puget-sur-argens.com"
-    ],
-    "phones": [
-     "04 94 19 61 35",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "soirée"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "f47050fb1f46",
-   "title": "Forum Silver",
-   "summary": "14 Oct 2026 Forum Silver 3e édition - Bien vivre à Saint-Raphaël pour les seniors et leur famille. Une journée d'information organisée par le CCAS. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/forum-silver/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-14",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 94 19 10 95",
-     "04 83 09 80 97",
-     "04 94 19 51 28"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "journée"
-   ],
-   "score": 70,
-   "found_at": "2026-10-02T05:26:58+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "0fd8c00fbf6f",
-   "title": "Salon des santonniers",
-   "summary": "17 Oct 2026 au 18 Oct 2026 Salon des santonniers Santonniers et créchistes - Nombreuses animations - Ateliers et jeux pour enfants - Danses folkloriques Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/salon-des-santonniers/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-17",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "salon"
-   ],
-   "score": 70,
-   "found_at": "2026-10-02T05:26:58+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "a4a6a042f210",
-   "title": "Salon des Minéraux de Saint-Raphaël",
-   "summary": "24 Oct 2026 au 25 Oct 2026 Salon des Minéraux de Saint-Raphaël 25ème édition : Cristaux, Fossiles, Gemmes, Météorites, Bijoux et Bien-être Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/salon-des-mineraux-de-saint-raphael-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-24",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "06 47 73 89 25",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "salon"
-   ],
-   "score": 70,
-   "found_at": "2026-10-01T05:27:39+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "3831763cdcb3",
    "title": "Cagnes sur Mer (@salonhabitatcagnessurmer)",
    "summary": "Bonjour, Nous recherchons des food trucks pour ...",
@@ -2004,6 +1600,405 @@
    "contact_checked": true
   },
   {
+   "id": "be3cf4bc3050",
+   "title": "La magie de Noël se prépare déjà à Valdeblore ! ...",
+   "summary": "Artisans, créateurs, producteurs locaux et food trucks, venez participer à cette belle journée et faire vivre la magie de Noël à Valdeblore. Candidatures avant ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.instagram.com/p/DdOSBu_Nm7M/",
+   "organizer": null,
+   "city": "Valdeblore",
+   "dept": "06",
+   "lat": 44.06806,
+   "lon": 7.1798,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Instagram",
+   "keywords": [
+    "food trucks"
+   ],
+   "score": 70,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "95f8b1c1a63e",
+   "title": "Spartan Race Estérel Côte d'Azur",
+   "summary": "02 Oct 2026 au 04 Oct 2026 Spartan Race Estérel Côte d'Azur The most famous obstacle course race is coming to Saint-Raphaël in October! Three races for a trifecta that promises to be incredible. Sign up now! Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/spartan-race-esterel-cote-dazur/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-04",
+   "published": null,
+   "contact": {
+    "emails": [
+     "hello@esterel-cotedazur.com"
+    ],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "course"
+   ],
+   "score": 70,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "e5fd08bb5031",
+   "title": "Marche Rose",
+   "summary": "04 Oct 2026 Marche Rose Chaque mois d’octobre, depuis de nombreuses années, des campagnes de sensibilisation au cancer du sein sont organisées partout en France. Pour la 4ème année sur la commune de Roquebrune-sur-Argens, l’association Roquebrune Sports organise la Marche Rose. Roquebrune-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/marche-rose-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Roquebrune-sur-Argens",
+   "dept": "83",
+   "lat": 43.42692,
+   "lon": 6.66176,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-04",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "06 22 36 16 30",
+     "06 61 47 96 01",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "marché"
+   ],
+   "score": 70,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "263cdf851a1d",
+   "title": "À la rencontre des commerçants, artisans et artistes du quartier République",
+   "summary": "10 Oct 2026 À la rencontre des commerçants, artisans et artistes du quartier République Exposition à ciel ouvert et animations proposées par L'Embouligue dans le cadre de la Journée Nationale du commerce de proximité et de l'artisanat. Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/a-la-rencontre-des-commercants-artisans-et-artistes-du-quartier-republique-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-10",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "journée"
+   ],
+   "score": 70,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "915065c958b7",
+   "title": "Journée Nationale du Commerce de Proximité",
+   "summary": "10 Oct 2026 Journée Nationale du Commerce de Proximité À Saint-Raphaël le commerce c'est essentiel ! L'achat local, le choix qui a du sens. Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/journee-nationale-du-commerce-de-proximite/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-10",
+   "published": null,
+   "contact": {
+    "emails": [
+     "contact@jaimesaintraphael.fr"
+    ],
+    "phones": [
+     "06 24 32 94 79",
+     "04 94 95 16 61",
+     "06 15 25 52 28"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "journée"
+   ],
+   "score": 70,
+   "found_at": "2026-10-02T05:26:58+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "61a7e94a8a29",
+   "title": "Soirée Night Fever",
+   "summary": "10 Oct 2026 Soirée Night Fever Samedi 10 Octobre 2026 venez à la dernière soirée dansante NIGHT FEVER de l'année 2026 organisée par Avem Evenements à l'Estérel Arena. et venez danser sur les meilleurs tubes des années 80 à nos jours. Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/soiree-night-fever/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-10",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "06 41 56 83 47",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "soirée"
+   ],
+   "score": 70,
+   "found_at": "2026-10-02T05:26:58+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "c5d368376a1a",
+   "title": "Salon du Mariage au Village Made In France",
+   "summary": "10 Oct 2026 Salon du Mariage au Village Made In France Le salon du Mariage au Village Made In France revient le samedi 10 octobre de 10h à 17h ! Puget-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/salon-du-mariage-au-village-made-in-france-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Puget-sur-Argens",
+   "dept": "83",
+   "lat": 43.47045,
+   "lon": 6.68553,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-10",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "09 88 07 32 41",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "salon"
+   ],
+   "score": 70,
+   "found_at": "2026-10-03T05:35:37+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "755b1750bf25",
+   "title": "Loto Octobre Rose Lions Club",
+   "summary": "10 Oct 2026 Loto Octobre Rose Lions Club Le Lions Club Saint-Raphaël Côte d'Azur vous propose une soirée placée sous le signe de la chance et de la solidarité. Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/loto-octobre-rose-lions-club/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-10",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "07 86 08 26 71",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "soirée"
+   ],
+   "score": 70,
+   "found_at": "2026-10-02T05:26:58+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "687b7624278e",
+   "title": "Thomas Marty - Soirée caritative Octobre Rose",
+   "summary": "13 Oct 2026 Thomas Marty - Soirée caritative Octobre Rose Soirée caritative \"Octobre Rose\" - Thomas Marty en spectacle Puget-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/thomas-marty-soiree-caritative-octobre-rose/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Puget-sur-Argens",
+   "dept": "83",
+   "lat": 43.47045,
+   "lon": 6.68553,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-13",
+   "published": null,
+   "contact": {
+    "emails": [
+     "culture@mairie-puget-sur-argens.com"
+    ],
+    "phones": [
+     "04 94 19 61 35",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "soirée"
+   ],
+   "score": 70,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "f47050fb1f46",
+   "title": "Forum Silver",
+   "summary": "14 Oct 2026 Forum Silver 3e édition - Bien vivre à Saint-Raphaël pour les seniors et leur famille. Une journée d'information organisée par le CCAS. Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/forum-silver/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-14",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 19 10 95",
+     "04 83 09 80 97",
+     "04 94 19 51 28"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "journée"
+   ],
+   "score": 70,
+   "found_at": "2026-10-02T05:26:58+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "0fd8c00fbf6f",
+   "title": "Salon des santonniers",
+   "summary": "17 Oct 2026 au 18 Oct 2026 Salon des santonniers Santonniers et créchistes - Nombreuses animations - Ateliers et jeux pour enfants - Danses folkloriques Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/salon-des-santonniers/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-17",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "salon"
+   ],
+   "score": 70,
+   "found_at": "2026-10-02T05:26:58+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "a4a6a042f210",
+   "title": "Salon des Minéraux de Saint-Raphaël",
+   "summary": "24 Oct 2026 au 25 Oct 2026 Salon des Minéraux de Saint-Raphaël 25ème édition : Cristaux, Fossiles, Gemmes, Météorites, Bijoux et Bien-être Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/salon-des-mineraux-de-saint-raphael-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-24",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "06 47 73 89 25",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "salon"
+   ],
+   "score": 70,
+   "found_at": "2026-10-01T05:27:39+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "1e79bb13ffd1",
    "title": "Ce dimanche 6 septembre 2026, le couple a célébré l' ...",
    "summary": "Léa Goutard ▻ Mariage Loire 42/43. 25w · Public · Recherche FOOD TRUCK ... Indira Toprek ▻ Saint-Tropez, Golfe de St- Tropez & Plus, Groupe [ i ♥️ ...",
@@ -2029,36 +2024,6 @@
    "keywords": [
     "food truck",
     "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "be3cf4bc3050",
-   "title": "La magie de Noël se prépare déjà à Valdeblore ! ...",
-   "summary": "Artisans, créateurs, producteurs locaux et food trucks, venez participer à cette belle journée et faire vivre la magie de Noël à Valdeblore. Candidatures avant ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.instagram.com/p/DdOSBu_Nm7M/",
-   "organizer": null,
-   "city": "Valdeblore",
-   "dept": "06",
-   "lat": 44.06806,
-   "lon": 7.1798,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Instagram",
-   "keywords": [
-    "food trucks"
    ],
    "score": 70,
    "found_at": "2026-09-30T10:17:04+00:00",
@@ -2246,37 +2211,6 @@
    "keywords": [
     "foire",
     "marché de noël"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "0bcf9c4f0eb0",
-   "title": "Brocante et vide-grenier Provence-Alpes-Côte d'Azur ...",
-   "summary": "DU SAMEDI 26 SEPTEMBRE AU SAMEDI 3 OCTOBRE 2026 La Bonne Affaire ... 1 brocante et vide-grenier dans les Alpes-Maritimes aujourd'hui; 3 brocantes ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.alentoor.fr/provence-alpes-cote-d-azur/agenda/brocante-vide-grenier/aujourdhui",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-03",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "brocante",
-    "vide-grenier"
    ],
    "score": 70,
    "found_at": "2026-09-30T10:17:04+00:00",
@@ -2600,36 +2534,6 @@
      "https://www.helloasso.com/associations/prestige-events/evenements/defile-de-l-elegance-octobre-rose-2026-1",
      "https://www.helloasso.com/associations/compagnie-432/evenements/la-symphonie-des-bulles-chateau-pascalette"
     ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "score": 60,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "27081910503b",
-   "title": "Agenda Alpes Maritimes (06)",
-   "summary": "Agenda des évènements dans les Alpes Maritimes. du 28 septembre 2026 au 3 octobre 2026. Nice. Festival Cinéroman 8ème édition. En Savoir Plus. le 29 septembre ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://kissfm.fr/agenda-alpes-maritimes-06/",
-   "organizer": null,
-   "city": "Nice",
-   "dept": "06",
-   "lat": 43.71273,
-   "lon": 7.25531,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-03",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
    },
    "mode": "evenements",
    "via": null,
