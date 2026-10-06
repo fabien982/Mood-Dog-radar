@@ -666,5 +666,23 @@
  "zone:montfavet": null,
  "zone:sevignac": null,
  "zone:bois-de-villers hello": null,
- "zone:cuisine bain expo": null
+ "zone:cuisine bain expo": null,
+ "zone:vieil ales": null,
+ "zone:frontignan la peyrade": null,
+ "zone:villeneuve-les-maguelone": null,
+ "zone:pilou": null,
+ "zone:bagnols-sur-ceze": null,
+ "zone:jeu": null,
+ "zone:ifremer": null,
+ "zone:villeurbanne": null,
+ "zone:noel place de france": null,
+ "zone:domaine des rambins": null,
+ "zone:manifestation": null,
+ "zone:lyon": null,
+ "zone:redon": {
+  "lat": 43.3554,
+  "lon": 5.2044,
+  "city": "Ensuès-la-Redonne",
+  "dept": "13"
+ }
 }
