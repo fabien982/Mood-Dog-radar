@@ -684,5 +684,11 @@
   "lon": 5.2044,
   "city": "Ensuès-la-Redonne",
   "dept": "13"
+ },
+ "ensues-la-redonne": {
+  "lat": 43.3554,
+  "lon": 5.2044,
+  "city": "Ensuès-la-Redonne",
+  "dept": "13"
  }
 }
