@@ -879,5 +879,53 @@
   "dept": "13"
  },
  "zone:parc jacques": null,
- "zone:roms": null
+ "zone:roms": null,
+ "mouans-sartoux": {
+  "lat": 43.61914,
+  "lon": 6.96586,
+  "city": "Mouans-Sartoux",
+  "dept": "06"
+ },
+ "gardanne": {
+  "lat": 43.4573,
+  "lon": 5.48627,
+  "city": "Gardanne",
+  "dept": "13"
+ },
+ "la motte": {
+  "lat": 43.50118,
+  "lon": 6.5488,
+  "city": "La Motte",
+  "dept": "83"
+ },
+ "rognes": {
+  "lat": 43.66609,
+  "lon": 5.35089,
+  "city": "Rognes",
+  "dept": "13"
+ },
+ "correns": {
+  "lat": 43.48702,
+  "lon": 6.08015,
+  "city": "Correns",
+  "dept": "83"
+ },
+ "flassans-sur-issole": {
+  "lat": 43.37474,
+  "lon": 6.2135,
+  "city": "Flassans-sur-Issole",
+  "dept": "83"
+ },
+ "reillanne": {
+  "lat": 43.8782,
+  "lon": 5.66857,
+  "city": "Reillanne",
+  "dept": "04"
+ },
+ "la trinite": {
+  "lat": 14.73398,
+  "lon": -60.95548,
+  "city": "La Trinité",
+  "dept": "972"
+ }
 }
