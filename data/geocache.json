@@ -690,5 +690,194 @@
   "lon": 5.2044,
   "city": "Ensuès-la-Redonne",
   "dept": "13"
- }
+ },
+ "zone:le rheu": null,
+ "zone:port de la rague": null,
+ "zone:flassans-sur-issole": {
+  "lat": 43.37474,
+  "lon": 6.2135,
+  "city": "Flassans-sur-Issole",
+  "dept": "83"
+ },
+ "zone:mouans-sartoux": {
+  "lat": 43.61914,
+  "lon": 6.96586,
+  "city": "Mouans-Sartoux",
+  "dept": "06"
+ },
+ "zone:rognes": {
+  "lat": 43.66609,
+  "lon": 5.35089,
+  "city": "Rognes",
+  "dept": "13"
+ },
+ "zone:montgiscard": null,
+ "zone:venise": {
+  "lat": 44.12248,
+  "lon": 5.02763,
+  "city": "Beaumes-de-Venise",
+  "dept": "84"
+ },
+ "zone:paradou": {
+  "lat": 43.71684,
+  "lon": 4.78257,
+  "city": "Paradou",
+  "dept": "13"
+ },
+ "zone:lussas": null,
+ "zone:demandolx": {
+  "lat": 43.8712,
+  "lon": 6.56665,
+  "city": "Demandolx",
+  "dept": "04"
+ },
+ "zone:ha'afuasia": null,
+ "zone:dieu": null,
+ "zone:terroir": null,
+ "zone:saint-laurent-du-var": {
+  "lat": 43.68685,
+  "lon": 7.18367,
+  "city": "Saint-Laurent-du-Var",
+  "dept": "06"
+ },
+ "gassin": {
+  "lat": 43.23932,
+  "lon": 6.59518,
+  "city": "Gassin",
+  "dept": "83"
+ },
+ "zone:janeiro international": null,
+ "zone:dieppe": null,
+ "zone:sud": null,
+ "zone:rire": null,
+ "zone:la seyne": {
+  "lat": 43.09333,
+  "lon": 5.87965,
+  "city": "La Seyne-sur-Mer",
+  "dept": "83"
+ },
+ "zone:lavandou": {
+  "lat": 43.14584,
+  "lon": 6.39806,
+  "city": "Le Lavandou",
+  "dept": "83"
+ },
+ "zone:correns": {
+  "lat": 43.48702,
+  "lon": 6.08015,
+  "city": "Correns",
+  "dept": "83"
+ },
+ "83670": {
+  "lat": 43.55271,
+  "lon": 5.99729,
+  "city": "Barjols",
+  "dept": "83"
+ },
+ "zone:noel de pezenas": null,
+ "zone:noel de bonnieres-sur-seine": null,
+ "zone:hall du centre": null,
+ "zone:noel des champs-elysees": null,
+ "le lavandou": {
+  "lat": 43.14584,
+  "lon": 6.39806,
+  "city": "Le Lavandou",
+  "dept": "83"
+ },
+ "zone:saint-pargoire": null,
+ "zone:noel des florettes": null,
+ "zone:grand huit": null,
+ "zone:gardanne": {
+  "lat": 43.4573,
+  "lon": 5.48627,
+  "city": "Gardanne",
+  "dept": "13"
+ },
+ "zone:noel de vif": null,
+ "zone:saint-auban": {
+  "lat": 43.83566,
+  "lon": 6.74085,
+  "city": "Saint-Auban",
+  "dept": "06"
+ },
+ "zone:reillanne": {
+  "lat": 43.8782,
+  "lon": 5.66857,
+  "city": "Reillanne",
+  "dept": "04"
+ },
+ "zone:saint raphael": {
+  "lat": 43.44268,
+  "lon": 6.84991,
+  "city": "Saint-Raphaël",
+  "dept": "83"
+ },
+ "zone:noel de strasbourg": null,
+ "zone:noel de colmar": null,
+ "zone:patrimoine": null,
+ "ramatuelle": {
+  "lat": 43.21913,
+  "lon": 6.64136,
+  "city": "Ramatuelle",
+  "dept": "83"
+ },
+ "zone:la motte": {
+  "lat": 43.50118,
+  "lon": 6.5488,
+  "city": "La Motte",
+  "dept": "83"
+ },
+ "zone:palais neptune": null,
+ "06340": {
+  "lat": 43.74397,
+  "lon": 7.33453,
+  "city": "La Trinité",
+  "dept": "06"
+ },
+ "zone:mauze": null,
+ "zone:aureille": {
+  "lat": 43.70278,
+  "lon": 4.94245,
+  "city": "Aureille",
+  "dept": "13"
+ },
+ "salernes": {
+  "lat": 43.56166,
+  "lon": 6.22928,
+  "city": "Salernes",
+  "dept": "83"
+ },
+ "zone:sisteron": {
+  "lat": 44.20371,
+  "lon": 5.93561,
+  "city": "Sisteron",
+  "dept": "04"
+ },
+ "zone:tenerife": null,
+ "zone:queretaro": null,
+ "zone:albi": null,
+ "bandol": {
+  "lat": 43.14814,
+  "lon": 5.74976,
+  "city": "Bandol",
+  "dept": "83"
+ },
+ "zone:william christie": null,
+ "zone:chateau sainte roseline": null,
+ "zone:festival musique": null,
+ "zone:ventabren": {
+  "lat": 43.53719,
+  "lon": 5.30477,
+  "city": "Ventabren",
+  "dept": "13"
+ },
+ "zone:riz": null,
+ "zone:arles": {
+  "lat": 43.59672,
+  "lon": 4.64509,
+  "city": "Arles",
+  "dept": "13"
+ },
+ "zone:parc jacques": null,
+ "zone:roms": null
 }

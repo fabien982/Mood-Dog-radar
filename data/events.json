@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-06T15:26:13+00:00",
- "count": 94,
- "new_count": 0,
+ "updated": "2026-10-07T05:29:12+00:00",
+ "count": 121,
+ "new_count": 27,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -13,19 +13,18 @@
   },
   "Recherche web": {
    "ok": true,
-   "found": 0,
-   "note": "recherche web faite le matin seulement (économise le quota)"
+   "found": 60
   },
   "Pages surveillées": {
    "ok": true,
-   "found": 23,
+   "found": 27,
    "errors": []
   }
  },
  "web_runs": {
-  "Candidatures": "2026-10-06",
-  "Instagram": "2026-10-06",
-  "Fêtes et festivals": "2026-09-30"
+  "Candidatures": "2026-10-07",
+  "Instagram": "2026-10-07",
+  "Fêtes et festivals": "2026-10-07"
  },
  "events": [
   {
@@ -61,6 +60,38 @@
    ],
    "score": 95,
    "found_at": "2026-10-05T05:31:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "4e2d2c6c396c",
+   "title": "Bientôt des food trucks sur la Corniche Kennedy à Marseille",
+   "summary": "L'attribution de la place pour un food-truck, suite à l'appel à manifestation d'intérêt en cours, sera octroyée jusqu'au 31 décembre 2028. Soit deux ans de ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://mesinfos.fr/13000-marseille/bientot-des-food-trucks-sur-la-corniche-kennedy-a-marseille-339858.html",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "food trucks",
+    "food-truck"
+   ],
+   "score": 90,
+   "found_at": "2026-10-01T05:27:39+00:00",
    "contact_checked": true
   },
   {
@@ -204,38 +235,6 @@
    "contact_checked": true
   },
   {
-   "id": "4e2d2c6c396c",
-   "title": "Bientôt des food trucks sur la Corniche Kennedy à Marseille",
-   "summary": "L'attribution de la place pour un food-truck, suite à l'appel à manifestation d'intérêt en cours, sera octroyée jusqu'au 31 décembre 2028. Soit deux ans de ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://mesinfos.fr/13000-marseille/bientot-des-food-trucks-sur-la-corniche-kennedy-a-marseille-339858.html",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "food trucks",
-    "food-truck"
-   ],
-   "score": 90,
-   "found_at": "2026-10-01T05:27:39+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "7e4a0944dbed",
    "title": "lankaises, créoles, burgers, tartes flambées,… sans oublier ...",
    "summary": "APPEL À CANDIDATURES – FOOD TRUCKS 2026 ! ... Aimé Garnier ▻ Les Animations du Golfe de Saint-Tropez ... Un food truck bières artisanales Bière Truck ...",
@@ -333,6 +332,109 @@
    "contact_checked": true
   },
   {
+   "id": "c54cb7e74649",
+   "title": "📣 APPEL À CANDIDATURE N'hésitez pas !",
+   "summary": "APPEL À CANDIDATURES – Salon de la Gourmandise ... Food Truck sur place Parking gratuit 🎟️ ... Var(83), Alpes- Maritimes(06), Bouches du ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/203174439802208/posts/28063823266643951/",
+   "organizer": null,
+   "city": null,
+   "dept": "83",
+   "lat": 43.46,
+   "lon": 6.22,
+   "approx": true,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "appel à candidature",
+    "appel à candidatures",
+    "candidature",
+    "food truck"
+   ],
+   "score": 85,
+   "found_at": "2026-10-02T05:26:58+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "747b63ef920a",
+   "title": "Sardinade à Agay",
+   "summary": "10 Oct 2026 Sardinade à Agay Le Comité d'Animation d'Agay a le plaisir de vous proposer sa traditionnelle SARDINADE le SAMEDI 10 OCTOBRE. Agay",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/sardinade-a-agay/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-10",
+   "published": null,
+   "contact": {
+    "emails": [
+     "animationsagay@gmail.com"
+    ],
+    "phones": [
+     "06 61 82 06 25",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "animation",
+    "sardinade"
+   ],
+   "score": 85,
+   "found_at": "2026-10-07T05:29:12+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "862e426ef7be",
+   "title": "Destination Québec",
+   "summary": "10 Oct 2026 Destination Québec Boulouris Animation organise une soirée musicale sur le thème du Canada au travers des chansons Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/destination-quebec-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-10",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "06 78 65 48 70",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "animation",
+    "soirée"
+   ],
+   "score": 85,
+   "found_at": "2026-10-07T05:29:12+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "d3315f3f013c",
    "title": "Soirée années 80",
    "summary": "24 Oct 2026 Soirée années 80 Préparez vos paillettes et vos plus belles tenues disco ! Le Comité des Fêtes vous invite à une soirée placée sous le signe de la danse et de la convivialité le 24 octobre prochain. Roquebrune-sur-Argens",
@@ -366,39 +468,6 @@
    ],
    "score": 85,
    "found_at": "2026-10-03T05:35:37+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "c54cb7e74649",
-   "title": "📣 APPEL À CANDIDATURE N'hésitez pas !",
-   "summary": "APPEL À CANDIDATURES – Salon de la Gourmandise ... Food Truck sur place Parking gratuit 🎟️ ... Var(83), Alpes- Maritimes(06), Bouches du ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/203174439802208/posts/28063823266643951/",
-   "organizer": null,
-   "city": null,
-   "dept": "83",
-   "lat": 43.46,
-   "lon": 6.22,
-   "approx": true,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "appel à candidature",
-    "appel à candidatures",
-    "candidature",
-    "food truck"
-   ],
-   "score": 85,
-   "found_at": "2026-10-02T05:26:58+00:00",
    "contact_checked": true
   },
   {
@@ -561,347 +630,38 @@
    "contact_checked": true
   },
   {
-   "id": "d88f80702048",
-   "title": "Fête de la science",
-   "summary": "02 Oct 2026 au 12 Oct 2026 Fête de la science Événement national gratuit, la Fête de la science explore cette année les « Saveurs savantes », avec un programme proposé par la médiathèque. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/fete-de-la-science/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
+   "id": "def5bdf8832c",
+   "title": "Formation hygiène alimentaire Marseille : 14 h",
+   "summary": "Restaurant, snack ou food truck : chaque établissement marseillais doit compter une personne formée 14 heures. ... Dans son appel à candidatures, clos le 4 ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://aidoresto.com/formation-hygiene-alimentaire-marseille/",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-10-12",
+   "event_date": null,
    "published": null,
    "contact": {
     "emails": [],
     "phones": [
-     "04 98 11 89 00",
-     "04 94 19 10 60"
+     "09 72 01 01 74"
     ],
-    "forms": []
+    "forms": [
+     "https://aidoresto.com/formation-hygiene-alimentaire-toulon/"
+    ]
    },
-   "mode": "evenements",
+   "mode": "demandes",
    "via": null,
    "keywords": [
-    "fête"
+    "appel à candidatures",
+    "food truck"
    ],
    "score": 75,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "cf24cae61259",
-   "title": "Festival du Rire",
-   "summary": "07 Oct 2026 au 17 Oct 2026 Festival du Rire Le Festival du Rire revient pour sa 23e édition avec humoristes confirmés, jeunes talents et théâtre, en soutien à Octobre Rose. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/festival-du-rire/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-07",
-   "published": null,
-   "contact": {
-    "emails": [
-     "billetterie@ville-saintraphael.fr"
-    ],
-    "phones": [
-     "04 98 11 89 00",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "score": 75,
-   "found_at": "2026-10-02T05:26:58+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "b901b9b4b2de",
-   "title": "Roc d'Azur",
-   "summary": "07 Oct 2026 au 11 Oct 2026 Roc d'Azur Since the very first Roc d’Azur organised in 1984 by Stéphane Hauvette with just 7 competitors, the event has continually grown into a 5-day festival which attracts over 20,000 participants, 300 exhibitors and 100,000 visitors! Les Issambres (Roquebrune sur Argens)",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/roc-dazur/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-07",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 94 19 89 89",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "d52b2791fa15",
-   "title": "CINE CONCERT \"THE SWINGSON SWING\" AU CINEMA LE VOX",
-   "summary": "09 Oct 2026 CINE CONCERT \"THE SWINGSON SWING\" AU CINEMA LE VOX Concert (LES SWINGSONS) + film (SWING de Tony GATLIF) Featuring LOUIS THOMAS Hommage a Tony GATLIF, cinéaste de la liberté, de l'exil et de la musique Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/cine-concert-the-swingson-swing-au-cinema-le-vox-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-09",
-   "published": null,
-   "contact": {
-    "emails": [
-     "cinemalevox@gmail.com"
-    ],
-    "phones": [
-     "04 94 51 15 11",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "score": 75,
-   "found_at": "2026-10-03T05:35:37+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "e5814a5d4718",
-   "title": "Festival du rire : Cash",
-   "summary": "09 Oct 2026 Festival du rire : Cash Découvrez la toute nouvelle comédie de l’auteur du « Bar des Grandes Gueules » et « Du Rififi à la Morgue » proposée par l'association Les Estérelles, dans le cadre du Festival du Rire à Saint-Raphaël. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/festival-du-rire-cash-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-09",
-   "published": null,
-   "contact": {
-    "emails": [
-     "billetterie@ville-saintraphael.fr"
-    ],
-    "phones": [
-     "04 98 11 89 00",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "536f3438ab2d",
-   "title": "Concert - Back To The Police",
-   "summary": "16 Oct 2026 Concert - Back To The Police Back To The Police - Tribute Puget-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/concert-back-to-the-police/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Puget-sur-Argens",
-   "dept": "83",
-   "lat": 43.47045,
-   "lon": 6.68553,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-16",
-   "published": null,
-   "contact": {
-    "emails": [
-     "culture@mairie-puget-sur-argens.com"
-    ],
-    "phones": [
-     "04 94 19 61 35",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "8961c5399959",
-   "title": "Festival de la craie",
-   "summary": "17 Oct 2026 Festival de la craie 17e édition du Festival de la craie. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/festival-de-la-craie-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-17",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 98 11 89 00",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "score": 75,
-   "found_at": "2026-10-01T05:27:39+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "b0a03cb42ef3",
-   "title": "Concert récital Piano-voix",
-   "summary": "17 Oct 2026 Concert récital Piano-voix Un concert récital piano-voix ou plus de 20 artistes sont accompagnés au piano par Rémy Bailet. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/concert-recital-piano-voix-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-17",
-   "published": null,
-   "contact": {
-    "emails": [
-     "lisa.revs83@gmail.com"
-    ],
-    "phones": [
-     "09 81 28 58 18",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "score": 75,
-   "found_at": "2026-10-06T05:28:06+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "cadc40f5e387",
-   "title": "the Games Festival",
-   "summary": "17 Oct 2026 au 18 Oct 2026 the Games Festival On October 17 and 18, 2026, the Games Festival returns for an ambitious second edition, entirely dedicated to board games in all their forms, from curious beginners to expert players. Roquebrune-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/the-games-festival/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-17",
-   "published": null,
-   "contact": {
-    "emails": [
-     "village@roquebrunesurargens.fr"
-    ],
-    "phones": [
-     "04 94 19 89 89",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "b99c008cd834",
-   "title": "Festival urbain au Village Made In France",
-   "summary": "24 Oct 2026 Festival urbain au Village Made In France Une première édition qui va faire du bruit au Village Made In France ! Puget-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/festival-urbain-au-village-made-in-france-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Puget-sur-Argens",
-   "dept": "83",
-   "lat": 43.47045,
-   "lon": 6.68553,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-24",
-   "published": null,
-   "contact": {
-    "emails": [
-     "contact@levillagemadeinfrance.fr"
-    ],
-    "phones": [
-     "09 88 07 32 41",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "score": 75,
-   "found_at": "2026-10-03T05:35:37+00:00",
+   "found_at": "2026-10-07T05:29:12+00:00",
    "contact_checked": true
   },
   {
@@ -1123,6 +883,43 @@
    "contact_checked": true
   },
   {
+   "id": "cfd5c0b21c5c",
+   "title": "Appels à candidatures food truck : emplacements et AMI",
+   "summary": "La Mairie des 2ᵉ et 3ᵉ arrondissements de Marseille lance un appel à manifestation d'intérêt pour l'installation d'un food truck au Jardin de la Joliette. Les ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://wikifoodtruck.fr/appels-food-truck",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [
+     "francois@wikifoodtruck.fr"
+    ],
+    "phones": [],
+    "forms": [
+     "https://wikifoodtruck.fr/appels-food-truck/vignec-food-truck-hiver-2026-2027",
+     "https://wikifoodtruck.fr/appels-food-truck/marmande-food-truck-pour-festival-urbance-2026",
+     "https://wikifoodtruck.fr/appels-food-truck/rueil-malmaison-appel-a-candidatures-emplacements-food-trucks-2026"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "food truck"
+   ],
+   "score": 75,
+   "found_at": "2026-10-06T05:28:06+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "543014d56a6a",
    "title": "Ville de Saint Hilaire de Riez",
    "summary": "Appel à manifestation d'intérêt – Marché du Village de Noël] Et si vous ... restauration ambulante. Au programme : marché artisanal, animations, Père ...",
@@ -1154,34 +951,556 @@
    "contact_checked": true
   },
   {
-   "id": "0d452955d7fc",
-   "title": "Magazine de la Ville de Roquebrune ...",
-   "summary": "d'occupation du domaine public (foires et marchés) – Présidence de la ... Et pour celles et ceux qui s'at- tardent en promenade, le food truck aux ...",
-   "type": "Appel à candidatures",
+   "id": "f97d2054959b",
+   "title": "Calendrier des Fêtes dans Les Alpes maritimes, 06 région ...",
+   "summary": "Fête des fraises · Le 25 Avril 2027 ; La fête du miel de Mouans-Sartoux · Le 26 Avril 2027 ; Fête des Mai · Le 01 Mai 2027 ; Fête patronale St Jacques · Le 01 Mai 2027.",
+   "type": "Événement",
    "source": "Recherche web",
-   "url": "https://www.roquebrune-cap-martin.fr/epublications/16104-site-officiel.htm?download=7505",
+   "url": "https://flanerbouger.fr/fete/06-fete-alpes-maritimes.php",
    "organizer": null,
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
+   "city": "Mouans-Sartoux",
+   "dept": "06",
+   "lat": 43.61914,
+   "lon": 6.96586,
    "approx": false,
    "deadline": null,
-   "event_date": null,
+   "event_date": "2027-04-25",
+   "published": null,
+   "contact": {
+    "emails": [
+     "contact@flanerbouger.fr"
+    ],
+    "phones": [],
+    "forms": [
+     "https://flanerbouger.fr/events/inscription.php",
+     "https://www.flanerbouger.fr/events/creer-votre-evenement.php"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fête",
+    "fêtes"
+   ],
+   "score": 75,
+   "found_at": "2026-10-07T05:29:12+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "ea530561c3a0",
+   "title": "Agenda - Animations - Pays d'Aix",
+   "summary": "Le marché de Noël 28 & 29 novembre 2026 · Excursions à la journée · Zóu Maï – Fête Provençale 23 mai 2026 · Les visites guidées à Gardanne · Gardanne autrement.",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.tourisme-gardanne.fr/ca-bouge-a-gardanne/agenda-aux-alentours/",
+   "organizer": null,
+   "city": "Gardanne",
+   "dept": "13",
+   "lat": 43.4573,
+   "lon": 5.48627,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-29",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 42 51 02 73"
+    ],
+    "forms": [
+     "https://www.tourisme-gardanne.fr/inscription-a-la-newsletter/"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fête",
+    "marché de noël"
+   ],
+   "score": 75,
+   "found_at": "2026-10-07T05:29:12+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "d052aae94c31",
+   "title": "Vide grenier",
+   "summary": "Le Comité des Fêtes de La Motte vous donne rendez-vous le dimanche 11 octobre 2026 à partir de 8h00 jusqu'à 17h pour son 2ᵉ vide-grenier de l'année !",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.visitvar.fr/fiche/vide-grenier-8010088",
+   "organizer": null,
+   "city": "La Motte",
+   "dept": "83",
+   "lat": 43.50118,
+   "lon": 6.5488,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-11",
+   "published": null,
+   "contact": {
+    "emails": [
+     "tina.kaas@dracenie.com"
+    ],
+    "phones": [
+     "04 94 50 44 55"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fêtes",
+    "vide-grenier"
+   ],
+   "score": 75,
+   "found_at": "2026-10-07T05:29:12+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "018e3fc0bbbd",
+   "title": "Agenda des sorties dans le Var en octobre 2026",
+   "summary": "Samedi 10 octobre 2026 · Octobre rose 2026 à Ollioules · Théâtre Galli – saison 2026-2027 · Africanides – festival de cinéma · Foire Agricole à Carnoules.",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.info83.fr/agenda-des-sorties-dans-le-var-en-octobre-2026/",
+   "organizer": null,
+   "city": "Ollioules",
+   "dept": "83",
+   "lat": 43.13497,
+   "lon": 5.85392,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-10",
+   "published": null,
+   "contact": {
+    "emails": [
+     "laurence@info83.fr"
+    ],
+    "phones": [
+     "06 68 93 42 53"
+    ],
+    "forms": [
+     "https://www.helloasso.com/associations/prestige-events/evenements/defile-de-l-elegance-octobre-rose-2026-1",
+     "https://www.helloasso.com/associations/compagnie-432/evenements/la-symphonie-des-bulles-chateau-pascalette"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival",
+    "foire"
+   ],
+   "score": 75,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "78bb3e04548e",
+   "title": "Vide-Greniers octobre 2026",
+   "summary": "09 Octobre 2026 · Nevers Les puces d'automne · Bruxelles Marché aux puces de la place du jeu de balle · Poitiers Vide grenier · Salernes Brocante - vide grenier.",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://brocabrac.fr/vide-grenier/octobre",
+   "organizer": null,
+   "city": "Salernes",
+   "dept": "83",
+   "lat": 43.56166,
+   "lon": 6.22928,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-09",
    "published": null,
    "contact": {
     "emails": [],
     "phones": [],
     "forms": []
    },
-   "mode": "demandes",
+   "mode": "evenements",
    "via": null,
    "keywords": [
-    "food truck",
-    "occupation du domaine public"
+    "brocante",
+    "vide-greniers"
    ],
    "score": 75,
-   "found_at": "2026-10-01T05:27:39+00:00",
+   "found_at": "2026-10-07T05:29:12+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "4e9869761f81",
+   "title": "-Comité des Fêtes de Digne-les-Bains",
+   "summary": "Prochain Corso de la Lavande du 30 juillet au 3 Août 2027. Chaque année 20 à 25000 personnes par jour viennent prendre part à la manifestation. L'accès y est libre et gratuit, c'est une fête populaire accessible à tous. Le Corso c'est : -Une douzaine de structures de crépon et de lavande -Une douzaine de groupes et musiques internationaux -des dizaines de milliers de bourses de ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.cdf-dignelesbains.fr/",
+   "organizer": null,
+   "city": "Digne-les-Bains",
+   "dept": "04",
+   "lat": 44.0893,
+   "lon": 6.24272,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2027-08-03",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "corso",
+    "fête",
+    "fêtes"
+   ],
+   "score": 75,
+   "found_at": "2026-10-07T05:29:12+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "d88f80702048",
+   "title": "Fête de la science",
+   "summary": "02 Oct 2026 au 12 Oct 2026 Fête de la science Événement national gratuit, la Fête de la science explore cette année les « Saveurs savantes », avec un programme proposé par la médiathèque. Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/fete-de-la-science/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-12",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 98 11 89 00",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fête"
+   ],
+   "score": 75,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "cf24cae61259",
+   "title": "Festival du Rire",
+   "summary": "07 Oct 2026 au 17 Oct 2026 Festival du Rire Le Festival du Rire revient pour sa 23e édition avec humoristes confirmés, jeunes talents et théâtre, en soutien à Octobre Rose. Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/festival-du-rire/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-07",
+   "published": null,
+   "contact": {
+    "emails": [
+     "billetterie@ville-saintraphael.fr"
+    ],
+    "phones": [
+     "04 98 11 89 00",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival"
+   ],
+   "score": 75,
+   "found_at": "2026-10-02T05:26:58+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "b901b9b4b2de",
+   "title": "Roc d'Azur",
+   "summary": "07 Oct 2026 au 11 Oct 2026 Roc d'Azur Since the very first Roc d’Azur organised in 1984 by Stéphane Hauvette with just 7 competitors, the event has continually grown into a 5-day festival which attracts over 20,000 participants, 300 exhibitors and 100,000 visitors! Les Issambres (Roquebrune sur Argens)",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/roc-dazur/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-07",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 19 89 89",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival"
+   ],
+   "score": 75,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "e5814a5d4718",
+   "title": "Festival du rire : Cash",
+   "summary": "09 Oct 2026 Festival du rire : Cash Découvrez la toute nouvelle comédie de l’auteur du « Bar des Grandes Gueules » et « Du Rififi à la Morgue » proposée par l'association Les Estérelles, dans le cadre du Festival du Rire à Saint-Raphaël. Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/festival-du-rire-cash-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-09",
+   "published": null,
+   "contact": {
+    "emails": [
+     "billetterie@ville-saintraphael.fr"
+    ],
+    "phones": [
+     "04 98 11 89 00",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival"
+   ],
+   "score": 75,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "d52b2791fa15",
+   "title": "CINE CONCERT \"THE SWINGSON SWING\" AU CINEMA LE VOX",
+   "summary": "09 Oct 2026 CINE CONCERT \"THE SWINGSON SWING\" AU CINEMA LE VOX Concert (LES SWINGSONS) + film (SWING de Tony GATLIF) Featuring LOUIS THOMAS Hommage a Tony GATLIF, cinéaste de la liberté, de l'exil et de la musique Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/cine-concert-the-swingson-swing-au-cinema-le-vox-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-09",
+   "published": null,
+   "contact": {
+    "emails": [
+     "cinemalevox@gmail.com"
+    ],
+    "phones": [
+     "04 94 51 15 11",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "score": 75,
+   "found_at": "2026-10-03T05:35:37+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "df0b6a47fbe0",
+   "title": "Vols au-dessus du volcan",
+   "summary": "11 Oct 2026 Vols au-dessus du volcan Spectacle-concert théâtral de la Cie Chemindessens Production qui met en scène la relation épistolaire entre Antoine de Saint-Exupéry et son épouse Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/vols-au-dessus-du-volcan-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-11",
+   "published": null,
+   "contact": {
+    "emails": [
+     "billetterie@ville-saintraphael.fr"
+    ],
+    "phones": [
+     "04 98 11 89 00",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "score": 75,
+   "found_at": "2026-10-07T05:29:12+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "536f3438ab2d",
+   "title": "Concert - Back To The Police",
+   "summary": "16 Oct 2026 Concert - Back To The Police Back To The Police - Tribute Puget-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/concert-back-to-the-police/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Puget-sur-Argens",
+   "dept": "83",
+   "lat": 43.47045,
+   "lon": 6.68553,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-16",
+   "published": null,
+   "contact": {
+    "emails": [
+     "culture@mairie-puget-sur-argens.com"
+    ],
+    "phones": [
+     "04 94 19 61 35",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "score": 75,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "cadc40f5e387",
+   "title": "the Games Festival",
+   "summary": "17 Oct 2026 au 18 Oct 2026 the Games Festival On October 17 and 18, 2026, the Games Festival returns for an ambitious second edition, entirely dedicated to board games in all their forms, from curious beginners to expert players. Roquebrune-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/the-games-festival/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Roquebrune-sur-Argens",
+   "dept": "83",
+   "lat": 43.42692,
+   "lon": 6.66176,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-17",
+   "published": null,
+   "contact": {
+    "emails": [
+     "village@roquebrunesurargens.fr"
+    ],
+    "phones": [
+     "04 94 19 89 89",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival"
+   ],
+   "score": 75,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "b0a03cb42ef3",
+   "title": "Concert récital Piano-voix",
+   "summary": "17 Oct 2026 Concert récital Piano-voix Un concert récital piano-voix ou plus de 20 artistes sont accompagnés au piano par Rémy Bailet. Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/concert-recital-piano-voix-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-17",
+   "published": null,
+   "contact": {
+    "emails": [
+     "lisa.revs83@gmail.com"
+    ],
+    "phones": [
+     "09 81 28 58 18",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "score": 75,
+   "found_at": "2026-10-06T05:28:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "b99c008cd834",
+   "title": "Festival urbain au Village Made In France",
+   "summary": "24 Oct 2026 Festival urbain au Village Made In France Une première édition qui va faire du bruit au Village Made In France ! Puget-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/festival-urbain-au-village-made-in-france-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Puget-sur-Argens",
+   "dept": "83",
+   "lat": 43.47045,
+   "lon": 6.68553,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-24",
+   "published": null,
+   "contact": {
+    "emails": [
+     "contact@levillagemadeinfrance.fr"
+    ],
+    "phones": [
+     "09 88 07 32 41",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival"
+   ],
+   "score": 75,
+   "found_at": "2026-10-03T05:35:37+00:00",
    "contact_checked": true
   },
   {
@@ -1217,6 +1536,70 @@
    ],
    "score": 75,
    "found_at": "2026-10-05T05:31:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "8961c5399959",
+   "title": "Festival de la craie",
+   "summary": "17 Oct 2026 Festival de la craie 17e édition du Festival de la craie. Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/festival-de-la-craie-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-17",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 98 11 89 00",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival"
+   ],
+   "score": 75,
+   "found_at": "2026-10-01T05:27:39+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "0d452955d7fc",
+   "title": "Magazine de la Ville de Roquebrune ...",
+   "summary": "d'occupation du domaine public (foires et marchés) – Présidence de la ... Et pour celles et ceux qui s'at- tardent en promenade, le food truck aux ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.roquebrune-cap-martin.fr/epublications/16104-site-officiel.htm?download=7505",
+   "organizer": null,
+   "city": "Roquebrune-sur-Argens",
+   "dept": "83",
+   "lat": 43.42692,
+   "lon": 6.66176,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "food truck",
+    "occupation du domaine public"
+   ],
+   "score": 75,
+   "found_at": "2026-10-01T05:27:39+00:00",
    "contact_checked": true
   },
   {
@@ -1483,6 +1866,295 @@
    ],
    "score": 70,
    "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "663a2584767d",
+   "title": "La fête votive du village de Rognes dans le pays d'Aix ...",
+   "summary": "La Fête votive d'Aigues-Mortes se déroule du 3 au 11 octobre 2026, avec un week-end de clôture (\"le Revivre\") du 16 au 18 octobre 2026 RENDEZ-VOUS À AIGUES- ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/laprovence/posts/la-f%C3%AAte-votive-du-village-de-rognes-dans-le-pays-daix-d%C3%A9bute-ce-vendredi-11-sept/1547511974086628/",
+   "organizer": null,
+   "city": "Rognes",
+   "dept": "13",
+   "lat": 43.66609,
+   "lon": 5.35089,
+   "approx": false,
+   "deadline": "2026-10-18",
+   "event_date": "2026-10-11",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": "Facebook",
+   "keywords": [
+    "fête"
+   ],
+   "score": 70,
+   "found_at": "2026-10-07T05:29:12+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "3831763cdcb3",
+   "title": "Cagnes sur Mer (@salonhabitatcagnessurmer)",
+   "summary": "Bonjour, Nous recherchons des food trucks pour ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.instagram.com/salonhabitatcagnessurmer/",
+   "organizer": null,
+   "city": "La Seyne-sur-Mer",
+   "dept": "83",
+   "lat": 43.09333,
+   "lon": 5.87965,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Instagram",
+   "keywords": [
+    "food trucks",
+    "recherchons"
+   ],
+   "score": 70,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "2233eb679ccc",
+   "title": "Sagasdom 2026 Le salon dd la gastronomie des outre mer ...",
+   "summary": "Recherche Food Truck – Salon du Mariage du Domaine Meryt Dans le cadre ... Aimé Garnier ▻ Les Animations du Golfe de Saint-Tropez. 23w · Public ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/babette.derozieres/posts/sagasdom-2026le-salon-dd-la-gastronomie-des-outre-mer-f%C3%AAte-ses-10-ans-je-vous-at/10239224254122067/",
+   "organizer": null,
+   "city": "Saint-Tropez",
+   "dept": "83",
+   "lat": 43.26495,
+   "lon": 6.65812,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "163c071ee6ee",
+   "title": "L'actu des fêtes foraines de France",
+   "summary": "Floriane Lys ▻ Recherche Food truck événements. 17w · Public · Recherche ... Aimé Garnier ▻ Les Animations du Golfe de Saint-Tropez. 24w · Public ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/61557722113748/posts/-le-ventru-%C3%A0-baccarat-baccarat-du-10-au-18-octobre-2026une-petite-faim-pendant-l/122271765182257403/",
+   "organizer": null,
+   "city": "Saint-Tropez",
+   "dept": "83",
+   "lat": 43.26495,
+   "lon": 6.65812,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-10-07T05:29:12+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "be3cf4bc3050",
+   "title": "La magie de Noël se prépare déjà à Valdeblore ! ...",
+   "summary": "Artisans, créateurs, producteurs locaux et food trucks, venez participer à cette belle journée et faire vivre la magie de Noël à Valdeblore. Candidatures avant ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.instagram.com/p/DdOSBu_Nm7M/",
+   "organizer": null,
+   "city": "Valdeblore",
+   "dept": "06",
+   "lat": 44.06806,
+   "lon": 7.1798,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Instagram",
+   "keywords": [
+    "food trucks"
+   ],
+   "score": 70,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "1b232e787372",
+   "title": "Marché de Noël (06 Décembre 2026)",
+   "summary": "Marché de Noël organisé le dimanche 06 décembre 2026 par le comité des fêtes de Correns de 10h00 à 18h00 suivi du feu d'artifice .",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.correns.fr/fr/ev/1870481/1995671/marche-de-noel-159",
+   "organizer": null,
+   "city": "Correns",
+   "dept": "83",
+   "lat": 43.48702,
+   "lon": 6.08015,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-06",
+   "published": null,
+   "contact": {
+    "emails": [
+     "mairie@correns.fr"
+    ],
+    "phones": [
+     "04 96 17 57 26",
+     "04 94 37 21 95"
+    ],
+    "forms": [
+     "https://www.correns.fr/fr/rb/1818559/formulaires-7"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fêtes",
+    "marché de noël"
+   ],
+   "score": 70,
+   "found_at": "2026-10-07T05:29:12+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "9219cda357a3",
+   "title": "Marché de Noël",
+   "summary": "Marché de Noël. Fêtes et manifestations. Place du Grand jardin. 83670 Pontevès ... Samedi 28 novembre 2026 de 10h à 18h. Tarifs. Accès libre. Mise à jour ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.visitvar.fr/fiche/marche-de-noel-8018717",
+   "organizer": null,
+   "city": "Barjols",
+   "dept": "83",
+   "lat": 43.55271,
+   "lon": 5.99729,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-28",
+   "published": null,
+   "contact": {
+    "emails": [
+     "pro@provenceverte.fr"
+    ],
+    "phones": [
+     "06 78 50 05 96"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fêtes",
+    "marché de noël"
+   ],
+   "score": 70,
+   "found_at": "2026-10-07T05:29:12+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "19aa93f10c05",
+   "title": "Marchés de Noël en Provence-Alpes-Côte d'Azur — 2026",
+   "summary": "La Seyne-sur-Mer · Marché des Sablettes. du 1 janvier au 31 décembre 2026 · En extérieur ; Fontvieille · 43ème Foire aux Santons et 29ème Marché de Noël - Edition ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://marchenoel.org/marches-de-noel/provence-alpes-cote-d-azur/",
+   "organizer": null,
+   "city": "La Seyne-sur-Mer",
+   "dept": "83",
+   "lat": 43.09333,
+   "lon": 5.87965,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-31",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "foire",
+    "marché de noël"
+   ],
+   "score": 70,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "263cdf851a1d",
+   "title": "À la rencontre des commerçants, artisans et artistes du quartier République",
+   "summary": "10 Oct 2026 À la rencontre des commerçants, artisans et artistes du quartier République Exposition à ciel ouvert et animations proposées par L'Embouligue dans le cadre de la Journée Nationale du commerce de proximité et de l'artisanat. Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/a-la-rencontre-des-commercants-artisans-et-artistes-du-quartier-republique-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-10",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "journée"
+   ],
+   "score": 70,
+   "found_at": "2026-10-07T05:29:12+00:00",
    "contact_checked": true
   },
   {
@@ -1793,68 +2465,6 @@
    "contact_checked": true
   },
   {
-   "id": "3831763cdcb3",
-   "title": "Cagnes sur Mer (@salonhabitatcagnessurmer)",
-   "summary": "Bonjour, Nous recherchons des food trucks pour ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.instagram.com/salonhabitatcagnessurmer/",
-   "organizer": null,
-   "city": "La Seyne-sur-Mer",
-   "dept": "83",
-   "lat": 43.09333,
-   "lon": 5.87965,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Instagram",
-   "keywords": [
-    "food trucks",
-    "recherchons"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "2233eb679ccc",
-   "title": "Sagasdom 2026 Le salon dd la gastronomie des outre mer ...",
-   "summary": "Recherche Food Truck – Salon du Mariage du Domaine Meryt Dans le cadre ... Aimé Garnier ▻ Les Animations du Golfe de Saint-Tropez. 23w · Public ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/babette.derozieres/posts/sagasdom-2026le-salon-dd-la-gastronomie-des-outre-mer-f%C3%AAte-ses-10-ans-je-vous-at/10239224254122067/",
-   "organizer": null,
-   "city": "Saint-Tropez",
-   "dept": "83",
-   "lat": 43.26495,
-   "lon": 6.65812,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "f8b39e05f362",
    "title": "Vide grenier à St Saturnin Retrouver votre Food truck",
    "summary": "Melanie Revault ▻ Montereau-Fault-Yonne. 4w · Public · Recherche Food Truck – Forum des Associations-vide grenier Saint ... golfe de st tropez a grimaud dans ...",
@@ -1921,36 +2531,6 @@
    ],
    "score": 70,
    "found_at": "2026-10-06T05:28:06+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "be3cf4bc3050",
-   "title": "La magie de Noël se prépare déjà à Valdeblore ! ...",
-   "summary": "Artisans, créateurs, producteurs locaux et food trucks, venez participer à cette belle journée et faire vivre la magie de Noël à Valdeblore. Candidatures avant ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.instagram.com/p/DdOSBu_Nm7M/",
-   "organizer": null,
-   "city": "Valdeblore",
-   "dept": "06",
-   "lat": 44.06806,
-   "lon": 7.1798,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Instagram",
-   "keywords": [
-    "food trucks"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true
   },
   {
@@ -2203,37 +2783,6 @@
    "contact_checked": true
   },
   {
-   "id": "19aa93f10c05",
-   "title": "Marchés de Noël en Provence-Alpes-Côte d'Azur — 2026",
-   "summary": "La Seyne-sur-Mer · Marché des Sablettes. du 1 janvier au 31 décembre 2026 · En extérieur ; Fontvieille · 43ème Foire aux Santons et 29ème Marché de Noël - Edition ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://marchenoel.org/marches-de-noel/provence-alpes-cote-d-azur/",
-   "organizer": null,
-   "city": "La Seyne-sur-Mer",
-   "dept": "83",
-   "lat": 43.09333,
-   "lon": 5.87965,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-31",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "foire",
-    "marché de noël"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "b58f22f97358",
    "title": "Soirée Food Trucks Ville de Vedène Mercredi 30/09 Midi & ...",
    "summary": "Dans le cadre d'un événement familial organisé aux alentours d'Aix-en-Provence durant l'été 2026, nous recherchons un ou plusieurs food trucks salés.",
@@ -2295,43 +2844,6 @@
    ],
    "score": 65,
    "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "cfd5c0b21c5c",
-   "title": "Appels à candidatures food truck : emplacements et AMI",
-   "summary": "L'Université Côte d'Azur lance un appel à candidatures pour la mise à disposition ponctuelle du domaine public pour un food truck sur le campus Carlone. Les ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://wikifoodtruck.fr/appels-food-truck",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [
-     "francois@wikifoodtruck.fr"
-    ],
-    "phones": [],
-    "forms": [
-     "https://wikifoodtruck.fr/appels-food-truck/vignec-food-truck-hiver-2026-2027",
-     "https://wikifoodtruck.fr/appels-food-truck/marmande-food-truck-pour-festival-urbance-2026",
-     "https://wikifoodtruck.fr/appels-food-truck/rueil-malmaison-appel-a-candidatures-emplacements-food-trucks-2026"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à candidatures",
-    "food truck"
-   ],
-   "score": 65,
-   "found_at": "2026-10-06T05:28:06+00:00",
    "contact_checked": true
   },
   {
@@ -2434,12 +2946,12 @@
    "contact_checked": true
   },
   {
-   "id": "e4938626dd04",
-   "title": "Bonsoir 🙂 Si vous possédez un Food Truck, un camping ...",
-   "summary": "Recherche food truck – Saison été 2026 (juillet / août) Bonjour à ... Alpes-Maritimes ? • Oui • Non • Peut-être selon les conditions 2️⃣ Quel ...",
+   "id": "099ee6f03a0a",
+   "title": "Food remorque d'occasion - Équipements pour commerces ...",
+   "summary": "Recherche food truck. 1 €. Prix: 1 €. Le Rheu 35650. Située à Le Rheu 35650. 28 ... Équipements pour commerces & marchés Provence-Alpes-Côte d'Azur ...",
    "type": "Recherche un food truck",
    "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/1523606787861349/posts/4620628141492516/",
+   "url": "https://www.leboncoin.fr/ck/equipements_pour_commerces_marches/food-remorque/p-7",
    "organizer": null,
    "city": null,
    "dept": null,
@@ -2455,13 +2967,13 @@
     "forms": []
    },
    "mode": "demandes",
-   "via": "Facebook",
+   "via": null,
    "keywords": [
     "food truck",
     "recherche"
    ],
    "score": 60,
-   "found_at": "2026-09-30T00:21:22+00:00",
+   "found_at": "2026-10-07T05:29:12+00:00",
    "contact_checked": true
   },
   {
@@ -2493,6 +3005,223 @@
    ],
    "score": 60,
    "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "dce8ab1cd668",
+   "title": "Var – Fête de Village",
+   "summary": "La fête locale de Flassans-sur-Issole, dans le Centre-Var, est annoncée pour le 1er août 2027. Le programme de cette édition n'est pas… Fête votive des Arcs-sur ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://fete-de-village.fr/region/provence-alpes-cote-d-azur/var/",
+   "organizer": null,
+   "city": "Flassans-sur-Issole",
+   "dept": "83",
+   "lat": 43.37474,
+   "lon": 6.2135,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2027-08-01",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fête"
+   ],
+   "score": 60,
+   "found_at": "2026-10-07T05:29:12+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "8193a39e7785",
+   "title": "Stof Reggea Festival 2026 - Gassin",
+   "summary": "Festival, le 17 octobre 2026, à Gassin (Var) - horaires, tarifs, renseignements. Après une première édition réussie, le STOF Reggae Festival revient à ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.jds.fr/manifestations/festival/stof-reggea-festival-1781985_A",
+   "organizer": null,
+   "city": "Gassin",
+   "dept": "83",
+   "lat": 43.23932,
+   "lon": 6.59518,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-17",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 56 62 01"
+    ],
+    "forms": [
+     "https://www.jds.fr/newsletter-archives/toutes-les-newsletter-jds-fr?origin=modal-newsletter&dpt=83&list=1"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival"
+   ],
+   "score": 60,
+   "found_at": "2026-10-07T05:29:12+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "8d4c417e2eec",
+   "title": "Évènements autour de Saint-Raphaël",
+   "summary": "Le 9 octobre 2026 · Cinéma le Vox, Place Agricola - Fréjus · Concert (les swingsons) + film (SWING de Tony GATLIF) - Featuring louis thomas - Hommage a Tony ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.france-voyage.com/evenements/saint-raphael-commune-33523.htm",
+   "organizer": null,
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-09",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "score": 60,
+   "found_at": "2026-10-07T05:29:12+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "f7a9538f364e",
+   "title": "Festival du Rire de Saint-Raphaël 2026 | billetterie dates",
+   "summary": "Les trois soirées — les 10, 16 et 17 octobre 2026 à 20h30 — s'adressent à un large public. Pour d'autres idées de sorties dans la région, retrouvez les ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.jds.fr/frejus/manifestations/festival/festival-du-rire-st-raphael-1763778_A",
+   "organizer": null,
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-17",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://www.jds.fr/newsletter-archives/toutes-les-newsletter-jds-fr?origin=modal-newsletter&dpt=83&list=1"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival"
+   ],
+   "score": 60,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "6951993b7797",
+   "title": "Veille territoire - Esterel Côte d'Azur ...",
+   "summary": "Saint-Raphaël Triathlon. 30/09/2026 , par Isakovic. Festival du Rire » : 07 octobre 2026 / 20:30",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://esterelcotedazur-agglo.fr/veille-territoire/",
+   "organizer": null,
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-07",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival"
+   ],
+   "score": 60,
+   "found_at": "2026-10-07T05:29:12+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "d07910d98ba8",
+   "title": "Vide grenier - Cagnes-sur-Mer (06800) - 11 Octobre 2026",
+   "summary": "Brocantes près de chez moi le Dimanche 11 Octobre 2026 ; Biot Vide grenier automne · 7 km. 06410 ; Nice Vide grenier de la rentrée. 11 km. 06200 ; Nice Vide-Grenier.",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://brocabrac.fr/06/cagnes-sur-mer/1405418-vide-grenier",
+   "organizer": null,
+   "city": "Cagnes-sur-Mer",
+   "dept": "06",
+   "lat": 43.67564,
+   "lon": 7.15009,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-11",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "vide-grenier"
+   ],
+   "score": 60,
+   "found_at": "2026-10-07T05:29:12+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "e4938626dd04",
+   "title": "Bonsoir 🙂 Si vous possédez un Food Truck, un camping ...",
+   "summary": "Recherche food truck – Saison été 2026 (juillet / août) Bonjour à ... Alpes-Maritimes ? • Oui • Non • Peut-être selon les conditions 2️⃣ Quel ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/1523606787861349/posts/4620628141492516/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 60,
+   "found_at": "2026-09-30T00:21:22+00:00",
    "contact_checked": true
   },
   {
@@ -2587,43 +3316,6 @@
    "via": null,
    "keywords": [
     "fête"
-   ],
-   "score": 60,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "018e3fc0bbbd",
-   "title": "Agenda des sorties dans le Var en octobre 2026",
-   "summary": "8 octobre 2026 Africanides – festival de cinéma Du 8 au 11 octobre 2026 – Cinéma Pathé Toulon – Centre-ville de Toulon. Au programme : cinéma, littérature, ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.info83.fr/agenda-des-sorties-dans-le-var-en-octobre-2026/",
-   "organizer": null,
-   "city": "Toulon",
-   "dept": "83",
-   "lat": 43.1367,
-   "lon": 5.9338,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-08",
-   "published": null,
-   "contact": {
-    "emails": [
-     "laurence@info83.fr"
-    ],
-    "phones": [
-     "06 68 93 42 53"
-    ],
-    "forms": [
-     "https://www.helloasso.com/associations/prestige-events/evenements/defile-de-l-elegance-octobre-rose-2026-1",
-     "https://www.helloasso.com/associations/compagnie-432/evenements/la-symphonie-des-bulles-chateau-pascalette"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
    ],
    "score": 60,
    "found_at": "2026-09-30T10:17:04+00:00",
@@ -2794,38 +3486,6 @@
    "contact_checked": true
   },
   {
-   "id": "f7a9538f364e",
-   "title": "Festival du Rire de Saint-Raphaël 2026 | billetterie dates",
-   "summary": "15/10/2026 → 18/10/2026 Hyères. Festival à Toulon · 40ème Festival International de mode, photographie et accessoires. Les actualités à Fréjus. Pass Plein Air ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.jds.fr/frejus/manifestations/festival/festival-du-rire-st-raphael-1763778_A",
-   "organizer": null,
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-15",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": [
-     "https://www.jds.fr/newsletter-archives/toutes-les-newsletter-jds-fr?origin=modal-newsletter&dpt=83&list=1"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "score": 60,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "066b7ee91479",
    "title": "Bonjour 🖐️ , 🚨Ce soir, JEUDI 24 SEPTEMBRE ...",
    "summary": "... var) le Titi Truck vous propose en plat: JAMBON GRILLÉ SAUCE MADERE ... Thaïs Nivaille ▻ Recherche Food truck événements. 6w · Public · Food truck 12 ...",
@@ -2857,6 +3517,70 @@
    "contact_checked": true
   },
   {
+   "id": "21def64d43fc",
+   "title": "Foires, marchés et salons du Var",
+   "summary": "Dans le département du Var, 205 évènements sont organisés sur 101 communes en date du 28/09/2026 ... marché de Noël. 13 décembre 2026. Moncley 25170. marché de ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://officiel-presse.com/foires-marches-salons/calendrier/var.php",
+   "organizer": null,
+   "city": "Vars",
+   "dept": "05",
+   "lat": 44.59117,
+   "lon": 6.68776,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-13",
+   "published": null,
+   "contact": {
+    "emails": [
+     "contact@edicausse.fr"
+    ],
+    "phones": [],
+    "forms": [
+     "https://www.officiel-presse.com/gestion/"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "marché de noël"
+   ],
+   "score": 55,
+   "found_at": "2026-10-07T05:29:12+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "cd1a90875e16",
+   "title": "La commune de Rocbaron ouvre les candidatures pour ...",
+   "summary": "La commune de Rocbaron ouvre les candidatures pour son Marché de Noël du dimanche 13 décembre 2026, et on promet que l'ambiance sera au rendez-vous ✨ .",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/rocbaronofficiel/videos/la-commune-de-rocbaron-ouvre-les-candidatures-pour-son-march%C3%A9-de-no%C3%ABl-du-dimanch/1877001586768861/",
+   "organizer": null,
+   "city": "Rocbaron",
+   "dept": "83",
+   "lat": 43.31145,
+   "lon": 6.07441,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-13",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": "Facebook",
+   "keywords": [
+    "marché de noël"
+   ],
+   "score": 55,
+   "found_at": "2026-10-07T05:29:12+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "40499ad22c7b",
    "title": "La commune de Rocbaron ouvre les candidatures pour ...",
    "summary": "La commune de Rocbaron ouvre les candidatures pour son Marché de Noël du dimanche 13 décembre 2026, et on promet que l'ambiance sera au rendez-vous ✨ ·",
@@ -2879,70 +3603,6 @@
    },
    "mode": "evenements",
    "via": "Instagram",
-   "keywords": [
-    "marché de noël"
-   ],
-   "score": 55,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "63bc22b9321b",
-   "title": "Marché de Noël Aix-en-Provence 2026 en famille | Mira",
-   "summary": "Le marché de Noël du cours Mirabeau ouvre du 13 novembre au 31 décembre 2026, tous les jours de 10h à 20h en semaine et le dimanche, jusqu'à 21h30 les vendredis ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.miraparent.com/sorties/aix-en-provence/noel/",
-   "organizer": null,
-   "city": "Aix-en-Provence",
-   "dept": "13",
-   "lat": 43.54137,
-   "lon": 5.40612,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-31",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": [
-     "https://www.aixenprovence.fr/Appel-a-candidatures-Marche-de-Noel-2026"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "marché de noël"
-   ],
-   "score": 55,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "2c5e7a5612e2",
-   "title": "Marché de Noël - Port-de-Bouc (13)",
-   "summary": "Marché de Noël de la Ville de Port de Bouc. Du 11 au 13 Décembre 2026. Cours Landrivon. Marché artisanal, food-trucks, animations, feu d'artifice etc.",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://noel.org/evenement/1028626",
-   "organizer": null,
-   "city": null,
-   "dept": "13",
-   "lat": 43.54,
-   "lon": 5.09,
-   "approx": true,
-   "deadline": null,
-   "event_date": "2026-12-13",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": [
-     "https://assets.agenda.org/pdf/6ab4d4b8-da8e-251a-a6cf-a49b25826e1c.pdf"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
    "keywords": [
     "marché de noël"
    ],
@@ -3015,6 +3675,259 @@
    "contact_checked": true
   },
   {
+   "id": "28af53a8e290",
+   "title": "Marché de noël Reillanne (04110)",
+   "summary": "Marchés de noël à Reillanne (04110) ; 28 Novembre 2026. Villelaure Marché de Noël ; 06 Décembre 2026. Meyrargues Marché de Noël ; 12 Décembre 2026. Malijai Marché ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://brocabrac.fr/app.php/04/reillanne/marche-noel/",
+   "organizer": null,
+   "city": "Reillanne",
+   "dept": "04",
+   "lat": 43.8782,
+   "lon": 5.66857,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-28",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "marché de noël"
+   ],
+   "score": 55,
+   "found_at": "2026-10-07T05:29:12+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "ba6d3aecf6e0",
+   "title": "Marché de Noël - GOLFE SAINT TROPEZ",
+   "summary": "Le marché de Noël se tient au Château Saint-Maur, 535 route de Collobrières, 83310 Cogolin, du samedi 5 au dimanche 6 décembre 2026. Des artisans et ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://golfe-saint-tropez.com/evenement/cogolin/marche-de-noel/",
+   "organizer": null,
+   "city": "Cogolin",
+   "dept": "83",
+   "lat": 43.25117,
+   "lon": 6.53876,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-06",
+   "published": null,
+   "contact": {
+    "emails": [
+     "chateausaintmaur@zannier.com"
+    ],
+    "phones": [],
+    "forms": [
+     "https://golfe-saint-tropez.com/formulaire-de-contact-golfe-saint-tropez-com/",
+     "https://golfe-saint-tropez.com/formulaire-de-proposition-dun-evenement-dans-le-golfe-de-saint-tropez/"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "marché de noël"
+   ],
+   "score": 55,
+   "found_at": "2026-10-07T05:29:12+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "84660b4fb944",
+   "title": "Vide grenier du comité des fêtes drapois - 06340",
+   "summary": "Vide grenier du comité des fêtes drapois. Dimanche 18 Octobre 2026. Adresse. Devant la mairie. Avenue du Général de Gaulle 06340 Drap.",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://brocabrac.fr/06/drap/1409432-vide-grenier-du-comite-des-fetes-drapois",
+   "organizer": null,
+   "city": "La Trinité",
+   "dept": "06",
+   "lat": 43.74397,
+   "lon": 7.33453,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-18",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fêtes"
+   ],
+   "score": 55,
+   "found_at": "2026-10-07T05:29:12+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "63bc22b9321b",
+   "title": "Marché de Noël Aix-en-Provence 2026 en famille | Mira",
+   "summary": "Le marché de Noël du cours Mirabeau ouvre du 13 novembre au 31 décembre 2026, tous les jours de 10h à 20h en semaine et le dimanche, jusqu'à 21h30 les vendredis ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.miraparent.com/sorties/aix-en-provence/noel/",
+   "organizer": null,
+   "city": "Aix-en-Provence",
+   "dept": "13",
+   "lat": 43.54137,
+   "lon": 5.40612,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-31",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://www.aixenprovence.fr/Appel-a-candidatures-Marche-de-Noel-2026"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "marché de noël"
+   ],
+   "score": 55,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "2c5e7a5612e2",
+   "title": "Marché de Noël - Port-de-Bouc (13)",
+   "summary": "Marché de Noël de la Ville de Port de Bouc. Du 11 au 13 Décembre 2026. Cours Landrivon. Marché artisanal, food-trucks, animations, feu d'artifice etc.",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://noel.org/evenement/1028626",
+   "organizer": null,
+   "city": null,
+   "dept": "13",
+   "lat": 43.54,
+   "lon": 5.09,
+   "approx": true,
+   "deadline": null,
+   "event_date": "2026-12-13",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://assets.agenda.org/pdf/6ab4d4b8-da8e-251a-a6cf-a49b25826e1c.pdf"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "marché de noël"
+   ],
+   "score": 55,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "a5267c123418",
+   "title": "Fête de la Science 2026 dans les Alpes-Maritimes du 02 ...",
+   "summary": "Avec la Fête de la Science du 02 au 12 octobre 2026, la Science est à l'honneur dans les Alpes-Maritimes ! Pour la 35ème édition, de nombreuses animations ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://recreanice.fr/programme-fete-science-06-alpes-maritimes",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-12",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fête"
+   ],
+   "score": 50,
+   "found_at": "2026-10-07T05:29:12+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "7f179fc90533",
+   "title": "Foires, marchés et salons des Bouches-du-Rhône",
+   "summary": "Dans le département des Bouches-du-Rhône, 255 évènements sont organisés sur 110 communes en date du 03/10/2026 ... marché de Noël. du 28 au 29 novembre 2026.",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.officiel-presse.com/foires-marches-salons/calendrier/bouches-du-rhone.php",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-29",
+   "published": null,
+   "contact": {
+    "emails": [
+     "contact@edicausse.fr"
+    ],
+    "phones": [],
+    "forms": [
+     "https://www.officiel-presse.com/gestion/"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "marché de noël"
+   ],
+   "score": 45,
+   "found_at": "2026-10-07T05:29:12+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "fcd4459a58b4",
+   "title": "Agenda foire et salon Bouches-du-Rhône",
+   "summary": "Foires et salons dans les Bouches-du-Rhône ... Barbentane Enfants Exposition Foire-Salon. dimanche. 11 octobre 2026. Salon Tous artistes ! 11 octobre ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.alentoor.fr/13-bouches-du-rhone/agenda/foire-salon",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-11",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "foire"
+   ],
+   "score": 45,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "0f7f1ea8f8fc",
    "title": "Foires, marchés et salons des Bouches-du-Rhône",
    "summary": "Dans le département des Bouches-du-Rhône, 258 évènements sont organisés sur 110 communes en date du 28/09/2026 ... marché de Noël. du 11 au 24 décembre 2026.",
@@ -3077,36 +3990,6 @@
    "via": null,
    "keywords": [
     "marché de noël"
-   ],
-   "score": 45,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "fcd4459a58b4",
-   "title": "Agenda foire et salon Bouches-du-Rhône",
-   "summary": "Barbentane Enfants Exposition Foire-Salon. dimanche. 11 octobre 2026. Salon Tous artistes ! 11 octobre. Salon Tous artistes ! Espace des Libertés. Des créateurs ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.alentoor.fr/13-bouches-du-rhone/agenda/foire-salon",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-11",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "foire"
    ],
    "score": 45,
    "found_at": "2026-09-30T10:17:04+00:00",
