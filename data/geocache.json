@@ -927,5 +927,13 @@
   "lon": -60.95548,
   "city": "La Trinité",
   "dept": "972"
- }
+ },
+ "zone:noel en provence": null,
+ "59188": {
+  "lat": 50.20467,
+  "lon": 3.41261,
+  "city": "Saint-Aubert",
+  "dept": "59"
+ },
+ "zone:maharin": null
 }
