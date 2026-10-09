@@ -935,5 +935,7 @@
   "city": "Saint-Aubert",
   "dept": "59"
  },
- "zone:maharin": null
+ "zone:maharin": null,
+ "zone:cet": null,
+ "zone:mermoz": null
 }

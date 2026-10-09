@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-08T15:28:22+00:00",
- "count": 120,
- "new_count": 0,
+ "updated": "2026-10-09T05:29:24+00:00",
+ "count": 122,
+ "new_count": 4,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -13,8 +13,7 @@
   },
   "Recherche web": {
    "ok": true,
-   "found": 0,
-   "note": "recherche web faite le matin seulement (économise le quota)"
+   "found": 26
   },
   "Pages surveillées": {
    "ok": true,
@@ -23,8 +22,8 @@
   }
  },
  "web_runs": {
-  "Candidatures": "2026-10-08",
-  "Instagram": "2026-10-08",
+  "Candidatures": "2026-10-09",
+  "Instagram": "2026-10-09",
   "Fêtes et festivals": "2026-10-07"
  },
  "events": [
@@ -61,6 +60,38 @@
    ],
    "score": 95,
    "found_at": "2026-10-05T05:31:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "4e2d2c6c396c",
+   "title": "Bientôt des food trucks sur la Corniche Kennedy à Marseille",
+   "summary": "L'attribution de la place pour un food-truck, suite à l'appel à manifestation d'intérêt en cours, sera octroyée jusqu'au 31 décembre 2028. Soit deux ans de ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://mesinfos.fr/13000-marseille/bientot-des-food-trucks-sur-la-corniche-kennedy-a-marseille-339858.html",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "food trucks",
+    "food-truck"
+   ],
+   "score": 90,
+   "found_at": "2026-10-01T05:27:39+00:00",
    "contact_checked": true
   },
   {
@@ -168,38 +199,6 @@
    ],
    "score": 90,
    "found_at": "2026-10-06T05:28:06+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "4e2d2c6c396c",
-   "title": "Bientôt des food trucks sur la Corniche Kennedy à Marseille",
-   "summary": "L'attribution de la place pour un food-truck, suite à l'appel à manifestation d'intérêt en cours, sera octroyée jusqu'au 31 décembre 2028. Soit deux ans de ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://mesinfos.fr/13000-marseille/bientot-des-food-trucks-sur-la-corniche-kennedy-a-marseille-339858.html",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "food trucks",
-    "food-truck"
-   ],
-   "score": 90,
-   "found_at": "2026-10-01T05:27:39+00:00",
    "contact_checked": true
   },
   {
@@ -330,6 +329,40 @@
    ],
    "score": 85,
    "found_at": "2026-09-30T15:28:56+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "862e426ef7be",
+   "title": "Destination Québec",
+   "summary": "10 Oct 2026 Destination Québec Boulouris Animation organise une soirée musicale sur le thème du Canada au travers des chansons Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/destination-quebec-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-10",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "06 78 65 48 70",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "animation",
+    "soirée"
+   ],
+   "score": 85,
+   "found_at": "2026-10-09T05:29:24+00:00",
    "contact_checked": true
   },
   {
@@ -597,6 +630,228 @@
    "contact_checked": true
   },
   {
+   "id": "def5bdf8832c",
+   "title": "Formation hygiène alimentaire Marseille : 14 h",
+   "summary": "Restaurant, snack ou food truck : chaque établissement marseillais doit compter une personne formée 14 heures. ... Dans son appel à candidatures, clos le 4 ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://aidoresto.com/formation-hygiene-alimentaire-marseille/",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "09 72 01 01 74"
+    ],
+    "forms": [
+     "https://aidoresto.com/formation-hygiene-alimentaire-toulon/"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à candidatures",
+    "food truck"
+   ],
+   "score": 75,
+   "found_at": "2026-10-07T05:29:12+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "30a02e913fbf",
+   "title": "Logis de la Chabotterie",
+   "summary": "... appel à candidatures. Nous avons hâte de découvrir vos créations ! #Hyères ... food truck et bien d'autres surprises ! Vernissage musical de 11h à ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/Logis.de.la.Chabotterie/posts/-envie-de-cr%C3%A9er-%C3%A0-votre-tour-lors-des-journ%C3%A9es-europ%C3%A9ennes-du-patrimoine-le-logi/1517776823727970/",
+   "organizer": null,
+   "city": "Hyères",
+   "dept": "83",
+   "lat": 43.11673,
+   "lon": 6.20255,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "appel à candidatures",
+    "food truck"
+   ],
+   "score": 75,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "f233da1b108c",
+   "title": "Appel aux commerçants et artisans ! ​ ...",
+   "summary": "... FOOD TRUCK ! À l'occasion du Forum des ... Golfe de Saint-Tropez La Commune de La Mole - 83310 ... Appel à candidatures Le dimanche 19 avril, le ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/818350535596746/posts/2225235084908277/",
+   "organizer": null,
+   "city": "Saint-Tropez",
+   "dept": "83",
+   "lat": 43.26495,
+   "lon": 6.65812,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "appel à candidatures",
+    "food truck"
+   ],
+   "score": 75,
+   "found_at": "2026-10-08T05:28:57+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "fd507d392b57",
+   "title": "Samedi 21 novembre , la Run Disco Party au Golf du Bassin Bleu !",
+   "summary": "#journéesdupatrimoine #jep2026 - in Ville de Saint- Tropez. ... Food Truck sur place Parking gratuit 🎟️ ... APPEL À CANDIDATURES – Salon de la ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/203174439802208/posts/28109182725441338/",
+   "organizer": null,
+   "city": "Saint-Tropez",
+   "dept": "83",
+   "lat": 43.26495,
+   "lon": 6.65812,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "appel à candidatures",
+    "food truck"
+   ],
+   "score": 75,
+   "found_at": "2026-10-01T05:27:39+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "e5f740f16568",
+   "title": "Bonjour,",
+   "summary": "Recherche food truck sucré – Anniversaire ... Bonjour, je recherche des food trucks sur la ... Anonymous participant ▻ Tu sais que tu viens des Alpes-Maritimes ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/488396098211880/posts/2836100683441398/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "food trucks",
+    "recherche"
+   ],
+   "score": 75,
+   "found_at": "2026-10-01T05:27:39+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "ff2c97113b03",
+   "title": "Food-trucks à Marseille : la Ville lance un appel ...",
+   "summary": "Les professionnels de la restauration ambulante sont invités à candidater ... La Ville de Marseille ouvre un nouvel appel à manifestation d'intérêt ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.petitesaffiches.fr/actualites,069/economie,045/food-trucks-a-marseille-la-ville,46153.html",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "restauration ambulante"
+   ],
+   "score": 75,
+   "found_at": "2026-09-30T00:21:22+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "65b64e453ce7",
+   "title": "portdemarseillefos",
+   "summary": "Vous êtes professionnel de la restauration ambulante à Marseille ? La @villemarseille lance un Appel à Manifestation d'Intérêt (AMI) pour sélectionner des ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.instagram.com/p/Dd89UtQlDB3/",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Instagram",
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "restauration ambulante"
+   ],
+   "score": 75,
+   "found_at": "2026-10-04T09:18:55+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "d88f80702048",
    "title": "Fête de la science",
    "summary": "02 Oct 2026 au 12 Oct 2026 Fête de la science Événement national gratuit, la Fête de la science explore cette année les « Saveurs savantes », avec un programme proposé par la médiathèque. Saint-Raphaël",
@@ -730,41 +985,6 @@
    ],
    "score": 75,
    "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "d52b2791fa15",
-   "title": "CINE CONCERT \"THE SWINGSON SWING\" AU CINEMA LE VOX",
-   "summary": "09 Oct 2026 CINE CONCERT \"THE SWINGSON SWING\" AU CINEMA LE VOX Concert (LES SWINGSONS) + film (SWING de Tony GATLIF) Featuring LOUIS THOMAS Hommage a Tony GATLIF, cinéaste de la liberté, de l'exil et de la musique Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/cine-concert-the-swingson-swing-au-cinema-le-vox-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-09",
-   "published": null,
-   "contact": {
-    "emails": [
-     "cinemalevox@gmail.com"
-    ],
-    "phones": [
-     "04 94 51 15 11",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "score": 75,
-   "found_at": "2026-10-03T05:35:37+00:00",
    "contact_checked": true
   },
   {
@@ -1009,262 +1229,38 @@
    "contact_checked": true
   },
   {
-   "id": "def5bdf8832c",
-   "title": "Formation hygiène alimentaire Marseille : 14 h",
-   "summary": "Restaurant, snack ou food truck : chaque établissement marseillais doit compter une personne formée 14 heures. ... Dans son appel à candidatures, clos le 4 ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://aidoresto.com/formation-hygiene-alimentaire-marseille/",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "09 72 01 01 74"
-    ],
-    "forms": [
-     "https://aidoresto.com/formation-hygiene-alimentaire-toulon/"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à candidatures",
-    "food truck"
-   ],
-   "score": 75,
-   "found_at": "2026-10-07T05:29:12+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "30a02e913fbf",
-   "title": "Logis de la Chabotterie",
-   "summary": "... appel à candidatures. Nous avons hâte de découvrir vos créations ! #Hyères ... food truck et bien d'autres surprises ! Vernissage musical de 11h à ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/Logis.de.la.Chabotterie/posts/-envie-de-cr%C3%A9er-%C3%A0-votre-tour-lors-des-journ%C3%A9es-europ%C3%A9ennes-du-patrimoine-le-logi/1517776823727970/",
-   "organizer": null,
-   "city": "Hyères",
+   "id": "d52b2791fa15",
+   "title": "CINE CONCERT \"THE SWINGSON SWING\" AU CINEMA LE VOX",
+   "summary": "09 Oct 2026 CINE CONCERT \"THE SWINGSON SWING\" AU CINEMA LE VOX Concert (LES SWINGSONS) + film (SWING de Tony GATLIF) Featuring LOUIS THOMAS Hommage a Tony GATLIF, cinéaste de la liberté, de l'exil et de la musique Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/cine-concert-the-swingson-swing-au-cinema-le-vox-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
    "dept": "83",
-   "lat": 43.11673,
-   "lon": 6.20255,
+   "lat": 43.44268,
+   "lon": 6.84991,
    "approx": false,
    "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "appel à candidatures",
-    "food truck"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "f233da1b108c",
-   "title": "Appel aux commerçants et artisans ! ​ ...",
-   "summary": "... FOOD TRUCK ! À l'occasion du Forum des ... Golfe de Saint-Tropez La Commune de La Mole - 83310 ... Appel à candidatures Le dimanche 19 avril, le ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/818350535596746/posts/2225235084908277/",
-   "organizer": null,
-   "city": "Saint-Tropez",
-   "dept": "83",
-   "lat": 43.26495,
-   "lon": 6.65812,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "appel à candidatures",
-    "food truck"
-   ],
-   "score": 75,
-   "found_at": "2026-10-08T05:28:57+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "fd507d392b57",
-   "title": "Samedi 21 novembre , la Run Disco Party au Golf du Bassin Bleu !",
-   "summary": "#journéesdupatrimoine #jep2026 - in Ville de Saint- Tropez. ... Food Truck sur place Parking gratuit 🎟️ ... APPEL À CANDIDATURES – Salon de la ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/203174439802208/posts/28109182725441338/",
-   "organizer": null,
-   "city": "Saint-Tropez",
-   "dept": "83",
-   "lat": 43.26495,
-   "lon": 6.65812,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "appel à candidatures",
-    "food truck"
-   ],
-   "score": 75,
-   "found_at": "2026-10-01T05:27:39+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "e5f740f16568",
-   "title": "Bonjour,",
-   "summary": "Recherche food truck sucré – Anniversaire ... Bonjour, je recherche des food trucks sur la ... Anonymous participant ▻ Tu sais que tu viens des Alpes-Maritimes ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/488396098211880/posts/2836100683441398/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "food trucks",
-    "recherche"
-   ],
-   "score": 75,
-   "found_at": "2026-10-01T05:27:39+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "ff2c97113b03",
-   "title": "Food-trucks à Marseille : la Ville lance un appel ...",
-   "summary": "Les professionnels de la restauration ambulante sont invités à candidater ... La Ville de Marseille ouvre un nouvel appel à manifestation d'intérêt ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.petitesaffiches.fr/actualites,069/economie,045/food-trucks-a-marseille-la-ville,46153.html",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "restauration ambulante"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T00:21:22+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "65b64e453ce7",
-   "title": "portdemarseillefos",
-   "summary": "Vous êtes professionnel de la restauration ambulante à Marseille ? La @villemarseille lance un Appel à Manifestation d'Intérêt (AMI) pour sélectionner des ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.instagram.com/p/Dd89UtQlDB3/",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Instagram",
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "restauration ambulante"
-   ],
-   "score": 75,
-   "found_at": "2026-10-04T09:18:55+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "cfd5c0b21c5c",
-   "title": "Appels à candidatures food truck : emplacements et AMI",
-   "summary": "La Mairie des 2ᵉ et 3ᵉ arrondissements de Marseille lance un appel à manifestation d'intérêt pour l'installation d'un food truck au Jardin de la Joliette. Les ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://wikifoodtruck.fr/appels-food-truck",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
+   "event_date": "2026-10-09",
    "published": null,
    "contact": {
     "emails": [
-     "francois@wikifoodtruck.fr"
+     "cinemalevox@gmail.com"
     ],
-    "phones": [],
-    "forms": [
-     "https://wikifoodtruck.fr/appels-food-truck/vignec-food-truck-hiver-2026-2027",
-     "https://wikifoodtruck.fr/appels-food-truck/marmande-food-truck-pour-festival-urbance-2026",
-     "https://wikifoodtruck.fr/appels-food-truck/rueil-malmaison-appel-a-candidatures-emplacements-food-trucks-2026"
-    ]
+    "phones": [
+     "04 94 51 15 11",
+     "04 94 19 10 60"
+    ],
+    "forms": []
    },
-   "mode": "demandes",
+   "mode": "evenements",
    "via": null,
    "keywords": [
-    "appel à manifestation d'intérêt",
-    "food truck"
+    "concert"
    ],
    "score": 75,
-   "found_at": "2026-10-06T05:28:06+00:00",
+   "found_at": "2026-10-03T05:35:37+00:00",
    "contact_checked": true
   },
   {
@@ -1895,70 +1891,196 @@
    "contact_checked": true
   },
   {
-   "id": "755b1750bf25",
-   "title": "Loto Octobre Rose Lions Club",
-   "summary": "10 Oct 2026 Loto Octobre Rose Lions Club Le Lions Club Saint-Raphaël Côte d'Azur vous propose une soirée placée sous le signe de la chance et de la solidarité. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/loto-octobre-rose-lions-club/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
+   "id": "3831763cdcb3",
+   "title": "Cagnes sur Mer (@salonhabitatcagnessurmer)",
+   "summary": "Bonjour, Nous recherchons des food trucks pour ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.instagram.com/salonhabitatcagnessurmer/",
+   "organizer": null,
+   "city": "La Seyne-sur-Mer",
    "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
+   "lat": 43.09333,
+   "lon": 5.87965,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-10-10",
+   "event_date": null,
    "published": null,
    "contact": {
     "emails": [],
-    "phones": [
-     "07 86 08 26 71",
-     "04 94 19 10 60"
-    ],
+    "phones": [],
     "forms": []
    },
-   "mode": "evenements",
-   "via": null,
+   "mode": "demandes",
+   "via": "Instagram",
    "keywords": [
-    "soirée"
+    "food trucks",
+    "recherchons"
    ],
    "score": 70,
-   "found_at": "2026-10-02T05:26:58+00:00",
+   "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true
   },
   {
-   "id": "0d2074db01bc",
-   "title": "journée des artisans et commerçants",
-   "summary": "10 Oct 2026 journée des artisans et commerçants Journée des artisans et des commerçants le samedi 10 octobre 2026 de 10h à 17h30 Les Adrets-de-l'Estérel",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/journee-des-artisans-et-commercants-5/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Les Adrets-de-l'Estérel",
+   "id": "2233eb679ccc",
+   "title": "Sagasdom 2026 Le salon dd la gastronomie des outre mer ...",
+   "summary": "Recherche Food Truck – Salon du Mariage du Domaine Meryt Dans le cadre ... Aimé Garnier ▻ Les Animations du Golfe de Saint-Tropez. 23w · Public ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/babette.derozieres/posts/sagasdom-2026le-salon-dd-la-gastronomie-des-outre-mer-f%C3%AAte-ses-10-ans-je-vous-at/10239224254122067/",
+   "organizer": null,
+   "city": "Saint-Tropez",
    "dept": "83",
-   "lat": 43.52692,
-   "lon": 6.83259,
+   "lat": 43.26495,
+   "lon": 6.65812,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-10-10",
+   "event_date": null,
    "published": null,
    "contact": {
-    "emails": [
-     "cmg@bbox.fr"
-    ],
-    "phones": [
-     "04 94 19 10 60"
-    ],
+    "emails": [],
+    "phones": [],
     "forms": []
    },
-   "mode": "evenements",
-   "via": null,
+   "mode": "demandes",
+   "via": "Facebook",
    "keywords": [
-    "journée"
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "f23f276a63e1",
+   "title": "Closing La Pertuade et La Pirogue , au domaine à La Mole ...",
+   "summary": "Recent posts. Francois Devinck ▻ Recherche Food truck événements. 18w ... Golfe de Saint-Tropez. Follow. Le Filao Plage. Follow. Geely Auto France.",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/lapertuade/posts/closing-la-pertuade-et-la-pirogue-au-domaine-%C3%A0-la-mole-ce-dimanche-4-octobre-au-/1996451048172451/",
+   "organizer": null,
+   "city": "Saint-Tropez",
+   "dept": "83",
+   "lat": 43.26495,
+   "lon": 6.65812,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
    ],
    "score": 70,
    "found_at": "2026-10-08T05:28:57+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "c4e3ebcf9506",
+   "title": "Magnifique feu d'artifice à Ste Christine",
+   "summary": "Guillaume de Grimaud ▻ Saint-Tropez, Golfe de St-Tropez & Plus, Groupe [ i ♥️ Golfe de St☆Tropez ] ... Bonjour recherche food truck pour le week-end du 6/7 juin ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/449083434712969/posts/1104487885839184/",
+   "organizer": null,
+   "city": "Saint-Tropez",
+   "dept": "83",
+   "lat": 43.26495,
+   "lon": 6.65812,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-10-09T05:29:24+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "163c071ee6ee",
+   "title": "L'actu des fêtes foraines de France",
+   "summary": "Floriane Lys ▻ Recherche Food truck événements. 17w · Public · Recherche ... Aimé Garnier ▻ Les Animations du Golfe de Saint-Tropez. 24w · Public ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/61557722113748/posts/-le-ventru-%C3%A0-baccarat-baccarat-du-10-au-18-octobre-2026une-petite-faim-pendant-l/122271765182257403/",
+   "organizer": null,
+   "city": "Saint-Tropez",
+   "dept": "83",
+   "lat": 43.26495,
+   "lon": 6.65812,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-10-07T05:29:12+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "88d8375cd4d3",
+   "title": "Actualités De REDON Agglomération | Redon Agglomération",
+   "summary": "Appel à projet - Food Truck /// ARCHIVE /// REDON Agglomération souhaite l’installation d’un Food Truck à proximité de l’immeuble du 3 rue Charles Sillard, à Redon.",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.redon-agglomeration.bzh/actus",
+   "organizer": null,
+   "city": "Ensuès-la-Redonne",
+   "dept": "13",
+   "lat": 43.3554,
+   "lon": 5.2044,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [
+     "contact@redon-agglomeration.bzh"
+    ],
+    "phones": [
+     "02 99 70 34 34"
+    ],
+    "forms": [
+     "https://www.redon-agglomeration.bzh/collecte-amiante",
+     "https://www.redon-agglomeration.bzh/preinscriptions-conservatoire-2025-2026",
+     "https://www.redon-agglomeration.bzh/preinscriptions-conservatoire-2023-2024"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "food truck"
+   ],
+   "score": 70,
+   "found_at": "2026-10-06T05:28:06+00:00",
    "contact_checked": true
   },
   {
@@ -2057,6 +2179,72 @@
    "via": null,
    "keywords": [
     "journée"
+   ],
+   "score": 70,
+   "found_at": "2026-10-02T05:26:58+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "61a7e94a8a29",
+   "title": "Soirée Night Fever",
+   "summary": "10 Oct 2026 Soirée Night Fever Samedi 10 Octobre 2026 venez à la dernière soirée dansante NIGHT FEVER de l'année 2026 organisée par Avem Evenements à l'Estérel Arena. et venez danser sur les meilleurs tubes des années 80 à nos jours. Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/soiree-night-fever/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-10",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "06 41 56 83 47",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "soirée"
+   ],
+   "score": 70,
+   "found_at": "2026-10-09T05:29:24+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "755b1750bf25",
+   "title": "Loto Octobre Rose Lions Club",
+   "summary": "10 Oct 2026 Loto Octobre Rose Lions Club Le Lions Club Saint-Raphaël Côte d'Azur vous propose une soirée placée sous le signe de la chance et de la solidarité. Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/loto-octobre-rose-lions-club/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-10",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "07 86 08 26 71",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "soirée"
    ],
    "score": 70,
    "found_at": "2026-10-02T05:26:58+00:00",
@@ -2202,12 +2390,12 @@
    "contact_checked": true
   },
   {
-   "id": "a4a6a042f210",
-   "title": "Salon des Minéraux de Saint-Raphaël",
-   "summary": "24 Oct 2026 au 25 Oct 2026 Salon des Minéraux de Saint-Raphaël 25ème édition : Cristaux, Fossiles, Gemmes, Météorites, Bijoux et Bien-être Saint-Raphaël",
+   "id": "a5faef36105e",
+   "title": "Pro B saison 2026-2027",
+   "summary": "23 Oct 2026 Pro B saison 2026-2027 Match de tennis de table Pro B entre AMSL Fréjus et Boulogne Billancourt AC, journée 3. Entrée gratuite. Tombola avec de nombreux lots à gagner. Fréjus",
    "type": "Événement",
    "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/salon-des-mineraux-de-saint-raphael-4/",
+   "url": "https://www.esterel-cotedazur.com/en/cards/pro-b-saison-2026-2027-4/",
    "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
    "city": "Saint-Raphaël",
    "dept": "83",
@@ -2215,12 +2403,11 @@
    "lon": 6.84991,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-10-24",
+   "event_date": "2026-10-23",
    "published": null,
    "contact": {
     "emails": [],
     "phones": [
-     "06 47 73 89 25",
      "04 94 19 10 60"
     ],
     "forms": []
@@ -2228,10 +2415,10 @@
    "mode": "evenements",
    "via": null,
    "keywords": [
-    "salon"
+    "journée"
    ],
    "score": 70,
-   "found_at": "2026-10-01T05:27:39+00:00",
+   "found_at": "2026-10-09T05:29:24+00:00",
    "contact_checked": true
   },
   {
@@ -2264,130 +2451,6 @@
    ],
    "score": 70,
    "found_at": "2026-10-02T05:26:58+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "3831763cdcb3",
-   "title": "Cagnes sur Mer (@salonhabitatcagnessurmer)",
-   "summary": "Bonjour, Nous recherchons des food trucks pour ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.instagram.com/salonhabitatcagnessurmer/",
-   "organizer": null,
-   "city": "La Seyne-sur-Mer",
-   "dept": "83",
-   "lat": 43.09333,
-   "lon": 5.87965,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Instagram",
-   "keywords": [
-    "food trucks",
-    "recherchons"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "2233eb679ccc",
-   "title": "Sagasdom 2026 Le salon dd la gastronomie des outre mer ...",
-   "summary": "Recherche Food Truck – Salon du Mariage du Domaine Meryt Dans le cadre ... Aimé Garnier ▻ Les Animations du Golfe de Saint-Tropez. 23w · Public ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/babette.derozieres/posts/sagasdom-2026le-salon-dd-la-gastronomie-des-outre-mer-f%C3%AAte-ses-10-ans-je-vous-at/10239224254122067/",
-   "organizer": null,
-   "city": "Saint-Tropez",
-   "dept": "83",
-   "lat": 43.26495,
-   "lon": 6.65812,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "f23f276a63e1",
-   "title": "Closing La Pertuade et La Pirogue , au domaine à La Mole ...",
-   "summary": "Recent posts. Francois Devinck ▻ Recherche Food truck événements. 18w ... Golfe de Saint-Tropez. Follow. Le Filao Plage. Follow. Geely Auto France.",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/lapertuade/posts/closing-la-pertuade-et-la-pirogue-au-domaine-%C3%A0-la-mole-ce-dimanche-4-octobre-au-/1996451048172451/",
-   "organizer": null,
-   "city": "Saint-Tropez",
-   "dept": "83",
-   "lat": 43.26495,
-   "lon": 6.65812,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-10-08T05:28:57+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "163c071ee6ee",
-   "title": "L'actu des fêtes foraines de France",
-   "summary": "Floriane Lys ▻ Recherche Food truck événements. 17w · Public · Recherche ... Aimé Garnier ▻ Les Animations du Golfe de Saint-Tropez. 24w · Public ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/61557722113748/posts/-le-ventru-%C3%A0-baccarat-baccarat-du-10-au-18-octobre-2026une-petite-faim-pendant-l/122271765182257403/",
-   "organizer": null,
-   "city": "Saint-Tropez",
-   "dept": "83",
-   "lat": 43.26495,
-   "lon": 6.65812,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-10-07T05:29:12+00:00",
    "contact_checked": true
   },
   {
@@ -2553,44 +2616,6 @@
    ],
    "score": 70,
    "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "88d8375cd4d3",
-   "title": "Actualités De REDON Agglomération | Redon Agglomération",
-   "summary": "Appel à projet - Food Truck /// ARCHIVE /// REDON Agglomération souhaite l’installation d’un Food Truck à proximité de l’immeuble du 3 rue Charles Sillard, à Redon.",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.redon-agglomeration.bzh/actus",
-   "organizer": null,
-   "city": "Ensuès-la-Redonne",
-   "dept": "13",
-   "lat": 43.3554,
-   "lon": 5.2044,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [
-     "contact@redon-agglomeration.bzh"
-    ],
-    "phones": [
-     "02 99 70 34 34"
-    ],
-    "forms": [
-     "https://www.redon-agglomeration.bzh/collecte-amiante",
-     "https://www.redon-agglomeration.bzh/preinscriptions-conservatoire-2025-2026",
-     "https://www.redon-agglomeration.bzh/preinscriptions-conservatoire-2023-2024"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "food truck"
-   ],
-   "score": 70,
-   "found_at": "2026-10-06T05:28:06+00:00",
    "contact_checked": true
   },
   {
@@ -2872,6 +2897,43 @@
    ],
    "score": 65,
    "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "cfd5c0b21c5c",
+   "title": "Appels à candidatures food truck : emplacements et AMI",
+   "summary": "L'Université Côte d'Azur lance un appel à candidatures pour la mise à disposition ponctuelle du domaine public pour un food truck sur le campus Carlone. Les ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://wikifoodtruck.fr/appels-food-truck",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [
+     "francois@wikifoodtruck.fr"
+    ],
+    "phones": [],
+    "forms": [
+     "https://wikifoodtruck.fr/appels-food-truck/vignec-food-truck-hiver-2026-2027",
+     "https://wikifoodtruck.fr/appels-food-truck/marmande-food-truck-pour-festival-urbance-2026",
+     "https://wikifoodtruck.fr/appels-food-truck/rueil-malmaison-appel-a-candidatures-emplacements-food-trucks-2026"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à candidatures",
+    "food truck"
+   ],
+   "score": 65,
+   "found_at": "2026-10-06T05:28:06+00:00",
    "contact_checked": true
   },
   {
