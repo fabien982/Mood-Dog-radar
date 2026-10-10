@@ -945,5 +945,11 @@
   "dept": "83"
  },
  "zone:divonne-les": null,
- "zone:maire": null
+ "zone:maire": null,
+ "sanary-sur-mer": {
+  "lat": 43.13329,
+  "lon": 5.79527,
+  "city": "Sanary-sur-Mer",
+  "dept": "83"
+ }
 }
