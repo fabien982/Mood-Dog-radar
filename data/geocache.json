@@ -937,5 +937,13 @@
  },
  "zone:maharin": null,
  "zone:cet": null,
- "zone:mermoz": null
+ "zone:mermoz": null,
+ "zone:sanary": {
+  "lat": 43.13329,
+  "lon": 5.79527,
+  "city": "Sanary-sur-Mer",
+  "dept": "83"
+ },
+ "zone:divonne-les": null,
+ "zone:maire": null
 }
