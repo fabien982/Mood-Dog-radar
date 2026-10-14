@@ -962,5 +962,155 @@
  "zone:noel de gattieres": null,
  "zone:tarbes": null,
  "zone:haute-provence tourisme": null,
- "zone:haute-provence": null
+ "zone:haute-provence": null,
+ "zone:villeneuve": {
+  "lat": 43.89201,
+  "lon": 5.86247,
+  "city": "Villeneuve",
+  "dept": "04"
+ },
+ "zone:manifestation d'interet rural": null,
+ "zone:village de noel": null,
+ "zone:roquebrune cap-martin ete": {
+  "lat": 43.76354,
+  "lon": 7.46069,
+  "city": "Roquebrune-Cap-Martin",
+  "dept": "06"
+ },
+ "zone:sartene": null,
+ "zone:rians": {
+  "lat": 43.61647,
+  "lon": 5.74716,
+  "city": "Rians",
+  "dept": "83"
+ },
+ "zone:malroy": null,
+ "mougins": {
+  "lat": 43.59525,
+  "lon": 6.9993,
+  "city": "Mougins",
+  "dept": "06"
+ },
+ "zone:jouques": {
+  "lat": 43.63762,
+  "lon": 5.64383,
+  "city": "Jouques",
+  "dept": "13"
+ },
+ "zone:vignobles": null,
+ "zone:roi": null,
+ "zone:polar": null,
+ "zone:le val": {
+  "lat": 43.44297,
+  "lon": 6.06876,
+  "city": "Le Val",
+  "dept": "83"
+ },
+ "zone:mandelieu-la napoule": {
+  "lat": 43.54447,
+  "lon": 6.93366,
+  "city": "Mandelieu-la-Napoule",
+  "dept": "06"
+ },
+ "zone:beaulieu-sur-mer": {
+  "lat": 43.70825,
+  "lon": 7.33205,
+  "city": "Beaulieu-sur-Mer",
+  "dept": "06"
+ },
+ "juan-les-pins": {
+  "lat": 43.37969,
+  "lon": 5.79418,
+  "city": "Nans-les-Pins",
+  "dept": "83"
+ },
+ "la ciotat": {
+  "lat": 43.18916,
+  "lon": 5.62616,
+  "city": "La Ciotat",
+  "dept": "13"
+ },
+ "zone:batucada muleketu": null,
+ "zone:festival de paques d'aix-en": null,
+ "zone:festival de paques": null,
+ "zone:frac sud": null,
+ "zone:vertuquet": null,
+ "zone:domaine de lahire": null,
+ "zone:noel en bouches-du-rhone": null,
+ "zone:noel salon-de-provence": {
+  "lat": 43.6377,
+  "lon": 5.06204,
+  "city": "Salon-de-Provence",
+  "dept": "13"
+ },
+ "zone:metzdu": null,
+ "zone:noel de mulhousedu": null,
+ "zone:villers-saint-sepulcre": null,
+ "zone:peyruis": {
+  "lat": 44.03445,
+  "lon": 5.94344,
+  "city": "Peyruis",
+  "dept": "04"
+ },
+ "zone:noel des createurs": null,
+ "zone:noel longny les villages": null,
+ "zone:longny les villages": null,
+ "zone:forcalquier": {
+  "lat": 43.95227,
+  "lon": 5.78984,
+  "city": "Forcalquier",
+  "dept": "04"
+ },
+ "zone:rire st raphael": null,
+ "zone:pere noel": null,
+ "zone:regent petite france": null,
+ "zone:saint maximin": {
+  "lat": 43.44631,
+  "lon": 5.86618,
+  "city": "Saint-Maximin-la-Sainte-Baume",
+  "dept": "83"
+ },
+ "brignoles": {
+  "lat": 43.40599,
+  "lon": 6.07366,
+  "city": "Brignoles",
+  "dept": "83"
+ },
+ "zone:la valette du var": {
+  "lat": 43.14384,
+  "lon": 5.99089,
+  "city": "La Valette-du-Var",
+  "dept": "83"
+ },
+ "montauroux": {
+  "lat": 43.58729,
+  "lon": 6.78635,
+  "city": "Montauroux",
+  "dept": "83"
+ },
+ "zone:st remois": null,
+ "zone:pierrefeu du var": {
+  "lat": 43.24407,
+  "lon": 6.14436,
+  "city": "Pierrefeu-du-Var",
+  "dept": "83"
+ },
+ "zone:la valette-du-var": {
+  "lat": 43.14384,
+  "lon": 5.99089,
+  "city": "La Valette-du-Var",
+  "dept": "83"
+ },
+ "zone:verdure concert": null,
+ "zone:conservatoire": null,
+ "zone:parc": null,
+ "zone:la seyne-sur": {
+  "lat": 43.09333,
+  "lon": 5.87965,
+  "city": "La Seyne-sur-Mer",
+  "dept": "83"
+ },
+ "zone:baule": null,
+ "zone:beaugency": null,
+ "zone:fort": null
 }
