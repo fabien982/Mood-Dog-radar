@@ -1112,5 +1112,17 @@
  },
  "zone:baule": null,
  "zone:beaugency": null,
- "zone:fort": null
+ "zone:fort": null,
+ "villeneuve": {
+  "lat": 43.89201,
+  "lon": 5.86247,
+  "city": "Villeneuve",
+  "dept": "04"
+ },
+ "roquebrune-cap-martin": {
+  "lat": 43.76354,
+  "lon": 7.46069,
+  "city": "Roquebrune-Cap-Martin",
+  "dept": "06"
+ }
 }
