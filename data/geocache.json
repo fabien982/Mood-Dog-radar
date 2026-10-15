@@ -1124,5 +1124,10 @@
   "lon": 7.46069,
   "city": "Roquebrune-Cap-Martin",
   "dept": "06"
- }
+ },
+ "zone:chartres": null,
+ "zone:estrees": null,
+ "zone:salon du mariage du domaine meryt": null,
+ "zone:manifestation d'interet": null,
+ "zone:family plaza": null
 }
