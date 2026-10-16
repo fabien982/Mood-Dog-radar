@@ -1129,5 +1129,11 @@
  "zone:estrees": null,
  "zone:salon du mariage du domaine meryt": null,
  "zone:manifestation d'interet": null,
- "zone:family plaza": null
+ "zone:family plaza": null,
+ "forcalquier": {
+  "lat": 43.95227,
+  "lon": 5.78984,
+  "city": "Forcalquier",
+  "dept": "04"
+ }
 }
