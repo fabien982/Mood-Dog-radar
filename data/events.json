@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-17T05:37:23+00:00",
+ "updated": "2026-10-17T15:32:16+00:00",
  "count": 142,
- "new_count": 7,
+ "new_count": 0,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -13,7 +13,8 @@
   },
   "Recherche web": {
    "ok": true,
-   "found": 22
+   "found": 0,
+   "note": "recherche web faite le matin seulement (économise le quota)"
   },
   "Pages surveillées": {
    "ok": true,
@@ -60,72 +61,6 @@
    ],
    "score": 95,
    "found_at": "2026-10-05T05:31:06+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "48ec23923cb6",
-   "title": "[#AppelÀCandidatures] 👨‍🍳 La Ville recherche le futur ...",
-   "summary": "APPEL À CANDIDATURES – FOOD TRUCK / RESTAURATION Dans le cadre de notre Vide-Grenier à Sanary, nous recherchons un food truck ou professionnel de ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/235556954784986/posts/1619277456412922/",
-   "organizer": null,
-   "city": "Sanary-sur-Mer",
-   "dept": "83",
-   "lat": 43.13329,
-   "lon": 5.79527,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "appel à candidatures",
-    "food truck",
-    "recherche",
-    "recherchons",
-    "vide-grenier"
-   ],
-   "score": 90,
-   "found_at": "2026-10-17T05:37:23+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "4e2d2c6c396c",
-   "title": "Bientôt des food trucks sur la Corniche Kennedy à Marseille",
-   "summary": "L'attribution de la place pour un food-truck, suite à l'appel à manifestation d'intérêt en cours, sera octroyée jusqu'au 31 décembre 2028. Soit deux ans de ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://mesinfos.fr/13000-marseille/bientot-des-food-trucks-sur-la-corniche-kennedy-a-marseille-339858.html",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "food trucks",
-    "food-truck"
-   ],
-   "score": 90,
-   "found_at": "2026-10-01T05:27:39+00:00",
    "contact_checked": true
   },
   {
@@ -198,6 +133,72 @@
    ],
    "score": 90,
    "found_at": "2026-10-06T05:28:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "48ec23923cb6",
+   "title": "[#AppelÀCandidatures] 👨‍🍳 La Ville recherche le futur ...",
+   "summary": "APPEL À CANDIDATURES – FOOD TRUCK / RESTAURATION Dans le cadre de notre Vide-Grenier à Sanary, nous recherchons un food truck ou professionnel de ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/235556954784986/posts/1619277456412922/",
+   "organizer": null,
+   "city": "Sanary-sur-Mer",
+   "dept": "83",
+   "lat": 43.13329,
+   "lon": 5.79527,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "appel à candidatures",
+    "food truck",
+    "recherche",
+    "recherchons",
+    "vide-grenier"
+   ],
+   "score": 90,
+   "found_at": "2026-10-17T05:37:23+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "4e2d2c6c396c",
+   "title": "Bientôt des food trucks sur la Corniche Kennedy à Marseille",
+   "summary": "L'attribution de la place pour un food-truck, suite à l'appel à manifestation d'intérêt en cours, sera octroyée jusqu'au 31 décembre 2028. Soit deux ans de ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://mesinfos.fr/13000-marseille/bientot-des-food-trucks-sur-la-corniche-kennedy-a-marseille-339858.html",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "food trucks",
+    "food-truck"
+   ],
+   "score": 90,
+   "found_at": "2026-10-01T05:27:39+00:00",
    "contact_checked": true
   },
   {
@@ -366,6 +367,42 @@
    "contact_checked": true
   },
   {
+   "id": "d3315f3f013c",
+   "title": "Soirée années 80",
+   "summary": "24 Oct 2026 Soirée années 80 Préparez vos paillettes et vos plus belles tenues disco ! Le Comité des Fêtes vous invite à une soirée placée sous le signe de la danse et de la convivialité le 24 octobre prochain. Roquebrune-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/soiree-annees-80-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Roquebrune-sur-Argens",
+   "dept": "83",
+   "lat": 43.42692,
+   "lon": 6.66176,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-24",
+   "published": null,
+   "contact": {
+    "emails": [
+     "cdf.roquebrune@orange.fr"
+    ],
+    "phones": [
+     "07 59 66 65 91",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fêtes",
+    "soirée"
+   ],
+   "score": 85,
+   "found_at": "2026-10-03T05:35:37+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "b31f1400892b",
    "title": "APPEL À CANDIDATURES – FOOD TRUCK ...",
    "summary": "APPEL À CANDIDATURES – FOOD TRUCK / RESTAURATION Dans le cadre de notre Vide-Grenier à Sanary, nous recherchons un food truck ou professionnel de la ...",
@@ -461,42 +498,6 @@
    ],
    "score": 85,
    "found_at": "2026-10-14T05:39:31+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "d3315f3f013c",
-   "title": "Soirée années 80",
-   "summary": "24 Oct 2026 Soirée années 80 Préparez vos paillettes et vos plus belles tenues disco ! Le Comité des Fêtes vous invite à une soirée placée sous le signe de la danse et de la convivialité le 24 octobre prochain. Roquebrune-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/soiree-annees-80-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-24",
-   "published": null,
-   "contact": {
-    "emails": [
-     "cdf.roquebrune@orange.fr"
-    ],
-    "phones": [
-     "07 59 66 65 91",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "fêtes",
-    "soirée"
-   ],
-   "score": 85,
-   "found_at": "2026-10-03T05:35:37+00:00",
    "contact_checked": true
   },
   {
@@ -689,168 +690,6 @@
    ],
    "score": 80,
    "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "2da01f06e81b",
-   "title": "🎨 À Saint-Tropez, l'art s'invite à la salle Jean Despas ! Le Salon ...",
-   "summary": "Un appel à candidatures est lancé Le commissaire ... food truck et bien d'autres surprises ! ... golfe où certains des invités arrivent en hélicoptère afin d'éviter ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/sainttropezpeople/posts/-%C3%A0-saint-tropez-lart-sinvite-%C3%A0-la-salle-jean-despas-le-salon-international-des-a/1739475138182512/",
-   "organizer": null,
-   "city": "Saint-Tropez",
-   "dept": "83",
-   "lat": 43.26495,
-   "lon": 6.65812,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "appel à candidatures",
-    "food truck"
-   ],
-   "score": 75,
-   "found_at": "2026-10-17T05:37:23+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "ff2c97113b03",
-   "title": "Food-trucks à Marseille : la Ville lance un appel ...",
-   "summary": "Les professionnels de la restauration ambulante sont invités à candidater ... La Ville de Marseille ouvre un nouvel appel à manifestation d'intérêt ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.petitesaffiches.fr/actualites,069/economie,045/food-trucks-a-marseille-la-ville,46153.html",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "restauration ambulante"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T00:21:22+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "65b64e453ce7",
-   "title": "portdemarseillefos",
-   "summary": "Vous êtes professionnel de la restauration ambulante à Marseille ? La @villemarseille lance un Appel à Manifestation d'Intérêt (AMI) pour sélectionner des ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.instagram.com/p/Dd89UtQlDB3/",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Instagram",
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "restauration ambulante"
-   ],
-   "score": 75,
-   "found_at": "2026-10-04T09:18:55+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "9e545ec3544a",
-   "title": "La Garde (83) : Appel à candidatures food-truck - WikiFoodtruck",
-   "summary": "La Garde : Appel à candidatures food-truck. Date limite : 5 juin 2026. Emplacements, redevance, critères et pièces demandées.",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://wikifoodtruck.fr/appels-food-truck/la-garde-appel-a-candidatures-food-truck-2026",
-   "organizer": null,
-   "city": null,
-   "dept": "83",
-   "lat": 43.46,
-   "lon": 6.22,
-   "approx": true,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [
-     "francois@wikifoodtruck.fr"
-    ],
-    "phones": [],
-    "forms": [
-     "https://files.appli-intramuros.com/website/uploads/34932/2026/avis_appel_candidat_valant_reglement_procedure_emplacement_n2.pdf",
-     "https://wikifoodtruck.fr/appels-food-truck/nice-convention-food-truck-universite-cote-d-azur-2026",
-     "https://wikifoodtruck.fr/appels-food-truck/nice-aot-campus-universitaire-pour-food-truck-2026"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à candidatures",
-    "food-truck"
-   ],
-   "score": 75,
-   "found_at": "2026-10-17T05:37:23+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "05d30e52b0fe",
-   "title": "Candidature Food-truck (RIF) - Plan de Cuques",
-   "summary": "Ouvrir la recherche (fenêtre modale). Formulaire de recherche. Rechercher ... Candidature Food-truck (RIF). Vous connaître : Civilité (obligatoire).",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.plandecuques.fr/form/candidature-food-truck-rif-",
-   "organizer": null,
-   "city": "Plan-de-Cuques",
-   "dept": "13",
-   "lat": 43.34967,
-   "lon": 5.46331,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "candidature",
-    "food-truck",
-    "recherche"
-   ],
-   "score": 75,
-   "found_at": "2026-10-17T05:37:23+00:00",
    "contact_checked": true
   },
   {
@@ -1196,6 +1035,168 @@
    ],
    "score": 75,
    "found_at": "2026-10-11T05:27:20+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "2da01f06e81b",
+   "title": "🎨 À Saint-Tropez, l'art s'invite à la salle Jean Despas ! Le Salon ...",
+   "summary": "Un appel à candidatures est lancé Le commissaire ... food truck et bien d'autres surprises ! ... golfe où certains des invités arrivent en hélicoptère afin d'éviter ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/sainttropezpeople/posts/-%C3%A0-saint-tropez-lart-sinvite-%C3%A0-la-salle-jean-despas-le-salon-international-des-a/1739475138182512/",
+   "organizer": null,
+   "city": "Saint-Tropez",
+   "dept": "83",
+   "lat": 43.26495,
+   "lon": 6.65812,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "appel à candidatures",
+    "food truck"
+   ],
+   "score": 75,
+   "found_at": "2026-10-17T05:37:23+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "ff2c97113b03",
+   "title": "Food-trucks à Marseille : la Ville lance un appel ...",
+   "summary": "Les professionnels de la restauration ambulante sont invités à candidater ... La Ville de Marseille ouvre un nouvel appel à manifestation d'intérêt ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.petitesaffiches.fr/actualites,069/economie,045/food-trucks-a-marseille-la-ville,46153.html",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "restauration ambulante"
+   ],
+   "score": 75,
+   "found_at": "2026-09-30T00:21:22+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "65b64e453ce7",
+   "title": "portdemarseillefos",
+   "summary": "Vous êtes professionnel de la restauration ambulante à Marseille ? La @villemarseille lance un Appel à Manifestation d'Intérêt (AMI) pour sélectionner des ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.instagram.com/p/Dd89UtQlDB3/",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Instagram",
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "restauration ambulante"
+   ],
+   "score": 75,
+   "found_at": "2026-10-04T09:18:55+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "9e545ec3544a",
+   "title": "La Garde (83) : Appel à candidatures food-truck - WikiFoodtruck",
+   "summary": "La Garde : Appel à candidatures food-truck. Date limite : 5 juin 2026. Emplacements, redevance, critères et pièces demandées.",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://wikifoodtruck.fr/appels-food-truck/la-garde-appel-a-candidatures-food-truck-2026",
+   "organizer": null,
+   "city": null,
+   "dept": "83",
+   "lat": 43.46,
+   "lon": 6.22,
+   "approx": true,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [
+     "francois@wikifoodtruck.fr"
+    ],
+    "phones": [],
+    "forms": [
+     "https://files.appli-intramuros.com/website/uploads/34932/2026/avis_appel_candidat_valant_reglement_procedure_emplacement_n2.pdf",
+     "https://wikifoodtruck.fr/appels-food-truck/nice-convention-food-truck-universite-cote-d-azur-2026",
+     "https://wikifoodtruck.fr/appels-food-truck/nice-aot-campus-universitaire-pour-food-truck-2026"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à candidatures",
+    "food-truck"
+   ],
+   "score": 75,
+   "found_at": "2026-10-17T05:37:23+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "05d30e52b0fe",
+   "title": "Candidature Food-truck (RIF) - Plan de Cuques",
+   "summary": "Ouvrir la recherche (fenêtre modale). Formulaire de recherche. Rechercher ... Candidature Food-truck (RIF). Vous connaître : Civilité (obligatoire).",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.plandecuques.fr/form/candidature-food-truck-rif-",
+   "organizer": null,
+   "city": "Plan-de-Cuques",
+   "dept": "13",
+   "lat": 43.34967,
+   "lon": 5.46331,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "candidature",
+    "food-truck",
+    "recherche"
+   ],
+   "score": 75,
+   "found_at": "2026-10-17T05:37:23+00:00",
    "contact_checked": true
   },
   {
@@ -2266,76 +2267,6 @@
    "contact_checked": true
   },
   {
-   "id": "5adf373869c4",
-   "title": "Arles Crau Camargue Montagnette lance un appel à projet ...",
-   "summary": "... appel à manifestation d'intérêt en vue de la création d'une cité de l'image ... food truck sur le secteur de la crau, l'emplacement sera essentiel pour ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/laprovence/posts/arles-crau-camargue-montagnette-lance-un-appel-%C3%A0-projet-jusquau-30-octobre-pour-/1579454897559002/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "emplacement",
-    "food truck"
-   ],
-   "score": 70,
-   "found_at": "2026-10-11T05:27:20+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "88d8375cd4d3",
-   "title": "Actualités De REDON Agglomération | Redon Agglomération",
-   "summary": "Appel à projet - Food Truck /// ARCHIVE /// REDON Agglomération souhaite l’installation d’un Food Truck à proximité de l’immeuble du 3 rue Charles Sillard, à Redon.",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.redon-agglomeration.bzh/actus",
-   "organizer": null,
-   "city": "Ensuès-la-Redonne",
-   "dept": "13",
-   "lat": 43.3554,
-   "lon": 5.2044,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [
-     "contact@redon-agglomeration.bzh"
-    ],
-    "phones": [
-     "02 99 70 34 34"
-    ],
-    "forms": [
-     "https://www.redon-agglomeration.bzh/collecte-amiante",
-     "https://www.redon-agglomeration.bzh/preinscriptions-conservatoire-2025-2026",
-     "https://www.redon-agglomeration.bzh/preinscriptions-conservatoire-2023-2024"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "food truck"
-   ],
-   "score": 70,
-   "found_at": "2026-10-06T05:28:06+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "0fd8c00fbf6f",
    "title": "Salon des santonniers",
    "summary": "17 Oct 2026 au 18 Oct 2026 Salon des santonniers Santonniers et créchistes - Nombreuses animations - Ateliers et jeux pour enfants - Danses folkloriques Saint-Raphaël",
@@ -2538,6 +2469,76 @@
    ],
    "score": 70,
    "found_at": "2026-10-11T05:27:20+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "5adf373869c4",
+   "title": "Arles Crau Camargue Montagnette lance un appel à projet ...",
+   "summary": "... appel à manifestation d'intérêt en vue de la création d'une cité de l'image ... food truck sur le secteur de la crau, l'emplacement sera essentiel pour ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/laprovence/posts/arles-crau-camargue-montagnette-lance-un-appel-%C3%A0-projet-jusquau-30-octobre-pour-/1579454897559002/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "emplacement",
+    "food truck"
+   ],
+   "score": 70,
+   "found_at": "2026-10-11T05:27:20+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "88d8375cd4d3",
+   "title": "Actualités De REDON Agglomération | Redon Agglomération",
+   "summary": "Appel à projet - Food Truck /// ARCHIVE /// REDON Agglomération souhaite l’installation d’un Food Truck à proximité de l’immeuble du 3 rue Charles Sillard, à Redon.",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.redon-agglomeration.bzh/actus",
+   "organizer": null,
+   "city": "Ensuès-la-Redonne",
+   "dept": "13",
+   "lat": 43.3554,
+   "lon": 5.2044,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [
+     "contact@redon-agglomeration.bzh"
+    ],
+    "phones": [
+     "02 99 70 34 34"
+    ],
+    "forms": [
+     "https://www.redon-agglomeration.bzh/collecte-amiante",
+     "https://www.redon-agglomeration.bzh/preinscriptions-conservatoire-2025-2026",
+     "https://www.redon-agglomeration.bzh/preinscriptions-conservatoire-2023-2024"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "food truck"
+   ],
+   "score": 70,
+   "found_at": "2026-10-06T05:28:06+00:00",
    "contact_checked": true
   },
   {

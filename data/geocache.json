@@ -1144,5 +1144,11 @@
   "lon": 5.46331,
   "city": "Plan-de-Cuques",
   "dept": "13"
+ },
+ "plan-de-cuques": {
+  "lat": 43.34967,
+  "lon": 5.46331,
+  "city": "Plan-de-Cuques",
+  "dept": "13"
  }
 }
