@@ -1135,5 +1135,14 @@
   "lon": 5.78984,
   "city": "Forcalquier",
   "dept": "04"
+ },
+ "zone:saint-jean-de-maurienne": null,
+ "zone:vitray": null,
+ "zone:noel de saint lumine": null,
+ "zone:cuques": {
+  "lat": 43.34967,
+  "lon": 5.46331,
+  "city": "Plan-de-Cuques",
+  "dept": "13"
  }
 }
