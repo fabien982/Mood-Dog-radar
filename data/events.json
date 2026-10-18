@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-18T05:37:28+00:00",
+ "updated": "2026-10-18T15:32:17+00:00",
  "count": 139,
- "new_count": 5,
+ "new_count": 0,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -13,7 +13,8 @@
   },
   "Recherche web": {
    "ok": true,
-   "found": 24
+   "found": 0,
+   "note": "recherche web faite le matin seulement (économise le quota)"
   },
   "Pages surveillées": {
    "ok": true,
@@ -61,6 +62,78 @@
    ],
    "score": 95,
    "found_at": "2026-10-05T05:31:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "77e462009612",
+   "title": "Festival authentique vintage",
+   "summary": "18 Oct 2026 Festival authentique vintage Le Salon du Vintage de Fréjus vous donne rendez-vous le dimanche 18 octobre à la Base Nature François Léotard (parking derrière l’Espace Caquot) pour une journée exceptionnelle placée sous le signe du vintage Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/festival-authentique-vintage-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-18",
+   "published": null,
+   "contact": {
+    "emails": [
+     "salonticya06@gmail.com"
+    ],
+    "phones": [
+     "06 03 94 77 31",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival",
+    "journée",
+    "salon"
+   ],
+   "score": 90,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "628f78107fb4",
+   "title": "STAGE INITIATION HANDPAN FREJUS",
+   "summary": "24 Oct 2026 STAGE INITIATION HANDPAN FREJUS Envie de découvrir le handpan ? Découvrez cet instrument magique lors d'une journée d'initiation: secrets de fabrication avec Koan, voyage sonore et concert ! Instrument fourni, aucun niveau requis. Places limitées à 10 personnes. Réservez vite ! Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/stage-initiation-handpan-frejus/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-24",
+   "published": null,
+   "contact": {
+    "emails": [
+     "info@keapan.com"
+    ],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert",
+    "journée"
+   ],
+   "score": 90,
+   "found_at": "2026-10-06T05:28:06+00:00",
    "contact_checked": true
   },
   {
@@ -161,78 +234,6 @@
    ],
    "score": 90,
    "found_at": "2026-10-01T05:27:39+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "77e462009612",
-   "title": "Festival authentique vintage",
-   "summary": "18 Oct 2026 Festival authentique vintage Le Salon du Vintage de Fréjus vous donne rendez-vous le dimanche 18 octobre à la Base Nature François Léotard (parking derrière l’Espace Caquot) pour une journée exceptionnelle placée sous le signe du vintage Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/festival-authentique-vintage-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-18",
-   "published": null,
-   "contact": {
-    "emails": [
-     "salonticya06@gmail.com"
-    ],
-    "phones": [
-     "06 03 94 77 31",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival",
-    "journée",
-    "salon"
-   ],
-   "score": 90,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "628f78107fb4",
-   "title": "STAGE INITIATION HANDPAN FREJUS",
-   "summary": "24 Oct 2026 STAGE INITIATION HANDPAN FREJUS Envie de découvrir le handpan ? Découvrez cet instrument magique lors d'une journée d'initiation: secrets de fabrication avec Koan, voyage sonore et concert ! Instrument fourni, aucun niveau requis. Places limitées à 10 personnes. Réservez vite ! Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/stage-initiation-handpan-frejus/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-24",
-   "published": null,
-   "contact": {
-    "emails": [
-     "info@keapan.com"
-    ],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert",
-    "journée"
-   ],
-   "score": 90,
-   "found_at": "2026-10-06T05:28:06+00:00",
    "contact_checked": true
   },
   {
@@ -367,6 +368,42 @@
    "contact_checked": true
   },
   {
+   "id": "d3315f3f013c",
+   "title": "Soirée années 80",
+   "summary": "24 Oct 2026 Soirée années 80 Préparez vos paillettes et vos plus belles tenues disco ! Le Comité des Fêtes vous invite à une soirée placée sous le signe de la danse et de la convivialité le 24 octobre prochain. Roquebrune-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/soiree-annees-80-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Roquebrune-sur-Argens",
+   "dept": "83",
+   "lat": 43.42692,
+   "lon": 6.66176,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-24",
+   "published": null,
+   "contact": {
+    "emails": [
+     "cdf.roquebrune@orange.fr"
+    ],
+    "phones": [
+     "07 59 66 65 91",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fêtes",
+    "soirée"
+   ],
+   "score": 85,
+   "found_at": "2026-10-03T05:35:37+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "b31f1400892b",
    "title": "APPEL À CANDIDATURES – FOOD TRUCK ...",
    "summary": "APPEL À CANDIDATURES – FOOD TRUCK / RESTAURATION Dans le cadre de notre Vide-Grenier à Sanary, nous recherchons un food truck ou professionnel de la ...",
@@ -430,42 +467,6 @@
    ],
    "score": 85,
    "found_at": "2026-10-12T05:30:37+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "d3315f3f013c",
-   "title": "Soirée années 80",
-   "summary": "24 Oct 2026 Soirée années 80 Préparez vos paillettes et vos plus belles tenues disco ! Le Comité des Fêtes vous invite à une soirée placée sous le signe de la danse et de la convivialité le 24 octobre prochain. Roquebrune-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/soiree-annees-80-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-24",
-   "published": null,
-   "contact": {
-    "emails": [
-     "cdf.roquebrune@orange.fr"
-    ],
-    "phones": [
-     "07 59 66 65 91",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "fêtes",
-    "soirée"
-   ],
-   "score": 85,
-   "found_at": "2026-10-03T05:35:37+00:00",
    "contact_checked": true
   },
   {
@@ -690,130 +691,6 @@
    ],
    "score": 80,
    "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "2da01f06e81b",
-   "title": "🎨 À Saint-Tropez, l'art s'invite à la salle Jean Despas ! Le Salon ...",
-   "summary": "Un appel à candidatures est lancé Le commissaire ... food truck et bien d'autres surprises ! ... golfe où certains des invités arrivent en hélicoptère afin d'éviter ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/sainttropezpeople/posts/-%C3%A0-saint-tropez-lart-sinvite-%C3%A0-la-salle-jean-despas-le-salon-international-des-a/1739475138182512/",
-   "organizer": null,
-   "city": "Saint-Tropez",
-   "dept": "83",
-   "lat": 43.26495,
-   "lon": 6.65812,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "appel à candidatures",
-    "food truck"
-   ],
-   "score": 75,
-   "found_at": "2026-10-17T05:37:23+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "ff2c97113b03",
-   "title": "Food-trucks à Marseille : la Ville lance un appel ...",
-   "summary": "Les professionnels de la restauration ambulante sont invités à candidater ... La Ville de Marseille ouvre un nouvel appel à manifestation d'intérêt ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.petitesaffiches.fr/actualites,069/economie,045/food-trucks-a-marseille-la-ville,46153.html",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "restauration ambulante"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T00:21:22+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "65b64e453ce7",
-   "title": "portdemarseillefos",
-   "summary": "Vous êtes professionnel de la restauration ambulante à Marseille ? La @villemarseille lance un Appel à Manifestation d'Intérêt (AMI) pour sélectionner des ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.instagram.com/p/Dd89UtQlDB3/",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Instagram",
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "restauration ambulante"
-   ],
-   "score": 75,
-   "found_at": "2026-10-04T09:18:55+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "71ab05210f32",
-   "title": "Passage 2026 – Marseille 🤝 Hamburg",
-   "summary": "Vous êtes professionnel de la restauration ambulante à Marseille ? La @villemarseille lance un Appel à Manifestation d'Intérêt (AMI) pour sélectionner des ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.instagram.com/p/DeMs2kCCLtB/",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Instagram",
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "restauration ambulante"
-   ],
-   "score": 75,
-   "found_at": "2026-10-13T05:31:02+00:00",
    "contact_checked": true
   },
   {
@@ -1053,6 +930,130 @@
    ],
    "score": 75,
    "found_at": "2026-10-14T05:39:31+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "2da01f06e81b",
+   "title": "🎨 À Saint-Tropez, l'art s'invite à la salle Jean Despas ! Le Salon ...",
+   "summary": "Un appel à candidatures est lancé Le commissaire ... food truck et bien d'autres surprises ! ... golfe où certains des invités arrivent en hélicoptère afin d'éviter ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/sainttropezpeople/posts/-%C3%A0-saint-tropez-lart-sinvite-%C3%A0-la-salle-jean-despas-le-salon-international-des-a/1739475138182512/",
+   "organizer": null,
+   "city": "Saint-Tropez",
+   "dept": "83",
+   "lat": 43.26495,
+   "lon": 6.65812,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "appel à candidatures",
+    "food truck"
+   ],
+   "score": 75,
+   "found_at": "2026-10-17T05:37:23+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "ff2c97113b03",
+   "title": "Food-trucks à Marseille : la Ville lance un appel ...",
+   "summary": "Les professionnels de la restauration ambulante sont invités à candidater ... La Ville de Marseille ouvre un nouvel appel à manifestation d'intérêt ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.petitesaffiches.fr/actualites,069/economie,045/food-trucks-a-marseille-la-ville,46153.html",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "restauration ambulante"
+   ],
+   "score": 75,
+   "found_at": "2026-09-30T00:21:22+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "65b64e453ce7",
+   "title": "portdemarseillefos",
+   "summary": "Vous êtes professionnel de la restauration ambulante à Marseille ? La @villemarseille lance un Appel à Manifestation d'Intérêt (AMI) pour sélectionner des ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.instagram.com/p/Dd89UtQlDB3/",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Instagram",
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "restauration ambulante"
+   ],
+   "score": 75,
+   "found_at": "2026-10-04T09:18:55+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "71ab05210f32",
+   "title": "Passage 2026 – Marseille 🤝 Hamburg",
+   "summary": "Vous êtes professionnel de la restauration ambulante à Marseille ? La @villemarseille lance un Appel à Manifestation d'Intérêt (AMI) pour sélectionner des ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.instagram.com/p/DeMs2kCCLtB/",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Instagram",
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "restauration ambulante"
+   ],
+   "score": 75,
+   "found_at": "2026-10-13T05:31:02+00:00",
    "contact_checked": true
   },
   {
@@ -2131,138 +2132,6 @@
    "contact_checked": true
   },
   {
-   "id": "2233eb679ccc",
-   "title": "Sagasdom 2026 Le salon dd la gastronomie des outre mer ...",
-   "summary": "Recherche Food Truck – Salon du Mariage du Domaine Meryt Dans le cadre ... Aimé Garnier ▻ Les Animations du Golfe de Saint-Tropez. 23w · Public ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/babette.derozieres/posts/sagasdom-2026le-salon-dd-la-gastronomie-des-outre-mer-f%C3%AAte-ses-10-ans-je-vous-at/10239224254122067/",
-   "organizer": null,
-   "city": "Saint-Tropez",
-   "dept": "83",
-   "lat": 43.26495,
-   "lon": 6.65812,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "f23f276a63e1",
-   "title": "Closing La Pertuade et La Pirogue , au domaine à La Mole ...",
-   "summary": "Recent posts. Francois Devinck ▻ Recherche Food truck événements. 18w ... Golfe de Saint-Tropez. Follow. Le Filao Plage. Follow. Geely Auto France.",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/lapertuade/posts/closing-la-pertuade-et-la-pirogue-au-domaine-%C3%A0-la-mole-ce-dimanche-4-octobre-au-/1996451048172451/",
-   "organizer": null,
-   "city": "Saint-Tropez",
-   "dept": "83",
-   "lat": 43.26495,
-   "lon": 6.65812,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-10-08T05:28:57+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "5adf373869c4",
-   "title": "Arles Crau Camargue Montagnette lance un appel à projet ...",
-   "summary": "... appel à manifestation d'intérêt en vue de la création d'une cité de l'image ... food truck sur le secteur de la crau, l'emplacement sera essentiel pour ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/laprovence/posts/arles-crau-camargue-montagnette-lance-un-appel-%C3%A0-projet-jusquau-30-octobre-pour-/1579454897559002/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "emplacement",
-    "food truck"
-   ],
-   "score": 70,
-   "found_at": "2026-10-11T05:27:20+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "88d8375cd4d3",
-   "title": "Actualités De REDON Agglomération | Redon Agglomération",
-   "summary": "Appel à projet - Food Truck /// ARCHIVE /// REDON Agglomération souhaite l’installation d’un Food Truck à proximité de l’immeuble du 3 rue Charles Sillard, à Redon.",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.redon-agglomeration.bzh/actus",
-   "organizer": null,
-   "city": "Ensuès-la-Redonne",
-   "dept": "13",
-   "lat": 43.3554,
-   "lon": 5.2044,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [
-     "contact@redon-agglomeration.bzh"
-    ],
-    "phones": [
-     "02 99 70 34 34"
-    ],
-    "forms": [
-     "https://www.redon-agglomeration.bzh/collecte-amiante",
-     "https://www.redon-agglomeration.bzh/preinscriptions-conservatoire-2025-2026",
-     "https://www.redon-agglomeration.bzh/preinscriptions-conservatoire-2023-2024"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "food truck"
-   ],
-   "score": 70,
-   "found_at": "2026-10-06T05:28:06+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "0fd8c00fbf6f",
    "title": "Salon des santonniers",
    "summary": "17 Oct 2026 au 18 Oct 2026 Salon des santonniers Santonniers et créchistes - Nombreuses animations - Ateliers et jeux pour enfants - Danses folkloriques Saint-Raphaël",
@@ -2564,6 +2433,138 @@
    ],
    "score": 70,
    "found_at": "2026-10-18T05:37:28+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "2233eb679ccc",
+   "title": "Sagasdom 2026 Le salon dd la gastronomie des outre mer ...",
+   "summary": "Recherche Food Truck – Salon du Mariage du Domaine Meryt Dans le cadre ... Aimé Garnier ▻ Les Animations du Golfe de Saint-Tropez. 23w · Public ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/babette.derozieres/posts/sagasdom-2026le-salon-dd-la-gastronomie-des-outre-mer-f%C3%AAte-ses-10-ans-je-vous-at/10239224254122067/",
+   "organizer": null,
+   "city": "Saint-Tropez",
+   "dept": "83",
+   "lat": 43.26495,
+   "lon": 6.65812,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "f23f276a63e1",
+   "title": "Closing La Pertuade et La Pirogue , au domaine à La Mole ...",
+   "summary": "Recent posts. Francois Devinck ▻ Recherche Food truck événements. 18w ... Golfe de Saint-Tropez. Follow. Le Filao Plage. Follow. Geely Auto France.",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/lapertuade/posts/closing-la-pertuade-et-la-pirogue-au-domaine-%C3%A0-la-mole-ce-dimanche-4-octobre-au-/1996451048172451/",
+   "organizer": null,
+   "city": "Saint-Tropez",
+   "dept": "83",
+   "lat": 43.26495,
+   "lon": 6.65812,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-10-08T05:28:57+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "5adf373869c4",
+   "title": "Arles Crau Camargue Montagnette lance un appel à projet ...",
+   "summary": "... appel à manifestation d'intérêt en vue de la création d'une cité de l'image ... food truck sur le secteur de la crau, l'emplacement sera essentiel pour ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/laprovence/posts/arles-crau-camargue-montagnette-lance-un-appel-%C3%A0-projet-jusquau-30-octobre-pour-/1579454897559002/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "emplacement",
+    "food truck"
+   ],
+   "score": 70,
+   "found_at": "2026-10-11T05:27:20+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "88d8375cd4d3",
+   "title": "Actualités De REDON Agglomération | Redon Agglomération",
+   "summary": "Appel à projet - Food Truck /// ARCHIVE /// REDON Agglomération souhaite l’installation d’un Food Truck à proximité de l’immeuble du 3 rue Charles Sillard, à Redon.",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.redon-agglomeration.bzh/actus",
+   "organizer": null,
+   "city": "Ensuès-la-Redonne",
+   "dept": "13",
+   "lat": 43.3554,
+   "lon": 5.2044,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [
+     "contact@redon-agglomeration.bzh"
+    ],
+    "phones": [
+     "02 99 70 34 34"
+    ],
+    "forms": [
+     "https://www.redon-agglomeration.bzh/collecte-amiante",
+     "https://www.redon-agglomeration.bzh/preinscriptions-conservatoire-2025-2026",
+     "https://www.redon-agglomeration.bzh/preinscriptions-conservatoire-2023-2024"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "food truck"
+   ],
+   "score": 70,
+   "found_at": "2026-10-06T05:28:06+00:00",
    "contact_checked": true
   },
   {
