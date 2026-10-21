@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21T05:39:46+00:00",
+ "updated": "2026-10-21T15:40:40+00:00",
  "count": 168,
- "new_count": 27,
+ "new_count": 0,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -13,7 +13,8 @@
   },
   "Recherche web": {
    "ok": true,
-   "found": 77
+   "found": 0,
+   "note": "recherche web faite le matin seulement (économise le quota)"
   },
   "Pages surveillées": {
    "ok": true,
@@ -27,6 +28,42 @@
   "Fêtes et festivals": "2026-10-21"
  },
  "events": [
+  {
+   "id": "82589b5362ed",
+   "title": "Dark Arena Festival",
+   "summary": "31 Oct 2026 Dark Arena Festival Plongez au cœur de la Dark Arena aux arènes de Fréjus le samedi 31 octobre pour la soirée d'Halloween ! De 19h à 1h : DJs, performers, show lumière époustouflant et son puissant. Rejoignez le festival et faites la fête dans une ambiance survoltée ! Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/dark-arena-festival/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-31",
+   "published": null,
+   "contact": {
+    "emails": [
+     "terreur.arenes@gmail.com"
+    ],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival",
+    "fête",
+    "soirée"
+   ],
+   "score": 95,
+   "found_at": "2026-10-05T05:31:06+00:00",
+   "contact_checked": true
+  },
   {
    "id": "d767018c5b2f",
    "title": "La Garde (83) : Appel à candidatures food-truck | WikiFoodtruck",
@@ -67,12 +104,12 @@
    "contact_checked": true
   },
   {
-   "id": "82589b5362ed",
-   "title": "Dark Arena Festival",
-   "summary": "31 Oct 2026 Dark Arena Festival Plongez au cœur de la Dark Arena aux arènes de Fréjus le samedi 31 octobre pour la soirée d'Halloween ! De 19h à 1h : DJs, performers, show lumière époustouflant et son puissant. Rejoignez le festival et faites la fête dans une ambiance survoltée ! Fréjus",
+   "id": "628f78107fb4",
+   "title": "STAGE INITIATION HANDPAN FREJUS",
+   "summary": "24 Oct 2026 STAGE INITIATION HANDPAN FREJUS Envie de découvrir le handpan ? Découvrez cet instrument magique lors d'une journée d'initiation: secrets de fabrication avec Koan, voyage sonore et concert ! Instrument fourni, aucun niveau requis. Places limitées à 10 personnes. Réservez vite ! Fréjus",
    "type": "Événement",
    "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/dark-arena-festival/",
+   "url": "https://www.esterel-cotedazur.com/en/cards/stage-initiation-handpan-frejus/",
    "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
    "city": "Saint-Raphaël",
    "dept": "83",
@@ -80,11 +117,11 @@
    "lon": 6.84991,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-10-31",
+   "event_date": "2026-10-24",
    "published": null,
    "contact": {
     "emails": [
-     "terreur.arenes@gmail.com"
+     "info@keapan.com"
     ],
     "phones": [
      "04 94 19 10 60"
@@ -94,12 +131,11 @@
    "mode": "evenements",
    "via": null,
    "keywords": [
-    "festival",
-    "fête",
-    "soirée"
+    "concert",
+    "journée"
    ],
-   "score": 95,
-   "found_at": "2026-10-05T05:31:06+00:00",
+   "score": 90,
+   "found_at": "2026-10-06T05:28:06+00:00",
    "contact_checked": true
   },
   {
@@ -236,41 +272,6 @@
    "contact_checked": true
   },
   {
-   "id": "628f78107fb4",
-   "title": "STAGE INITIATION HANDPAN FREJUS",
-   "summary": "24 Oct 2026 STAGE INITIATION HANDPAN FREJUS Envie de découvrir le handpan ? Découvrez cet instrument magique lors d'une journée d'initiation: secrets de fabrication avec Koan, voyage sonore et concert ! Instrument fourni, aucun niveau requis. Places limitées à 10 personnes. Réservez vite ! Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/stage-initiation-handpan-frejus/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-24",
-   "published": null,
-   "contact": {
-    "emails": [
-     "info@keapan.com"
-    ],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert",
-    "journée"
-   ],
-   "score": 90,
-   "found_at": "2026-10-06T05:28:06+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "c92caddee32a",
    "title": "APPEL AUX FOOD TRUCKS / SUCRÉ, SALÉ 🌭🎂 Bonjour à tous ...",
    "summary": "APPEL À CANDIDATURES – FOOD TRUCKS 2026 ! ... RECHERCHE FOOD TRUCK ... var Nous Recherchons un food truck sucré Veuillez me contacter Merci a vous.",
@@ -402,6 +403,42 @@
    "contact_checked": true
   },
   {
+   "id": "ce203c348b37",
+   "title": "Soirée années 80",
+   "summary": "24 Oct 2026 Soirée années 80 Préparez vos paillettes et vos plus belles tenues disco ! Le Comité des Fêtes vous invite à une soirée placée sous le signe de la danse et de la convivialité le 24 octobre prochain. Roquebrune-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/soiree-annees-80/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Roquebrune-sur-Argens",
+   "dept": "83",
+   "lat": 43.42692,
+   "lon": 6.66176,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-24",
+   "published": null,
+   "contact": {
+    "emails": [
+     "cdf.roquebrune@orange.fr"
+    ],
+    "phones": [
+     "07 59 66 65 91",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fêtes",
+    "soirée"
+   ],
+   "score": 85,
+   "found_at": "2026-10-20T05:39:57+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "b31f1400892b",
    "title": "APPEL À CANDIDATURES – FOOD TRUCK ...",
    "summary": "APPEL À CANDIDATURES – FOOD TRUCK / RESTAURATION Dans le cadre de notre Vide-Grenier à Sanary, nous recherchons un food truck ou professionnel de la ...",
@@ -530,42 +567,6 @@
    ],
    "score": 85,
    "found_at": "2026-10-14T05:39:31+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "ce203c348b37",
-   "title": "Soirée années 80",
-   "summary": "24 Oct 2026 Soirée années 80 Préparez vos paillettes et vos plus belles tenues disco ! Le Comité des Fêtes vous invite à une soirée placée sous le signe de la danse et de la convivialité le 24 octobre prochain. Roquebrune-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/soiree-annees-80/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-24",
-   "published": null,
-   "contact": {
-    "emails": [
-     "cdf.roquebrune@orange.fr"
-    ],
-    "phones": [
-     "07 59 66 65 91",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "fêtes",
-    "soirée"
-   ],
-   "score": 85,
-   "found_at": "2026-10-20T05:39:57+00:00",
    "contact_checked": true
   },
   {
@@ -853,6 +854,280 @@
    ],
    "score": 80,
    "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "97f15c840045",
+   "title": "Concert Cornemuse - Cotwe",
+   "summary": "24 Oct 2026 Concert Cornemuse - Cotwe Grand Concert de Cornemuse organisé par la Confrérie de l'Ordre du Taste Whisky Ecossais. Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/concert-cornemuse-cotwe-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-24",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "06 58 29 06 66",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "score": 75,
+   "found_at": "2026-10-17T05:37:23+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "b99c008cd834",
+   "title": "Festival urbain au Village Made In France",
+   "summary": "24 Oct 2026 Festival urbain au Village Made In France Une première édition qui va faire du bruit au Village Made In France ! Puget-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/festival-urbain-au-village-made-in-france-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Puget-sur-Argens",
+   "dept": "83",
+   "lat": 43.47045,
+   "lon": 6.68553,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-24",
+   "published": null,
+   "contact": {
+    "emails": [
+     "contact@levillagemadeinfrance.fr"
+    ],
+    "phones": [
+     "09 88 07 32 41",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival"
+   ],
+   "score": 75,
+   "found_at": "2026-10-03T05:35:37+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "386968775a5b",
+   "title": "CINE CONCERT AU CINEMA LE VOX",
+   "summary": "25 Oct 2026 CINE CONCERT AU CINEMA LE VOX Ciné Concert comme au temps du muet, avec le film \"La croisière du Navigator\" de et avec Buster Keaton, interprété par Michel Colin Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/cine-concert-au-cinema-le-vox-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-25",
+   "published": null,
+   "contact": {
+    "emails": [
+     "directionvox@gmail.com"
+    ],
+    "phones": [
+     "06 19 13 23 04",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "score": 75,
+   "found_at": "2026-10-16T05:39:08+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "5e169cfea05b",
+   "title": "Fréjus Fête Halloween",
+   "summary": "26 Oct 2026 au 31 Oct 2026 Fréjus Fête Halloween A l’origine, Halloween est une fête celtique d’origine irlandaise. En effet, ce sont les Irlandais qui ont apporté avec eux la tradition aux Etat-Unis ! Il s’agit donc, en réalité, du nouvel an celtique ! Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/frejus-fete-halloween/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-26",
+   "published": null,
+   "contact": {
+    "emails": [
+     "tourisme@frejus.fr"
+    ],
+    "phones": [
+     "04 94 51 83 83",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fête"
+   ],
+   "score": 75,
+   "found_at": "2026-10-05T05:31:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "2b1df1b9c356",
+   "title": "Festival Régional De Théâtre Amateur",
+   "summary": "04 Nov 2026 au 08 Nov 2026 Festival Régional De Théâtre Amateur Comme chaque année, cet évènement incontournable à Puget est organisé par la Compagnie Le QUIPROQUO du Foyer Culturel Laïque et la Ville de Puget sur Argens. Puget-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/festival-regional-de-theatre-amateur-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Puget-sur-Argens",
+   "dept": "83",
+   "lat": 43.47045,
+   "lon": 6.68553,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-04",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 45 61 63",
+     "04 94 19 61 35",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival"
+   ],
+   "score": 75,
+   "found_at": "2026-10-11T05:27:20+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "9b57dd3fdf9b",
+   "title": "FESTIVAL DU MAS D'HIVER",
+   "summary": "06 Nov 2026 au 28 Nov 2026 FESTIVAL DU MAS D'HIVER Recurring festival every year at the same time with different artists! Puget-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/festival-du-mas-dhiver/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Puget-sur-Argens",
+   "dept": "83",
+   "lat": 43.47045,
+   "lon": 6.68553,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-06",
+   "published": null,
+   "contact": {
+    "emails": [
+     "info@lemas-concert.com"
+    ],
+    "phones": [
+     "04 94 55 51 83",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival"
+   ],
+   "score": 75,
+   "found_at": "2026-10-11T05:27:20+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "ef3716ab9094",
+   "title": "Concert de l'Harmonie Aurélienne",
+   "summary": "08 Nov 2026 Concert de l'Harmonie Aurélienne Concert d'automne partagé avec l'Harmonie Indépendante des Arcs Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/concert-de-lharmonie-aurelienne-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-08",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "06 60 63 79 75",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "score": 75,
+   "found_at": "2026-10-11T05:27:20+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "860747038f7c",
+   "title": "« Shock »",
+   "summary": "10 Nov 2026 « Shock » Concert Pop Rock organisé par l'association Manège du service de pédopsychiatrie située à l'hôpital intercommunal de Fréjus Saint-Raphaël. Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/shock-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-10",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "07 62 47 32 46",
+     "06 69 71 09 22",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "score": 75,
+   "found_at": "2026-10-14T05:39:31+00:00",
    "contact_checked": true
   },
   {
@@ -1300,280 +1575,6 @@
    ],
    "score": 75,
    "found_at": "2026-10-21T05:39:46+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "97f15c840045",
-   "title": "Concert Cornemuse - Cotwe",
-   "summary": "24 Oct 2026 Concert Cornemuse - Cotwe Grand Concert de Cornemuse organisé par la Confrérie de l'Ordre du Taste Whisky Ecossais. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/concert-cornemuse-cotwe-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-24",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "06 58 29 06 66",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "score": 75,
-   "found_at": "2026-10-17T05:37:23+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "b99c008cd834",
-   "title": "Festival urbain au Village Made In France",
-   "summary": "24 Oct 2026 Festival urbain au Village Made In France Une première édition qui va faire du bruit au Village Made In France ! Puget-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/festival-urbain-au-village-made-in-france-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Puget-sur-Argens",
-   "dept": "83",
-   "lat": 43.47045,
-   "lon": 6.68553,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-24",
-   "published": null,
-   "contact": {
-    "emails": [
-     "contact@levillagemadeinfrance.fr"
-    ],
-    "phones": [
-     "09 88 07 32 41",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "score": 75,
-   "found_at": "2026-10-03T05:35:37+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "386968775a5b",
-   "title": "CINE CONCERT AU CINEMA LE VOX",
-   "summary": "25 Oct 2026 CINE CONCERT AU CINEMA LE VOX Ciné Concert comme au temps du muet, avec le film \"La croisière du Navigator\" de et avec Buster Keaton, interprété par Michel Colin Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/cine-concert-au-cinema-le-vox-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-25",
-   "published": null,
-   "contact": {
-    "emails": [
-     "directionvox@gmail.com"
-    ],
-    "phones": [
-     "06 19 13 23 04",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "score": 75,
-   "found_at": "2026-10-16T05:39:08+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "5e169cfea05b",
-   "title": "Fréjus Fête Halloween",
-   "summary": "26 Oct 2026 au 31 Oct 2026 Fréjus Fête Halloween A l’origine, Halloween est une fête celtique d’origine irlandaise. En effet, ce sont les Irlandais qui ont apporté avec eux la tradition aux Etat-Unis ! Il s’agit donc, en réalité, du nouvel an celtique ! Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/frejus-fete-halloween/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-26",
-   "published": null,
-   "contact": {
-    "emails": [
-     "tourisme@frejus.fr"
-    ],
-    "phones": [
-     "04 94 51 83 83",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "fête"
-   ],
-   "score": 75,
-   "found_at": "2026-10-05T05:31:06+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "2b1df1b9c356",
-   "title": "Festival Régional De Théâtre Amateur",
-   "summary": "04 Nov 2026 au 08 Nov 2026 Festival Régional De Théâtre Amateur Comme chaque année, cet évènement incontournable à Puget est organisé par la Compagnie Le QUIPROQUO du Foyer Culturel Laïque et la Ville de Puget sur Argens. Puget-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/festival-regional-de-theatre-amateur-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Puget-sur-Argens",
-   "dept": "83",
-   "lat": 43.47045,
-   "lon": 6.68553,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-04",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 94 45 61 63",
-     "04 94 19 61 35",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "score": 75,
-   "found_at": "2026-10-11T05:27:20+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "9b57dd3fdf9b",
-   "title": "FESTIVAL DU MAS D'HIVER",
-   "summary": "06 Nov 2026 au 28 Nov 2026 FESTIVAL DU MAS D'HIVER Recurring festival every year at the same time with different artists! Puget-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/festival-du-mas-dhiver/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Puget-sur-Argens",
-   "dept": "83",
-   "lat": 43.47045,
-   "lon": 6.68553,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-06",
-   "published": null,
-   "contact": {
-    "emails": [
-     "info@lemas-concert.com"
-    ],
-    "phones": [
-     "04 94 55 51 83",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "score": 75,
-   "found_at": "2026-10-11T05:27:20+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "ef3716ab9094",
-   "title": "Concert de l'Harmonie Aurélienne",
-   "summary": "08 Nov 2026 Concert de l'Harmonie Aurélienne Concert d'automne partagé avec l'Harmonie Indépendante des Arcs Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/concert-de-lharmonie-aurelienne-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-08",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "06 60 63 79 75",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "score": 75,
-   "found_at": "2026-10-11T05:27:20+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "860747038f7c",
-   "title": "« Shock »",
-   "summary": "10 Nov 2026 « Shock » Concert Pop Rock organisé par l'association Manège du service de pédopsychiatrie située à l'hôpital intercommunal de Fréjus Saint-Raphaël. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/shock-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-10",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "07 62 47 32 46",
-     "06 69 71 09 22",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "score": 75,
-   "found_at": "2026-10-14T05:39:31+00:00",
    "contact_checked": true
   },
   {
@@ -2453,137 +2454,6 @@
    "contact_checked": true
   },
   {
-   "id": "f23f276a63e1",
-   "title": "Closing La Pertuade et La Pirogue , au domaine à La Mole ...",
-   "summary": "Recent posts. Francois Devinck ▻ Recherche Food truck événements. 18w ... Golfe de Saint-Tropez. Follow. Le Filao Plage. Follow. Geely Auto France.",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/lapertuade/posts/closing-la-pertuade-et-la-pirogue-au-domaine-%C3%A0-la-mole-ce-dimanche-4-octobre-au-/1996451048172451/",
-   "organizer": null,
-   "city": "Saint-Tropez",
-   "dept": "83",
-   "lat": 43.26495,
-   "lon": 6.65812,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-10-08T05:28:57+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "5adf373869c4",
-   "title": "Arles Crau Camargue Montagnette lance un appel à projet ...",
-   "summary": "... appel à manifestation d'intérêt en vue de la création d'une cité de l'image ... food truck sur le secteur de la crau, l'emplacement sera essentiel pour ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/laprovence/posts/arles-crau-camargue-montagnette-lance-un-appel-%C3%A0-projet-jusquau-30-octobre-pour-/1579454897559002/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "emplacement",
-    "food truck"
-   ],
-   "score": 70,
-   "found_at": "2026-10-11T05:27:20+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "5f942f8641f2",
-   "title": "Evènements à la une",
-   "summary": "Les festivités de Noël à Pierrefeu du Var. Dimanche 06 décembre 2026 - 10h00 - 19h00. Marché. Marché de Noël à Pierrefeu du Var. Pierrefeu-du-Var. La magie de ...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.mpmtourisme.com/evenements",
-   "organizer": null,
-   "city": "Pierrefeu-du-Var",
-   "dept": "83",
-   "lat": 43.24407,
-   "lon": 6.14436,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-06",
-   "published": null,
-   "contact": {
-    "emails": [
-     "bienvenue@mpmtourisme.com"
-    ],
-    "phones": [
-     "04 94 01 53 10",
-     "04 94 48 56 27",
-     "04 94 48 08 00"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festivités",
-    "marché de noël"
-   ],
-   "score": 70,
-   "found_at": "2026-10-21T05:39:46+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "9a4fe8f61e7b",
-   "title": "Marchés de Noël dans les Bouches-du-Rhône (13)",
-   "summary": "Marchés de Noël à venir dans les Bouches-du-Rhône ; Fontvieille · 43ème Foire aux Santons et 29ème Marché de Noël - Edition 2026. du 7 au 8 novembre 2026.",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://marchenoel.org/marches-de-noel/provence-alpes-cote-d-azur/bouches-du-rhone/",
-   "organizer": null,
-   "city": null,
-   "dept": "13",
-   "lat": 43.54,
-   "lon": 5.09,
-   "approx": true,
-   "deadline": null,
-   "event_date": "2026-11-08",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "foire",
-    "marché de noël"
-   ],
-   "score": 70,
-   "found_at": "2026-10-21T05:39:46+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "6e66b06d1f6d",
    "title": "Halloween à Saint-Raphaël",
    "summary": "20 Oct 2026 au 01 Nov 2026 Halloween à Saint-Raphaël La magie d’Halloween s’invite à Saint-Raphaël avec au programme : spectacles, ateliers, jeu de piste, contes effrayants et soirée déguisée ! Saint-Raphaël",
@@ -2990,6 +2860,137 @@
    ],
    "score": 70,
    "found_at": "2026-10-19T05:39:54+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "f23f276a63e1",
+   "title": "Closing La Pertuade et La Pirogue , au domaine à La Mole ...",
+   "summary": "Recent posts. Francois Devinck ▻ Recherche Food truck événements. 18w ... Golfe de Saint-Tropez. Follow. Le Filao Plage. Follow. Geely Auto France.",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/lapertuade/posts/closing-la-pertuade-et-la-pirogue-au-domaine-%C3%A0-la-mole-ce-dimanche-4-octobre-au-/1996451048172451/",
+   "organizer": null,
+   "city": "Saint-Tropez",
+   "dept": "83",
+   "lat": 43.26495,
+   "lon": 6.65812,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-10-08T05:28:57+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "5adf373869c4",
+   "title": "Arles Crau Camargue Montagnette lance un appel à projet ...",
+   "summary": "... appel à manifestation d'intérêt en vue de la création d'une cité de l'image ... food truck sur le secteur de la crau, l'emplacement sera essentiel pour ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/laprovence/posts/arles-crau-camargue-montagnette-lance-un-appel-%C3%A0-projet-jusquau-30-octobre-pour-/1579454897559002/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "emplacement",
+    "food truck"
+   ],
+   "score": 70,
+   "found_at": "2026-10-11T05:27:20+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "5f942f8641f2",
+   "title": "Evènements à la une",
+   "summary": "Les festivités de Noël à Pierrefeu du Var. Dimanche 06 décembre 2026 - 10h00 - 19h00. Marché. Marché de Noël à Pierrefeu du Var. Pierrefeu-du-Var. La magie de ...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.mpmtourisme.com/evenements",
+   "organizer": null,
+   "city": "Pierrefeu-du-Var",
+   "dept": "83",
+   "lat": 43.24407,
+   "lon": 6.14436,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-06",
+   "published": null,
+   "contact": {
+    "emails": [
+     "bienvenue@mpmtourisme.com"
+    ],
+    "phones": [
+     "04 94 01 53 10",
+     "04 94 48 56 27",
+     "04 94 48 08 00"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festivités",
+    "marché de noël"
+   ],
+   "score": 70,
+   "found_at": "2026-10-21T05:39:46+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "9a4fe8f61e7b",
+   "title": "Marchés de Noël dans les Bouches-du-Rhône (13)",
+   "summary": "Marchés de Noël à venir dans les Bouches-du-Rhône ; Fontvieille · 43ème Foire aux Santons et 29ème Marché de Noël - Edition 2026. du 7 au 8 novembre 2026.",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://marchenoel.org/marches-de-noel/provence-alpes-cote-d-azur/bouches-du-rhone/",
+   "organizer": null,
+   "city": null,
+   "dept": "13",
+   "lat": 43.54,
+   "lon": 5.09,
+   "approx": true,
+   "deadline": null,
+   "event_date": "2026-11-08",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "foire",
+    "marché de noël"
+   ],
+   "score": 70,
+   "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true
   },
   {

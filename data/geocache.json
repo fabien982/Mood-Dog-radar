@@ -1292,5 +1292,29 @@
   "city": "Gréoux-les-Bains",
   "dept": "04"
  },
- "zone:ronce-les-bains": null
+ "zone:ronce-les-bains": null,
+ "saint-laurent-du-var": {
+  "lat": 43.68685,
+  "lon": 7.18367,
+  "city": "Saint-Laurent-du-Var",
+  "dept": "06"
+ },
+ "bras": {
+  "lat": 43.47166,
+  "lon": 5.95369,
+  "city": "Bras",
+  "dept": "83"
+ },
+ "pierrefeu-du-var": {
+  "lat": 43.24407,
+  "lon": 6.14436,
+  "city": "Pierrefeu-du-Var",
+  "dept": "83"
+ },
+ "saint-blaise": {
+  "lat": 43.8138,
+  "lon": 7.22729,
+  "city": "Saint-Blaise",
+  "dept": "06"
+ }
 }
