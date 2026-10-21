@@ -1161,5 +1161,136 @@
  "zone:marmande": null,
  "zone:hip hop": null,
  "zone:huy": null,
- "zone:pays blanc": null
+ "zone:pays blanc": null,
+ "zone:flandre": null,
+ "zone:rose": null,
+ "zone:duranus pour la saint michel": null,
+ "zone:duranus mme nicole labbe": null,
+ "zone:pierrefeu-du": {
+  "lat": 43.24407,
+  "lon": 6.14436,
+  "city": "Pierrefeu-du-Var",
+  "dept": "83"
+ },
+ "zone:frassetu": null,
+ "zone:villefranche-sur-mer": {
+  "lat": 43.70815,
+  "lon": 7.32142,
+  "city": "Villefranche-sur-Mer",
+  "dept": "06"
+ },
+ "zone:roubion": {
+  "lat": 44.112,
+  "lon": 7.023,
+  "city": "Roubion",
+  "dept": "06"
+ },
+ "zone:saint baqui": null,
+ "zone:montamat": null,
+ "zone:goudargues": null,
+ "zone:orsan": null,
+ "zone:bonneval": null,
+ "48340": {
+  "lat": 44.47816,
+  "lon": 3.17524,
+  "city": "Saint-Germain-du-Teil",
+  "dept": "48"
+ },
+ "zone:saint-remy-de": {
+  "lat": 43.79626,
+  "lon": 4.8367,
+  "city": "Saint-Rémy-de-Provence",
+  "dept": "13"
+ },
+ "zone:haute provence": null,
+ "zone:saint- raphael": {
+  "lat": 43.44268,
+  "lon": 6.84991,
+  "city": "Saint-Raphaël",
+  "dept": "83"
+ },
+ "zone:la poste": null,
+ "zone:sorgues": {
+  "lat": 44.00979,
+  "lon": 4.87702,
+  "city": "Sorgues",
+  "dept": "84"
+ },
+ "zone:polar de saint-laurent-du-var": null,
+ "zone:festival du polar de saint-laurent-du-var": null,
+ "zone:bras": {
+  "lat": 43.47166,
+  "lon": 5.95369,
+  "city": "Bras",
+  "dept": "83"
+ },
+ "zone:noel de chamberydu": null,
+ "zone:saint-blaise": {
+  "lat": 43.8138,
+  "lon": 7.22729,
+  "city": "Saint-Blaise",
+  "dept": "06"
+ },
+ "zone:gattieres": {
+  "lat": 43.76219,
+  "lon": 7.18112,
+  "city": "Gattières",
+  "dept": "06"
+ },
+ "zone:creisselsdu": null,
+ "zone:la rochelledu": null,
+ "zone:cierp-gauddu": null,
+ "zone:novembre": null,
+ "zone:grignan": null,
+ "zone:banon": {
+  "lat": 44.02718,
+  "lon": 5.63962,
+  "city": "Banon",
+  "dept": "04"
+ },
+ "zone:belves": null,
+ "zone:saint-jean-saint-nicolas": {
+  "lat": 44.66873,
+  "lon": 6.22968,
+  "city": "Saint-Jean-Saint-Nicolas",
+  "dept": "05"
+ },
+ "zone:moustiers": {
+  "lat": 43.83697,
+  "lon": 6.21711,
+  "city": "Moustiers-Sainte-Marie",
+  "dept": "04"
+ },
+ "zone:noel de cavalaire": null,
+ "zone:festivel": null,
+ "06700": {
+  "lat": 43.68685,
+  "lon": 7.18367,
+  "city": "Saint-Laurent-du-Var",
+  "dept": "06"
+ },
+ "zone:vence": {
+  "lat": 43.72099,
+  "lon": 7.10922,
+  "city": "Vence",
+  "dept": "06"
+ },
+ "zone:mirabeau": {
+  "lat": 43.70087,
+  "lon": 5.64406,
+  "city": "Mirabeau",
+  "dept": "84"
+ },
+ "zone:san miguel": null,
+ "zone:livre du var": null,
+ "zone:pays de martigues": null,
+ "zone:parc jacques vernier": null,
+ "zone:douai": null,
+ "greoux-les-bains": {
+  "lat": 43.74654,
+  "lon": 5.85176,
+  "city": "Gréoux-les-Bains",
+  "dept": "04"
+ },
+ "zone:ronce-les-bains": null
 }
