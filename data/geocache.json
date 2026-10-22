@@ -1316,5 +1316,8 @@
   "lon": 7.22729,
   "city": "Saint-Blaise",
   "dept": "06"
- }
+ },
+ "zone:cepes": null,
+ "zone:bonheur": null,
+ "zone:cerbere": null
 }
