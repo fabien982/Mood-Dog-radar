@@ -1329,5 +1329,20 @@
  "zone:couteau": null,
  "zone:publicite": null,
  "zone:dard": null,
- "zone:camping la maltournee": null
+ "zone:camping la maltournee": null,
+ "zone:campagnan": null,
+ "zone:la roquebrussanne": {
+  "lat": 43.33599,
+  "lon": 5.98919,
+  "city": "La Roquebrussanne",
+  "dept": "83"
+ },
+ "zone:rigaud bonjour": null,
+ "zone:rigaud": {
+  "lat": 43.96748,
+  "lon": 6.98145,
+  "city": "Rigaud",
+  "dept": "06"
+ },
+ "zone:totes": null
 }
