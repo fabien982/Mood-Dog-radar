@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-25T15:34:42+00:00",
+ "updated": "2026-10-26T05:42:56+00:00",
  "count": 174,
- "new_count": 0,
+ "new_count": 7,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -13,57 +13,20 @@
   },
   "Recherche web": {
    "ok": true,
-   "found": 0,
-   "note": "recherche web faite le matin seulement (économise le quota)"
+   "found": 54
   },
   "Pages surveillées": {
    "ok": true,
-   "found": 24,
+   "found": 22,
    "errors": []
   }
  },
  "web_runs": {
-  "Candidatures": "2026-10-25",
-  "Instagram": "2026-10-25",
+  "Candidatures": "2026-10-26",
+  "Instagram": "2026-10-26",
   "Fêtes et festivals": "2026-10-21"
  },
  "events": [
-  {
-   "id": "82589b5362ed",
-   "title": "Dark Arena Festival",
-   "summary": "31 Oct 2026 Dark Arena Festival Plongez au cœur de la Dark Arena aux arènes de Fréjus le samedi 31 octobre pour la soirée d'Halloween ! De 19h à 1h : DJs, performers, show lumière époustouflant et son puissant. Rejoignez le festival et faites la fête dans une ambiance survoltée ! Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/dark-arena-festival/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-31",
-   "published": null,
-   "contact": {
-    "emails": [
-     "terreur.arenes@gmail.com"
-    ],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival",
-    "fête",
-    "soirée"
-   ],
-   "score": 95,
-   "found_at": "2026-10-05T05:31:06+00:00",
-   "contact_checked": true
-  },
   {
    "id": "d767018c5b2f",
    "title": "La Garde (83) : Appel à candidatures food-truck | WikiFoodtruck",
@@ -101,6 +64,41 @@
    ],
    "score": 95,
    "found_at": "2026-10-20T05:39:57+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "82589b5362ed",
+   "title": "Dark Arena Festival",
+   "summary": "31 Oct 2026 Dark Arena Festival Plongez au cœur de la Dark Arena aux arènes de Fréjus le samedi 31 octobre pour la soirée d'Halloween ! De 19h à 1h : DJs, performers, show lumière époustouflant et son puissant. Rejoignez le festival et faites la fête dans une ambiance survoltée ! Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/dark-arena-festival/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-31",
+   "published": null,
+   "contact": {
+    "emails": [
+     "terreur.arenes@gmail.com"
+    ],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival",
+    "fête"
+   ],
+   "score": 95,
+   "found_at": "2026-10-05T05:31:06+00:00",
    "contact_checked": true
   },
   {
@@ -200,6 +198,42 @@
    ],
    "score": 90,
    "found_at": "2026-10-01T05:27:39+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "caeaa2c35194",
+   "title": "Concert - Farfalle della notte - Soirée Italie",
+   "summary": "27 Nov 2026 Concert - Farfalle della notte - Soirée Italie Farfalle della notte - Soirée Italie Puget-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/concert-farfalle-della-notte-soiree-italie/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Puget-sur-Argens",
+   "dept": "83",
+   "lat": 43.47045,
+   "lon": 6.68553,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-27",
+   "published": null,
+   "contact": {
+    "emails": [
+     "culture@mairie-puget-sur-argens.com"
+    ],
+    "phones": [
+     "04 94 19 61 35",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert",
+    "soirée"
+   ],
+   "score": 90,
+   "found_at": "2026-10-12T05:30:37+00:00",
    "contact_checked": true
   },
   {
@@ -404,38 +438,6 @@
    "contact_checked": true
   },
   {
-   "id": "d987d30d0cc6",
-   "title": "Soirée Food Trucks Ville de Villeneuve lez Avignon Mardi ...",
-   "summary": "Swaggernaut Officiel ▻ Recherche Food truck événements. 13w · Public ... recherche des food trucks pour la saison d'été au Vendôme à Avignon (rooftop ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/188307668927/posts/10164850574473928/",
-   "organizer": null,
-   "city": "Villeneuve",
-   "dept": "04",
-   "lat": 43.89201,
-   "lon": 5.86247,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "food trucks",
-    "recherche"
-   ],
-   "score": 85,
-   "found_at": "2026-10-14T05:39:31+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "53fb99dc60be",
    "title": "FOODTRUCKS 2027 ] La ville de Divonne- les-Bains met à ...",
    "summary": "APPEL À CANDIDATURES – FOOD TRUCK / RESTAURATION Dans le cadre de notre Vide-Grenier à Sanary, nous recherchons un food truck ou professionnel de ...",
@@ -466,6 +468,38 @@
    ],
    "score": 85,
    "found_at": "2026-10-23T05:39:39+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "d987d30d0cc6",
+   "title": "Soirée Food Trucks Ville de Villeneuve lez Avignon Mardi ...",
+   "summary": "Swaggernaut Officiel ▻ Recherche Food truck événements. 13w · Public ... recherche des food trucks pour la saison d'été au Vendôme à Avignon (rooftop ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/188307668927/posts/10164850574473928/",
+   "organizer": null,
+   "city": "Villeneuve",
+   "dept": "04",
+   "lat": 43.89201,
+   "lon": 5.86247,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "food trucks",
+    "recherche"
+   ],
+   "score": 85,
+   "found_at": "2026-10-14T05:39:31+00:00",
    "contact_checked": true
   },
   {
@@ -694,6 +728,39 @@
    "contact_checked": true
   },
   {
+   "id": "96bf0949b262",
+   "title": "عب H13 G&B cherche son nouvel emplacement du mardi soir",
+   "summary": "Nous sommes du Var, 83 (la Valette-du-Var) Merci. 0 reactions ·. 8 comments ... RECHERCHE FOOD TRUCK — Samedi 6 juin, midi Bonjour à tous, Nous ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/jeconsommelocalbydromeadhere.tv/posts/28013946731613795/",
+   "organizer": null,
+   "city": "Vars",
+   "dept": "05",
+   "lat": 44.59117,
+   "lon": 6.68776,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "cherche",
+    "emplacement",
+    "food truck",
+    "recherche"
+   ],
+   "score": 80,
+   "found_at": "2026-10-26T05:42:56+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "6bbd7a4ca5be",
    "title": "Exposants Marché de Noël 2026 - Ville de Manosque",
    "summary": "Appel à candidatures – Marché de Noël du Triadou ❌ PAS DE FOOD TRUCK ET UNIQUEMENT DES STANDS D'EXPOSANTS EN EXTÉRIEURS (toutes les places sous ...",
@@ -854,71 +921,254 @@
    "contact_checked": true
   },
   {
-   "id": "423fc9679d62",
-   "title": "Concert Cornemuse - Cotwe",
-   "summary": "25 Oct 2026 Concert Cornemuse - Cotwe Grand Concert de Cornemuse organisé par la Confrérie de l'Ordre du Taste Whisky Ecossais. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/concert-cornemuse-cotwe/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "id": "4b453cd5a0f5",
+   "title": "Ville de Saint-Raphaël",
+   "summary": "... food-truck dans la plaine du Maharin ou encore un local et ses abords pour ... appel à candidatures pour l'exploitation de chaque site sur des ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/ville.saintraphael/posts/-avis-de-publicit%C3%A9-exploitation-de-man%C3%A8ges-pour-enfants-et-despaces-de-d%C3%A9gustati/1669029848591849/",
+   "organizer": null,
    "city": "Saint-Raphaël",
    "dept": "83",
    "lat": 43.44268,
    "lon": 6.84991,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-10-25",
+   "event_date": null,
    "published": null,
    "contact": {
     "emails": [],
-    "phones": [
-     "06 58 29 06 66",
-     "04 94 19 10 60"
-    ],
+    "phones": [],
     "forms": []
    },
-   "mode": "evenements",
-   "via": null,
+   "mode": "demandes",
+   "via": "Facebook",
    "keywords": [
-    "concert"
+    "appel à candidatures",
+    "food-truck"
    ],
    "score": 75,
-   "found_at": "2026-10-23T05:39:39+00:00",
+   "found_at": "2026-10-26T05:42:56+00:00",
    "contact_checked": true
   },
   {
-   "id": "386968775a5b",
-   "title": "CINE CONCERT AU CINEMA LE VOX",
-   "summary": "25 Oct 2026 CINE CONCERT AU CINEMA LE VOX Ciné Concert comme au temps du muet, avec le film \"La croisière du Navigator\" de et avec Buster Keaton, interprété par Michel Colin Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/cine-concert-au-cinema-le-vox-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
+   "id": "a1a63f105bcd",
+   "title": "🚨🌴 ALERTE AUX GOURMANDS ! 🌮🍔 La team Chez J&J ...",
+   "summary": "Recherche Food truck événements. Jetj Sandwicherie Tacos5hMorunas ... Le Camion Bleu Foodtruck Barcelonnette ▻ Alpes-de-Haute-Provence | Entre Ciel et Lavande.",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/1052429426732653/posts/1474261591216099/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-10-25",
+   "event_date": null,
    "published": null,
    "contact": {
-    "emails": [
-     "directionvox@gmail.com"
-    ],
-    "phones": [
-     "06 19 13 23 04",
-     "04 94 19 10 60"
-    ],
+    "emails": [],
+    "phones": [],
     "forms": []
    },
-   "mode": "evenements",
-   "via": null,
+   "mode": "demandes",
+   "via": "Facebook",
    "keywords": [
-    "concert"
+    "food truck",
+    "foodtruck",
+    "recherche"
    ],
    "score": 75,
-   "found_at": "2026-10-16T05:39:08+00:00",
+   "found_at": "2026-10-26T05:42:56+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "b17f652fcbb8",
+   "title": "Bonjour a tous retour pour la suite du food truck gateaux ...",
+   "summary": "Le Camion Bleu Foodtruck Barcelonnette ▻ Alpes-de-Haute-Provence | Entre Ciel et Lavande ... Alpakagirl_68220 ▻ Recherche Food truck événements. 6w · Public ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/183819802398104/posts/2236903493756381/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "foodtruck",
+    "recherche"
+   ],
+   "score": 75,
+   "found_at": "2026-10-19T05:39:54+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "f70b6b7a4a16",
+   "title": "recherche créateurs & producteurs",
+   "summary": "Département des Alpes de Haute Provence (04) (France). Handicap & alors ... exposants Vous êtes artisan, créateur ou food truck et souhaitez participer ?",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/1050458128354593/posts/28695638536743180/",
+   "organizer": null,
+   "city": null,
+   "dept": "04",
+   "lat": 44.09,
+   "lon": 6.24,
+   "approx": true,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "exposants",
+    "food truck",
+    "recherche"
+   ],
+   "score": 75,
+   "found_at": "2026-10-12T05:30:37+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "ff2c97113b03",
+   "title": "Food-trucks à Marseille : la Ville lance un appel ...",
+   "summary": "Les professionnels de la restauration ambulante sont invités à candidater ... La Ville de Marseille ouvre un nouvel appel à manifestation d'intérêt ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.petitesaffiches.fr/actualites,069/economie,045/food-trucks-a-marseille-la-ville,46153.html",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "restauration ambulante"
+   ],
+   "score": 75,
+   "found_at": "2026-10-25T05:38:16+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "65b64e453ce7",
+   "title": "portdemarseillefos",
+   "summary": "Vous êtes professionnel de la restauration ambulante à Marseille ? La @villemarseille lance un Appel à Manifestation d'Intérêt (AMI) pour sélectionner des ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.instagram.com/p/Dd89UtQlDB3/",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Instagram",
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "restauration ambulante"
+   ],
+   "score": 75,
+   "found_at": "2026-10-04T09:18:55+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "71ab05210f32",
+   "title": "Passage 2026 – Marseille 🤝 Hamburg",
+   "summary": "Vous êtes professionnel de la restauration ambulante à Marseille ? La @villemarseille lance un Appel à Manifestation d'Intérêt (AMI) pour sélectionner des ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.instagram.com/p/DeMs2kCCLtB/",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Instagram",
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "restauration ambulante"
+   ],
+   "score": 75,
+   "found_at": "2026-10-13T05:31:02+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "11f27da3308b",
+   "title": "[#Restauration 🥙🚚] #Candidatures : ...",
+   "summary": "Vous êtes professionnel de la restauration ambulante à Marseille ? La @villemarseille lance un Appel à Manifestation d'Intérêt (AMI) pour sélectionner des ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.instagram.com/p/Deq-u5WiqPg/",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Instagram",
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "restauration ambulante"
+   ],
+   "score": 75,
+   "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true
   },
   {
@@ -1162,41 +1412,6 @@
    "contact_checked": true
   },
   {
-   "id": "153aad3e29c4",
-   "title": "Gospel de Noël",
-   "summary": "06 Dec 2026 Gospel de Noël Participez à un concert gospel au sein d'un lieu enchanteur, l'Eglise Saint-Pierre Saint-Paul située dans le cœur du village médiéval à Roquebrune-sur-Argens, où musique et voix humaine se marient pour créer une expérience sensorielle inoubliable. Roquebrune-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/gospel-de-noel-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-06",
-   "published": null,
-   "contact": {
-    "emails": [
-     "village@roquebrunesurargens.fr"
-    ],
-    "phones": [
-     "04 94 19 89 89",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "score": 75,
-   "found_at": "2026-10-25T05:38:16+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "ac34a274cd33",
    "title": "Fête de la Saint-Nicolas",
    "summary": "06 Dec 2026 Fête de la Saint-Nicolas Tradition de la nuit du premier week-end de décembre, Saint-Nicolas, sur son âne, se rend dans les maisons des enfants. La tradition Saint-Nicolas se perpétue à Roquebrune-sur-Argens. Roquebrune-sur-Argens",
@@ -1233,152 +1448,27 @@
    "contact_checked": true
   },
   {
-   "id": "b17f652fcbb8",
-   "title": "Bonjour a tous retour pour la suite du food truck gateaux ...",
-   "summary": "Le Camion Bleu Foodtruck Barcelonnette ▻ Alpes-de-Haute-Provence | Entre Ciel et Lavande ... Alpakagirl_68220 ▻ Recherche Food truck événements. 6w · Public ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/183819802398104/posts/2236903493756381/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "foodtruck",
-    "recherche"
-   ],
-   "score": 75,
-   "found_at": "2026-10-19T05:39:54+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "ff2c97113b03",
-   "title": "Food-trucks à Marseille : la Ville lance un appel ...",
-   "summary": "Les professionnels de la restauration ambulante sont invités à candidater ... La Ville de Marseille ouvre un nouvel appel à manifestation d'intérêt ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.petitesaffiches.fr/actualites,069/economie,045/food-trucks-a-marseille-la-ville,46153.html",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "restauration ambulante"
-   ],
-   "score": 75,
-   "found_at": "2026-10-25T05:38:16+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "65b64e453ce7",
-   "title": "portdemarseillefos",
-   "summary": "Vous êtes professionnel de la restauration ambulante à Marseille ? La @villemarseille lance un Appel à Manifestation d'Intérêt (AMI) pour sélectionner des ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.instagram.com/p/Dd89UtQlDB3/",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Instagram",
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "restauration ambulante"
-   ],
-   "score": 75,
-   "found_at": "2026-10-04T09:18:55+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "11f27da3308b",
-   "title": "[#Restauration 🥙🚚] #Candidatures : ...",
-   "summary": "Vous êtes professionnel de la restauration ambulante à Marseille ? La @villemarseille lance un Appel à Manifestation d'Intérêt (AMI) pour sélectionner des ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.instagram.com/p/Deq-u5WiqPg/",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Instagram",
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "restauration ambulante"
-   ],
-   "score": 75,
-   "found_at": "2026-10-21T05:39:46+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "caeaa2c35194",
-   "title": "Concert - Farfalle della notte - Soirée Italie",
-   "summary": "27 Nov 2026 Concert - Farfalle della notte - Soirée Italie Farfalle della notte - Soirée Italie Puget-sur-Argens",
+   "id": "153aad3e29c4",
+   "title": "Gospel de Noël",
+   "summary": "06 Dec 2026 Gospel de Noël Participez à un concert gospel au sein d'un lieu enchanteur, l'Eglise Saint-Pierre Saint-Paul située dans le cœur du village médiéval à Roquebrune-sur-Argens, où musique et voix humaine se marient pour créer une expérience sensorielle inoubliable. Roquebrune-sur-Argens",
    "type": "Événement",
    "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/concert-farfalle-della-notte-soiree-italie/",
+   "url": "https://www.esterel-cotedazur.com/en/cards/gospel-de-noel-4/",
    "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Puget-sur-Argens",
+   "city": "Roquebrune-sur-Argens",
    "dept": "83",
-   "lat": 43.47045,
-   "lon": 6.68553,
+   "lat": 43.42692,
+   "lon": 6.66176,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-11-27",
+   "event_date": "2026-12-06",
    "published": null,
    "contact": {
     "emails": [
-     "culture@mairie-puget-sur-argens.com"
+     "village@roquebrunesurargens.fr"
     ],
     "phones": [
-     "04 94 19 61 35",
+     "04 94 19 89 89",
      "04 94 19 10 60"
     ],
     "forms": []
@@ -1389,7 +1479,41 @@
     "concert"
    ],
    "score": 75,
-   "found_at": "2026-10-12T05:30:37+00:00",
+   "found_at": "2026-10-25T05:38:16+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "fa535172c79a",
+   "title": "Chœur d'enfants X Sacrée Musique",
+   "summary": "11 Dec 2026 Chœur d'enfants X Sacrée Musique Une nouvelle date à marquer d'une pierre blanche dans la Saison Musicale : pour ce deuxième concert de Noël à la Cathédrale, découvrez la Maîtrise Sainte-Philomène de Haguenau, lauréate du très prestigieux Prix Liliane Bettencourt pour le chant choral. Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/choeur-denfants-x-sacree-musique-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-11",
+   "published": null,
+   "contact": {
+    "emails": [
+     "billetterie@sacreemusique.fr"
+    ],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "score": 75,
+   "found_at": "2026-10-26T05:42:56+00:00",
    "contact_checked": true
   },
   {
@@ -1453,37 +1577,6 @@
    ],
    "score": 75,
    "found_at": "2026-10-24T05:39:34+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "71ab05210f32",
-   "title": "Passage 2026 – Marseille 🤝 Hamburg",
-   "summary": "Vous êtes professionnel de la restauration ambulante à Marseille ? La @villemarseille lance un Appel à Manifestation d'Intérêt (AMI) pour sélectionner des ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.instagram.com/p/DeMs2kCCLtB/",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Instagram",
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "restauration ambulante"
-   ],
-   "score": 75,
-   "found_at": "2026-10-13T05:31:02+00:00",
    "contact_checked": true
   },
   {
@@ -1553,38 +1646,6 @@
    ],
    "score": 75,
    "found_at": "2026-10-24T05:39:34+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "f70b6b7a4a16",
-   "title": "recherche créateurs & producteurs",
-   "summary": "Département des Alpes de Haute Provence (04) (France). Handicap & alors ... exposants Vous êtes artisan, créateur ou food truck et souhaitez participer ?",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/1050458128354593/posts/28695638536743180/",
-   "organizer": null,
-   "city": null,
-   "dept": "04",
-   "lat": 44.09,
-   "lon": 6.24,
-   "approx": true,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "exposants",
-    "food truck",
-    "recherche"
-   ],
-   "score": 75,
-   "found_at": "2026-10-12T05:30:37+00:00",
    "contact_checked": true
   },
   {
@@ -1719,37 +1780,6 @@
    ],
    "score": 75,
    "found_at": "2026-10-21T05:39:46+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "60b9077042e2",
-   "title": "Vide-greniers, brocantes et bourses - Alpes-Maritimes",
-   "summary": "Dimanche Dimanche 25 Octobre 2026 ... Mandelieu-la-Napoule (06) Vide grenier brocante. Ajouter aux favoris.",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://vide-greniers.org/evenements/Alpes-Maritimes/Octobre",
-   "organizer": null,
-   "city": "Mandelieu-la-Napoule",
-   "dept": "06",
-   "lat": 43.54447,
-   "lon": 6.93366,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-25",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "brocante",
-    "vide-greniers"
-   ],
-   "score": 75,
-   "found_at": "2026-10-14T05:39:31+00:00",
    "contact_checked": true
   },
   {
@@ -2592,6 +2622,138 @@
    "contact_checked": true
   },
   {
+   "id": "c6856ea66357",
+   "title": "🥐🥫Semaine de l'emploi agroalimentaire en Provence ...",
+   "summary": "RECHERCHE FOOD TRUCK – SAISON 2026 Le Domaine de Valescure à Saint Raphaël est à la recherche d'un food truck pour la saison 2026, du 15 juin au 15 ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/FTravail.Marseille/posts/semaine-de-lemploi-agroalimentaire-en-provence-alpes-c%C3%B4te-dazur%EF%B8%8Frendez-vous-du-2/1796607355595043/",
+   "organizer": null,
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-10-26T05:42:56+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "fd5a4c7cf570",
+   "title": "Vl sur empnacement food truck. Quelqu'un connait? A ...",
+   "summary": "URGENT – Recherche Food Truck pour DEMAIN à Rigaud Bonjour ! Je suis à la recherche d'un food truck disponible DEMAIN à Rigaud, directement sur la ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/214199409694343/posts/1751367599310842/",
+   "organizer": null,
+   "city": "Rigaud",
+   "dept": "06",
+   "lat": 43.96748,
+   "lon": 6.98145,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-10-25T05:38:16+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "0621feb4fdf7",
+   "title": "Arles Crau Camargue Montagnette lance un appel à projet ...",
+   "summary": "... appel à manifestation d'intérêt en vue de la création d'une cité de l'image ... food truck sur le secteur de la crau, l'emplacement sera essentiel pour ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/laprovence/posts/arles-crau-camargue-montagnette-lance-un-appel-%C3%A0-projet-jusquau-30-octobre-pour/1579454897559002/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "emplacement",
+    "food truck"
+   ],
+   "score": 70,
+   "found_at": "2026-10-23T05:39:39+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "88d8375cd4d3",
+   "title": "Actualités De REDON Agglomération | Redon Agglomération",
+   "summary": "Appel à projet - Food Truck /// ARCHIVE /// REDON Agglomération souhaite l’installation d’un Food Truck à proximité de l’immeuble du 3 rue Charles Sillard, à Redon.",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.redon-agglomeration.bzh/actus",
+   "organizer": null,
+   "city": "Ensuès-la-Redonne",
+   "dept": "13",
+   "lat": 43.3554,
+   "lon": 5.2044,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [
+     "contact@redon-agglomeration.bzh"
+    ],
+    "phones": [
+     "02 99 70 34 34"
+    ],
+    "forms": [
+     "https://www.redon-agglomeration.bzh/collecte-amiante",
+     "https://www.redon-agglomeration.bzh/preinscriptions-conservatoire-2025-2026",
+     "https://www.redon-agglomeration.bzh/preinscriptions-conservatoire-2023-2024"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "food truck"
+   ],
+   "score": 70,
+   "found_at": "2026-10-06T05:28:06+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "6e66b06d1f6d",
    "title": "Halloween à Saint-Raphaël",
    "summary": "20 Oct 2026 au 01 Nov 2026 Halloween à Saint-Raphaël La magie d’Halloween s’invite à Saint-Raphaël avec au programme : spectacles, ateliers, jeu de piste, contes effrayants et soirée déguisée ! Saint-Raphaël",
@@ -2630,60 +2792,27 @@
    "contact_checked": true
   },
   {
-   "id": "a4a6a042f210",
-   "title": "Salon des Minéraux de Saint-Raphaël",
-   "summary": "24 Oct 2026 au 25 Oct 2026 Salon des Minéraux de Saint-Raphaël 25ème édition : Cristaux, Fossiles, Gemmes, Météorites, Bijoux et Bien-être Saint-Raphaël",
+   "id": "403389a2ebc2",
+   "title": "Halloween",
+   "summary": "31 Oct 2026 Halloween Avis aux petites terreurs, venez célébrer Halloween au village de Roquebrune-sur-Argens. Sorcières terrifiantes, magiciens maléfiques, et tous les autres petits monstres une journée cauchemardesque est prévue avec de nombreuses animations. Roquebrune-sur-Argens",
    "type": "Événement",
    "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/salon-des-mineraux-de-saint-raphael-4/",
+   "url": "https://www.esterel-cotedazur.com/en/cards/halloween-4/",
    "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
+   "city": "Roquebrune-sur-Argens",
    "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
+   "lat": 43.42692,
+   "lon": 6.66176,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-10-25",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "06 47 73 89 25",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "salon"
-   ],
-   "score": 70,
-   "found_at": "2026-10-14T05:39:31+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "1c63d03a5387",
-   "title": "Théâtre \"les Complices\"",
-   "summary": "25 Oct 2026 Théâtre \"les Complices\" Le Comité d'Animation d'Agay a le plaisir de vous proposer une pièce de théâtre : \" LES COMPLICES\". Agay",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/theatre-les-complices-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-25",
+   "event_date": "2026-10-31",
    "published": null,
    "contact": {
     "emails": [
-     "animationsagay@gmail.com"
+     "village@roquebrunesurargens.fr"
     ],
     "phones": [
-     "06 61 82 06 25",
+     "04 94 19 89 89",
      "04 94 19 10 60"
     ],
     "forms": []
@@ -2691,44 +2820,10 @@
    "mode": "evenements",
    "via": null,
    "keywords": [
-    "animation"
+    "journée"
    ],
    "score": 70,
-   "found_at": "2026-10-19T05:39:54+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "74fb94e7b528",
-   "title": "CINE FEEL GOOD AU CINEMA LE VOX",
-   "summary": "29 Oct 2026 CINE FEEL GOOD AU CINEMA LE VOX SOIREE CINE FEEL GOOD AVEC LE FILM \"UN PTI TRUC EN PLUS\" Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/cine-feel-good-au-cinema-le-vox-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-29",
-   "published": null,
-   "contact": {
-    "emails": [
-     "directionvox@gmail.com"
-    ],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "soirée"
-   ],
-   "score": 70,
-   "found_at": "2026-10-16T05:39:08+00:00",
+   "found_at": "2026-10-20T15:38:32+00:00",
    "contact_checked": true
   },
   {
@@ -2762,41 +2857,6 @@
    ],
    "score": 70,
    "found_at": "2026-10-18T05:37:28+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "403389a2ebc2",
-   "title": "Halloween",
-   "summary": "31 Oct 2026 Halloween Avis aux petites terreurs, venez célébrer Halloween au village de Roquebrune-sur-Argens. Sorcières terrifiantes, magiciens maléfiques, et tous les autres petits monstres une journée cauchemardesque est prévue avec de nombreuses animations. Roquebrune-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/halloween-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-31",
-   "published": null,
-   "contact": {
-    "emails": [
-     "village@roquebrunesurargens.fr"
-    ],
-    "phones": [
-     "04 94 19 89 89",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "journée"
-   ],
-   "score": 70,
-   "found_at": "2026-10-20T15:38:32+00:00",
    "contact_checked": true
   },
   {
@@ -2969,6 +3029,38 @@
    "contact_checked": true
   },
   {
+   "id": "ded17c759a62",
+   "title": "Ultra trail des troupes de marine",
+   "summary": "21 Nov 2026 au 22 Nov 2026 Ultra trail des troupes de marine L’Ultra-Trail des Troupes de Marine se tiendra les 21 et 22 novembre 2026 à Fréjus, autour du Musée des Troupes de Marine. Cet événement propose trois parcours de 24,4 km, 58,8 km et 128 km, adaptés à différents niveaux. Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/ultra-trail-des-troupes-de-marine-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-21",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "trail"
+   ],
+   "score": 70,
+   "found_at": "2026-10-26T05:42:56+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "ba8138a6331f",
    "title": "Salon Bien-être & Thérapies",
    "summary": "21 Nov 2026 au 22 Nov 2026 Salon Bien-être & Thérapies 10ᵉ édition sur le thème « l’enthousiasme : booster son hiver et rester zen » Saint-Raphaël",
@@ -2998,6 +3090,40 @@
    ],
    "score": 70,
    "found_at": "2026-10-22T05:39:07+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "ddd3bba2e6c3",
+   "title": "Le Chœur du Sud au Forum de Fréjus – Happy’Handy",
+   "summary": "12 Dec 2026 Le Chœur du Sud au Forum de Fréjus – Happy’Handy Happy’Handy vous donne rendez-vous au Théâtre Le Forum de Fréjus pour une grande soirée musicale et solidaire avec Le Chœur du Sud, dirigé par le chef Jean-Luc Costa, et trois artistes invités. Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/le-choeur-du-sud-au-forum-de-frejus-happyhandy-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-12",
+   "published": null,
+   "contact": {
+    "emails": [
+     "contact@happyhandy.fr"
+    ],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "soirée"
+   ],
+   "score": 70,
+   "found_at": "2026-10-26T05:42:56+00:00",
    "contact_checked": true
   },
   {
@@ -3032,37 +3158,6 @@
    "contact_checked": true
   },
   {
-   "id": "fd5a4c7cf570",
-   "title": "Vl sur empnacement food truck. Quelqu'un connait? A ...",
-   "summary": "URGENT – Recherche Food Truck pour DEMAIN à Rigaud Bonjour ! Je suis à la recherche d'un food truck disponible DEMAIN à Rigaud, directement sur la ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/214199409694343/posts/1751367599310842/",
-   "organizer": null,
-   "city": "Rigaud",
-   "dept": "06",
-   "lat": 43.96748,
-   "lon": 6.98145,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-10-25T05:38:16+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "f23f276a63e1",
    "title": "Closing La Pertuade et La Pirogue , au domaine à La Mole ...",
    "summary": "Recent posts. Francois Devinck ▻ Recherche Food truck événements. 18w ... Golfe de Saint-Tropez. Follow. Le Filao Plage. Follow. Geely Auto France.",
@@ -3091,76 +3186,6 @@
    ],
    "score": 70,
    "found_at": "2026-10-08T05:28:57+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "88d8375cd4d3",
-   "title": "Actualités De REDON Agglomération | Redon Agglomération",
-   "summary": "Appel à projet - Food Truck /// ARCHIVE /// REDON Agglomération souhaite l’installation d’un Food Truck à proximité de l’immeuble du 3 rue Charles Sillard, à Redon.",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.redon-agglomeration.bzh/actus",
-   "organizer": null,
-   "city": "Ensuès-la-Redonne",
-   "dept": "13",
-   "lat": 43.3554,
-   "lon": 5.2044,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [
-     "contact@redon-agglomeration.bzh"
-    ],
-    "phones": [
-     "02 99 70 34 34"
-    ],
-    "forms": [
-     "https://www.redon-agglomeration.bzh/collecte-amiante",
-     "https://www.redon-agglomeration.bzh/preinscriptions-conservatoire-2025-2026",
-     "https://www.redon-agglomeration.bzh/preinscriptions-conservatoire-2023-2024"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "food truck"
-   ],
-   "score": 70,
-   "found_at": "2026-10-06T05:28:06+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "0621feb4fdf7",
-   "title": "Arles Crau Camargue Montagnette lance un appel à projet ...",
-   "summary": "... appel à manifestation d'intérêt en vue de la création d'une cité de l'image ... food truck sur le secteur de la crau, l'emplacement sera essentiel pour ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/laprovence/posts/arles-crau-camargue-montagnette-lance-un-appel-%C3%A0-projet-jusquau-30-octobre-pour/1579454897559002/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "emplacement",
-    "food truck"
-   ],
-   "score": 70,
-   "found_at": "2026-10-23T05:39:39+00:00",
    "contact_checked": true
   },
   {
@@ -4161,6 +4186,37 @@
    "contact_checked": true
   },
   {
+   "id": "a7c6b3842c1c",
+   "title": "Près du Neubourg, elle quitte son métier d'assistante ...",
+   "summary": "Robert Passet ▻ Recherche Food truck événements. 3w · Public · Bonjour à tous ... Bouches-du-Rhône ou aux alentours qui recherche ce type de commerce, je ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/courrierdeleure/posts/pr%C3%A8s-du-neubourg-elle-quitte-son-m%C3%A9tier-dassistante-commerciale-pour-lancer-son-/1779969034131584/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 60,
+   "found_at": "2026-10-23T05:39:39+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "8e214dcb0c1d",
    "title": "Rédaction 🚨🥞 OH MY CRÊPE AFFOLE LES PAPILLES ...",
    "summary": "Plaisirs Sucrés ▻ Recherche Food truck événements. 6d · Public · Bonjour, Je ... La Crêperie - Restaurant Forcalquier, Alpes de haute provence ▻ SORTIR DANS LE ...",
@@ -4220,37 +4276,6 @@
    ],
    "score": 60,
    "found_at": "2026-10-24T05:39:34+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "a7c6b3842c1c",
-   "title": "Près du Neubourg, elle quitte son métier d'assistante ...",
-   "summary": "Robert Passet ▻ Recherche Food truck événements. 3w · Public · Bonjour à tous ... Bouches-du-Rhône ou aux alentours qui recherche ce type de commerce, je ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/courrierdeleure/posts/pr%C3%A8s-du-neubourg-elle-quitte-son-m%C3%A9tier-dassistante-commerciale-pour-lancer-son-/1779969034131584/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 60,
-   "found_at": "2026-10-23T05:39:39+00:00",
    "contact_checked": true
   },
   {
@@ -4626,41 +4651,6 @@
    "keywords": [
     "exposants",
     "marché de noël"
-   ],
-   "score": 60,
-   "found_at": "2026-10-14T05:39:31+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "104017dd08b7",
-   "title": "Brocante du Mas de Bagatin à Grimaud - 25 octobre 2026",
-   "summary": "Brocante du Mas de Bagatin à Grimaud – 25 octobre 2026. Date et heure. 25-10 ... Copyright © 2026 GOLFE SAINT TROPEZ. Défiler vers le haut.",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://golfe-saint-tropez.com/evenement/grimaud/brocante-du-mas-de-bagatin-a-grimaud-2026-10-25/",
-   "organizer": null,
-   "city": "Grimaud",
-   "dept": "83",
-   "lat": 43.28228,
-   "lon": 6.54503,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-25",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "06 45 48 21 21"
-    ],
-    "forms": [
-     "https://golfe-saint-tropez.com/formulaire-de-contact-golfe-saint-tropez-com/",
-     "https://golfe-saint-tropez.com/formulaire-de-proposition-dun-evenement-dans-le-golfe-de-saint-tropez/"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "brocante"
    ],
    "score": 60,
    "found_at": "2026-10-14T05:39:31+00:00",
