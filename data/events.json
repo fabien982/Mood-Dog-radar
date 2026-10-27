@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-27T05:40:24+00:00",
+ "updated": "2026-10-27T15:49:20+00:00",
  "count": 178,
- "new_count": 7,
+ "new_count": 0,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -13,7 +13,8 @@
   },
   "Recherche web": {
    "ok": true,
-   "found": 47
+   "found": 0,
+   "note": "recherche web faite le matin seulement (économise le quota)"
   },
   "Pages surveillées": {
    "ok": true,
@@ -27,6 +28,42 @@
   "Fêtes et festivals": "2026-10-21"
  },
  "events": [
+  {
+   "id": "82589b5362ed",
+   "title": "Dark Arena Festival",
+   "summary": "31 Oct 2026 Dark Arena Festival Plongez au cœur de la Dark Arena aux arènes de Fréjus le samedi 31 octobre pour la soirée d'Halloween ! De 19h à 1h : DJs, performers, show lumière époustouflant et son puissant. Rejoignez le festival et faites la fête dans une ambiance survoltée ! Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/dark-arena-festival/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-31",
+   "published": null,
+   "contact": {
+    "emails": [
+     "terreur.arenes@gmail.com"
+    ],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival",
+    "fête",
+    "soirée"
+   ],
+   "score": 95,
+   "found_at": "2026-10-05T05:31:06+00:00",
+   "contact_checked": true
+  },
   {
    "id": "d767018c5b2f",
    "title": "La Garde (83) : Appel à candidatures food-truck | WikiFoodtruck",
@@ -67,26 +104,27 @@
    "contact_checked": true
   },
   {
-   "id": "82589b5362ed",
-   "title": "Dark Arena Festival",
-   "summary": "31 Oct 2026 Dark Arena Festival Plongez au cœur de la Dark Arena aux arènes de Fréjus le samedi 31 octobre pour la soirée d'Halloween ! De 19h à 1h : DJs, performers, show lumière époustouflant et son puissant. Rejoignez le festival et faites la fête dans une ambiance survoltée ! Fréjus",
+   "id": "caeaa2c35194",
+   "title": "Concert - Farfalle della notte - Soirée Italie",
+   "summary": "27 Nov 2026 Concert - Farfalle della notte - Soirée Italie Farfalle della notte - Soirée Italie Puget-sur-Argens",
    "type": "Événement",
    "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/dark-arena-festival/",
+   "url": "https://www.esterel-cotedazur.com/en/cards/concert-farfalle-della-notte-soiree-italie/",
    "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
+   "city": "Puget-sur-Argens",
    "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
+   "lat": 43.47045,
+   "lon": 6.68553,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-10-31",
+   "event_date": "2026-11-27",
    "published": null,
    "contact": {
     "emails": [
-     "terreur.arenes@gmail.com"
+     "culture@mairie-puget-sur-argens.com"
     ],
     "phones": [
+     "04 94 19 61 35",
      "04 94 19 10 60"
     ],
     "forms": []
@@ -94,12 +132,11 @@
    "mode": "evenements",
    "via": null,
    "keywords": [
-    "festival",
-    "fête",
+    "concert",
     "soirée"
    ],
-   "score": 95,
-   "found_at": "2026-10-05T05:31:06+00:00",
+   "score": 90,
+   "found_at": "2026-10-12T05:30:37+00:00",
    "contact_checked": true
   },
   {
@@ -199,42 +236,6 @@
    ],
    "score": 90,
    "found_at": "2026-10-01T05:27:39+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "caeaa2c35194",
-   "title": "Concert - Farfalle della notte - Soirée Italie",
-   "summary": "27 Nov 2026 Concert - Farfalle della notte - Soirée Italie Farfalle della notte - Soirée Italie Puget-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/concert-farfalle-della-notte-soiree-italie/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Puget-sur-Argens",
-   "dept": "83",
-   "lat": 43.47045,
-   "lon": 6.68553,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-27",
-   "published": null,
-   "contact": {
-    "emails": [
-     "culture@mairie-puget-sur-argens.com"
-    ],
-    "phones": [
-     "04 94 19 61 35",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert",
-    "soirée"
-   ],
-   "score": 90,
-   "found_at": "2026-10-12T05:30:37+00:00",
    "contact_checked": true
   },
   {
@@ -922,194 +923,6 @@
    "contact_checked": true
   },
   {
-   "id": "d2ac015afb81",
-   "title": "📍 Roots & Spice Food Truck Quai de Toul an Héry, Plestin ...",
-   "summary": "... Food Truck , à l'emporté ou sur place pour profitez de la superbe terrasse ... APPEL À CANDIDATURES – SAISON 2027 Les programmations 2027 sont ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/1816590361890883/posts/4418014808415079/",
-   "organizer": null,
-   "city": "Toulon",
-   "dept": "83",
-   "lat": 43.1367,
-   "lon": 5.9338,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "appel à candidatures",
-    "food truck"
-   ],
-   "score": 75,
-   "found_at": "2026-10-27T05:40:24+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "a1a63f105bcd",
-   "title": "🚨🌴 ALERTE AUX GOURMANDS ! 🌮🍔 La team Chez J&J ...",
-   "summary": "Recherche Food truck événements. Jetj Sandwicherie Tacos5hMorunas ... Le Camion Bleu Foodtruck Barcelonnette ▻ Alpes-de-Haute-Provence | Entre Ciel et Lavande.",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/1052429426732653/posts/1474261591216099/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "foodtruck",
-    "recherche"
-   ],
-   "score": 75,
-   "found_at": "2026-10-26T05:42:56+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "b17f652fcbb8",
-   "title": "Bonjour a tous retour pour la suite du food truck gateaux ...",
-   "summary": "Le Camion Bleu Foodtruck Barcelonnette ▻ Alpes-de-Haute-Provence | Entre Ciel et Lavande ... Alpakagirl_68220 ▻ Recherche Food truck événements. 6w · Public ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/183819802398104/posts/2236903493756381/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "foodtruck",
-    "recherche"
-   ],
-   "score": 75,
-   "found_at": "2026-10-19T05:39:54+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "ff2c97113b03",
-   "title": "Food-trucks à Marseille : la Ville lance un appel ...",
-   "summary": "Les professionnels de la restauration ambulante sont invités à candidater ... La Ville de Marseille ouvre un nouvel appel à manifestation d'intérêt ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.petitesaffiches.fr/actualites,069/economie,045/food-trucks-a-marseille-la-ville,46153.html",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "restauration ambulante"
-   ],
-   "score": 75,
-   "found_at": "2026-10-25T05:38:16+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "65b64e453ce7",
-   "title": "portdemarseillefos",
-   "summary": "Vous êtes professionnel de la restauration ambulante à Marseille ? La @villemarseille lance un Appel à Manifestation d'Intérêt (AMI) pour sélectionner des ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.instagram.com/p/Dd89UtQlDB3/",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Instagram",
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "restauration ambulante"
-   ],
-   "score": 75,
-   "found_at": "2026-10-04T09:18:55+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "71ab05210f32",
-   "title": "Passage 2026 – Marseille 🤝 Hamburg",
-   "summary": "Vous êtes professionnel de la restauration ambulante à Marseille ? La @villemarseille lance un Appel à Manifestation d'Intérêt (AMI) pour sélectionner des ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.instagram.com/p/DeMs2kCCLtB/",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Instagram",
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "restauration ambulante"
-   ],
-   "score": 75,
-   "found_at": "2026-10-13T05:31:02+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "5e169cfea05b",
    "title": "Fréjus Fête Halloween",
    "summary": "26 Oct 2026 au 31 Oct 2026 Fréjus Fête Halloween A l’origine, Halloween est une fête celtique d’origine irlandaise. En effet, ce sont les Irlandais qui ont apporté avec eux la tradition aux Etat-Unis ! Il s’agit donc, en réalité, du nouvel an celtique ! Fréjus",
@@ -1452,6 +1265,194 @@
    ],
    "score": 75,
    "found_at": "2026-10-26T05:42:56+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "d2ac015afb81",
+   "title": "📍 Roots & Spice Food Truck Quai de Toul an Héry, Plestin ...",
+   "summary": "... Food Truck , à l'emporté ou sur place pour profitez de la superbe terrasse ... APPEL À CANDIDATURES – SAISON 2027 Les programmations 2027 sont ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/1816590361890883/posts/4418014808415079/",
+   "organizer": null,
+   "city": "Toulon",
+   "dept": "83",
+   "lat": 43.1367,
+   "lon": 5.9338,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "appel à candidatures",
+    "food truck"
+   ],
+   "score": 75,
+   "found_at": "2026-10-27T05:40:24+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "a1a63f105bcd",
+   "title": "🚨🌴 ALERTE AUX GOURMANDS ! 🌮🍔 La team Chez J&J ...",
+   "summary": "Recherche Food truck événements. Jetj Sandwicherie Tacos5hMorunas ... Le Camion Bleu Foodtruck Barcelonnette ▻ Alpes-de-Haute-Provence | Entre Ciel et Lavande.",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/1052429426732653/posts/1474261591216099/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "foodtruck",
+    "recherche"
+   ],
+   "score": 75,
+   "found_at": "2026-10-26T05:42:56+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "b17f652fcbb8",
+   "title": "Bonjour a tous retour pour la suite du food truck gateaux ...",
+   "summary": "Le Camion Bleu Foodtruck Barcelonnette ▻ Alpes-de-Haute-Provence | Entre Ciel et Lavande ... Alpakagirl_68220 ▻ Recherche Food truck événements. 6w · Public ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/183819802398104/posts/2236903493756381/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "foodtruck",
+    "recherche"
+   ],
+   "score": 75,
+   "found_at": "2026-10-19T05:39:54+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "ff2c97113b03",
+   "title": "Food-trucks à Marseille : la Ville lance un appel ...",
+   "summary": "Les professionnels de la restauration ambulante sont invités à candidater ... La Ville de Marseille ouvre un nouvel appel à manifestation d'intérêt ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.petitesaffiches.fr/actualites,069/economie,045/food-trucks-a-marseille-la-ville,46153.html",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "restauration ambulante"
+   ],
+   "score": 75,
+   "found_at": "2026-10-25T05:38:16+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "65b64e453ce7",
+   "title": "portdemarseillefos",
+   "summary": "Vous êtes professionnel de la restauration ambulante à Marseille ? La @villemarseille lance un Appel à Manifestation d'Intérêt (AMI) pour sélectionner des ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.instagram.com/p/Dd89UtQlDB3/",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Instagram",
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "restauration ambulante"
+   ],
+   "score": 75,
+   "found_at": "2026-10-04T09:18:55+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "71ab05210f32",
+   "title": "Passage 2026 – Marseille 🤝 Hamburg",
+   "summary": "Vous êtes professionnel de la restauration ambulante à Marseille ? La @villemarseille lance un Appel à Manifestation d'Intérêt (AMI) pour sélectionner des ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.instagram.com/p/DeMs2kCCLtB/",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Instagram",
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "restauration ambulante"
+   ],
+   "score": 75,
+   "found_at": "2026-10-13T05:31:02+00:00",
    "contact_checked": true
   },
   {
@@ -2688,193 +2689,6 @@
    "contact_checked": true
   },
   {
-   "id": "9a1d844e2753",
-   "title": "🥐🥫Semaine de l'emploi agroalimentaire en Provence ...",
-   "summary": "Carole Hecquet ▻ Tu sais que tu es de Saint Raphaël- Frejus quand...... 40w · Public. RECHERCHE FOOD TRUCK – SAISON 2026 Le Domaine de Valescure à ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/FTravail.GrandToulon/posts/semaine-de-lemploi-agroalimentaire-en-provence-alpes-c%C3%B4te-dazur%EF%B8%8Frendez-vous-du-2/1591813169650527/",
-   "organizer": null,
-   "city": "Fréjus",
-   "dept": "83",
-   "lat": 43.44566,
-   "lon": 6.77051,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-10-24T05:39:34+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "fd5a4c7cf570",
-   "title": "Vl sur empnacement food truck. Quelqu'un connait? A ...",
-   "summary": "URGENT – Recherche Food Truck pour DEMAIN à Rigaud Bonjour ! Je suis à la recherche d'un food truck disponible DEMAIN à Rigaud, directement sur la ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/214199409694343/posts/1751367599310842/",
-   "organizer": null,
-   "city": "Rigaud",
-   "dept": "06",
-   "lat": 43.96748,
-   "lon": 6.98145,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-10-25T05:38:16+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "c6856ea66357",
-   "title": "🥐🥫Semaine de l'emploi agroalimentaire en Provence ...",
-   "summary": "RECHERCHE FOOD TRUCK – SAISON 2026 Le Domaine de Valescure à Saint Raphaël est à la recherche d'un food truck pour la saison 2026, du 15 juin au 15 ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/FTravail.Marseille/posts/semaine-de-lemploi-agroalimentaire-en-provence-alpes-c%C3%B4te-dazur%EF%B8%8Frendez-vous-du-2/1796607355595043/",
-   "organizer": null,
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-10-26T05:42:56+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "21b95a8a2084",
-   "title": "Mardi soir , ça va être Exceptionnel chez Nardouprod ...",
-   "summary": "Bonjour Je recherche un food truck pour le domaine des restanques du golfe de st tropez a grimaud dans le var le mardi soir. ... Recherche Food Truck Burgers ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/footballenprovinceduluxembourg/posts/28429898930043253/",
-   "organizer": null,
-   "city": "Grimaud",
-   "dept": "83",
-   "lat": 43.28228,
-   "lon": 6.54503,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-10-27T05:40:24+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "f23f276a63e1",
-   "title": "Closing La Pertuade et La Pirogue , au domaine à La Mole ...",
-   "summary": "Recent posts. Francois Devinck ▻ Recherche Food truck événements. 18w ... Golfe de Saint-Tropez. Follow. Le Filao Plage. Follow. Geely Auto France.",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/lapertuade/posts/closing-la-pertuade-et-la-pirogue-au-domaine-%C3%A0-la-mole-ce-dimanche-4-octobre-au-/1996451048172451/",
-   "organizer": null,
-   "city": "Saint-Tropez",
-   "dept": "83",
-   "lat": 43.26495,
-   "lon": 6.65812,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-10-08T05:28:57+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "0621feb4fdf7",
-   "title": "Arles Crau Camargue Montagnette lance un appel à projet ...",
-   "summary": "... appel à manifestation d'intérêt en vue de la création d'une cité de l'image ... food truck sur le secteur de la crau, l'emplacement sera essentiel pour ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/laprovence/posts/arles-crau-camargue-montagnette-lance-un-appel-%C3%A0-projet-jusquau-30-octobre-pour/1579454897559002/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "emplacement",
-    "food truck"
-   ],
-   "score": 70,
-   "found_at": "2026-10-23T05:39:39+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "6e66b06d1f6d",
    "title": "Halloween à Saint-Raphaël",
    "summary": "20 Oct 2026 au 01 Nov 2026 Halloween à Saint-Raphaël La magie d’Halloween s’invite à Saint-Raphaël avec au programme : spectacles, ateliers, jeu de piste, contes effrayants et soirée déguisée ! Saint-Raphaël",
@@ -3209,6 +3023,193 @@
    ],
    "score": 70,
    "found_at": "2026-10-26T05:42:56+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "9a1d844e2753",
+   "title": "🥐🥫Semaine de l'emploi agroalimentaire en Provence ...",
+   "summary": "Carole Hecquet ▻ Tu sais que tu es de Saint Raphaël- Frejus quand...... 40w · Public. RECHERCHE FOOD TRUCK – SAISON 2026 Le Domaine de Valescure à ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/FTravail.GrandToulon/posts/semaine-de-lemploi-agroalimentaire-en-provence-alpes-c%C3%B4te-dazur%EF%B8%8Frendez-vous-du-2/1591813169650527/",
+   "organizer": null,
+   "city": "Fréjus",
+   "dept": "83",
+   "lat": 43.44566,
+   "lon": 6.77051,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-10-24T05:39:34+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "fd5a4c7cf570",
+   "title": "Vl sur empnacement food truck. Quelqu'un connait? A ...",
+   "summary": "URGENT – Recherche Food Truck pour DEMAIN à Rigaud Bonjour ! Je suis à la recherche d'un food truck disponible DEMAIN à Rigaud, directement sur la ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/214199409694343/posts/1751367599310842/",
+   "organizer": null,
+   "city": "Rigaud",
+   "dept": "06",
+   "lat": 43.96748,
+   "lon": 6.98145,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-10-25T05:38:16+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "c6856ea66357",
+   "title": "🥐🥫Semaine de l'emploi agroalimentaire en Provence ...",
+   "summary": "RECHERCHE FOOD TRUCK – SAISON 2026 Le Domaine de Valescure à Saint Raphaël est à la recherche d'un food truck pour la saison 2026, du 15 juin au 15 ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/FTravail.Marseille/posts/semaine-de-lemploi-agroalimentaire-en-provence-alpes-c%C3%B4te-dazur%EF%B8%8Frendez-vous-du-2/1796607355595043/",
+   "organizer": null,
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-10-26T05:42:56+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "21b95a8a2084",
+   "title": "Mardi soir , ça va être Exceptionnel chez Nardouprod ...",
+   "summary": "Bonjour Je recherche un food truck pour le domaine des restanques du golfe de st tropez a grimaud dans le var le mardi soir. ... Recherche Food Truck Burgers ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/footballenprovinceduluxembourg/posts/28429898930043253/",
+   "organizer": null,
+   "city": "Grimaud",
+   "dept": "83",
+   "lat": 43.28228,
+   "lon": 6.54503,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-10-27T05:40:24+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "f23f276a63e1",
+   "title": "Closing La Pertuade et La Pirogue , au domaine à La Mole ...",
+   "summary": "Recent posts. Francois Devinck ▻ Recherche Food truck événements. 18w ... Golfe de Saint-Tropez. Follow. Le Filao Plage. Follow. Geely Auto France.",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/lapertuade/posts/closing-la-pertuade-et-la-pirogue-au-domaine-%C3%A0-la-mole-ce-dimanche-4-octobre-au-/1996451048172451/",
+   "organizer": null,
+   "city": "Saint-Tropez",
+   "dept": "83",
+   "lat": 43.26495,
+   "lon": 6.65812,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-10-08T05:28:57+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "0621feb4fdf7",
+   "title": "Arles Crau Camargue Montagnette lance un appel à projet ...",
+   "summary": "... appel à manifestation d'intérêt en vue de la création d'une cité de l'image ... food truck sur le secteur de la crau, l'emplacement sera essentiel pour ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/laprovence/posts/arles-crau-camargue-montagnette-lance-un-appel-%C3%A0-projet-jusquau-30-octobre-pour/1579454897559002/",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "emplacement",
+    "food truck"
+   ],
+   "score": 70,
+   "found_at": "2026-10-23T05:39:39+00:00",
    "contact_checked": true
   },
   {
