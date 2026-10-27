@@ -1360,5 +1360,17 @@
  "zone:fest'tribute": null,
  "zone:noel et": null,
  "zone:marche escapade": null,
- "zone:valescure": null
+ "zone:valescure": null,
+ "zone:toul": {
+  "lat": 43.1367,
+  "lon": 5.9338,
+  "city": "Toulon",
+  "dept": "83"
+ },
+ "zone:montalet-le-bois": null,
+ "zone:livre de grenoble": null,
+ "zone:livre": null,
+ "zone:divonne-les-bains": null,
+ "zone:pau": null,
+ "zone:quissac": null
 }
