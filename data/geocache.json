@@ -1476,5 +1476,17 @@
  "zone:martinique": null,
  "zone:rio": null,
  "zone:festival une": null,
- "zone:societe": null
+ "zone:societe": null,
+ "valbonne": {
+  "lat": 43.62734,
+  "lon": 7.01656,
+  "city": "Valbonne",
+  "dept": "06"
+ },
+ "saint-etienne-de-tinee": {
+  "lat": 44.24224,
+  "lon": 6.93803,
+  "city": "Saint-Étienne-de-Tinée",
+  "dept": "06"
+ }
 }

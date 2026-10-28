@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-28T05:49:20+00:00",
- "count": 204,
- "new_count": 28,
+ "updated": "2026-10-28T13:18:09+00:00",
+ "count": 210,
+ "new_count": 7,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -13,12 +13,14 @@
   },
   "Recherche web": {
    "ok": true,
-   "found": 77
+   "found": 0
   },
   "Pages surveillées": {
    "ok": true,
-   "found": 20,
-   "errors": []
+   "found": 27,
+   "errors": [
+    "Fest.fr – foires et salons du Var : HTTPError"
+   ]
   }
  },
  "web_runs": {
@@ -27,6 +29,220 @@
   "Fêtes et festivals": "2026-10-28"
  },
  "events": [
+  {
+   "id": "4b73d4eb07e3",
+   "title": "Nice (06) : AOT campus universitaire pour food truck Ouvert, J-1 Date limite : 29 octobre 2026 à 12h00 L'Université Côte d'Azur lance un appel à candidatures pour l'occupation temporaire du domaine public sur le campus u",
+   "summary": "Nice (06) : AOT campus universitaire pour food truck Ouvert, J-1 Date limite : 29 octobre 2026 à 12h00 L'Université Côte d'Azur lance un appel à candidatures pour l'occupation temporaire du domaine public sur le campus universitaire George V. Cet appel concerne l'exploitation d'une activité de restauration mobile, type food truck. Les candidats doivent soumettre leurs dossiers par voie dématérialisée avant le 29 octobre 2026. Emplacement permanent Alpes-Maritimes Allauch (13) : Appel à candidatu",
+   "type": "Appel à candidatures",
+   "source": "Page surveillée",
+   "url": "https://wikifoodtruck.fr/appels-food-truck/nice-aot-campus-universitaire-pour-food-truck-2026",
+   "organizer": "Wikifoodtruck – appels à candidatures des mairies",
+   "city": "Nice",
+   "dept": "06",
+   "lat": 43.71273,
+   "lon": 7.25531,
+   "approx": false,
+   "deadline": "2026-10-29",
+   "event_date": "2026-10-29",
+   "published": null,
+   "contact": {
+    "emails": [
+     "francois@wikifoodtruck.fr"
+    ],
+    "phones": [
+     "04 89 15 10 05"
+    ],
+    "forms": [
+     "https://wikifoodtruck.fr/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026",
+     "https://wikifoodtruck.fr/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2",
+     "https://wikifoodtruck.fr/appels-food-truck/marseille-food-truck-solidaire-noel-au-palais-2026"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "AOT",
+    "appel à candidatures",
+    "emplacement",
+    "food truck"
+   ],
+   "score": 100,
+   "found_at": "2026-10-28T13:18:09+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "7188173b79a3",
+   "title": "Allauch (13) : Appel à candidature Food Truck Noël 2026 Ouvert, J-5 Date limite : 2 novembre 2026 La Ville d'Allauch lance un appel à candidature pour l'occupation du domaine public par des food trucks décorés sur le thè",
+   "summary": "Nice (06) : AOT campus universitaire pour food truck Ouvert, J-1 Date limite : 29 octobre 2026 à 12h00 L'Université Côte d'Azur lance un appel à candidatures pour l'occupation temporaire du domaine public sur le campus universitaire George V. Cet appel concerne l'exploitation d'une activité de restauration mobile, type food truck. Les candidats doivent soumettre leurs dossiers par voie dématérialisée avant le 29 octobre 2026. Emplacement permanent Alpes-Maritimes Allauch (13) : Appel à candidatu",
+   "type": "Appel à candidatures",
+   "source": "Page surveillée",
+   "url": "https://wikifoodtruck.fr/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026",
+   "organizer": "Wikifoodtruck – appels à candidatures des mairies",
+   "city": "Nice",
+   "dept": "06",
+   "lat": 43.71273,
+   "lon": 7.25531,
+   "approx": false,
+   "deadline": "2026-11-02",
+   "event_date": "2026-11-02",
+   "published": null,
+   "contact": {
+    "emails": [
+     "francois@wikifoodtruck.fr",
+     "commerce@allauch.com"
+    ],
+    "phones": [
+     "04 91 10 49 71"
+    ],
+    "forms": [
+     "https://www.allauch.com/wp-content/uploads/2026/10/APPEL-A-CANDIDATURE-FOOD-TRUCK-Noel-2026.pdf",
+     "https://wikifoodtruck.fr/appels-food-truck/nice-aot-campus-universitaire-pour-food-truck-2026",
+     "https://wikifoodtruck.fr/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "AOT",
+    "appel à candidature",
+    "appel à candidatures",
+    "candidature",
+    "emplacement",
+    "food truck",
+    "food trucks",
+    "occupation du domaine public"
+   ],
+   "score": 100,
+   "found_at": "2026-10-28T13:18:09+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "c4f86844a475",
+   "title": "Marseille (13) : Appel à manifestation d'intérêt food-trucks Ouvert, J-9 Date limite : 6 novembre 2026 à 12h00 Cet appel à manifestation d'intérêt est destiné aux food trucks pour les dates du 11 au 13 décembre 2026. Les",
+   "summary": "Nice (06) : AOT campus universitaire pour food truck Ouvert, J-1 Date limite : 29 octobre 2026 à 12h00 L'Université Côte d'Azur lance un appel à candidatures pour l'occupation temporaire du domaine public sur le campus universitaire George V. Cet appel concerne l'exploitation d'une activité de restauration mobile, type food truck. Les candidats doivent soumettre leurs dossiers par voie dématérialisée avant le 29 octobre 2026. Emplacement permanent Alpes-Maritimes Allauch (13) : Appel à candidatu",
+   "type": "Appel à candidatures",
+   "source": "Page surveillée",
+   "url": "https://wikifoodtruck.fr/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2",
+   "organizer": "Wikifoodtruck – appels à candidatures des mairies",
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": "2026-11-06",
+   "event_date": "2026-12-13",
+   "published": null,
+   "contact": {
+    "emails": [
+     "francois@wikifoodtruck.fr"
+    ],
+    "phones": [],
+    "forms": [
+     "https://wikifoodtruck.fr/appels-food-truck/nice-aot-campus-universitaire-pour-food-truck-2026",
+     "https://wikifoodtruck.fr/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026",
+     "https://wikifoodtruck.fr/appels-food-truck/marseille-food-truck-solidaire-noel-au-palais-2026"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "AOT",
+    "appel à candidatures",
+    "appel à manifestation d'intérêt",
+    "emplacement",
+    "food truck",
+    "food trucks"
+   ],
+   "score": 100,
+   "found_at": "2026-10-28T13:18:09+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "0bd01dc36ce3",
+   "title": "Marseille (13) : Food-truck solidaire Noël au Palais 2026 Ouvert, J-11 Date limite : 8 novembre 2026 Réservé aux structures de l'économie sociale et solidaire (ESS) : la mairie des 4e et 5e arrondissements cherche un foo",
+   "summary": "Nice (06) : AOT campus universitaire pour food truck Ouvert, J-1 Date limite : 29 octobre 2026 à 12h00 L'Université Côte d'Azur lance un appel à candidatures pour l'occupation temporaire du domaine public sur le campus universitaire George V. Cet appel concerne l'exploitation d'une activité de restauration mobile, type food truck. Les candidats doivent soumettre leurs dossiers par voie dématérialisée avant le 29 octobre 2026. Emplacement permanent Alpes-Maritimes Allauch (13) : Appel à candidatu",
+   "type": "Appel à candidatures",
+   "source": "Page surveillée",
+   "url": "https://wikifoodtruck.fr/appels-food-truck/marseille-food-truck-solidaire-noel-au-palais-2026",
+   "organizer": "Wikifoodtruck – appels à candidatures des mairies",
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": "2026-11-08",
+   "event_date": "2026-12-26",
+   "published": null,
+   "contact": {
+    "emails": [
+     "francois@wikifoodtruck.fr",
+     "culture45@marseille.fr"
+    ],
+    "phones": [],
+    "forms": [
+     "https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
+     "https://wikifoodtruck.fr/appels-food-truck/nice-aot-campus-universitaire-pour-food-truck-2026",
+     "https://wikifoodtruck.fr/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "AOT",
+    "appel à candidatures",
+    "candidature",
+    "cherche",
+    "emplacement",
+    "food truck",
+    "food-truck"
+   ],
+   "score": 100,
+   "found_at": "2026-10-28T13:18:09+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "5e9995591a46",
+   "title": "Saint-André (974) : Occupation du domaine public 2027 Ouvert, J-23 Date limite : 20 novembre 2026 Les candidatures pour l'occupation du domaine public en 2027 sont ouvertes. Les emplacements sont destinés aux restaurateu",
+   "summary": "Nice (06) : AOT campus universitaire pour food truck Ouvert, J-1 Date limite : 29 octobre 2026 à 12h00 L'Université Côte d'Azur lance un appel à candidatures pour l'occupation temporaire du domaine public sur le campus universitaire George V. Cet appel concerne l'exploitation d'une activité de restauration mobile, type food truck. Les candidats doivent soumettre leurs dossiers par voie dématérialisée avant le 29 octobre 2026. Emplacement permanent Alpes-Maritimes Allauch (13) : Appel à candidatu",
+   "type": "Appel à candidatures",
+   "source": "Page surveillée",
+   "url": "https://wikifoodtruck.fr/appels-food-truck/saint-andre-occupation-du-domaine-public-2027",
+   "organizer": "Wikifoodtruck – appels à candidatures des mairies",
+   "city": "Nice",
+   "dept": "06",
+   "lat": 43.71273,
+   "lon": 7.25531,
+   "approx": false,
+   "deadline": "2026-11-20",
+   "event_date": "2026-11-20",
+   "published": null,
+   "contact": {
+    "emails": [
+     "francois@wikifoodtruck.fr"
+    ],
+    "phones": [
+     "02 62 58 88 67"
+    ],
+    "forms": [
+     "https://www.saint-andre.re/appel-a-candidatures-occupation-du-domaine-public-2027/",
+     "https://www.saint-andre.re/wp-content/uploads/2026/10/appel-a-candidature-domaine-publique-2027.pdf",
+     "https://wikifoodtruck.fr/appels-food-truck/saint-denis-appel-a-manifestation-d-interet-food-truck-2024"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "AOT",
+    "appel à candidatures",
+    "emplacement",
+    "food truck",
+    "food trucks",
+    "occupation du domaine public"
+   ],
+   "score": 100,
+   "found_at": "2026-10-28T13:18:09+00:00",
+   "contact_checked": true
+  },
   {
    "id": "82589b5362ed",
    "title": "Dark Arena Festival",
@@ -61,6 +277,88 @@
    ],
    "score": 95,
    "found_at": "2026-10-05T05:31:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "9a8973b58aa7",
+   "title": "Commerce local Appel à candidature food-truck Vignasse",
+   "summary": "Commerce local Appel à candidature food-truck Vignasse",
+   "type": "Appel à candidatures",
+   "source": "Page surveillée",
+   "url": "https://www.ville-valbonne.fr/actualite/appel-a-candidature-food-truck-pompidou-2/",
+   "organizer": "Ville de Valbonne Sophia Antipolis – actualités",
+   "city": "Valbonne",
+   "dept": "06",
+   "lat": 43.62734,
+   "lon": 7.01656,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [
+     "mairie@ville-valbonne.fr"
+    ],
+    "phones": [
+     "04 93 12 31 00",
+     "04 92 98 28 60"
+    ],
+    "forms": [
+     "https://www.ville-valbonne.fr/wp-content/uploads/sites/6/2026/10/reglement_de_l_appel_a_candidature_foodtruck_vignasse-2026-V1.docx",
+     "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ville-valbonne.fr%2Factualite%2Fappel-a-candidature-food-truck-pompidou-2%2F",
+     "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ville-valbonne.fr%2Factualite%2Fappel-a-candidature-food-truck-pompidou-2%2F&text=Appel+%C3%A0+candidature+food-truck+Vignasse"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à candidature",
+    "candidature",
+    "food-truck"
+   ],
+   "score": 95,
+   "found_at": "2026-10-28T13:18:09+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "7af4cb12014d",
+   "title": "Commerce local Appel à candidature food-truck Pompidou",
+   "summary": "Commerce local Appel à candidature food-truck Pompidou",
+   "type": "Appel à candidatures",
+   "source": "Page surveillée",
+   "url": "https://www.ville-valbonne.fr/actualite/appel-a-candidature-food-truck-pompidou/",
+   "organizer": "Ville de Valbonne Sophia Antipolis – actualités",
+   "city": "Valbonne",
+   "dept": "06",
+   "lat": 43.62734,
+   "lon": 7.01656,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [
+     "mairie@ville-valbonne.fr"
+    ],
+    "phones": [
+     "04 93 12 31 00",
+     "04 92 98 28 60"
+    ],
+    "forms": [
+     "https://www.ville-valbonne.fr/wp-content/uploads/sites/6/2026/10/reglement_de_l_appel_a_candidature_foodtruck_Pompidou-2026-V1.docx",
+     "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ville-valbonne.fr%2Factualite%2Fappel-a-candidature-food-truck-pompidou%2F",
+     "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ville-valbonne.fr%2Factualite%2Fappel-a-candidature-food-truck-pompidou%2F&text=Appel+%C3%A0+candidature+food-truck+Pompidou"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à candidature",
+    "candidature",
+    "food-truck"
+   ],
+   "score": 95,
+   "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true
   },
   {
@@ -100,6 +398,76 @@
    ],
    "score": 95,
    "found_at": "2026-10-20T05:39:57+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "4f10bf3b874a",
+   "title": "La grande soirée Guinguette et Paillettes",
+   "summary": "21 Nov 2026 La grande soirée Guinguette et Paillettes Les Papakools et la Cassiop’Team Rugby s’unissent pour vous proposer une soirée placée sous le signe de la fête, de la musique et de la convivialité ! Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/la-grande-soiree-guinguette-et-paillettes-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-21",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fête",
+    "guinguette",
+    "soirée"
+   ],
+   "score": 90,
+   "found_at": "2026-10-28T05:49:20+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "caeaa2c35194",
+   "title": "Concert - Farfalle della notte - Soirée Italie",
+   "summary": "27 Nov 2026 Concert - Farfalle della notte - Soirée Italie Farfalle della notte - Soirée Italie Puget-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/concert-farfalle-della-notte-soiree-italie/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Puget-sur-Argens",
+   "dept": "83",
+   "lat": 43.47045,
+   "lon": 6.68553,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-27",
+   "published": null,
+   "contact": {
+    "emails": [
+     "culture@mairie-puget-sur-argens.com"
+    ],
+    "phones": [
+     "04 94 19 61 35",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert",
+    "soirée"
+   ],
+   "score": 90,
+   "found_at": "2026-10-12T05:30:37+00:00",
    "contact_checked": true
   },
   {
@@ -236,76 +604,6 @@
    "contact_checked": true
   },
   {
-   "id": "4f10bf3b874a",
-   "title": "La grande soirée Guinguette et Paillettes",
-   "summary": "21 Nov 2026 La grande soirée Guinguette et Paillettes Les Papakools et la Cassiop’Team Rugby s’unissent pour vous proposer une soirée placée sous le signe de la fête, de la musique et de la convivialité ! Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/la-grande-soiree-guinguette-et-paillettes-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-21",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "fête",
-    "guinguette",
-    "soirée"
-   ],
-   "score": 90,
-   "found_at": "2026-10-28T05:49:20+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "caeaa2c35194",
-   "title": "Concert - Farfalle della notte - Soirée Italie",
-   "summary": "27 Nov 2026 Concert - Farfalle della notte - Soirée Italie Farfalle della notte - Soirée Italie Puget-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/concert-farfalle-della-notte-soiree-italie/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Puget-sur-Argens",
-   "dept": "83",
-   "lat": 43.47045,
-   "lon": 6.68553,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-27",
-   "published": null,
-   "contact": {
-    "emails": [
-     "culture@mairie-puget-sur-argens.com"
-    ],
-    "phones": [
-     "04 94 19 61 35",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert",
-    "soirée"
-   ],
-   "score": 90,
-   "found_at": "2026-10-12T05:30:37+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "c92caddee32a",
    "title": "APPEL AUX FOOD TRUCKS / SUCRÉ, SALÉ 🌭🎂 Bonjour à tous ...",
    "summary": "APPEL À CANDIDATURES – FOOD TRUCKS 2026 ! ... RECHERCHE FOOD TRUCK ... var Nous Recherchons un food truck sucré Veuillez me contacter Merci a vous.",
@@ -372,38 +670,39 @@
    "contact_checked": true
   },
   {
-   "id": "d1e7f10dd172",
-   "title": "️❤️FOODTRUCK TROUVÉ ❤️❗️🌭 ...",
-   "summary": "APPEL À CANDIDATURES – FOOD TRUCKS 2026 ! La Fête des Places ... var Nous Recherchons un food truck sucré Veuillez me contacter Merci a vous.",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/vrombietattoo/posts/-%EF%B8%8F%EF%B8%8Ffoodtruck-trouv%C3%A9-%EF%B8%8F%EF%B8%8Fmerci-%C3%A0-tous-pour-votre-aide-%EF%B8%8Fdimanche-6-septembre-bonsoir/1686034543523176/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
+   "id": "c6ce7fcb64d1",
+   "title": "Soirée Choucroute",
+   "summary": "14 Nov 2026 Soirée Choucroute Le Comité des Fêtes de Roquebrune-sur-Argens vous donne rendez-vous le samedi 14 novembre pour une soirée conviviale et festive placée sous le signe de la gourmandise ! Roquebrune-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/soiree-choucroute-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Roquebrune-sur-Argens",
+   "dept": "83",
+   "lat": 43.42692,
+   "lon": 6.66176,
    "approx": false,
    "deadline": null,
-   "event_date": null,
+   "event_date": "2026-11-14",
    "published": null,
    "contact": {
-    "emails": [],
-    "phones": [],
+    "emails": [
+     "cdf.roquebrune@orange.fr"
+    ],
+    "phones": [
+     "07 59 66 65 91",
+     "04 94 19 10 60"
+    ],
     "forms": []
    },
-   "mode": "demandes",
-   "via": "Facebook",
+   "mode": "evenements",
+   "via": null,
    "keywords": [
-    "appel à candidatures",
-    "food truck",
-    "food trucks",
-    "foodtruck",
-    "fête",
-    "recherchons"
+    "fêtes",
+    "soirée"
    ],
-   "score": 90,
-   "found_at": "2026-09-29T23:11:06+00:00",
+   "score": 85,
+   "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
   },
   {
@@ -502,42 +801,6 @@
    ],
    "score": 85,
    "found_at": "2026-10-14T05:39:31+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "c6ce7fcb64d1",
-   "title": "Soirée Choucroute",
-   "summary": "14 Nov 2026 Soirée Choucroute Le Comité des Fêtes de Roquebrune-sur-Argens vous donne rendez-vous le samedi 14 novembre pour une soirée conviviale et festive placée sous le signe de la gourmandise ! Roquebrune-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/soiree-choucroute-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-14",
-   "published": null,
-   "contact": {
-    "emails": [
-     "cdf.roquebrune@orange.fr"
-    ],
-    "phones": [
-     "07 59 66 65 91",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "fêtes",
-    "soirée"
-   ],
-   "score": 85,
-   "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
   },
   {
@@ -1086,6 +1349,213 @@
    "contact_checked": true
   },
   {
+   "id": "5e169cfea05b",
+   "title": "Fréjus Fête Halloween",
+   "summary": "26 Oct 2026 au 31 Oct 2026 Fréjus Fête Halloween A l’origine, Halloween est une fête celtique d’origine irlandaise. En effet, ce sont les Irlandais qui ont apporté avec eux la tradition aux Etat-Unis ! Il s’agit donc, en réalité, du nouvel an celtique ! Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/frejus-fete-halloween/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-31",
+   "published": null,
+   "contact": {
+    "emails": [
+     "tourisme@frejus.fr"
+    ],
+    "phones": [
+     "04 94 51 83 83",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fête"
+   ],
+   "score": 75,
+   "found_at": "2026-10-05T05:31:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "7a9df4672862",
+   "title": "Festival Régional De Théâtre Amateur",
+   "summary": "04 Nov 2026 au 08 Nov 2026 Festival Régional De Théâtre Amateur Comme chaque année, cet évènement incontournable à Puget est organisé par la Compagnie Le QUIPROQUO du Foyer Culturel Laïque et la Ville de Puget sur Argens. Puget-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/festival-regional-de-theatre-amateur/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Puget-sur-Argens",
+   "dept": "83",
+   "lat": 43.47045,
+   "lon": 6.68553,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-04",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 45 61 63",
+     "04 94 19 61 35",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival"
+   ],
+   "score": 75,
+   "found_at": "2026-10-27T05:40:24+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "9b57dd3fdf9b",
+   "title": "FESTIVAL DU MAS D'HIVER",
+   "summary": "06 Nov 2026 au 28 Nov 2026 FESTIVAL DU MAS D'HIVER Recurring festival every year at the same time with different artists! Puget-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/festival-du-mas-dhiver/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Puget-sur-Argens",
+   "dept": "83",
+   "lat": 43.47045,
+   "lon": 6.68553,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-06",
+   "published": null,
+   "contact": {
+    "emails": [
+     "info@lemas-concert.com"
+    ],
+    "phones": [
+     "04 94 55 51 83",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival"
+   ],
+   "score": 75,
+   "found_at": "2026-10-11T05:27:20+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "ef3716ab9094",
+   "title": "Concert de l'Harmonie Aurélienne",
+   "summary": "08 Nov 2026 Concert de l'Harmonie Aurélienne Concert d'automne partagé avec l'Harmonie Indépendante des Arcs Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/concert-de-lharmonie-aurelienne-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-08",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "06 60 63 79 75",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "score": 75,
+   "found_at": "2026-10-11T05:27:20+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "860747038f7c",
+   "title": "« Shock »",
+   "summary": "10 Nov 2026 « Shock » Concert Pop Rock organisé par l'association Manège du service de pédopsychiatrie située à l'hôpital intercommunal de Fréjus Saint-Raphaël. Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/shock-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-10",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "07 62 47 32 46",
+     "06 69 71 09 22",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "score": 75,
+   "found_at": "2026-10-14T05:39:31+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "8df2559ba4a3",
+   "title": "Quinteto Libertad",
+   "summary": "20 Nov 2026 Quinteto Libertad La Casa Jazz propose un concert dans le respect des racines du « nuevo tango », entre sensualité, ferveur, mélodies sublimes et harmonies de Buenos Aires. Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/quinteto-libertad-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-20",
+   "published": null,
+   "contact": {
+    "emails": [
+     "billetterie@ville-saintraphael.fr"
+    ],
+    "phones": [
+     "04 98 11 89 00",
+     "07 85 60 51 27",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "score": 75,
+   "found_at": "2026-10-28T05:49:20+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "d2ac015afb81",
    "title": "📍 Roots & Spice Food Truck Quai de Toul an Héry, Plestin ...",
    "summary": "... Food Truck , à l'emporté ou sur place pour profitez de la superbe terrasse ... APPEL À CANDIDATURES – SAISON 2027 Les programmations 2027 sont ...",
@@ -1455,213 +1925,6 @@
    "keywords": [
     "brocante",
     "vide-greniers"
-   ],
-   "score": 75,
-   "found_at": "2026-10-28T05:49:20+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "5e169cfea05b",
-   "title": "Fréjus Fête Halloween",
-   "summary": "26 Oct 2026 au 31 Oct 2026 Fréjus Fête Halloween A l’origine, Halloween est une fête celtique d’origine irlandaise. En effet, ce sont les Irlandais qui ont apporté avec eux la tradition aux Etat-Unis ! Il s’agit donc, en réalité, du nouvel an celtique ! Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/frejus-fete-halloween/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-31",
-   "published": null,
-   "contact": {
-    "emails": [
-     "tourisme@frejus.fr"
-    ],
-    "phones": [
-     "04 94 51 83 83",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "fête"
-   ],
-   "score": 75,
-   "found_at": "2026-10-05T05:31:06+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "7a9df4672862",
-   "title": "Festival Régional De Théâtre Amateur",
-   "summary": "04 Nov 2026 au 08 Nov 2026 Festival Régional De Théâtre Amateur Comme chaque année, cet évènement incontournable à Puget est organisé par la Compagnie Le QUIPROQUO du Foyer Culturel Laïque et la Ville de Puget sur Argens. Puget-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/festival-regional-de-theatre-amateur/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Puget-sur-Argens",
-   "dept": "83",
-   "lat": 43.47045,
-   "lon": 6.68553,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-04",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 94 45 61 63",
-     "04 94 19 61 35",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "score": 75,
-   "found_at": "2026-10-27T05:40:24+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "9b57dd3fdf9b",
-   "title": "FESTIVAL DU MAS D'HIVER",
-   "summary": "06 Nov 2026 au 28 Nov 2026 FESTIVAL DU MAS D'HIVER Recurring festival every year at the same time with different artists! Puget-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/festival-du-mas-dhiver/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Puget-sur-Argens",
-   "dept": "83",
-   "lat": 43.47045,
-   "lon": 6.68553,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-06",
-   "published": null,
-   "contact": {
-    "emails": [
-     "info@lemas-concert.com"
-    ],
-    "phones": [
-     "04 94 55 51 83",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "score": 75,
-   "found_at": "2026-10-11T05:27:20+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "ef3716ab9094",
-   "title": "Concert de l'Harmonie Aurélienne",
-   "summary": "08 Nov 2026 Concert de l'Harmonie Aurélienne Concert d'automne partagé avec l'Harmonie Indépendante des Arcs Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/concert-de-lharmonie-aurelienne-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-08",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "06 60 63 79 75",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "score": 75,
-   "found_at": "2026-10-11T05:27:20+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "860747038f7c",
-   "title": "« Shock »",
-   "summary": "10 Nov 2026 « Shock » Concert Pop Rock organisé par l'association Manège du service de pédopsychiatrie située à l'hôpital intercommunal de Fréjus Saint-Raphaël. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/shock-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-10",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "07 62 47 32 46",
-     "06 69 71 09 22",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "score": 75,
-   "found_at": "2026-10-14T05:39:31+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "8df2559ba4a3",
-   "title": "Quinteto Libertad",
-   "summary": "20 Nov 2026 Quinteto Libertad La Casa Jazz propose un concert dans le respect des racines du « nuevo tango », entre sensualité, ferveur, mélodies sublimes et harmonies de Buenos Aires. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/quinteto-libertad-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-20",
-   "published": null,
-   "contact": {
-    "emails": [
-     "billetterie@ville-saintraphael.fr"
-    ],
-    "phones": [
-     "04 98 11 89 00",
-     "07 85 60 51 27",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
    ],
    "score": 75,
    "found_at": "2026-10-28T05:49:20+00:00",
@@ -3077,205 +3340,6 @@
    "contact_checked": true
   },
   {
-   "id": "c6856ea66357",
-   "title": "🥐🥫Semaine de l'emploi agroalimentaire en Provence ...",
-   "summary": "RECHERCHE FOOD TRUCK – SAISON 2026 Le Domaine de Valescure à Saint Raphaël est à la recherche d'un food truck pour la saison 2026, du 15 juin au 15 ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/FTravail.Marseille/posts/semaine-de-lemploi-agroalimentaire-en-provence-alpes-c%C3%B4te-dazur%EF%B8%8Frendez-vous-du-2/1796607355595043/",
-   "organizer": null,
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-10-26T05:42:56+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "fd5a4c7cf570",
-   "title": "Vl sur empnacement food truck. Quelqu'un connait? A ...",
-   "summary": "URGENT – Recherche Food Truck pour DEMAIN à Rigaud Bonjour ! Je suis à la recherche d'un food truck disponible DEMAIN à Rigaud, directement sur la ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/214199409694343/posts/1751367599310842/",
-   "organizer": null,
-   "city": "Rigaud",
-   "dept": "06",
-   "lat": 43.96748,
-   "lon": 6.98145,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-10-25T05:38:16+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "21b95a8a2084",
-   "title": "Mardi soir , ça va être Exceptionnel chez Nardouprod ...",
-   "summary": "Bonjour Je recherche un food truck pour le domaine des restanques du golfe de st tropez a grimaud dans le var le mardi soir. ... Recherche Food Truck Burgers ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/footballenprovinceduluxembourg/posts/28429898930043253/",
-   "organizer": null,
-   "city": "Grimaud",
-   "dept": "83",
-   "lat": 43.28228,
-   "lon": 6.54503,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-10-27T05:40:24+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "88d8375cd4d3",
-   "title": "Actualités De REDON Agglomération | Redon Agglomération",
-   "summary": "Appel à projet - Food Truck /// ARCHIVE /// REDON Agglomération souhaite l’installation d’un Food Truck à proximité de l’immeuble du 3 rue Charles Sillard, à Redon.",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.redon-agglomeration.bzh/actus",
-   "organizer": null,
-   "city": "Ensuès-la-Redonne",
-   "dept": "13",
-   "lat": 43.3554,
-   "lon": 5.2044,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [
-     "contact@redon-agglomeration.bzh"
-    ],
-    "phones": [
-     "02 99 70 34 34"
-    ],
-    "forms": [
-     "https://www.redon-agglomeration.bzh/collecte-amiante",
-     "https://www.redon-agglomeration.bzh/preinscriptions-conservatoire-2025-2026",
-     "https://www.redon-agglomeration.bzh/preinscriptions-conservatoire-2023-2024"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "food truck"
-   ],
-   "score": 70,
-   "found_at": "2026-10-06T05:28:06+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "781ea0fc8cce",
-   "title": "Nos marchés",
-   "summary": "de Marché provençal. Les festivités de Noël à Pierrefeu du Var. Dimanche 06 décembre 2026 - 10h00 - 19h00. Marché. Marché de Noël à Pierrefeu du Var.",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.mpmtourisme.com/nos-marches",
-   "organizer": null,
-   "city": "Pierrefeu-du-Var",
-   "dept": "83",
-   "lat": 43.24407,
-   "lon": 6.14436,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-06",
-   "published": null,
-   "contact": {
-    "emails": [
-     "bienvenue@mpmtourisme.com"
-    ],
-    "phones": [
-     "04 94 01 53 10",
-     "04 94 48 56 27",
-     "04 94 48 08 00"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festivités",
-    "marché de noël"
-   ],
-   "score": 70,
-   "found_at": "2026-10-28T05:49:20+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "9a4fe8f61e7b",
-   "title": "Marchés de Noël dans les Bouches-du-Rhône (13)",
-   "summary": "Marchés de Noël à venir dans les Bouches-du-Rhône ; Fontvieille · 43ème Foire aux Santons et 29ème Marché de Noël - Edition 2026. du 7 au 8 novembre 2026.",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://marchenoel.org/marches-de-noel/provence-alpes-cote-d-azur/bouches-du-rhone/",
-   "organizer": null,
-   "city": null,
-   "dept": "13",
-   "lat": 43.54,
-   "lon": 5.09,
-   "approx": true,
-   "deadline": null,
-   "event_date": "2026-11-08",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "foire",
-    "marché de noël"
-   ],
-   "score": 70,
-   "found_at": "2026-10-21T05:39:46+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "6e66b06d1f6d",
    "title": "Halloween à Saint-Raphaël",
    "summary": "20 Oct 2026 au 01 Nov 2026 Halloween à Saint-Raphaël La magie d’Halloween s’invite à Saint-Raphaël avec au programme : spectacles, ateliers, jeu de piste, contes effrayants et soirée déguisée ! Saint-Raphaël",
@@ -3614,6 +3678,205 @@
    ],
    "score": 70,
    "found_at": "2026-10-22T05:39:07+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "c6856ea66357",
+   "title": "🥐🥫Semaine de l'emploi agroalimentaire en Provence ...",
+   "summary": "RECHERCHE FOOD TRUCK – SAISON 2026 Le Domaine de Valescure à Saint Raphaël est à la recherche d'un food truck pour la saison 2026, du 15 juin au 15 ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/FTravail.Marseille/posts/semaine-de-lemploi-agroalimentaire-en-provence-alpes-c%C3%B4te-dazur%EF%B8%8Frendez-vous-du-2/1796607355595043/",
+   "organizer": null,
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-10-26T05:42:56+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "fd5a4c7cf570",
+   "title": "Vl sur empnacement food truck. Quelqu'un connait? A ...",
+   "summary": "URGENT – Recherche Food Truck pour DEMAIN à Rigaud Bonjour ! Je suis à la recherche d'un food truck disponible DEMAIN à Rigaud, directement sur la ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/214199409694343/posts/1751367599310842/",
+   "organizer": null,
+   "city": "Rigaud",
+   "dept": "06",
+   "lat": 43.96748,
+   "lon": 6.98145,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-10-25T05:38:16+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "21b95a8a2084",
+   "title": "Mardi soir , ça va être Exceptionnel chez Nardouprod ...",
+   "summary": "Bonjour Je recherche un food truck pour le domaine des restanques du golfe de st tropez a grimaud dans le var le mardi soir. ... Recherche Food Truck Burgers ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/footballenprovinceduluxembourg/posts/28429898930043253/",
+   "organizer": null,
+   "city": "Grimaud",
+   "dept": "83",
+   "lat": 43.28228,
+   "lon": 6.54503,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "score": 70,
+   "found_at": "2026-10-27T05:40:24+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "88d8375cd4d3",
+   "title": "Actualités De REDON Agglomération | Redon Agglomération",
+   "summary": "Appel à projet - Food Truck /// ARCHIVE /// REDON Agglomération souhaite l’installation d’un Food Truck à proximité de l’immeuble du 3 rue Charles Sillard, à Redon.",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.redon-agglomeration.bzh/actus",
+   "organizer": null,
+   "city": "Ensuès-la-Redonne",
+   "dept": "13",
+   "lat": 43.3554,
+   "lon": 5.2044,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [
+     "contact@redon-agglomeration.bzh"
+    ],
+    "phones": [
+     "02 99 70 34 34"
+    ],
+    "forms": [
+     "https://www.redon-agglomeration.bzh/collecte-amiante",
+     "https://www.redon-agglomeration.bzh/preinscriptions-conservatoire-2025-2026",
+     "https://www.redon-agglomeration.bzh/preinscriptions-conservatoire-2023-2024"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "food truck"
+   ],
+   "score": 70,
+   "found_at": "2026-10-06T05:28:06+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "781ea0fc8cce",
+   "title": "Nos marchés",
+   "summary": "de Marché provençal. Les festivités de Noël à Pierrefeu du Var. Dimanche 06 décembre 2026 - 10h00 - 19h00. Marché. Marché de Noël à Pierrefeu du Var.",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.mpmtourisme.com/nos-marches",
+   "organizer": null,
+   "city": "Pierrefeu-du-Var",
+   "dept": "83",
+   "lat": 43.24407,
+   "lon": 6.14436,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-06",
+   "published": null,
+   "contact": {
+    "emails": [
+     "bienvenue@mpmtourisme.com"
+    ],
+    "phones": [
+     "04 94 01 53 10",
+     "04 94 48 56 27",
+     "04 94 48 08 00"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festivités",
+    "marché de noël"
+   ],
+   "score": 70,
+   "found_at": "2026-10-28T05:49:20+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "9a4fe8f61e7b",
+   "title": "Marchés de Noël dans les Bouches-du-Rhône (13)",
+   "summary": "Marchés de Noël à venir dans les Bouches-du-Rhône ; Fontvieille · 43ème Foire aux Santons et 29ème Marché de Noël - Edition 2026. du 7 au 8 novembre 2026.",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://marchenoel.org/marches-de-noel/provence-alpes-cote-d-azur/bouches-du-rhone/",
+   "organizer": null,
+   "city": null,
+   "dept": "13",
+   "lat": 43.54,
+   "lon": 5.09,
+   "approx": true,
+   "deadline": null,
+   "event_date": "2026-11-08",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "foire",
+    "marché de noël"
+   ],
+   "score": 70,
+   "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true
   },
   {
