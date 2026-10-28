@@ -488,5 +488,10 @@ document.querySelectorAll(".stat").forEach((b) => b.addEventListener("click", ()
 $("#sheet").addEventListener("click", (e) => { if (e.target.id === "sheet") e.target.close(); });
 document.addEventListener("visibilitychange", () => { if (!document.hidden) load(); });
 
-if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
+if ("serviceWorker" in navigator) {
+  const hadSW = !!navigator.serviceWorker.controller;
+  navigator.serviceWorker.register("sw.js").then((r) => r.update()).catch(() => {});
+  // nouvelle version installée : on recharge une fois pour l'afficher tout de suite
+  navigator.serviceWorker.addEventListener("controllerchange", () => { if (hadSW && !window.__reloaded) { window.__reloaded = true; location.reload(); } });
+}
 load();

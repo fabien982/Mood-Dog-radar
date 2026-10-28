@@ -1,6 +1,6 @@
 /* Hors ligne : l'appli s'ouvre même sans réseau, avec la dernière liste connue. */
-const CACHE = "radar-v9";
-const SHELL = ["./", "index.html", "style.css", "app.js", "manifest.webmanifest", "icons/icon.svg", "icons/icon-192.png"];
+const CACHE = "radar-v10";
+const SHELL = ["./", "index.html", "style.css?v=10", "app.js?v=10", "manifest.webmanifest", "icons/icon.svg", "icons/icon-192.png"];
 
 self.addEventListener("install", (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL.map((u) => new Request(u, { cache: "reload" })))).then(() => self.skipWaiting()));
