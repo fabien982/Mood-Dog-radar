@@ -1,0 +1,3595 @@
+{
+ "updated": "2026-10-28T15:14:20+00:00",
+ "festivals": {
+  "draguignan-gaming-festival": {
+   "slug": "draguignan-gaming-festival",
+   "checked": null,
+   "appel": null,
+   "name": "Draguignan Gaming Festival",
+   "town": "Draguignan",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/draguignan-gaming-festival",
+   "date": "2026-10-31"
+  },
+  "paranormal-festival": {
+   "slug": "paranormal-festival",
+   "checked": null,
+   "appel": null,
+   "name": "Paranormal Festival",
+   "town": "Nice",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/paranormal-festival",
+   "date": "2026-10-31"
+  },
+  "festival-films-femmes-mediterranee": {
+   "slug": "festival-films-femmes-mediterranee",
+   "checked": null,
+   "appel": null,
+   "name": "Festival Films Femmes Méditerranée",
+   "town": "Marseille",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/festival-films-femmes-mediterranee",
+   "date": "2026-11-05"
+  },
+  "festival-rade-side": {
+   "slug": "festival-rade-side",
+   "checked": null,
+   "appel": null,
+   "name": "Festival Rade Side",
+   "town": "Toulon",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/festival-rade-side",
+   "date": "2026-11-05"
+  },
+  "herofestival-marseille": {
+   "slug": "herofestival-marseille",
+   "checked": null,
+   "appel": null,
+   "name": "HeroFestival Marseille",
+   "town": "Marseille",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/herofestival-marseille",
+   "date": "2026-11-07"
+  },
+  "festival-dabrivado-des-plages": {
+   "slug": "festival-dabrivado-des-plages",
+   "checked": null,
+   "appel": null,
+   "name": "Festival d'Abrivado des Plages",
+   "town": "Saintes-Maries-de-la-Mer",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/festival-dabrivado-des-plages",
+   "date": "2026-11-10"
+  },
+  "festival-enfantillages": {
+   "slug": "festival-enfantillages",
+   "checked": null,
+   "appel": null,
+   "name": "Festival Enfantillages",
+   "town": "Valbonne",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/festival-enfantillages",
+   "date": "2026-11-14"
+  },
+  "foire-aux-santons-de-marseille": {
+   "slug": "foire-aux-santons-de-marseille",
+   "checked": null,
+   "appel": null,
+   "name": "Foire aux Santons de Marseille",
+   "town": "Marseille",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/foire-aux-santons-de-marseille",
+   "date": "2026-11-14"
+  },
+  "marche-aux-santons-et-a-la-ceramique-daubagne": {
+   "slug": "marche-aux-santons-et-a-la-ceramique-daubagne",
+   "checked": null,
+   "appel": null,
+   "name": "Marché aux Santons et à la Céramique d'Aubagne",
+   "town": "Aubagne",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/marche-aux-santons-et-a-la-ceramique-daubagne",
+   "date": "2026-11-14"
+  },
+  "festival-de-la-montagne-de-saint-paul-de-vence": {
+   "slug": "festival-de-la-montagne-de-saint-paul-de-vence",
+   "checked": null,
+   "appel": null,
+   "name": "Festival de la Montagne de Saint-Paul-de-Vence",
+   "town": "Saint-Paul-de-Vence",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/festival-de-la-montagne-de-saint-paul-de-vence",
+   "date": "2026-11-20"
+  },
+  "fete-du-livre-du-var": {
+   "slug": "fete-du-livre-du-var",
+   "checked": null,
+   "appel": null,
+   "name": "Fête du Livre du Var",
+   "town": "Toulon",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/fete-du-livre-du-var",
+   "date": "2026-11-20"
+  },
+  "festival-de-danse-de-cannes": {
+   "slug": "festival-de-danse-de-cannes",
+   "checked": null,
+   "appel": null,
+   "name": "Festival de Danse de Cannes",
+   "town": "Cannes",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/festival-de-danse-de-cannes",
+   "date": "2026-11-21"
+  },
+  "marche-de-noel-de-marseille": {
+   "slug": "marche-de-noel-de-marseille",
+   "checked": null,
+   "appel": null,
+   "name": "Marché de Noël de Marseille",
+   "town": "Marseille",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/marche-de-noel-de-marseille",
+   "date": "2026-11-21"
+  },
+  "rencontres-de-la-cinematheque-de-montagne": {
+   "slug": "rencontres-de-la-cinematheque-de-montagne",
+   "checked": null,
+   "appel": null,
+   "name": "Rencontres de la Cinémathèque de Montagne",
+   "town": "Gap",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/rencontres-de-la-cinematheque-de-montagne",
+   "date": "2026-11-25"
+  },
+  "foire-de-la-saint-siffrein-de-carpentras": {
+   "slug": "foire-de-la-saint-siffrein-de-carpentras",
+   "checked": null,
+   "appel": null,
+   "name": "Foire de la Saint-Siffrein de Carpentras",
+   "town": "Carpentras",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/foire-de-la-saint-siffrein-de-carpentras",
+   "date": "2026-11-26"
+  },
+  "fete-des-vins-de-bandol": {
+   "slug": "fete-des-vins-de-bandol",
+   "checked": null,
+   "appel": null,
+   "name": "Fête des Vins de Bandol",
+   "town": "Bandol",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/fete-des-vins-de-bandol",
+   "date": "2026-12-05"
+  },
+  "marche-aux-vins-de-beaumes-de-venise-vacqueyras": {
+   "slug": "marche-aux-vins-de-beaumes-de-venise-vacqueyras",
+   "checked": null,
+   "appel": null,
+   "name": "Marché aux Vins de Beaumes-de-Venise - Vacqueyras",
+   "town": "Beaumes-de-Venise",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/marche-aux-vins-de-beaumes-de-venise-vacqueyras",
+   "date": "2026-12-05"
+  },
+  "pitchouns": {
+   "slug": "pitchouns",
+   "checked": null,
+   "appel": null,
+   "name": "Pitchouns",
+   "town": "Hyères",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/pitchouns",
+   "date": "2026-12-19"
+  },
+  "les-tripettes-de-barjols": {
+   "slug": "les-tripettes-de-barjols",
+   "checked": null,
+   "appel": null,
+   "name": "Les Tripettes de Barjols",
+   "town": "Barjols",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/les-tripettes-de-barjols",
+   "date": "2027-01-16"
+  },
+  "corso-fleuri-du-mimosa-de-bormes-les-mimosas": {
+   "slug": "corso-fleuri-du-mimosa-de-bormes-les-mimosas",
+   "checked": null,
+   "appel": null,
+   "name": "Corso Fleuri du Mimosa de Bormes-les-Mimosas",
+   "town": "Bormes-les-Mimosas",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/corso-fleuri-du-mimosa-de-bormes-les-mimosas",
+   "date": "2027-02-20"
+  },
+  "positiv-winter-aix-en-provence": {
+   "slug": "positiv-winter-aix-en-provence",
+   "checked": null,
+   "appel": null,
+   "name": "Positiv Winter Aix-en-Provence",
+   "town": "Aix-en-Provence",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/positiv-winter-aix-en-provence",
+   "date": "2027-03-05"
+  },
+  "corso-fleuri-du-lavandou": {
+   "slug": "corso-fleuri-du-lavandou",
+   "checked": null,
+   "appel": null,
+   "name": "Corso Fleuri du Lavandou",
+   "town": "Le Lavandou",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/corso-fleuri-du-lavandou",
+   "date": "2027-03-14"
+  },
+  "feria-de-paques-darles": {
+   "slug": "feria-de-paques-darles",
+   "checked": null,
+   "appel": null,
+   "name": "Feria de Paques d'Arles",
+   "town": "Arles",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/feria-de-paques-darles",
+   "date": "2027-03-26"
+  },
+  "outdoormix-winter-festival": {
+   "slug": "outdoormix-winter-festival",
+   "checked": null,
+   "appel": null,
+   "name": "Outdoormix Winter Festival",
+   "town": "La Salle-les-Alpes",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/outdoormix-winter-festival",
+   "date": "2027-04-02"
+  },
+  "festival-couleurs-urbaines": {
+   "slug": "festival-couleurs-urbaines",
+   "checked": null,
+   "appel": null,
+   "name": "Festival Couleurs Urbaines",
+   "town": "La Seyne-sur-Mer",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/festival-couleurs-urbaines",
+   "date": "2027-06-04"
+  },
+  "giraglia-rolex-cup": {
+   "slug": "giraglia-rolex-cup",
+   "checked": null,
+   "appel": null,
+   "name": "Giraglia Rolex Cup",
+   "town": "Saint-Tropez",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/giraglia-rolex-cup",
+   "date": "2027-06-11"
+  },
+  "terroirs-en-fete": {
+   "slug": "terroirs-en-fete",
+   "checked": null,
+   "appel": null,
+   "name": "Terroirs en Fête",
+   "town": "Châteauneuf-de-Gadagne",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/terroirs-en-fete",
+   "date": "2027-06-12"
+  },
+  "fete-de-la-musique-a-marseille": {
+   "slug": "fete-de-la-musique-a-marseille",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Marseille",
+   "town": "Marseille",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-marseille",
+   "date": "2027-06-21"
+  },
+  "fete-de-la-musique-a-martigues": {
+   "slug": "fete-de-la-musique-a-martigues",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Martigues",
+   "town": "Martigues",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-martigues",
+   "date": "2027-06-21"
+  },
+  "festival-music": {
+   "slug": "festival-music",
+   "checked": null,
+   "appel": null,
+   "name": "Festival MUSIC",
+   "town": "Antibes",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/festival-music",
+   "date": "2027-06-21"
+  },
+  "festival-de-danse-les-mouvements-t": {
+   "slug": "festival-de-danse-les-mouvements-t",
+   "checked": null,
+   "appel": null,
+   "name": "Festival de Danse Les Mouvements T",
+   "town": "Digne-les-Bains",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/festival-de-danse-les-mouvements-t",
+   "date": "2027-07-01"
+  },
+  "vaison-festival": {
+   "slug": "vaison-festival",
+   "checked": null,
+   "appel": null,
+   "name": "Vaison Festival",
+   "town": "Vaison-la-Romaine",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/vaison-festival",
+   "date": "2027-07-03"
+  },
+  "biennale-argilla": {
+   "slug": "biennale-argilla",
+   "checked": null,
+   "appel": null,
+   "name": "Biennale Argilla",
+   "town": "Aubagne",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/biennale-argilla",
+   "date": "2027-08-07"
+  },
+  "foire-internationale-de-marseille": {
+   "slug": "foire-internationale-de-marseille",
+   "checked": null,
+   "appel": null,
+   "name": "Foire Internationale de Marseille",
+   "town": "Marseille",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/foire-internationale-de-marseille",
+   "date": "2027-09-24"
+  },
+  "choralies-de-vaison-la-romaine": {
+   "slug": "choralies-de-vaison-la-romaine",
+   "checked": null,
+   "appel": null,
+   "name": "Choralies de Vaison-la-Romaine",
+   "town": "Vaison-la-Romaine",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/choralies-de-vaison-la-romaine",
+   "date": "2028-07-01"
+  },
+  "fete-de-la-musique-a-gardanne": {
+   "slug": "fete-de-la-musique-a-gardanne",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Gardanne",
+   "town": "Gardanne",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-gardanne",
+   "date": "2026-06-21"
+  },
+  "fete-de-la-musique-a-lisle-sur-la-sorgue": {
+   "slug": "fete-de-la-musique-a-lisle-sur-la-sorgue",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à L'Isle-sur-la-Sorgue",
+   "town": "L'Isle-sur-la-Sorgue",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-lisle-sur-la-sorgue",
+   "date": "2026-06-21"
+  },
+  "fete-de-la-musique-a-nice": {
+   "slug": "fete-de-la-musique-a-nice",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Nice",
+   "town": "Nice",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-nice",
+   "date": "2026-06-21"
+  },
+  "fete-de-la-musique-a-la-garde": {
+   "slug": "fete-de-la-musique-a-la-garde",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à La Garde",
+   "town": "La Garde",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-la-garde",
+   "date": "2026-06-21"
+  },
+  "fete-de-la-musique-a-toulon": {
+   "slug": "fete-de-la-musique-a-toulon",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Toulon",
+   "town": "Toulon",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-toulon",
+   "date": "2026-06-21"
+  },
+  "fete-de-la-musique-a-la-valette-du-var": {
+   "slug": "fete-de-la-musique-a-la-valette-du-var",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à La Valette-du-Var",
+   "town": "La Valette-du-Var",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-la-valette-du-var",
+   "date": "2026-06-21"
+  },
+  "festival-cigales-guidons-en-luberon": {
+   "slug": "festival-cigales-guidons-en-luberon",
+   "checked": null,
+   "appel": null,
+   "name": "Festival Cigales & Guidons en Luberon",
+   "town": "Oppède",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/festival-cigales-guidons-en-luberon",
+   "date": "2026-09-19"
+  },
+  "fete-de-la-musique-a-aix-en-provence": {
+   "slug": "fete-de-la-musique-a-aix-en-provence",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Aix-en-Provence",
+   "town": "Aix-en-Provence",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-aix-en-provence",
+   "date": "2026-06-21"
+  },
+  "festival-dart-sacre-dantibes": {
+   "slug": "festival-dart-sacre-dantibes",
+   "checked": null,
+   "appel": null,
+   "name": "Festival d'Art Sacré d'Antibes",
+   "town": "Antibes",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/festival-dart-sacre-dantibes",
+   "date": "2026-09-11"
+  },
+  "fete-de-la-musique-a-antibes": {
+   "slug": "fete-de-la-musique-a-antibes",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Antibes",
+   "town": "Antibes",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-antibes",
+   "date": "2026-06-21"
+  },
+  "fete-de-la-musique-aux-pennes-mirabeau": {
+   "slug": "fete-de-la-musique-aux-pennes-mirabeau",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique aux Pennes-Mirabeau",
+   "town": "Les Pennes-Mirabeau",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-aux-pennes-mirabeau",
+   "date": "2026-06-21"
+  },
+  "fete-de-la-musique-a-arles": {
+   "slug": "fete-de-la-musique-a-arles",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Arles",
+   "town": "Arles",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-arles",
+   "date": "2026-06-21"
+  },
+  "fete-de-la-musique-a-aubagne": {
+   "slug": "fete-de-la-musique-a-aubagne",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Aubagne",
+   "town": "Aubagne",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-aubagne",
+   "date": "2026-06-21"
+  },
+  "fete-de-la-musique-a-mandelieu-la-napoule": {
+   "slug": "fete-de-la-musique-a-mandelieu-la-napoule",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Mandelieu-la-Napoule",
+   "town": "Mandelieu-la-Napoule",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-mandelieu-la-napoule",
+   "date": "2026-06-21"
+  },
+  "fete-de-la-musique-a-marignane": {
+   "slug": "fete-de-la-musique-a-marignane",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Marignane",
+   "town": "Marignane",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-marignane",
+   "date": "2026-06-21"
+  },
+  "festival-international-cubano": {
+   "slug": "festival-international-cubano",
+   "checked": null,
+   "appel": null,
+   "name": "Festival International Cubano",
+   "town": "Orange",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/festival-international-cubano",
+   "date": "2026-10-23"
+  },
+  "fete-de-la-musique-a-miramas": {
+   "slug": "fete-de-la-musique-a-miramas",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Miramas",
+   "town": "Miramas",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-miramas",
+   "date": "2026-06-20"
+  },
+  "fete-de-la-musique-a-briancon": {
+   "slug": "fete-de-la-musique-a-briancon",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Briançon",
+   "town": "Briançon",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-briancon",
+   "date": "2026-06-21"
+  },
+  "fete-de-la-musique-a-cagnes-sur-mer": {
+   "slug": "fete-de-la-musique-a-cagnes-sur-mer",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Cagnes-sur-Mer",
+   "town": "Cagnes-sur-Mer",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-cagnes-sur-mer",
+   "date": "2026-06-21"
+  },
+  "fete-de-la-musique-a-cannes": {
+   "slug": "fete-de-la-musique-a-cannes",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Cannes",
+   "town": "Cannes",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-cannes",
+   "date": "2026-06-21"
+  },
+  "fete-de-la-musique-a-carpentras": {
+   "slug": "fete-de-la-musique-a-carpentras",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Carpentras",
+   "town": "Carpentras",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-carpentras",
+   "date": "2026-06-21"
+  },
+  "festival-international-de-la-route-royale-des-orgues": {
+   "slug": "festival-international-de-la-route-royale-des-orgues",
+   "checked": null,
+   "appel": null,
+   "name": "Festival international de la Route Royale des orgues",
+   "town": "Tende",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/festival-international-de-la-route-royale-des-orgues",
+   "date": "2026-09-19"
+  },
+  "fete-de-la-musique-a-cavaillon": {
+   "slug": "fete-de-la-musique-a-cavaillon",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Cavaillon",
+   "town": "Cavaillon",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-cavaillon",
+   "date": "2026-06-20"
+  },
+  "festival-international-de-lair": {
+   "slug": "festival-international-de-lair",
+   "checked": null,
+   "appel": null,
+   "name": "Festival International de l'Air",
+   "town": "Fréjus",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/festival-international-de-lair",
+   "date": "2026-09-18"
+  },
+  "festival-les-remparts-du-rire": {
+   "slug": "festival-les-remparts-du-rire",
+   "checked": null,
+   "appel": null,
+   "name": "Festival les Remp'Arts du Rire",
+   "town": "Saint-Paul-de-Vence",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/festival-les-remparts-du-rire",
+   "date": "2026-09-03"
+  },
+  "fete-de-la-musique-a-digne-les-bains": {
+   "slug": "fete-de-la-musique-a-digne-les-bains",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Digne-les-Bains",
+   "town": "Digne-les-Bains",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-digne-les-bains",
+   "date": "2026-06-21"
+  },
+  "fete-de-la-musique-a-draguignan": {
+   "slug": "fete-de-la-musique-a-draguignan",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Draguignan",
+   "town": "Draguignan",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-draguignan",
+   "date": "2026-06-21"
+  },
+  "fete-de-la-musique-a-saint-laurent-du-var": {
+   "slug": "fete-de-la-musique-a-saint-laurent-du-var",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Saint-Laurent-du-Var",
+   "town": "Saint-Laurent-du-Var",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-saint-laurent-du-var",
+   "date": "2026-06-21"
+  },
+  "fete-de-la-transhumance-saint-remy-de-provence": {
+   "slug": "fete-de-la-transhumance-saint-remy-de-provence",
+   "checked": null,
+   "appel": null,
+   "name": "Fete de la Transhumance Saint-Remy-de-Provence",
+   "town": null,
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-transhumance-saint-remy-de-provence",
+   "date": "2026-05-25"
+  },
+  "fete-de-la-musique-a-frejus": {
+   "slug": "fete-de-la-musique-a-frejus",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Fréjus",
+   "town": "Fréjus",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-frejus",
+   "date": "2026-06-21"
+  },
+  "fete-de-la-musique-a-saint-pierre": {
+   "slug": "fete-de-la-musique-a-saint-pierre",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Saint-Pierre",
+   "town": "Saint-Pierre",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-saint-pierre",
+   "date": "2026-06-21"
+  },
+  "fete-de-la-musique-a-saint-raphael": {
+   "slug": "fete-de-la-musique-a-saint-raphael",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Saint-Raphaël",
+   "town": "Saint-Raphaël",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-saint-raphael",
+   "date": "2026-06-21"
+  },
+  "fete-de-la-musique-a-gap": {
+   "slug": "fete-de-la-musique-a-gap",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Gap",
+   "town": "Gap",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-gap",
+   "date": "2026-06-21"
+  },
+  "fete-de-la-musique-a-grasse": {
+   "slug": "fete-de-la-musique-a-grasse",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Grasse",
+   "town": "Grasse",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-grasse",
+   "date": "2026-06-21"
+  },
+  "fete-de-la-musique-a-hyeres": {
+   "slug": "fete-de-la-musique-a-hyeres",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Hyères",
+   "town": "Hyères",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-hyeres",
+   "date": "2026-06-21"
+  },
+  "fete-de-la-musique-a-istres": {
+   "slug": "fete-de-la-musique-a-istres",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Istres",
+   "town": "Istres",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-istres",
+   "date": "2026-06-26"
+  },
+  "fete-de-la-musique-a-la-ciotat": {
+   "slug": "fete-de-la-musique-a-la-ciotat",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à La Ciotat",
+   "town": "La Ciotat",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-la-ciotat",
+   "date": "2026-06-21"
+  },
+  "fete-de-la-musique-a-la-seyne-sur-mer": {
+   "slug": "fete-de-la-musique-a-la-seyne-sur-mer",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à La Seyne-sur-Mer",
+   "town": "La Seyne-sur-Mer",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-la-seyne-sur-mer",
+   "date": "2026-06-21"
+  },
+  "fete-de-la-musique-au-cannet": {
+   "slug": "fete-de-la-musique-au-cannet",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique au Cannet",
+   "town": "Le Cannet",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-au-cannet",
+   "date": "2026-06-21"
+  },
+  "fete-de-la-musique-a-vallauris": {
+   "slug": "fete-de-la-musique-a-vallauris",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Vallauris",
+   "town": "Vallauris",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-vallauris",
+   "date": "2026-06-21"
+  },
+  "fete-de-la-musique-a-manosque": {
+   "slug": "fete-de-la-musique-a-manosque",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Manosque",
+   "town": "Manosque",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-manosque",
+   "date": "2026-06-21"
+  },
+  "grimaud-art-urbain": {
+   "slug": "grimaud-art-urbain",
+   "checked": null,
+   "appel": null,
+   "name": "Grimaud Art Urbain",
+   "town": "Grimaud",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/grimaud-art-urbain",
+   "date": "2026-05-18"
+  },
+  "fete-de-la-musique-a-menton": {
+   "slug": "fete-de-la-musique-a-menton",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Menton",
+   "town": "Menton",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-menton",
+   "date": "2026-06-21"
+  },
+  "fete-de-la-musique-a-vitrolles": {
+   "slug": "fete-de-la-musique-a-vitrolles",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Vitrolles",
+   "town": "Vitrolles",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-vitrolles",
+   "date": "2026-06-21"
+  },
+  "fasu-festival-des-arts-et-sports-urbains": {
+   "slug": "fasu-festival-des-arts-et-sports-urbains",
+   "checked": null,
+   "appel": null,
+   "name": "FASU (Festival des Arts et Sports Urbains)",
+   "town": "Gap",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/fasu-festival-des-arts-et-sports-urbains",
+   "date": "2026-07-11"
+  },
+  "fete-de-la-musique-a-orange": {
+   "slug": "fete-de-la-musique-a-orange",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Orange",
+   "town": "Orange",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-orange",
+   "date": "2026-06-20"
+  },
+  "le-choix-des-anges": {
+   "slug": "le-choix-des-anges",
+   "checked": null,
+   "appel": null,
+   "name": "Le choix des Anges",
+   "town": "Entraigues-sur-la-Sorgue",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/le-choix-des-anges",
+   "date": "2026-09-26"
+  },
+  "summer-tourre-party": {
+   "slug": "summer-tourre-party",
+   "checked": null,
+   "appel": null,
+   "name": "Summer Tourre Party",
+   "town": null,
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/summer-tourre-party",
+   "date": "2026-07-14"
+  },
+  "festival-au-top": {
+   "slug": "festival-au-top",
+   "checked": null,
+   "appel": null,
+   "name": "Festival au TOP",
+   "town": "Digne-les-Bains",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/festival-au-top",
+   "date": "2026-08-28"
+  },
+  "fete-de-la-musique-a-salon-de-provence": {
+   "slug": "fete-de-la-musique-a-salon-de-provence",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Salon-de-Provence",
+   "town": "Salon-de-Provence",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-salon-de-provence",
+   "date": "2026-06-21"
+  },
+  "raggamuffin-festival": {
+   "slug": "raggamuffin-festival",
+   "checked": null,
+   "appel": null,
+   "name": "Raggamuffin Festival",
+   "town": "Nice",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/raggamuffin-festival",
+   "date": "2026-08-04"
+  },
+  "les-orees-sonores": {
+   "slug": "les-orees-sonores",
+   "checked": null,
+   "appel": null,
+   "name": "Les Orées Sonores",
+   "town": "Oraison",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/les-orees-sonores",
+   "date": "2026-09-19"
+  },
+  "fete-de-la-musique-a-six-fours-les-plages": {
+   "slug": "fete-de-la-musique-a-six-fours-les-plages",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Six-Fours-les-Plages",
+   "town": "Six-Fours-les-Plages",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-six-fours-les-plages",
+   "date": "2026-06-21"
+  },
+  "festival-r-esonance-avignon": {
+   "slug": "festival-r-esonance-avignon",
+   "checked": null,
+   "appel": null,
+   "name": "Festival R Esonance Avignon",
+   "town": null,
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/festival-r-esonance-avignon",
+   "date": "2026-09-17"
+  },
+  "fete-de-la-musique-a-allauch": {
+   "slug": "fete-de-la-musique-a-allauch",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique à Allauch",
+   "town": "Allauch",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-a-allauch",
+   "date": "2026-06-21"
+  },
+  "altitude-jazz-festival": {
+   "slug": "altitude-jazz-festival",
+   "checked": null,
+   "appel": null,
+   "name": "Altitude Jazz Festival",
+   "town": "Briançon",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/altitude-jazz-festival",
+   "date": "2026-01-15"
+  },
+  "arts-et-festins-du-monde": {
+   "slug": "arts-et-festins-du-monde",
+   "checked": null,
+   "appel": null,
+   "name": "Arts et Festins du Monde",
+   "town": "Gardanne",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/arts-et-festins-du-monde",
+   "date": "2026-06-26"
+  },
+  "arty-colors-festival": {
+   "slug": "arty-colors-festival",
+   "checked": null,
+   "appel": null,
+   "name": "Arty Colors Festival",
+   "town": "Briançon",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/arty-colors-festival",
+   "date": "2026-08-05"
+  },
+  "babel-music-xp": {
+   "slug": "babel-music-xp",
+   "checked": null,
+   "appel": null,
+   "name": "Babel Music XP",
+   "town": "Marseille",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/babel-music-xp",
+   "date": "2026-03-19"
+  },
+  "ban-des-vendanges-de-chateauneuf-du-pape": {
+   "slug": "ban-des-vendanges-de-chateauneuf-du-pape",
+   "checked": null,
+   "appel": null,
+   "name": "Ban des Vendanges de Châteauneuf-du-Pape",
+   "town": "Châteauneuf-du-Pape",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/ban-des-vendanges-de-chateauneuf-du-pape",
+   "date": "2026-09-04"
+  },
+  "bandol-circus": {
+   "slug": "bandol-circus",
+   "checked": null,
+   "appel": null,
+   "name": "Bandol Circus",
+   "town": "Bandol",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/bandol-circus",
+   "date": "2026-10-22"
+  },
+  "biennale-de-musique-classique-de-barcelonnette": {
+   "slug": "biennale-de-musique-classique-de-barcelonnette",
+   "checked": null,
+   "appel": null,
+   "name": "Biennale de Musique Classique de Barcelonnette",
+   "town": "Barcelonnette",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/biennale-de-musique-classique-de-barcelonnette",
+   "date": "2025-08-13"
+  },
+  "big-reggae-festival": {
+   "slug": "big-reggae-festival",
+   "checked": null,
+   "appel": null,
+   "name": "Big Reggae Festival",
+   "town": "Antibes",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/big-reggae-festival",
+   "date": "2026-07-01"
+  },
+  "biot-et-les-templiers": {
+   "slug": "biot-et-les-templiers",
+   "checked": null,
+   "appel": null,
+   "name": "Biot et les Templiers",
+   "town": "Biot",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/biot-et-les-templiers",
+   "date": "2026-04-10"
+  },
+  "botiful-festival": {
+   "slug": "botiful-festival",
+   "checked": null,
+   "appel": null,
+   "name": "BO'tiful Festival",
+   "town": "Bollène",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/botiful-festival",
+   "date": "2026-08-06"
+  },
+  "bodega-du-muscat-de-beaumes-de-venise": {
+   "slug": "bodega-du-muscat-de-beaumes-de-venise",
+   "checked": null,
+   "appel": null,
+   "name": "Bodéga du Muscat de Beaumes-de-Venise",
+   "town": "Beaumes-de-Venise",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/bodega-du-muscat-de-beaumes-de-venise",
+   "date": "2026-08-08"
+  },
+  "bravade-de-frejus": {
+   "slug": "bravade-de-frejus",
+   "checked": null,
+   "appel": null,
+   "name": "Bravade de Fréjus",
+   "town": "Fréjus",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/bravade-de-frejus",
+   "date": "2026-04-24"
+  },
+  "bravade-de-saint-tropez": {
+   "slug": "bravade-de-saint-tropez",
+   "checked": null,
+   "appel": null,
+   "name": "Bravade de Saint-Tropez",
+   "town": "Saint-Tropez",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/bravade-de-saint-tropez",
+   "date": "2026-05-16"
+  },
+  "briancon-sous-les-etoiles": {
+   "slug": "briancon-sous-les-etoiles",
+   "checked": null,
+   "appel": null,
+   "name": "Briançon sous les Étoiles",
+   "town": "Briançon",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/briancon-sous-les-etoiles",
+   "date": "2026-07-23"
+  },
+  "burning-mane-en-provence": {
+   "slug": "burning-mane-en-provence",
+   "checked": null,
+   "appel": null,
+   "name": "Burning Mane en Provence",
+   "town": "Mane",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/burning-mane-en-provence",
+   "date": "2025-06-21"
+  },
+  "carnaval-de-marseille": {
+   "slug": "carnaval-de-marseille",
+   "checked": null,
+   "appel": null,
+   "name": "Carnaval de Marseille",
+   "town": "Marseille",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/carnaval-de-marseille",
+   "date": "2026-04-25"
+  },
+  "carnaval-de-nice": {
+   "slug": "carnaval-de-nice",
+   "checked": null,
+   "appel": null,
+   "name": "Carnaval de Nice",
+   "town": "Nice",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/carnaval-de-nice",
+   "date": "2026-02-11"
+  },
+  "cassis-fete-son-vin": {
+   "slug": "cassis-fete-son-vin",
+   "checked": null,
+   "appel": null,
+   "name": "Cassis Fête son Vin",
+   "town": "Cassis",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/cassis-fete-son-vin",
+   "date": "2026-05-16"
+  },
+  "charlie-jazz-festival": {
+   "slug": "charlie-jazz-festival",
+   "checked": null,
+   "appel": null,
+   "name": "Charlie Jazz Festival",
+   "town": "Vitrolles",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/charlie-jazz-festival",
+   "date": "2026-07-02"
+  },
+  "chateau-arnoux-fait-son-cirque": {
+   "slug": "chateau-arnoux-fait-son-cirque",
+   "checked": null,
+   "appel": null,
+   "name": "Château-Arnoux fait son Cirque",
+   "town": "Château-Arnoux-Saint-Auban",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/chateau-arnoux-fait-son-cirque",
+   "date": "2026-07-01"
+  },
+  "chateauvallon-liberte-festival-dete": {
+   "slug": "chateauvallon-liberte-festival-dete",
+   "checked": null,
+   "appel": null,
+   "name": "Chateauvallon Liberte Festival Dete",
+   "town": null,
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/chateauvallon-liberte-festival-dete",
+   "date": "2026-06-26"
+  },
+  "choregies-dorange": {
+   "slug": "choregies-dorange",
+   "checked": null,
+   "appel": null,
+   "name": "Chorégies d'Orange",
+   "town": "Orange",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/choregies-dorange",
+   "date": "2026-05-30"
+  },
+  "chute-de-rock-festival-rock-de-saint-jurs": {
+   "slug": "chute-de-rock-festival-rock-de-saint-jurs",
+   "checked": "2026-10-28",
+   "appel": null,
+   "name": "Chute De Rock Festival Rock De Saint Jurs",
+   "town": null,
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/chute-de-rock-festival-rock-de-saint-jurs",
+   "date": "2011-07-01"
+  },
+  "cooksound-festival": {
+   "slug": "cooksound-festival",
+   "checked": "2026-10-28",
+   "appel": null,
+   "name": "Cooksound Festival",
+   "town": "Forcalquier",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/cooksound-festival",
+   "date": "2024-07-18"
+  },
+  "corso-de-la-lavande-de-valreas": {
+   "slug": "corso-de-la-lavande-de-valreas",
+   "checked": null,
+   "appel": null,
+   "name": "Corso de la Lavande de Valréas",
+   "town": "Valréas",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/corso-de-la-lavande-de-valreas",
+   "date": "2026-07-31"
+  },
+  "cotignac-village-du-rock": {
+   "slug": "cotignac-village-du-rock",
+   "checked": null,
+   "appel": null,
+   "name": "Cotignac Village du Rock",
+   "town": "Cotignac",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/cotignac-village-du-rock",
+   "date": "2026-08-01"
+  },
+  "crossover-festival": {
+   "slug": "crossover-festival",
+   "checked": null,
+   "appel": null,
+   "name": "Crossover Festival",
+   "town": "Nice",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/crossover-festival",
+   "date": "2026-05-29"
+  },
+  "delta-festival": {
+   "slug": "delta-festival",
+   "checked": null,
+   "appel": null,
+   "name": "Delta Festival",
+   "town": "Marseille",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/delta-festival",
+   "date": "2026-07-23"
+  },
+  "design-parade-hyeres": {
+   "slug": "design-parade-hyeres",
+   "checked": null,
+   "appel": null,
+   "name": "Design Parade Hyères",
+   "town": "Hyères",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/design-parade-hyeres",
+   "date": "2026-06-25"
+  },
+  "different-toi-meme": {
+   "slug": "different-toi-meme",
+   "checked": "2026-10-28",
+   "appel": null,
+   "name": "Différent Toi-Même",
+   "town": "Forcalquier",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/different-toi-meme",
+   "date": "2018-02-03"
+  },
+  "durance-festival": {
+   "slug": "durance-festival",
+   "checked": null,
+   "appel": null,
+   "name": "Durance Festival",
+   "town": "Châteauroux-les-Alpes",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/durance-festival",
+   "date": "2026-07-11"
+  },
+  "eclats-dete": {
+   "slug": "eclats-dete",
+   "checked": null,
+   "appel": null,
+   "name": "Eclats Dete",
+   "town": null,
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/eclats-dete",
+   "date": "2026-07-04"
+  },
+  "ej-at-mslive": {
+   "slug": "ej-at-mslive",
+   "checked": "2026-10-28",
+   "appel": null,
+   "name": "Ej At Mslive",
+   "town": null,
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/ej-at-mslive",
+   "date": "2024-05-23"
+  },
+  "electro-live-barcelonnette": {
+   "slug": "electro-live-barcelonnette",
+   "checked": null,
+   "appel": null,
+   "name": "Électro Live Barcelonnette",
+   "town": "Barcelonnette",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/electro-live-barcelonnette",
+   "date": "2025-07-12"
+  },
+  "exporose": {
+   "slug": "exporose",
+   "checked": null,
+   "appel": null,
+   "name": "ExpoRose",
+   "town": "Grasse",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/exporose",
+   "date": "2026-05-08"
+  },
+  "feria-du-cheval": {
+   "slug": "feria-du-cheval",
+   "checked": null,
+   "appel": null,
+   "name": "Feria du Cheval",
+   "town": "Saintes-Maries-de-la-Mer",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/feria-du-cheval",
+   "date": "2026-07-11"
+  },
+  "feria-du-riz-darles": {
+   "slug": "feria-du-riz-darles",
+   "checked": null,
+   "appel": null,
+   "name": "Feria du Riz d'Arles",
+   "town": "Arles",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/feria-du-riz-darles",
+   "date": "2026-09-11"
+  },
+  "festhiver-divers": {
+   "slug": "festhiver-divers",
+   "checked": null,
+   "appel": null,
+   "name": "Fest'Hiver Divers",
+   "town": "La Tour-sur-Tinée",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/festhiver-divers",
+   "date": "2026-02-06"
+  },
+  "festimome": {
+   "slug": "festimome",
+   "checked": null,
+   "appel": null,
+   "name": "Festimôme",
+   "town": "Aubagne",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/festimome",
+   "date": "2026-07-23"
+  },
+  "festin-de-la-saint-pierre": {
+   "slug": "festin-de-la-saint-pierre",
+   "checked": null,
+   "appel": null,
+   "name": "Festin de la Saint-Pierre",
+   "town": "Villefranche-sur-Mer",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/festin-de-la-saint-pierre",
+   "date": "2026-06-27"
+  },
+  "festival-accordanses": {
+   "slug": "festival-accordanses",
+   "checked": null,
+   "appel": null,
+   "name": "Festival Accordanses",
+   "town": "Saintes-Maries-de-la-Mer",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/festival-accordanses",
+   "date": "2026-04-30"
+  },
+  "festival-actoral": {
+   "slug": "festival-actoral",
+   "checked": null,
+   "appel": null,
+   "name": "Festival actoral",
+   "town": "Marseille",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/festival-actoral",
+   "date": "2026-09-23"
+  },
+  "festival-arelate-journees-romaines": {
+   "slug": "festival-arelate-journees-romaines",
+   "checked": null,
+   "appel": null,
+   "name": "Festival Arelate - Journees Romaines",
+   "town": "Arles",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/festival-arelate-journees-romaines",
+   "date": "2026-08-17"
+  },
+  "festival-autour-de-brassens": {
+   "slug": "festival-autour-de-brassens",
+   "checked": null,
+   "appel": null,
+   "name": "Festival Autour de Brassens",
+   "town": "L'Argentière-la-Bessée",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/festival-autour-de-brassens",
+   "date": "2026-07-24"
+  },
+  "festival-avec-le-temps": {
+   "slug": "festival-avec-le-temps",
+   "checked": null,
+   "appel": null,
+   "name": "Festival Avec le Temps",
+   "town": "Marseille",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/festival-avec-le-temps",
+   "date": "2026-03-05"
+  },
+  "festival-beleza": {
+   "slug": "festival-beleza",
+   "checked": null,
+   "appel": null,
+   "name": "Festival Beleza",
+   "town": "! Digne-les-Bains",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/festival-beleza",
+   "date": "2026-06-26"
+  },
+  "festival-boucan": {
+   "slug": "festival-boucan",
+   "checked": null,
+   "appel": null,
+   "name": "Festival Boucan",
+   "town": "! Digne-les-Bains",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/festival-boucan",
+   "date": "2026-06-06"
+  },
+  "festival-brin-de-culture": {
+   "slug": "festival-brin-de-culture",
+   "checked": null,
+   "appel": null,
+   "name": "Festival Brin de Culture",
+   "town": "Manosque",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/festival-brin-de-culture",
+   "date": "2025-10-01"
+  },
+  "festival-cote-cour": {
+   "slug": "festival-cote-cour",
+   "checked": null,
+   "appel": null,
+   "name": "Festival Côté Cour",
+   "town": "Aix-en-Provence",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/festival-cote-cour",
+   "date": "2026-07-15"
+  },
+  "festival-dart-lyrique-de-salon-de-provence": {
+   "slug": "festival-dart-lyrique-de-salon-de-provence",
+   "checked": null,
+   "appel": null,
+   "name": "Festival d'Art Lyrique de Salon-de-Provence",
+   "town": "Salon-de-Provence",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/festival-dart-lyrique-de-salon-de-provence",
+   "date": "2026-07-20"
+  },
+  "festival-davignon": {
+   "slug": "festival-davignon",
+   "checked": null,
+   "appel": null,
+   "name": "Festival d'Avignon",
+   "town": "Avignon",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/festival-davignon",
+   "date": "2026-07-04"
+  },
+  "festival-de-big-bands-de-pertuis": {
+   "slug": "festival-de-big-bands-de-pertuis",
+   "checked": null,
+   "appel": null,
+   "name": "Festival de Big Bands de Pertuis",
+   "town": "Pertuis",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/festival-de-big-bands-de-pertuis",
+   "date": "2026-08-04"
+  },
+  "festival-de-chaillol": {
+   "slug": "festival-de-chaillol",
+   "checked": null,
+   "appel": null,
+   "name": "Festival de Chaillol",
+   "town": "Saint-Michel-de-Chaillol",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/festival-de-chaillol",
+   "date": "2026-07-17"
+  },
+  "festival-de-glanum": {
+   "slug": "festival-de-glanum",
+   "checked": null,
+   "appel": null,
+   "name": "Festival de Glanum",
+   "town": "Saint-Remy-de-Provence",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/festival-de-glanum",
+   "date": "2026-07-16"
+  },
+  "festival-de-lalpage": {
+   "slug": "festival-de-lalpage",
+   "checked": null,
+   "appel": null,
+   "name": "Festival de l'Alpage",
+   "town": "Champoléon",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/festival-de-lalpage",
+   "date": "2026-07-20"
+  },
+  "festival-de-la-blanche-et-du-bes": {
+   "slug": "festival-de-la-blanche-et-du-bes",
+   "checked": "2026-10-28",
+   "appel": null,
+   "name": "Festival de la Blanche et du Bès",
+   "town": "Seyne-les-Alpes",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/festival-de-la-blanche-et-du-bes",
+   "date": "2007-09-07"
+  },
+  "festival-de-la-camargue-et-du-delta-du-rhone": {
+   "slug": "festival-de-la-camargue-et-du-delta-du-rhone",
+   "checked": null,
+   "appel": null,
+   "name": "Festival de la Camargue et du Delta du Rhône",
+   "town": "Saintes-Maries-de-la-Mer",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/festival-de-la-camargue-et-du-delta-du-rhone",
+   "date": "2026-05-13"
+  },
+  "festival-de-la-cerise-et-du-terroir-de-venasque": {
+   "slug": "festival-de-la-cerise-et-du-terroir-de-venasque",
+   "checked": null,
+   "appel": null,
+   "name": "Festival de la Cerise et du Terroir de Venasque",
+   "town": "Venasque",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/festival-de-la-cerise-et-du-terroir-de-venasque",
+   "date": "2026-06-07"
+  },
+  "festival-de-la-chanson-francaise-et-francophone-de-sorgues": {
+   "slug": "festival-de-la-chanson-francaise-et-francophone-de-sorgues",
+   "checked": null,
+   "appel": null,
+   "name": "Festival de la Chanson Française et Francophone de Sorgues",
+   "town": "Sorgues",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/festival-de-la-chanson-francaise-et-francophone-de-sorgues",
+   "date": "2026-04-06"
+  },
+  "festival-de-la-montagne-dorcieres": {
+   "slug": "festival-de-la-montagne-dorcieres",
+   "checked": null,
+   "appel": null,
+   "name": "Festival de la Montagne d'Orcières",
+   "town": "Orcières",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/festival-de-la-montagne-dorcieres",
+   "date": "2026-08-14"
+  },
+  "festival-de-lacoste": {
+   "slug": "festival-de-lacoste",
+   "checked": null,
+   "appel": null,
+   "name": "Festival de Lacoste",
+   "town": "Lacoste",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/festival-de-lacoste",
+   "date": "2026-07-13"
+  },
+  "festival-de-marseille": {
+   "slug": "festival-de-marseille",
+   "checked": null,
+   "appel": null,
+   "name": "Festival de Marseille",
+   "town": "Marseille",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/festival-de-marseille",
+   "date": "2026-06-14"
+  },
+  "festival-de-montfort": {
+   "slug": "festival-de-montfort",
+   "checked": "2026-10-28",
+   "appel": null,
+   "name": "Festival de Montfort",
+   "town": "Montfort",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/festival-de-montfort",
+   "date": "2016-08-04"
+  },
+  "festival-de-musique-ancienne-de-callas": {
+   "slug": "festival-de-musique-ancienne-de-callas",
+   "checked": null,
+   "appel": null,
+   "name": "Festival de Musique Ancienne de Callas",
+   "town": "Callas",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/festival-de-musique-ancienne-de-callas",
+   "date": "2026-07-04"
+  },
+  "festival-de-musique-de-chambre-dentrecasteaux": {
+   "slug": "festival-de-musique-de-chambre-dentrecasteaux",
+   "checked": null,
+   "appel": null,
+   "name": "Festival de Musique de Chambre d'Entrecasteaux",
+   "town": "Entrecasteaux",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/festival-de-musique-de-chambre-dentrecasteaux",
+   "date": "2026-08-17"
+  },
+  "festival-de-musique-de-lourmarin": {
+   "slug": "festival-de-musique-de-lourmarin",
+   "checked": null,
+   "appel": null,
+   "name": "Festival de Musique de Lourmarin",
+   "town": "Lourmarin",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/festival-de-musique-de-lourmarin",
+   "date": "2026-07-11"
+  },
+  "festival-de-musique-de-menton": {
+   "slug": "festival-de-musique-de-menton",
+   "checked": null,
+   "appel": null,
+   "name": "Festival de Musique de Menton",
+   "town": "Menton",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/festival-de-musique-de-menton",
+   "date": "2026-07-25"
+  },
+  "festival-de-musique-de-toulon-et-sa-region": {
+   "slug": "festival-de-musique-de-toulon-et-sa-region",
+   "checked": null,
+   "appel": null,
+   "name": "Festival de Musique de Toulon et sa Région",
+   "town": "Toulon",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/festival-de-musique-de-toulon-et-sa-region",
+   "date": "2026-03-01"
+  },
+  "festival-de-ramatuelle": {
+   "slug": "festival-de-ramatuelle",
+   "checked": null,
+   "appel": null,
+   "name": "Festival de Ramatuelle",
+   "town": "Ramatuelle",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/festival-de-ramatuelle",
+   "date": "2026-07-29"
+  },
+  "festival-des-collines": {
+   "slug": "festival-des-collines",
+   "checked": null,
+   "appel": null,
+   "name": "Festival des Collines",
+   "town": "Manosque",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/festival-des-collines",
+   "date": "2026-06-27"
+  },
+  "festival-des-contes-et-legendes": {
+   "slug": "festival-des-contes-et-legendes",
+   "checked": null,
+   "appel": null,
+   "name": "Festival des Contes et Légendes",
+   "town": "Villeneuve-Loubet",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/festival-des-contes-et-legendes",
+   "date": "2026-07-09"
+  },
+  "festival-des-lavoirs": {
+   "slug": "festival-des-lavoirs",
+   "checked": null,
+   "appel": null,
+   "name": "Festival des Lavoirs",
+   "town": "Sainte-Tulle",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/festival-des-lavoirs",
+   "date": "2026-07-01"
+  },
+  "festival-du-chateau-de-sollies-pont": {
+   "slug": "festival-du-chateau-de-sollies-pont",
+   "checked": null,
+   "appel": null,
+   "name": "Festival du Château de Solliès-Pont",
+   "town": "Solliès-Pont",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/festival-du-chateau-de-sollies-pont",
+   "date": "2026-07-15"
+  },
+  "festival-du-cinema-asiatique": {
+   "slug": "festival-du-cinema-asiatique",
+   "checked": null,
+   "appel": null,
+   "name": "Festival du Cinéma Asiatique",
+   "town": "Draguignan",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/festival-du-cinema-asiatique",
+   "date": "2026-03-12"
+  },
+  "festival-du-court-metrage-de-frejus": {
+   "slug": "festival-du-court-metrage-de-frejus",
+   "checked": null,
+   "appel": null,
+   "name": "Festival du Court-Métrage de Fréjus",
+   "town": "Fréjus",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/festival-du-court-metrage-de-frejus",
+   "date": "2026-02-21"
+  },
+  "festival-du-film-peplum": {
+   "slug": "festival-du-film-peplum",
+   "checked": null,
+   "appel": null,
+   "name": "Festival du Film Peplum",
+   "town": "Arles",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/festival-du-film-peplum",
+   "date": "2026-08-17"
+  },
+  "festival-du-film-scientifique-du-silex-aux-etoiles": {
+   "slug": "festival-du-film-scientifique-du-silex-aux-etoiles",
+   "checked": null,
+   "appel": null,
+   "name": "Festival du film scientifique « Du Silex aux Étoiles",
+   "town": "» Digne-les-Bains",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/festival-du-film-scientifique-du-silex-aux-etoiles",
+   "date": "2026-06-06"
+  },
+  "festival-du-livre-de-mouans-sartoux": {
+   "slug": "festival-du-livre-de-mouans-sartoux",
+   "checked": null,
+   "appel": null,
+   "name": "Festival du Livre de Mouans-Sartoux",
+   "town": "Mouans-Sartoux",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/festival-du-livre-de-mouans-sartoux",
+   "date": "2026-10-02"
+  },
+  "festival-du-peu": {
+   "slug": "festival-du-peu",
+   "checked": null,
+   "appel": null,
+   "name": "Festival du Peu",
+   "town": "Le Broc",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/festival-du-peu",
+   "date": "2026-05-29"
+  },
+  "festival-du-premier-film-de-la-ciotat": {
+   "slug": "festival-du-premier-film-de-la-ciotat",
+   "checked": null,
+   "appel": null,
+   "name": "Festival du Premier Film de La Ciotat",
+   "town": "La Ciotat",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/festival-du-premier-film-de-la-ciotat",
+   "date": "2026-06-10"
+  },
+  "festival-durance-luberon": {
+   "slug": "festival-durance-luberon",
+   "checked": null,
+   "appel": null,
+   "name": "Festival Durance Luberon",
+   "town": "La Tour d'Aigues",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/festival-durance-luberon",
+   "date": "2026-08-07"
+  },
+  "festival-en-sausses-les-arts-perches": {
+   "slug": "festival-en-sausses-les-arts-perches",
+   "checked": null,
+   "appel": null,
+   "name": "Festival en Sausses, les Arts Perchés",
+   "town": "Sausses",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/festival-en-sausses-les-arts-perches",
+   "date": "2026-07-24"
+  },
+  "festival-endurance": {
+   "slug": "festival-endurance",
+   "checked": "2026-10-28",
+   "appel": null,
+   "name": "Festival Endurance",
+   "town": "Manosque",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/festival-endurance",
+   "date": "2024-06-25"
+  },
+  "festival-face-a-la-mer": {
+   "slug": "festival-face-a-la-mer",
+   "checked": null,
+   "appel": null,
+   "name": "Festival Face à la Mer",
+   "town": "Cavalaire-sur-Mer",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/festival-face-a-la-mer",
+   "date": "2026-09-03"
+  },
+  "festival-flamenco-de-nice": {
+   "slug": "festival-flamenco-de-nice",
+   "checked": null,
+   "appel": null,
+   "name": "Festival Flamenco de Nice",
+   "town": "Nice",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/festival-flamenco-de-nice",
+   "date": "2026-07-01"
+  },
+  "festival-international-dart-lyrique-daix-en-provence": {
+   "slug": "festival-international-dart-lyrique-daix-en-provence",
+   "checked": null,
+   "appel": null,
+   "name": "Festival International d'Art Lyrique d'Aix-en-Provence",
+   "town": "Aix-en-Provence",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/festival-international-dart-lyrique-daix-en-provence",
+   "date": "2026-07-02"
+  },
+  "festival-international-de-mode-de-photographie-et-daccessoires-de-hyeres": {
+   "slug": "festival-international-de-mode-de-photographie-et-daccessoires-de-hyeres",
+   "checked": null,
+   "appel": null,
+   "name": "Festival International de Mode, de Photographie et d'Accessoires de Hyères",
+   "town": "Hyères",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/festival-international-de-mode-de-photographie-et-daccessoires-de-hyeres",
+   "date": "2026-10-15"
+  },
+  "festival-international-de-musique-de-chambre-de-provence": {
+   "slug": "festival-international-de-musique-de-chambre-de-provence",
+   "checked": null,
+   "appel": null,
+   "name": "Festival International de Musique de Chambre de Provence",
+   "town": "Salon-de-Provence",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/festival-international-de-musique-de-chambre-de-provence",
+   "date": "2026-08-01"
+  },
+  "festival-international-de-piano-de-la-roque-dantheron": {
+   "slug": "festival-international-de-piano-de-la-roque-dantheron",
+   "checked": null,
+   "appel": null,
+   "name": "Festival International de Piano de La Roque-d'Anthéron",
+   "town": "La Roque-d'Anthéron",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/festival-international-de-piano-de-la-roque-dantheron",
+   "date": "2026-07-16"
+  },
+  "festival-international-de-quatuors-a-cordes-du-luberon": {
+   "slug": "festival-international-de-quatuors-a-cordes-du-luberon",
+   "checked": null,
+   "appel": null,
+   "name": "Festival International de Quatuors à Cordes du Luberon",
+   "town": "Goult",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/festival-international-de-quatuors-a-cordes-du-luberon",
+   "date": "2026-08-14"
+  },
+  "festival-international-du-film-de-cannes": {
+   "slug": "festival-international-du-film-de-cannes",
+   "checked": null,
+   "appel": null,
+   "name": "Festival International du Film de Cannes",
+   "town": "Cannes",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/festival-international-du-film-de-cannes",
+   "date": "2026-05-12"
+  },
+  "festival-international-music-cinema": {
+   "slug": "festival-international-music-cinema",
+   "checked": null,
+   "appel": null,
+   "name": "Festival International Music & Cinema",
+   "town": "Marseille",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/festival-international-music-cinema",
+   "date": "2026-03-23"
+  },
+  "festival-jazz-verdon": {
+   "slug": "festival-jazz-verdon",
+   "checked": null,
+   "appel": null,
+   "name": "Festival Jazz Verdon",
+   "town": "Aups",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/festival-jazz-verdon",
+   "date": "2026-07-11"
+  },
+  "festival-jours-et-nuits-de-cirques": {
+   "slug": "festival-jours-et-nuits-de-cirques",
+   "checked": null,
+   "appel": null,
+   "name": "Festival Jours Et Nuits De Cirques",
+   "town": null,
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/festival-jours-et-nuits-de-cirques",
+   "date": "2026-09-19"
+  },
+  "festival-limprudanse": {
+   "slug": "festival-limprudanse",
+   "checked": null,
+   "appel": null,
+   "name": "Festival L'ImpruDanse",
+   "town": "Draguignan",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/festival-limprudanse",
+   "date": "2026-03-14"
+  },
+  "festival-litteraire-coeur-du-var": {
+   "slug": "festival-litteraire-coeur-du-var",
+   "checked": null,
+   "appel": null,
+   "name": "Festival Litteraire Coeur Du Var",
+   "town": null,
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/festival-litteraire-coeur-du-var",
+   "date": "2026-06-06"
+  },
+  "festival-messiaen-au-pays-de-la-meije": {
+   "slug": "festival-messiaen-au-pays-de-la-meije",
+   "checked": null,
+   "appel": null,
+   "name": "Festival Messiaen au Pays de la Meije",
+   "town": "La Grave",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/festival-messiaen-au-pays-de-la-meije",
+   "date": "2026-07-25"
+  },
+  "festival-mimi": {
+   "slug": "festival-mimi",
+   "checked": null,
+   "appel": null,
+   "name": "Festival MIMI",
+   "town": "Marseille",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/festival-mimi",
+   "date": "2026-08-01"
+  },
+  "festival-musique-en-vacances": {
+   "slug": "festival-musique-en-vacances",
+   "checked": null,
+   "appel": null,
+   "name": "Festival Musique en Vacances",
+   "town": "La Ciotat",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/festival-musique-en-vacances",
+   "date": "2026-07-18"
+  },
+  "festival-musiqueyras": {
+   "slug": "festival-musiqueyras",
+   "checked": null,
+   "appel": null,
+   "name": "Festival Musiqueyras",
+   "town": "Abriès-Ristolas",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/festival-musiqueyras",
+   "date": "2026-07-20"
+  },
+  "festival-namaste": {
+   "slug": "festival-namaste",
+   "checked": null,
+   "appel": null,
+   "name": "Festival Namaste",
+   "town": "Aspres-sur-Buëch",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/festival-namaste",
+   "date": "2026-06-05"
+  },
+  "festival-off-darles": {
+   "slug": "festival-off-darles",
+   "checked": null,
+   "appel": null,
+   "name": "Festival OFF d'Arles",
+   "town": "Arles",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/festival-off-darles",
+   "date": "2026-07-06"
+  },
+  "festival-off-davignon": {
+   "slug": "festival-off-davignon",
+   "checked": null,
+   "appel": null,
+   "name": "Festival OFF d'Avignon",
+   "town": "Avignon",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/festival-off-davignon",
+   "date": "2026-07-04"
+  },
+  "festival-ptits-cannes-a-you": {
+   "slug": "festival-ptits-cannes-a-you",
+   "checked": null,
+   "appel": null,
+   "name": "Festival P'tits Cannes à You",
+   "town": "Cannes",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/festival-ptits-cannes-a-you",
+   "date": "2026-10-16"
+  },
+  "festival-plein-air-de-guillaumes": {
+   "slug": "festival-plein-air-de-guillaumes",
+   "checked": null,
+   "appel": null,
+   "name": "Festival Plein Air de Guillaumes",
+   "town": "Guillaumes",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/festival-plein-air-de-guillaumes",
+   "date": "2026-07-18"
+  },
+  "festival-reconnexion": {
+   "slug": "festival-reconnexion",
+   "checked": null,
+   "appel": null,
+   "name": "Festival Reconnexion",
+   "town": "Ramatuelle",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/festival-reconnexion",
+   "date": "2026-07-13"
+  },
+  "festival-regards-sur-rue": {
+   "slug": "festival-regards-sur-rue",
+   "checked": null,
+   "appel": null,
+   "name": "Festival Regards sur Rue",
+   "town": "La Seyne-sur-Mer",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/festival-regards-sur-rue",
+   "date": "2026-09-25"
+  },
+  "festival-rues-de-letang": {
+   "slug": "festival-rues-de-letang",
+   "checked": null,
+   "appel": null,
+   "name": "Festival Rues de l'Étang",
+   "town": "Istres",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/festival-rues-de-letang",
+   "date": "2026-07-31"
+  },
+  "festival-sous-les-pins": {
+   "slug": "festival-sous-les-pins",
+   "checked": null,
+   "appel": null,
+   "name": "Festival Sous les Pins",
+   "town": "Chateauneuf-les-Martigues",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/festival-sous-les-pins",
+   "date": "2026-07-02"
+  },
+  "fete-de-lasperge-de-mormoiron": {
+   "slug": "fete-de-lasperge-de-mormoiron",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de l'Asperge de Mormoiron",
+   "town": "Mormoiron",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-lasperge-de-mormoiron",
+   "date": "2026-04-26"
+  },
+  "fete-de-lolivier-dollioules": {
+   "slug": "fete-de-lolivier-dollioules",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de l'Olivier d'Ollioules",
+   "town": "Ollioules",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-lolivier-dollioules",
+   "date": "2026-10-03"
+  },
+  "fete-de-la-figue-de-caromb": {
+   "slug": "fete-de-la-figue-de-caromb",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Figue de Caromb",
+   "town": "Caromb",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-figue-de-caromb",
+   "date": "2026-07-12"
+  },
+  "fete-de-la-fraise-de-carpentras": {
+   "slug": "fete-de-la-fraise-de-carpentras",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Fraise de Carpentras",
+   "town": "Carpentras",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-fraise-de-carpentras",
+   "date": "2026-04-11"
+  },
+  "fete-de-la-lavande-de-sault": {
+   "slug": "fete-de-la-lavande-de-sault",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Lavande de Sault",
+   "town": "Sault",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-lavande-de-sault",
+   "date": "2026-08-15"
+  },
+  "fete-de-la-madeleine": {
+   "slug": "fete-de-la-madeleine",
+   "checked": null,
+   "appel": null,
+   "name": "Fete de la Madeleine",
+   "town": "Chateaurenard",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-madeleine",
+   "date": "2026-07-31"
+  },
+  "fete-de-la-mer-et-de-la-saint-pierre": {
+   "slug": "fete-de-la-mer-et-de-la-saint-pierre",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Mer et de la Saint-Pierre",
+   "town": "Martigues",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-mer-et-de-la-saint-pierre",
+   "date": "2026-06-27"
+  },
+  "fete-de-la-musique-davignon": {
+   "slug": "fete-de-la-musique-davignon",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Musique d'Avignon",
+   "town": "Avignon",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-musique-davignon",
+   "date": "2026-06-21"
+  },
+  "fete-de-la-poterie-de-vallauris": {
+   "slug": "fete-de-la-poterie-de-vallauris",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Poterie de Vallauris",
+   "town": "Vallauris",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-poterie-de-vallauris",
+   "date": "2026-08-09"
+  },
+  "fete-de-la-saint-eloi": {
+   "slug": "fete-de-la-saint-eloi",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Saint-Éloi",
+   "town": "Le Beausset",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-saint-eloi",
+   "date": "2026-07-06"
+  },
+  "fete-de-la-truffe-noire-daups": {
+   "slug": "fete-de-la-truffe-noire-daups",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Truffe Noire d'Aups",
+   "town": "Aups",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-truffe-noire-daups",
+   "date": "2026-01-24"
+  },
+  "fete-de-la-veraison": {
+   "slug": "fete-de-la-veraison",
+   "checked": null,
+   "appel": null,
+   "name": "Fête de la Véraison",
+   "town": "Châteauneuf-du-Pape",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/fete-de-la-veraison",
+   "date": "2026-07-31"
+  },
+  "fete-des-vins-de-gigondas": {
+   "slug": "fete-des-vins-de-gigondas",
+   "checked": null,
+   "appel": null,
+   "name": "Fête des Vins de Gigondas",
+   "town": "Gigondas",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/fete-des-vins-de-gigondas",
+   "date": "2026-07-20"
+  },
+  "fete-du-citron-de-menton": {
+   "slug": "fete-du-citron-de-menton",
+   "checked": null,
+   "appel": null,
+   "name": "Fête du Citron de Menton",
+   "town": "Menton",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/fete-du-citron-de-menton",
+   "date": "2026-02-14"
+  },
+  "fete-du-coing-de-cotignac": {
+   "slug": "fete-du-coing-de-cotignac",
+   "checked": null,
+   "appel": null,
+   "name": "Fête du Coing de Cotignac",
+   "town": "Cotignac",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/fete-du-coing-de-cotignac",
+   "date": "2026-10-25"
+  },
+  "fete-du-dragon": {
+   "slug": "fete-du-dragon",
+   "checked": null,
+   "appel": null,
+   "name": "Fête du Dragon",
+   "town": "Draguignan",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/fete-du-dragon",
+   "date": "2026-06-26"
+  },
+  "fete-du-jasmin": {
+   "slug": "fete-du-jasmin",
+   "checked": null,
+   "appel": null,
+   "name": "Fête du Jasmin",
+   "town": "Grasse",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/fete-du-jasmin",
+   "date": "2026-07-31"
+  },
+  "fete-du-livre-jeunesse-de-manosque": {
+   "slug": "fete-du-livre-jeunesse-de-manosque",
+   "checked": null,
+   "appel": null,
+   "name": "Fête du Livre Jeunesse de Manosque",
+   "town": "Manosque",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/fete-du-livre-jeunesse-de-manosque",
+   "date": "2026-05-18"
+  },
+  "fete-du-miel-des-arcs-sur-argens": {
+   "slug": "fete-du-miel-des-arcs-sur-argens",
+   "checked": null,
+   "appel": null,
+   "name": "Fête du Miel des Arcs-sur-Argens",
+   "town": "Les Arcs-sur-Argens",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/fete-du-miel-des-arcs-sur-argens",
+   "date": "2026-10-03"
+  },
+  "fete-des-ruelles-du-panier": {
+   "slug": "fete-des-ruelles-du-panier",
+   "checked": null,
+   "appel": null,
+   "name": "Fête des Ruelles du Panier",
+   "town": "Marseille",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/fete-des-ruelles-du-panier",
+   "date": "2026-08-16"
+  },
+  "fete-du-patrimoine-de-pernes-les-fontaines": {
+   "slug": "fete-du-patrimoine-de-pernes-les-fontaines",
+   "checked": null,
+   "appel": null,
+   "name": "Fête du Patrimoine de Pernes-les-Fontaines",
+   "town": "Pernes-les-Fontaines",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/fete-du-patrimoine-de-pernes-les-fontaines",
+   "date": "2026-09-19"
+  },
+  "fete-du-terroir-et-de-la-cerise-de-malemort-du-comtat": {
+   "slug": "fete-du-terroir-et-de-la-cerise-de-malemort-du-comtat",
+   "checked": null,
+   "appel": null,
+   "name": "Fête du Terroir et de la Cerise de Malemort-du-Comtat",
+   "town": "Malemort-du-Comtat",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/fete-du-terroir-et-de-la-cerise-de-malemort-du-comtat",
+   "date": "2026-06-28"
+  },
+  "fete-medievale-dembrun": {
+   "slug": "fete-medievale-dembrun",
+   "checked": null,
+   "appel": null,
+   "name": "Fête Médiévale d'Embrun",
+   "town": "Embrun",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/fete-medievale-dembrun",
+   "date": "2026-08-20"
+  },
+  "fete-medievale-dentrechaux": {
+   "slug": "fete-medievale-dentrechaux",
+   "checked": null,
+   "appel": null,
+   "name": "Fête Médiévale d'Entrechaux",
+   "town": "Entrechaux",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/fete-medievale-dentrechaux",
+   "date": "2026-07-04"
+  },
+  "fete-medievale-de-briancon": {
+   "slug": "fete-medievale-de-briancon",
+   "checked": null,
+   "appel": null,
+   "name": "Fête Médiévale de Briançon",
+   "town": "Briançon",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/fete-medievale-de-briancon",
+   "date": "2026-06-26"
+  },
+  "fete-medievale-de-roquebrune-cap-martin": {
+   "slug": "fete-medievale-de-roquebrune-cap-martin",
+   "checked": null,
+   "appel": null,
+   "name": "Fête Médiévale de Roquebrune-Cap-Martin",
+   "town": "Roquebrune-Cap-Martin",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/fete-medievale-de-roquebrune-cap-martin",
+   "date": "2026-08-02"
+  },
+  "fete-medievale-de-tourrette-levens": {
+   "slug": "fete-medievale-de-tourrette-levens",
+   "checked": null,
+   "appel": null,
+   "name": "Fête Médiévale de Tourrette-Levens",
+   "town": "Tourrette-Levens",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/fete-medievale-de-tourrette-levens",
+   "date": "2026-05-23"
+  },
+  "fetes-de-la-chataigne-de-collobrieres": {
+   "slug": "fetes-de-la-chataigne-de-collobrieres",
+   "checked": null,
+   "appel": null,
+   "name": "Fêtes de la Châtaigne de Collobrières",
+   "town": "Collobrières",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/fetes-de-la-chataigne-de-collobrieres",
+   "date": "2026-10-11"
+  },
+  "fetes-de-la-tarasque": {
+   "slug": "fetes-de-la-tarasque",
+   "checked": null,
+   "appel": null,
+   "name": "Fetes de la Tarasque",
+   "town": "Tarascon",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/fetes-de-la-tarasque",
+   "date": "2026-06-26"
+  },
+  "fetes-des-vins-de-vacqueyras": {
+   "slug": "fetes-des-vins-de-vacqueyras",
+   "checked": null,
+   "appel": null,
+   "name": "Fêtes des Vins de Vacqueyras",
+   "town": "Vacqueyras",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/fetes-des-vins-de-vacqueyras",
+   "date": "2026-07-13"
+  },
+  "fetes-latino-mexicaines-de-barcelonnette": {
+   "slug": "fetes-latino-mexicaines-de-barcelonnette",
+   "checked": null,
+   "appel": null,
+   "name": "Fêtes Latino-Mexicaines de Barcelonnette",
+   "town": "Barcelonnette",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/fetes-latino-mexicaines-de-barcelonnette",
+   "date": "2026-08-07"
+  },
+  "fidmarseille": {
+   "slug": "fidmarseille",
+   "checked": null,
+   "appel": null,
+   "name": "FIDMarseille",
+   "town": "Marseille",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/fidmarseille",
+   "date": "2026-07-07"
+  },
+  "fiesta-des-suds": {
+   "slug": "fiesta-des-suds",
+   "checked": null,
+   "appel": null,
+   "name": "Fiesta des Suds",
+   "town": "Marseille",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/fiesta-des-suds",
+   "date": "2026-10-08"
+  },
+  "foire-internationale-antiquites-brocante-de-lisle-sur-la-sorgue": {
+   "slug": "foire-internationale-antiquites-brocante-de-lisle-sur-la-sorgue",
+   "checked": null,
+   "appel": null,
+   "name": "Foire Internationale Antiquités & Brocante de L'Isle-sur-la-Sorgue",
+   "town": "L'Isle-sur-la-Sorgue",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/foire-internationale-antiquites-brocante-de-lisle-sur-la-sorgue",
+   "date": "2026-04-02"
+  },
+  "game-of-trees": {
+   "slug": "game-of-trees",
+   "checked": null,
+   "appel": null,
+   "name": "Game of Trees",
+   "town": "Les Orres",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/game-of-trees",
+   "date": "2026-07-30"
+  },
+  "gap-foire-expo": {
+   "slug": "gap-foire-expo",
+   "checked": null,
+   "appel": null,
+   "name": "Gap Foire Expo",
+   "town": "Gap",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/gap-foire-expo",
+   "date": "2026-05-08"
+  },
+  "grande-fete-de-vallouise": {
+   "slug": "grande-fete-de-vallouise",
+   "checked": null,
+   "appel": null,
+   "name": "Grande Fête de Vallouise",
+   "town": "Vallouise-Pelvoux",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/grande-fete-de-vallouise",
+   "date": "2026-08-01"
+  },
+  "hip-hop-en-avignon": {
+   "slug": "hip-hop-en-avignon",
+   "checked": null,
+   "appel": null,
+   "name": "Hip Hop en Avignon",
+   "town": "Avignon",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/hip-hop-en-avignon",
+   "date": "2026-04-24"
+  },
+  "insane-festival": {
+   "slug": "insane-festival",
+   "checked": null,
+   "appel": null,
+   "name": "Insane Festival",
+   "town": "Apt",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/insane-festival",
+   "date": "2026-05-28"
+  },
+  "jardin-sonore-festival": {
+   "slug": "jardin-sonore-festival",
+   "checked": null,
+   "appel": null,
+   "name": "Jardin Sonore Festival",
+   "town": "Vitrolles",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/jardin-sonore-festival",
+   "date": "2026-07-10"
+  },
+  "jazz-cheese": {
+   "slug": "jazz-cheese",
+   "checked": null,
+   "appel": null,
+   "name": "Jazz & Cheese",
+   "town": "Ceillac",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/jazz-cheese",
+   "date": "2026-06-11"
+  },
+  "jazz-a-berne": {
+   "slug": "jazz-a-berne",
+   "checked": null,
+   "appel": null,
+   "name": "Jazz à Berne",
+   "town": "Flayosc",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/jazz-a-berne",
+   "date": "2026-07-17"
+  },
+  "jazz-a-domergue": {
+   "slug": "jazz-a-domergue",
+   "checked": null,
+   "appel": null,
+   "name": "Jazz à Domergue",
+   "town": "Cannes",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/jazz-a-domergue",
+   "date": "2026-08-01"
+  },
+  "jazz-a-juan": {
+   "slug": "jazz-a-juan",
+   "checked": null,
+   "appel": null,
+   "name": "Jazz à Juan",
+   "town": "Antibes",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/jazz-a-juan",
+   "date": "2026-07-09"
+  },
+  "jazz-a-porquerolles": {
+   "slug": "jazz-a-porquerolles",
+   "checked": null,
+   "appel": null,
+   "name": "Jazz à Porquerolles",
+   "town": "Hyères",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/jazz-a-porquerolles",
+   "date": "2026-07-10"
+  },
+  "jazz-a-ramatuelle": {
+   "slug": "jazz-a-ramatuelle",
+   "checked": null,
+   "appel": null,
+   "name": "Jazz à Ramatuelle",
+   "town": "Ramatuelle",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/jazz-a-ramatuelle",
+   "date": "2026-06-23"
+  },
+  "jazz-a-saint-etienne-les-orgues": {
+   "slug": "jazz-a-saint-etienne-les-orgues",
+   "checked": "2026-10-28",
+   "appel": null,
+   "name": "Jazz à Saint-Étienne-les-Orgues",
+   "town": "Saint-Étienne-les-Orgues",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/jazz-a-saint-etienne-les-orgues",
+   "date": "2016-07-20"
+  },
+  "jazz-a-saint-remy": {
+   "slug": "jazz-a-saint-remy",
+   "checked": null,
+   "appel": null,
+   "name": "Jazz a Saint-Remy",
+   "town": "Saint-Remy-de-Provence",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/jazz-a-saint-remy",
+   "date": "2026-09-17"
+  },
+  "jazz-a-toulon": {
+   "slug": "jazz-a-toulon",
+   "checked": null,
+   "appel": null,
+   "name": "Jazz à Toulon",
+   "town": "Toulon",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/jazz-a-toulon",
+   "date": "2026-07-26"
+  },
+  "jazz-au-ranquet": {
+   "slug": "jazz-au-ranquet",
+   "checked": null,
+   "appel": null,
+   "name": "Jazz au Ranquet",
+   "town": "Istres",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/jazz-au-ranquet",
+   "date": "2026-07-24"
+  },
+  "justrose-festival": {
+   "slug": "justrose-festival",
+   "checked": null,
+   "appel": null,
+   "name": "Just'Rosé Festival",
+   "town": "Sanary-sur-Mer",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/justrose-festival",
+   "date": "2026-05-08"
+  },
+  "lecho-des-mots": {
+   "slug": "lecho-des-mots",
+   "checked": null,
+   "appel": null,
+   "name": "L'Écho des Mots",
+   "town": "Saint-Jean-Saint-Nicolas",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/lecho-des-mots",
+   "date": "2026-08-10"
+  },
+  "longlois-festival": {
+   "slug": "longlois-festival",
+   "checked": null,
+   "appel": null,
+   "name": "L'Onglois Festival",
+   "town": "Ongles",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/longlois-festival",
+   "date": "2026-07-01"
+  },
+  "la-creme-festival": {
+   "slug": "la-creme-festival",
+   "checked": null,
+   "appel": null,
+   "name": "La Crème Festival",
+   "town": "Villefranche-sur-Mer",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/la-creme-festival",
+   "date": "2026-06-26"
+  },
+  "la-guinguette-sonore": {
+   "slug": "la-guinguette-sonore",
+   "checked": null,
+   "appel": null,
+   "name": "La Guinguette Sonore",
+   "town": "Istres",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/la-guinguette-sonore",
+   "date": "2026-08-28"
+  },
+  "la-kermesse-festival": {
+   "slug": "la-kermesse-festival",
+   "checked": null,
+   "appel": null,
+   "name": "La Kermesse Festival",
+   "town": "Nice",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/la-kermesse-festival",
+   "date": "2026-07-03"
+  },
+  "le-bom-festival": {
+   "slug": "le-bom-festival",
+   "checked": null,
+   "appel": null,
+   "name": "Le BōM Festival",
+   "town": "Plan-d'Aups-Sainte-Baume",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/le-bom-festival",
+   "date": "2026-07-03"
+  },
+  "le-broc-festival": {
+   "slug": "le-broc-festival",
+   "checked": null,
+   "appel": null,
+   "name": "Le Broc Festival",
+   "town": "Le Broc",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/le-broc-festival",
+   "date": "2026-06-26"
+  },
+  "le-chien-rouge": {
+   "slug": "le-chien-rouge",
+   "checked": null,
+   "appel": null,
+   "name": "Le Chien Rouge",
+   "town": "Le Cannet-des-Maures",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/le-chien-rouge",
+   "date": "2026-07-16"
+  },
+  "le-feu-de-monteux": {
+   "slug": "le-feu-de-monteux",
+   "checked": null,
+   "appel": null,
+   "name": "Le Feu de Monteux",
+   "town": "Monteux",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/le-feu-de-monteux",
+   "date": "2026-08-21"
+  },
+  "le-son-by-toulon": {
+   "slug": "le-son-by-toulon",
+   "checked": null,
+   "appel": null,
+   "name": "Le Son by Toulon",
+   "town": "Toulon",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/le-son-by-toulon",
+   "date": "2026-07-12"
+  },
+  "les-artgricoles": {
+   "slug": "les-artgricoles",
+   "checked": null,
+   "appel": null,
+   "name": "Les Artgricoles",
+   "town": "Guillestre",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/les-artgricoles",
+   "date": "2026-05-14"
+  },
+  "les-baux-pianos": {
+   "slug": "les-baux-pianos",
+   "checked": null,
+   "appel": null,
+   "name": "Les Baux Pianos",
+   "town": "Les Baux-de-Provence",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/les-baux-pianos",
+   "date": "2026-06-27"
+  },
+  "les-concerts-du-mas-des-escaravatiers": {
+   "slug": "les-concerts-du-mas-des-escaravatiers",
+   "checked": null,
+   "appel": null,
+   "name": "Les Concerts du Mas des Escaravatiers",
+   "town": "Puget-sur-Argens",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/les-concerts-du-mas-des-escaravatiers",
+   "date": "2026-06-13"
+  },
+  "les-correspondances-de-manosque": {
+   "slug": "les-correspondances-de-manosque",
+   "checked": null,
+   "appel": null,
+   "name": "Les Correspondances de Manosque",
+   "town": "Manosque",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/les-correspondances-de-manosque",
+   "date": "2026-09-23"
+  },
+  "les-envoyageurs": {
+   "slug": "les-envoyageurs",
+   "checked": null,
+   "appel": null,
+   "name": "Les Envoyageurs",
+   "town": "Vallouise-Pelvoux",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/les-envoyageurs",
+   "date": "2026-08-28"
+  },
+  "les-escapades": {
+   "slug": "les-escapades",
+   "checked": null,
+   "appel": null,
+   "name": "Les Escapades",
+   "town": "Château-Arnoux-Saint-Auban",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/les-escapades",
+   "date": "2026-06-18"
+  },
+  "les-estivales-de-carpentras": {
+   "slug": "les-estivales-de-carpentras",
+   "checked": null,
+   "appel": null,
+   "name": "Les Estivales de Carpentras",
+   "town": "Carpentras",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/les-estivales-de-carpentras",
+   "date": "2026-07-03"
+  },
+  "les-estivales-de-la-tour-daigues": {
+   "slug": "les-estivales-de-la-tour-daigues",
+   "checked": null,
+   "appel": null,
+   "name": "Les Estivales de la Tour d'Aigues",
+   "town": "La Tour-d'Aigues",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/les-estivales-de-la-tour-daigues",
+   "date": "2026-07-07"
+  },
+  "les-etoiles-de-mougins": {
+   "slug": "les-etoiles-de-mougins",
+   "checked": null,
+   "appel": null,
+   "name": "Les Étoiles de Mougins",
+   "town": "Mougins",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/les-etoiles-de-mougins",
+   "date": "2026-09-12"
+  },
+  "les-festivales-des-alpes": {
+   "slug": "les-festivales-des-alpes",
+   "checked": null,
+   "appel": null,
+   "name": "Les Festivales des Alpes",
+   "town": "Turriers",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/les-festivales-des-alpes",
+   "date": "2024-07-26"
+  },
+  "les-flaneries-au-miroir": {
+   "slug": "les-flaneries-au-miroir",
+   "checked": null,
+   "appel": null,
+   "name": "Les Flâneries au Miroir",
+   "town": "Martigues",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/les-flaneries-au-miroir",
+   "date": "2026-09-05"
+  },
+  "les-hivernales-davignon": {
+   "slug": "les-hivernales-davignon",
+   "checked": null,
+   "appel": null,
+   "name": "Les Hivernales d'Avignon",
+   "town": "Avignon",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/les-hivernales-davignon",
+   "date": "2026-02-03"
+  },
+  "les-luminessences-davignon": {
+   "slug": "les-luminessences-davignon",
+   "checked": null,
+   "appel": null,
+   "name": "Les Luminessences d'Avignon",
+   "town": "Avignon",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/les-luminessences-davignon",
+   "date": "2026-06-21"
+  },
+  "les-martmites": {
+   "slug": "les-martmites",
+   "checked": null,
+   "appel": null,
+   "name": "Les mARTmites",
+   "town": "Cruis",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/les-martmites",
+   "date": "2024-11-02"
+  },
+  "les-musicales-de-grasse": {
+   "slug": "les-musicales-de-grasse",
+   "checked": null,
+   "appel": null,
+   "name": "Les Musicales de Grasse",
+   "town": "Grasse",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/les-musicales-de-grasse",
+   "date": "2026-07-01"
+  },
+  "les-musicales-de-labbaye-du-thoronet": {
+   "slug": "les-musicales-de-labbaye-du-thoronet",
+   "checked": null,
+   "appel": null,
+   "name": "Les Musicales de l'Abbaye du Thoronet",
+   "town": "Le Thoronet",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/les-musicales-de-labbaye-du-thoronet",
+   "date": "2026-07-11"
+  },
+  "les-musicales-du-luberon": {
+   "slug": "les-musicales-du-luberon",
+   "checked": null,
+   "appel": null,
+   "name": "Les Musicales du Luberon",
+   "town": "Ménerbes",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/les-musicales-du-luberon",
+   "date": "2026-05-24"
+  },
+  "les-nocturnes-du-piano": {
+   "slug": "les-nocturnes-du-piano",
+   "checked": null,
+   "appel": null,
+   "name": "Les Nocturnes du Piano",
+   "town": "Cagnes-sur-Mer",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/les-nocturnes-du-piano",
+   "date": "2026-06-26"
+  },
+  "les-nuits-aureliennes": {
+   "slug": "les-nuits-aureliennes",
+   "checked": null,
+   "appel": null,
+   "name": "Les Nuits Auréliennes",
+   "town": "Fréjus",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/les-nuits-aureliennes",
+   "date": "2026-07-16"
+  },
+  "les-nuits-blanches-du-thoronet": {
+   "slug": "les-nuits-blanches-du-thoronet",
+   "checked": null,
+   "appel": null,
+   "name": "Les Nuits Blanches du Thoronet",
+   "town": "Le Thoronet",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/les-nuits-blanches-du-thoronet",
+   "date": "2026-07-23"
+  },
+  "les-nuits-carrees": {
+   "slug": "les-nuits-carrees",
+   "checked": null,
+   "appel": null,
+   "name": "Les Nuits Carrées",
+   "town": "Antibes",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/les-nuits-carrees",
+   "date": "2026-06-18"
+  },
+  "les-nuits-distres": {
+   "slug": "les-nuits-distres",
+   "checked": null,
+   "appel": null,
+   "name": "Les Nuits d'Istres",
+   "town": "Istres",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/les-nuits-distres",
+   "date": "2026-07-08"
+  },
+  "les-nuits-de-lenclave-des-papes": {
+   "slug": "les-nuits-de-lenclave-des-papes",
+   "checked": null,
+   "appel": null,
+   "name": "Les Nuits de l'Enclave des Papes",
+   "town": "Valréas",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/les-nuits-de-lenclave-des-papes",
+   "date": "2026-07-17"
+  },
+  "les-nuits-de-la-citadelle": {
+   "slug": "les-nuits-de-la-citadelle",
+   "checked": null,
+   "appel": null,
+   "name": "Les Nuits de la Citadelle",
+   "town": "Sisteron",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/les-nuits-de-la-citadelle",
+   "date": "2026-07-18"
+  },
+  "les-nuits-du-chateau-de-la-moutte": {
+   "slug": "les-nuits-du-chateau-de-la-moutte",
+   "checked": null,
+   "appel": null,
+   "name": "Les Nuits du Château de la Moutte",
+   "town": "Saint-Tropez",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/les-nuits-du-chateau-de-la-moutte",
+   "date": "2026-08-01"
+  },
+  "les-nuits-du-real": {
+   "slug": "les-nuits-du-real",
+   "checked": null,
+   "appel": null,
+   "name": "Les Nuits du Réal",
+   "town": "Les Arcs-sur-Argens",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/les-nuits-du-real",
+   "date": "2026-07-02"
+  },
+  "les-nuits-du-sud": {
+   "slug": "les-nuits-du-sud",
+   "checked": null,
+   "appel": null,
+   "name": "Les Nuits du Sud",
+   "town": "Vence",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/les-nuits-du-sud",
+   "date": "2026-07-09"
+  },
+  "les-nuits-flamencas": {
+   "slug": "les-nuits-flamencas",
+   "checked": null,
+   "appel": null,
+   "name": "Les Nuits Flamencas",
+   "town": "Aubagne",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/les-nuits-flamencas",
+   "date": "2026-07-01"
+  },
+  "les-nuits-guitares": {
+   "slug": "les-nuits-guitares",
+   "checked": null,
+   "appel": null,
+   "name": "Les Nuits Guitares",
+   "town": "Beaulieu-sur-Mer",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/les-nuits-guitares",
+   "date": "2026-07-03"
+  },
+  "les-nuits-intimes": {
+   "slug": "les-nuits-intimes",
+   "checked": null,
+   "appel": null,
+   "name": "Les Nuits Intimes",
+   "town": "Vence",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/les-nuits-intimes",
+   "date": "2026-07-09"
+  },
+  "les-nuits-pianistiques": {
+   "slug": "les-nuits-pianistiques",
+   "checked": null,
+   "appel": null,
+   "name": "Les Nuits Pianistiques",
+   "town": "Aix-en-Provence",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/les-nuits-pianistiques",
+   "date": "2026-07-28"
+  },
+  "les-pistes-electroniques": {
+   "slug": "les-pistes-electroniques",
+   "checked": null,
+   "appel": null,
+   "name": "Les Pistes Électroniques",
+   "town": "Isola",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/les-pistes-electroniques",
+   "date": "2026-04-04"
+  },
+  "les-plages-du-rire": {
+   "slug": "les-plages-du-rire",
+   "checked": null,
+   "appel": null,
+   "name": "Les Plages du Rire",
+   "town": "Nice",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/les-plages-du-rire",
+   "date": "2026-07-30"
+  },
+  "les-plages-electroniques": {
+   "slug": "les-plages-electroniques",
+   "checked": null,
+   "appel": null,
+   "name": "Les Plages Électroniques",
+   "town": "Cannes",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/les-plages-electroniques",
+   "date": "2026-08-07"
+  },
+  "les-printemps-de-chateauneuf-du-pape": {
+   "slug": "les-printemps-de-chateauneuf-du-pape",
+   "checked": null,
+   "appel": null,
+   "name": "Les Printemps de Châteauneuf-du-Pape",
+   "town": "Châteauneuf-du-Pape",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/les-printemps-de-chateauneuf-du-pape",
+   "date": "2026-04-10"
+  },
+  "les-printemps-du-monde": {
+   "slug": "les-printemps-du-monde",
+   "checked": null,
+   "appel": null,
+   "name": "Les Printemps du Monde",
+   "town": "Correns",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/les-printemps-du-monde",
+   "date": "2026-05-22"
+  },
+  "les-rencontres-de-la-photographie-darles": {
+   "slug": "les-rencontres-de-la-photographie-darles",
+   "checked": null,
+   "appel": null,
+   "name": "Les Rencontres de la Photographie d'Arles",
+   "town": "Arles",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/les-rencontres-de-la-photographie-darles",
+   "date": "2026-07-06"
+  },
+  "les-riches-heures-musicales-de-la-rotonde": {
+   "slug": "les-riches-heures-musicales-de-la-rotonde",
+   "checked": null,
+   "appel": null,
+   "name": "Les Riches Heures Musicales de la Rotonde",
+   "town": "Simiane-la-Rotonde",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/les-riches-heures-musicales-de-la-rotonde",
+   "date": "2026-08-02"
+  },
+  "les-soirees-dete-de-gordes": {
+   "slug": "les-soirees-dete-de-gordes",
+   "checked": null,
+   "appel": null,
+   "name": "Les Soirées d'Été de Gordes",
+   "town": "Gordes",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/les-soirees-dete-de-gordes",
+   "date": "2026-08-03"
+  },
+  "les-suds-a-arles": {
+   "slug": "les-suds-a-arles",
+   "checked": null,
+   "appel": null,
+   "name": "Les Suds, a Arles",
+   "town": "Arles",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/les-suds-a-arles",
+   "date": "2026-07-13"
+  },
+  "les-vendanges-etoilees-de-cassis": {
+   "slug": "les-vendanges-etoilees-de-cassis",
+   "checked": null,
+   "appel": null,
+   "name": "Les Vendanges Étoilées de Cassis",
+   "town": "Cassis",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/les-vendanges-etoilees-de-cassis",
+   "date": "2026-09-25"
+  },
+  "lire-a-gordes": {
+   "slug": "lire-a-gordes",
+   "checked": null,
+   "appel": null,
+   "name": "Lire à Gordes",
+   "town": "Gordes",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/lire-a-gordes",
+   "date": "2026-04-25"
+  },
+  "luberon-music-festival": {
+   "slug": "luberon-music-festival",
+   "checked": null,
+   "appel": null,
+   "name": "Luberon Music Festival",
+   "town": "Apt",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/luberon-music-festival",
+   "date": "2026-05-29"
+  },
+  "lumexplore-festival-du-film-dexploration-scientifique-et-environnementale": {
+   "slug": "lumexplore-festival-du-film-dexploration-scientifique-et-environnementale",
+   "checked": null,
+   "appel": null,
+   "name": "Lumexplore Festival Du Film Dexploration Scientifique Et Environnementale",
+   "town": null,
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/lumexplore-festival-du-film-dexploration-scientifique-et-environnementale",
+   "date": "2026-09-09"
+  },
+  "marche-des-potiers-et-de-lartisanat-dart-du-luberon": {
+   "slug": "marche-des-potiers-et-de-lartisanat-dart-du-luberon",
+   "checked": null,
+   "appel": null,
+   "name": "Marché des Potiers et de l'Artisanat d'Art du Luberon",
+   "town": "Apt",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/marche-des-potiers-et-de-lartisanat-dart-du-luberon",
+   "date": "2026-08-04"
+  },
+  "marche-des-producteurs-dabricot-du-barroux": {
+   "slug": "marche-des-producteurs-dabricot-du-barroux",
+   "checked": null,
+   "appel": null,
+   "name": "Marché des Producteurs d'Abricot du Barroux",
+   "town": "Le Barroux",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/marche-des-producteurs-dabricot-du-barroux",
+   "date": "2026-07-14"
+  },
+  "marsatac": {
+   "slug": "marsatac",
+   "checked": null,
+   "appel": null,
+   "name": "Marsatac",
+   "town": "Marseille",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/marsatac",
+   "date": "2026-06-12"
+  },
+  "marseille-jazz-des-cinq-continents": {
+   "slug": "marseille-jazz-des-cinq-continents",
+   "checked": null,
+   "appel": null,
+   "name": "Marseille Jazz des Cinq Continents",
+   "town": "Marseille",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/marseille-jazz-des-cinq-continents",
+   "date": "2026-07-01"
+  },
+  "martigues-summer-festivhalles": {
+   "slug": "martigues-summer-festivhalles",
+   "checked": null,
+   "appel": null,
+   "name": "Martigues Summer Festiv'Halles",
+   "town": "Martigues",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/martigues-summer-festivhalles",
+   "date": "2026-07-24"
+  },
+  "medievales-de-brignoles": {
+   "slug": "medievales-de-brignoles",
+   "checked": null,
+   "appel": null,
+   "name": "Médiévales de Brignoles",
+   "town": "Brignoles",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/medievales-de-brignoles",
+   "date": "2026-08-15"
+  },
+  "melon-en-fete": {
+   "slug": "melon-en-fete",
+   "checked": null,
+   "appel": null,
+   "name": "Melon en Fête",
+   "town": "Cavaillon",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/melon-en-fete",
+   "date": "2026-07-03"
+  },
+  "messe-des-truffes-de-richerenches": {
+   "slug": "messe-des-truffes-de-richerenches",
+   "checked": null,
+   "appel": null,
+   "name": "Messe des Truffes de Richerenches",
+   "town": "Richerenches",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/messe-des-truffes-de-richerenches",
+   "date": "2026-01-18"
+  },
+  "midi-festival": {
+   "slug": "midi-festival",
+   "checked": null,
+   "appel": null,
+   "name": "MIDI Festival",
+   "town": "Hyères",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/midi-festival",
+   "date": "2026-07-24"
+  },
+  "moko-festival": {
+   "slug": "moko-festival",
+   "checked": null,
+   "appel": null,
+   "name": "MOKO Festival",
+   "town": "Toulon",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/moko-festival",
+   "date": "2026-06-25"
+  },
+  "mondial-la-marseillaise-a-petanque": {
+   "slug": "mondial-la-marseillaise-a-petanque",
+   "checked": null,
+   "appel": null,
+   "name": "Mondial La Marseillaise à Pétanque",
+   "town": "Marseille",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/mondial-la-marseillaise-a-petanque",
+   "date": "2026-07-03"
+  },
+  "musicales-guil-durance": {
+   "slug": "musicales-guil-durance",
+   "checked": null,
+   "appel": null,
+   "name": "Musicales Guil Durance",
+   "town": "Mont-Dauphin",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/musicales-guil-durance",
+   "date": "2026-07-24"
+  },
+  "musiks-a-manosque-festival-de-musiques-actuelles": {
+   "slug": "musiks-a-manosque-festival-de-musiques-actuelles",
+   "checked": null,
+   "appel": null,
+   "name": "Musiks A Manosque Festival De Musiques Actuelles",
+   "town": null,
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/musiks-a-manosque-festival-de-musiques-actuelles",
+   "date": "2026-07-17"
+  },
+  "musique-dans-la-rue": {
+   "slug": "musique-dans-la-rue",
+   "checked": null,
+   "appel": null,
+   "name": "Musique dans la Rue",
+   "town": "Aix-en-Provence",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/musique-dans-la-rue",
+   "date": "2026-08-21"
+  },
+  "musique-en-devoluy": {
+   "slug": "musique-en-devoluy",
+   "checked": null,
+   "appel": null,
+   "name": "Musique en Dévoluy",
+   "town": "Dévoluy",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/musique-en-devoluy",
+   "date": "2026-07-16"
+  },
+  "musiques-en-ecrins": {
+   "slug": "musiques-en-ecrins",
+   "checked": null,
+   "appel": null,
+   "name": "Musiques en Écrins",
+   "town": "Vallouise-Pelvoux",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/musiques-en-ecrins",
+   "date": "2026-08-03"
+  },
+  "natif-festival": {
+   "slug": "natif-festival",
+   "checked": null,
+   "appel": null,
+   "name": "Natif Festival",
+   "town": "Hyères",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/natif-festival",
+   "date": "2026-08-21"
+  },
+  "nice-classic-live": {
+   "slug": "nice-classic-live",
+   "checked": null,
+   "appel": null,
+   "name": "Nice Classic Live",
+   "town": "Nice",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/nice-classic-live",
+   "date": "2026-07-21"
+  },
+  "nice-jazz-festival": {
+   "slug": "nice-jazz-festival",
+   "checked": null,
+   "appel": null,
+   "name": "Nice Jazz Festival",
+   "town": "Nice",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/nice-jazz-festival",
+   "date": "2026-07-23"
+  },
+  "nuit-du-folk": {
+   "slug": "nuit-du-folk",
+   "checked": null,
+   "appel": null,
+   "name": "Nuit du Folk",
+   "town": "Gap",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/nuit-du-folk",
+   "date": "2026-03-20"
+  },
+  "nuit-du-petit-saint-jean-de-valreas": {
+   "slug": "nuit-du-petit-saint-jean-de-valreas",
+   "checked": null,
+   "appel": null,
+   "name": "Nuit du Petit Saint-Jean de Valréas",
+   "town": "Valréas",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/nuit-du-petit-saint-jean-de-valreas",
+   "date": "2026-06-19"
+  },
+  "ou-sont-les-femmes": {
+   "slug": "ou-sont-les-femmes",
+   "checked": null,
+   "appel": null,
+   "name": "Où Sont les Femmes",
+   "town": "Forcalquier",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/ou-sont-les-femmes",
+   "date": "2025-07-01"
+  },
+  "outdoormix-festival": {
+   "slug": "outdoormix-festival",
+   "checked": null,
+   "appel": null,
+   "name": "Outdoormix Festival",
+   "town": "Embrun",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/outdoormix-festival",
+   "date": "2026-05-22"
+  },
+  "pelerinage-des-gitans-aux-saintes-maries-de-la-mer": {
+   "slug": "pelerinage-des-gitans-aux-saintes-maries-de-la-mer",
+   "checked": null,
+   "appel": null,
+   "name": "Pèlerinage des Gitans aux Saintes-Maries-de-la-Mer",
+   "town": "Saintes-Maries-de-la-Mer",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/pelerinage-des-gitans-aux-saintes-maries-de-la-mer",
+   "date": "2026-05-24"
+  },
+  "place-au-blues-festival-blues-doraison": {
+   "slug": "place-au-blues-festival-blues-doraison",
+   "checked": "2026-10-28",
+   "appel": null,
+   "name": "Place Au Blues Festival Blues Doraison",
+   "town": null,
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/place-au-blues-festival-blues-doraison",
+   "date": "2024-05-25"
+  },
+  "positiv-festival": {
+   "slug": "positiv-festival",
+   "checked": null,
+   "appel": null,
+   "name": "Positiv Festival",
+   "town": "Orange",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/positiv-festival",
+   "date": "2026-08-14"
+  },
+  "potes-de-marmots": {
+   "slug": "potes-de-marmots",
+   "checked": null,
+   "appel": null,
+   "name": "Potes de Marmot's",
+   "town": "Guillestre",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/potes-de-marmots",
+   "date": "2026-08-18"
+  },
+  "re-play-festival": {
+   "slug": "re-play-festival",
+   "checked": null,
+   "appel": null,
+   "name": "RE-PLAY Festival",
+   "town": "Mouans-Sartoux",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/re-play-festival",
+   "date": "2026-10-24"
+  },
+  "rencontres-internationales-du-cinema-des-antipodes": {
+   "slug": "rencontres-internationales-du-cinema-des-antipodes",
+   "checked": null,
+   "appel": null,
+   "name": "Rencontres Internationales du Cinéma des Antipodes",
+   "town": "Saint-Tropez",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/rencontres-internationales-du-cinema-des-antipodes",
+   "date": "2026-10-15"
+  },
+  "rencontres-musicales-de-bonnieux": {
+   "slug": "rencontres-musicales-de-bonnieux",
+   "checked": null,
+   "appel": null,
+   "name": "Rencontres Musicales de Bonnieux",
+   "town": "Bonnieux",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/rencontres-musicales-de-bonnieux",
+   "date": "2026-07-02"
+  },
+  "rencontres-musicales-de-haute-provence": {
+   "slug": "rencontres-musicales-de-haute-provence",
+   "checked": null,
+   "appel": null,
+   "name": "Rencontres Musicales de Haute-Provence",
+   "town": "Forcalquier",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/rencontres-musicales-de-haute-provence",
+   "date": "2026-07-19"
+  },
+  "retours-du-monde": {
+   "slug": "retours-du-monde",
+   "checked": null,
+   "appel": null,
+   "name": "Retours du Monde",
+   "town": "Saint-Jean-Saint-Nicolas",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/retours-du-monde",
+   "date": "2026-05-26"
+  },
+  "retro-rock-festival": {
+   "slug": "retro-rock-festival",
+   "checked": null,
+   "appel": null,
+   "name": "Retro Rock Festival",
+   "town": "Grasse",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/retro-rock-festival",
+   "date": "2026-07-11"
+  },
+  "rock-dici-festival-rock-de-saint-martin-les-eaux": {
+   "slug": "rock-dici-festival-rock-de-saint-martin-les-eaux",
+   "checked": "2026-10-28",
+   "appel": null,
+   "name": "Rock Dici Festival Rock De Saint Martin Les Eaux",
+   "town": null,
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/rock-dici-festival-rock-de-saint-martin-les-eaux",
+   "date": "2017-09-09"
+  },
+  "rocknrolla-festival": {
+   "slug": "rocknrolla-festival",
+   "checked": null,
+   "appel": null,
+   "name": "Rock'n'Rolla Festival",
+   "town": "Juan-les-Pins",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/rocknrolla-festival",
+   "date": "2026-07-03"
+  },
+  "rockfest-1-max-de-bruit": {
+   "slug": "rockfest-1-max-de-bruit",
+   "checked": null,
+   "appel": null,
+   "name": "Rockfest 1 Max de Bruit",
+   "town": "Nice",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/rockfest-1-max-de-bruit",
+   "date": "2026-05-08"
+  },
+  "rythmnbouffe": {
+   "slug": "rythmnbouffe",
+   "checked": null,
+   "appel": null,
+   "name": "Rythm'n'Bouffe",
+   "town": "Pierrerue",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/rythmnbouffe",
+   "date": "2025-07-05"
+  },
+  "serre-chevalier-summer-jazz-festival": {
+   "slug": "serre-chevalier-summer-jazz-festival",
+   "checked": null,
+   "appel": null,
+   "name": "Serre Chevalier Summer Jazz Festival",
+   "town": "La Salle-les-Alpes",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/serre-chevalier-summer-jazz-festival",
+   "date": "2026-08-18"
+  },
+  "soiree-venitienne": {
+   "slug": "soiree-venitienne",
+   "checked": null,
+   "appel": null,
+   "name": "Soirée Vénitienne",
+   "town": "Martigues",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/soiree-venitienne",
+   "date": "2026-07-04"
+  },
+  "soirees-estivales-des-alpes-maritimes": {
+   "slug": "soirees-estivales-des-alpes-maritimes",
+   "checked": null,
+   "appel": null,
+   "name": "Soirées Estivales des Alpes-Maritimes",
+   "town": "Nice",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/soirees-estivales-des-alpes-maritimes",
+   "date": "2026-06-26"
+  },
+  "soirees-musicales-de-labbaye-de-la-celle": {
+   "slug": "soirees-musicales-de-labbaye-de-la-celle",
+   "checked": null,
+   "appel": null,
+   "name": "Soirées Musicales de l'Abbaye de La Celle",
+   "town": "La Celle",
+   "dept": "83",
+   "url": "https://www.festivalenfrance.com/festival/soirees-musicales-de-labbaye-de-la-celle",
+   "date": "2026-07-24"
+  },
+  "tours-de-chant": {
+   "slug": "tours-de-chant",
+   "checked": null,
+   "appel": null,
+   "name": "Tours de Chant",
+   "town": "Gréoux-les-Bains",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/tours-de-chant",
+   "date": "2026-09-25"
+  },
+  "toustes-dehors-enfin": {
+   "slug": "toustes-dehors-enfin",
+   "checked": null,
+   "appel": null,
+   "name": "Toustes Dehors Enfin",
+   "town": null,
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/toustes-dehors-enfin",
+   "date": "2026-06-05"
+  },
+  "tradin-festival": {
+   "slug": "tradin-festival",
+   "checked": null,
+   "appel": null,
+   "name": "Trad'in Festival",
+   "town": "Embrun",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/tradin-festival",
+   "date": "2026-07-03"
+  },
+  "trail-la-perce-roche": {
+   "slug": "trail-la-perce-roche",
+   "checked": null,
+   "appel": null,
+   "name": "Trail la Perce-Roche",
+   "town": "Sisteron",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/trail-la-perce-roche",
+   "date": "2026-05-01"
+  },
+  "ubaye-snow-trail-salomon-trail-sur-neige-a-saint-paul-sur-ubaye": {
+   "slug": "ubaye-snow-trail-salomon-trail-sur-neige-a-saint-paul-sur-ubaye",
+   "checked": "2026-10-28",
+   "appel": null,
+   "name": "Ubaye Snow Trail Salomon Trail Sur Neige A Saint Paul Sur Ubaye",
+   "town": null,
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/ubaye-snow-trail-salomon-trail-sur-neige-a-saint-paul-sur-ubaye",
+   "date": "2023-02-19"
+  },
+  "un-ete-au-chateau-de-lemperi": {
+   "slug": "un-ete-au-chateau-de-lemperi",
+   "checked": null,
+   "appel": null,
+   "name": "Un Ete au Chateau de l'Emperi",
+   "town": "Salon-de-Provence",
+   "dept": "13",
+   "url": "https://www.festivalenfrance.com/festival/un-ete-au-chateau-de-lemperi",
+   "date": "2026-07-01"
+  },
+  "un-festival-cest-trop-court": {
+   "slug": "un-festival-cest-trop-court",
+   "checked": null,
+   "appel": null,
+   "name": "Un Festival C'est Trop Court",
+   "town": "! Nice",
+   "dept": "06",
+   "url": "https://www.festivalenfrance.com/festival/un-festival-cest-trop-court",
+   "date": "2026-10-02"
+  },
+  "un-piano-a-la-mer-festival-flottant": {
+   "slug": "un-piano-a-la-mer-festival-flottant",
+   "checked": "2026-10-28",
+   "appel": null,
+   "name": "Un Piano à la Mer, Festival Flottant",
+   "town": "Digne-les-Bains",
+   "dept": "04",
+   "url": "https://www.festivalenfrance.com/festival/un-piano-a-la-mer-festival-flottant",
+   "date": "2016-07-10"
+  },
+  "un-soir-au-parc-lisle-sur-la-sorgue": {
+   "slug": "un-soir-au-parc-lisle-sur-la-sorgue",
+   "checked": null,
+   "appel": null,
+   "name": "Un Soir Au Parc Lisle Sur La Sorgue",
+   "town": null,
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/un-soir-au-parc-lisle-sur-la-sorgue",
+   "date": "2026-07-16"
+  },
+  "vaison-danses": {
+   "slug": "vaison-danses",
+   "checked": null,
+   "appel": null,
+   "name": "Vaison Danses",
+   "town": "Vaison-la-Romaine",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/vaison-danses",
+   "date": "2026-07-10"
+  },
+  "ventoux-saveurs": {
+   "slug": "ventoux-saveurs",
+   "checked": null,
+   "appel": null,
+   "name": "Ventoux Saveurs",
+   "town": "Villes-sur-Auzon",
+   "dept": "84",
+   "url": "https://www.festivalenfrance.com/festival/ventoux-saveurs",
+   "date": "2026-09-13"
+  },
+  "verticalete": {
+   "slug": "verticalete",
+   "checked": null,
+   "appel": null,
+   "name": "Vertical'Été",
+   "town": "Mont-Dauphin",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/verticalete",
+   "date": "2026-08-07"
+  },
+  "violoncelles-en-folie": {
+   "slug": "violoncelles-en-folie",
+   "checked": null,
+   "appel": null,
+   "name": "Violoncelles en Folie",
+   "town": "Villar-Saint-Pancrace",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/violoncelles-en-folie",
+   "date": "2026-08-01"
+  },
+  "viva-il-cine": {
+   "slug": "viva-il-cine",
+   "checked": null,
+   "appel": null,
+   "name": "Viva il Ciné",
+   "town": "! Veynes",
+   "dept": "05",
+   "url": "https://www.festivalenfrance.com/festival/viva-il-cine",
+   "date": "2026-03-19"
+  }
+ }
+}
