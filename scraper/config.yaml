@@ -299,3 +299,6 @@ pages_surveillees:
   - nom: "Mairie Marseille 11e-12e – appels à manifestation d'intérêt"
     url: "https://marseille1112.fr/appels-manifestations-d-interet"
     ville: "Marseille"
+  - nom: "Ville de Toulon – food trucks Noël place Monsenergue"
+    url: "https://demarches.toulon.fr/infos_demarches/appel-a-projets/appel-a-candidatures-marche-de-noel-2026-place-monsenergue/"
+    ville: "Toulon"
