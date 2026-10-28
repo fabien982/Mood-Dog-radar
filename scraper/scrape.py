@@ -774,6 +774,21 @@ def scan_agenda(page: dict) -> list[dict]:
     return out
 
 
+
+def own_block(a):
+    """Le plus grand bloc autour d'un lien qui ne contient QUE ce lien
+    (évite de mélanger deux annonces voisines dans une même fiche)."""
+    best, node = a, a
+    for _ in range(6):
+        node = node.parent
+        if node is None or node.name in ("body", "html", "main"):
+            break
+        hrefs = {x.get("href") for x in node.find_all("a", href=True)}
+        if len(hrefs) > 1 or len(node.get_text(" ")) > 900:
+            break
+        best = node
+    return best
+
 def src_pages() -> tuple[list[dict], list[str]]:
     out: list[dict] = []
     errors: list[str] = []
@@ -804,7 +819,7 @@ def src_pages() -> tuple[list[dict], list[str]]:
             kept = 0
             for a in soup.find_all("a", href=True):
                 text = clean(a.get_text(" "))
-                context = clean((a.find_parent(["article", "li", "p", "div"]) or a).get_text(" "))[:500]
+                context = clean(own_block(a).get_text(" "))[:600]
                 if len(text) < 8 or not contains_any(norm(context), KW_MAIN):
                     continue
                 link = urljoin(url, a["href"])
@@ -876,7 +891,10 @@ def verify_links(events: list[dict], budget: int = 200) -> list[dict]:
     keep_unreadable = bool(conf.get("garder_illisibles", False))
     out = []
     for ev in events:
-        if ev.get("source") not in ("Recherche web", "Alerte Google") or ev.get("lien_ok"):
+        watched = {(pg.get("url") or "").rstrip("/") for pg in CFG.get("pages_surveillees") or []}
+        page_link = (ev.get("source") == "Page surveillée" and ev.get("mode", "demandes") == "demandes"
+                     and ev.get("url", "").rstrip("/") not in watched)
+        if ev.get("source") not in ("Recherche web", "Alerte Google") and not page_link or ev.get("lien_ok"):
             out.append(ev)
             continue
         if budget <= 0:
@@ -888,6 +906,10 @@ def verify_links(events: list[dict], budget: int = 200) -> list[dict]:
         except Exception:
             got = None
         time.sleep(0.4)
+        if not got and page_link:
+            ev["lien_ok"] = "page source"  # fiche officielle sans page détail lisible : on garde
+            out.append(ev)
+            continue
         if not got:
             if keep_unreadable:
                 ev["lien_ok"] = "illisible"
@@ -895,7 +917,9 @@ def verify_links(events: list[dict], budget: int = 200) -> list[dict]:
             continue  # page illisible : impossible de vérifier, on l'écarte
         title, text = got
         again = make_event(ev["source"], title or ev["title"], ev["url"], summary=text[:1500],
-                           mode=ev.get("mode", "demandes"))
+                           organizer=ev.get("organizer") or "", mode=ev.get("mode", "demandes"))
+        if again is None and page_link:
+            continue  # la page détail ne confirme pas : on écarte
         if again is None:
             continue  # la vraie page ne correspond pas (autre région, pas de food truck, passé…)
         for k in ("found_at", "contact", "contact_checked"):
