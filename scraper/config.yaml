@@ -197,6 +197,12 @@ motscles:
     - food truck trouvé
     - candidatures closes
     - candidatures sont closes
+    - restauration collective
+    - restauration scolaire
+    - mobilier
+    - fournitures
+    - denrées alimentaires
+    - portage de repas
 
 # Expressions supplémentaires qui montrent qu'on cherche un food truck
 # (en plus de celles déjà connues du robot : appel à candidatures, recherche food truck, AOT, exposants...)

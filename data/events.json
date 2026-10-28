@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-28T14:05:03+00:00",
- "count": 182,
+ "count": 180,
  "new_count": 6,
  "sources": {
   "BOAMP": {
@@ -675,68 +675,6 @@
    "fiable": false,
    "score": 90,
    "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "a32fb82f9219",
-   "title": "Prestation de service de restauration collective pour le commune de Miramas",
-   "summary": "Avis de marché. Restauration collective",
-   "type": "Marché public",
-   "source": "BOAMP",
-   "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-96901",
-   "organizer": "Commune de Miramas",
-   "city": "Miramas",
-   "dept": "13",
-   "lat": 43.5828,
-   "lon": 5.00978,
-   "approx": false,
-   "deadline": "2026-11-05",
-   "event_date": null,
-   "published": "2026-10-08",
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "restauration"
-   ],
-   "fiable": true,
-   "score": 85,
-   "found_at": "2026-10-28T14:05:03+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "912abab1d011",
-   "title": "EAO0226 - CAISSE DES ECOLES - Fournitures des mobiliers scolaires, extra-scolaires, de restauration et services associés - Accord-cadre à marchés subséquents et à bons de commande - Relance",
-   "summary": "Avis de marché. Mobilier",
-   "type": "Marché public",
-   "source": "BOAMP",
-   "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103228",
-   "organizer": "Caisse des écoles de la commune d'Hyères",
-   "city": "Hyères",
-   "dept": "83",
-   "lat": 43.11673,
-   "lon": 6.20255,
-   "approx": false,
-   "deadline": "2026-11-25",
-   "event_date": null,
-   "published": "2026-10-25",
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "restauration"
-   ],
-   "fiable": true,
-   "score": 85,
-   "found_at": "2026-10-28T14:05:03+00:00",
    "contact_checked": true
   },
   {
