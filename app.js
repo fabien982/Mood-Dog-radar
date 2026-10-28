@@ -18,7 +18,7 @@ const $ = (s, el = document) => el.querySelector(s);
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
 let DATA = { events: [], sources: {} };
-let view = "liste", filter = "tout", query = "", dept = "", sort = "echeance";
+let view = "liste", filter = "demandes", query = "", dept = "", sort = "echeance";
 let me = null, map = null, layer = null;
 
 /* ---------- mémoire du téléphone (favoris, statuts, notes) ---------- */
@@ -90,6 +90,7 @@ function ago(iso) {
   const j = Math.round(h / 24);
   return `il y a ${j} jour${j > 1 ? "s" : ""}`;
 }
+function isDemande(ev) { return TYPE_CLASS[ev.type] === "cand" || TYPE_CLASS[ev.type] === "marche"; }
 function isNew(ev) {
   return !state.seen[ev.id] && ev.found_at && Date.now() - new Date(ev.found_at) < 4 * 86400000;
 }
@@ -125,7 +126,9 @@ function visible() {
     const st = state.status[ev.id] || "etudier";
     if (filter === "masque") return st === "masque";
     if (st === "masque") return false;
-    if (filter === "nouv" && !isNew(ev)) return false;
+    if (filter === "demandes" && !isDemande(ev)) return false;
+    if (filter === "verif" && !ev.fiable) return false;
+    if (filter === "nouv" && !(isNew(ev) && isDemande(ev))) return false;
     if (filter === "revoir" && !["revoir", "postuler"].includes(st)) return false;
     if (filter === "envoye" && st !== "envoye") return false;
     if (filter === "relancer" && st !== "relancer") return false;
@@ -147,7 +150,8 @@ function visible() {
     score: (e) => -(e.score || 0),
     distance: (e) => (me && e.lat != null ? km(me, e) : 1e9),
   }[sort];
-  list.sort((a, b) => (key(a) < key(b) ? -1 : key(a) > key(b) ? 1 : (b.score || 0) - (a.score || 0)));
+  list.sort((a, b) => (filter === "demandes" && !!b.fiable - !!a.fiable) ||
+    (key(a) < key(b) ? -1 : key(a) > key(b) ? 1 : (b.score || 0) - (a.score || 0)));
   return list;
 }
 
@@ -176,7 +180,8 @@ function card(ev) {
     <div class="body">
       <div class="meta">
         ${isNew(ev) ? '<span class="tag new">Nouveau</span>' : ""}
-        <span class="tag ${TYPE_CLASS[ev.type] || ""}">${esc(ev.type)}</span>
+        ${ev.fiable ? '<span class="tag ok">✓ Vérifiée</span>' : isDemande(ev) ? '<span class="tag warn">À vérifier</span>' : '<span class="tag">À démarcher</span>'}
+        <span class="tag ${TYPE_CLASS[ev.type] || ""}">${esc(ev.type === "Événement" ? "Fête / événement" : ev.type)}</span>
         ${st && st !== "etudier" ? `<span class="tag st">${esc(STATUS[st])}</span>` : ""}
         ${hasContact(ev) ? '<span class="tag">Contact</span>' : ""}
       </div>
@@ -195,7 +200,8 @@ function emptyState() {
       Actions de GitHub (voir le bouton ⓘ en haut).</div>`;
   }
   const tips = {
-    nouv: ["Aucune nouvelle opportunité", "Le robot repasse vers 7 h et 17 h. En attendant, regarde « Toutes »."],
+    verif: ["Aucune demande vérifiée pour l'instant", "Les demandes vérifiées viennent des sites officiels (mairies, marchés publics). Regarde aussi « Demandes »."],
+    nouv: ["Aucune nouvelle demande", "Le robot repasse vers 7 h et 17 h. En attendant, regarde « Toutes »."],
     revoir: ["Rien à revoir", "Dans une fiche, choisis « À revoir » pour la retrouver ici."],
     envoye: ["Aucune candidature en attente", "Quand tu as postulé, choisis « Candidature envoyée » dans la fiche."],
     relancer: ["Personne à relancer", "Choisis « À relancer » dans une fiche quand un organisateur ne répond pas."],
@@ -207,11 +213,12 @@ function emptyState() {
 function render() {
   const list = visible();
   const total = DATA.events.filter((e) => state.status[e.id] !== "masque").length;
-  const fresh = DATA.events.filter(isNew).length;
-  $("#subtitle").textContent = `${total} opportunité${total > 1 ? "s" : ""}${fresh ? `, dont ${fresh} nouvelle${fresh > 1 ? "s" : ""}` : ""}. Mise à jour ${ago(DATA.updated)}`;
+  const dem = DATA.events.filter((e) => isDemande(e) && state.status[e.id] !== "masque");
+  const ok = dem.filter((e) => e.fiable).length;
+  $("#subtitle").textContent = `${dem.length} demande${dem.length > 1 ? "s" : ""} de food truck, dont ${ok} vérifiée${ok > 1 ? "s" : ""} · ${total - dem.length} fêtes à démarcher. Mise à jour ${ago(DATA.updated)}`;
   const alive = DATA.events.filter((e) => state.status[e.id] !== "masque");
   const count = (k) => alive.filter((e) => state.status[e.id] === k).length;
-  $("#n-nouv").textContent = alive.filter(isNew).length;
+  $("#n-nouv").textContent = alive.filter((e) => isNew(e) && isDemande(e)).length;
   $("#n-relancer").textContent = count("relancer");
   $("#n-envoye").textContent = count("envoye");
   $("#liste").innerHTML = list.length ? list.map(card).join("") : emptyState();

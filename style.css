@@ -143,6 +143,8 @@ main { max-width: 760px; margin: 0 auto; }
 .tag.marche { background: #DCE6FA; color: #1B3A78; }
 .tag.event { background: #E3EDD5; color: #36501A; }
 .tag.new { background: var(--ketchup); color: #fff; }
+.tag.ok { background: #DDEBCB; color: #2F4A14; }
+.tag.warn { background: #F6E3C8; color: #7A4A12; }
 .tag.st { background: var(--nuit); color: #fff; }
 @media (prefers-color-scheme: dark) {
   .tag.cand { background: #4A3A10; color: #FFD65C; }

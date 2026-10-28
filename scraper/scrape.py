@@ -364,6 +364,11 @@ def is_promo(nt: str) -> bool:
 KW_EVENTS = KW.get("evenements", ["fete", "festival", "marche nocturne", "vide-grenier", "brocante",
                                     "feria", "foire", "corso", "carnaval", "concert", "guinguette"])
 RE_EVENT_BAD = re.compile(r"\bannule|retour en images|en photos|bilan de|replay|resultats? du")
+# Un food truck qui parle de lui (ce n'est pas une demande)
+RE_SELF = re.compile(
+    r"cherche (son|un|notre|mon) (nouvel |nouveau )?emplacement|(food[\s-]?truck|foodtruck) trouve|derniere soiree"
+    r"|\bce (lundi|mardi|mercredi|jeudi|vendredi|samedi|dimanche)\b|nouvelle place|en place sur le marche|je serai|on sera"
+)
 
 
 def km_between(lat1: float, lon1: float, lat2: float, lon2: float) -> float:
@@ -449,6 +454,8 @@ def make_event(source: str, title: str, url: str, summary: str = "", organizer: 
             return None
     elif source != "BOAMP" and (not has_signal(nt) or is_promo(nt)):
         return None
+    if not events_mode and RE_SELF.search(nt) and not RE_STRONG.search(nt):
+        return None
 
     web = source in ("Recherche web", "Alerte Google")
     if web:
@@ -482,6 +489,15 @@ def make_event(source: str, title: str, url: str, summary: str = "", organizer: 
             return None
     bonus = contains_any(nt, KW_BONUS)
     kind = classify(nt, source)
+    in_zone = bool(loc["dept"] in DEPTS) if DEPTS else True
+    if web and not events_mode and kind != "Événement" and (not in_zone or loc.get("approx") and not loc.get("city")):
+        zone_names = [norm(t) for t in TOWNS + CFG.get("zones_recherche", [])] + ["var", "bouches-du-rhone", "alpes-maritimes", "vaucluse"]
+        if not (in_zone and contains_any(nt, zone_names)):
+            return None  # demande trouvée sur le web sans lieu sûr dans ta zone
+    # « Vérifiée » : source officielle, ou appel clair (candidature, AOT, recherche de food truck) dans ta zone
+    # « Vérifiée » = source officielle (marchés publics, sites de mairies, Wikifoodtruck…).
+    # Les demandes trouvées sur le web ou Facebook restent « à vérifier ».
+    fiable = kind != "Événement" and in_zone and source in ("BOAMP", "Page surveillée")
     if source in ("Recherche web", "Alerte Google") and kind == "Événement" and not events_mode:
         return None  # côté « demandes », le web ne garde que les appels et les recherches de food truck
     if events_mode and not (event_date or deadline):
@@ -508,6 +524,7 @@ def make_event(source: str, title: str, url: str, summary: str = "", organizer: 
         "mode": mode,
         "via": via_label(url),
         "keywords": sorted(set(main + bonus))[:8],
+        "fiable": fiable,
         "score": min(100, score),
     }
 
