@@ -1066,7 +1066,9 @@ def check_festivals(store: dict, brave: str | None, serper: str | None) -> list[
         q = f'"{f["name"]}" "food truck" OR foodtruck OR restauration OR exposants candidature OR "appel à candidatures" {years}'
         try:
             results = _brave(q, brave) if brave else _serper(q, serper)
-        except Exception:
+        except Exception as exc:
+            log(f"Festival {f['name']} : recherche impossible ({exc.__class__.__name__})")
+            time.sleep(2)  # on laisse respirer l'API avant le suivant
             continue
         f["checked"] = TODAY.isoformat()
         key = [w for w in _slug(f["name"]).split("-") if len(w) > 3 and w not in ("festival", "fete", "foire")]
