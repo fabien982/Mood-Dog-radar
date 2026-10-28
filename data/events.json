@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T15:14:20+00:00",
+ "updated": "2026-10-28T15:55:45+00:00",
  "count": 71,
  "new_count": 0,
  "sources": {
@@ -13,12 +13,13 @@
   },
   "Recherche web": {
    "ok": true,
-   "found": 0
+   "found": 0,
+   "note": "recherche web faite le matin seulement (économise le quota)"
   },
   "Festivals PACA": {
    "ok": true,
-   "found": 1,
-   "note": "359 festivals suivis, 359 nouveaux"
+   "found": 0,
+   "note": "359 festivals suivis"
   },
   "Pages surveillées": {
    "ok": true,
