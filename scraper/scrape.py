@@ -233,7 +233,7 @@ DEPT_CENTER = {
     "13": (43.54, 5.09), "83": (43.46, 6.22), "84": (44.00, 5.18),
 }
 # code postal suivi d'un nom de ville (évite de confondre avec « 10000 visiteurs »)
-RE_DEPT_PAREN = re.compile(r"\((0[1-9]|[1-8]\d|9[0-5]|2[AB])\)")
+RE_DEPT_PAREN = re.compile(r"\((0[1-9]|[1-8]\d|9[0-5]|2[AB]|97[1-6])\)")
 REGION_WORDS = ["provence", "paca", "cote d'azur", "luberon", "camargue", "alpilles", "verdon",
                 "sainte-baume", "calanques", "riviera", "haute-provence", "pays d'aix"]
 RE_POSTCODE = re.compile(r"\b((?:0[1-9]|[1-8]\d|9[0-5])\d{3})\s+[A-ZÀ-Ý]")

@@ -1,6 +1,6 @@
 {
  "updated": "2026-10-28T13:18:09+00:00",
- "count": 210,
+ "count": 209,
  "new_count": 7,
  "sources": {
   "BOAMP": {
@@ -195,49 +195,6 @@
     "emplacement",
     "food truck",
     "food-truck"
-   ],
-   "score": 100,
-   "found_at": "2026-10-28T13:18:09+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "5e9995591a46",
-   "title": "Saint-André (974) : Occupation du domaine public 2027 Ouvert, J-23 Date limite : 20 novembre 2026 Les candidatures pour l'occupation du domaine public en 2027 sont ouvertes. Les emplacements sont destinés aux restaurateu",
-   "summary": "Nice (06) : AOT campus universitaire pour food truck Ouvert, J-1 Date limite : 29 octobre 2026 à 12h00 L'Université Côte d'Azur lance un appel à candidatures pour l'occupation temporaire du domaine public sur le campus universitaire George V. Cet appel concerne l'exploitation d'une activité de restauration mobile, type food truck. Les candidats doivent soumettre leurs dossiers par voie dématérialisée avant le 29 octobre 2026. Emplacement permanent Alpes-Maritimes Allauch (13) : Appel à candidatu",
-   "type": "Appel à candidatures",
-   "source": "Page surveillée",
-   "url": "https://wikifoodtruck.fr/appels-food-truck/saint-andre-occupation-du-domaine-public-2027",
-   "organizer": "Wikifoodtruck – appels à candidatures des mairies",
-   "city": "Nice",
-   "dept": "06",
-   "lat": 43.71273,
-   "lon": 7.25531,
-   "approx": false,
-   "deadline": "2026-11-20",
-   "event_date": "2026-11-20",
-   "published": null,
-   "contact": {
-    "emails": [
-     "francois@wikifoodtruck.fr"
-    ],
-    "phones": [
-     "02 62 58 88 67"
-    ],
-    "forms": [
-     "https://www.saint-andre.re/appel-a-candidatures-occupation-du-domaine-public-2027/",
-     "https://www.saint-andre.re/wp-content/uploads/2026/10/appel-a-candidature-domaine-publique-2027.pdf",
-     "https://wikifoodtruck.fr/appels-food-truck/saint-denis-appel-a-manifestation-d-interet-food-truck-2024"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "AOT",
-    "appel à candidatures",
-    "emplacement",
-    "food truck",
-    "food trucks",
-    "occupation du domaine public"
    ],
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",

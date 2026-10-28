@@ -299,8 +299,3 @@ pages_surveillees:
   - nom: "Mairie Marseille 11e-12e – appels à manifestation d'intérêt"
     url: "https://marseille1112.fr/appels-manifestations-d-interet"
     ville: "Marseille"
-  - nom: "Fest.fr – foires et salons du Var"
-    url: "https://www.fest.fr/agenda/var/marches-foires-et-salons"
-    type: evenements
-    pages: 2
-
