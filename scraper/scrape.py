@@ -142,6 +142,27 @@ def find_dates(text: str, guess_year: bool = True) -> tuple[str | None, str | No
             event_date.isoformat() if event_date else None)
 
 
+RE_EXPLICIT_DL = re.compile(r"(date limite(?: de (?:depot|candidature|reponse))?|clotur\w*|au plus tard le|avant le)\s*:?\s*(?:le\s*)?")
+
+
+def explicit_deadline(text: str) -> date | None:
+    """« Date limite : 5 juin 2026 » → 2026-06-05 (même si c'est déjà passé)."""
+    t = norm(text)
+    for m in RE_EXPLICIT_DL.finditer(t):
+        frag = t[m.end():m.end() + 40]
+        mt = RE_TXT.match(frag) or RE_TXT.search(frag[:25])
+        if mt and mt.group(3):
+            d = _mk_date(int(mt.group(1)), MONTHS[mt.group(2)], int(mt.group(3)))
+            if d:
+                return d
+        mn = RE_NUM.match(frag) or RE_NUM.search(frag[:15])
+        if mn:
+            d = _mk_date(int(mn.group(1)), int(mn.group(2)), int(mn.group(3)))
+            if d:
+                return d
+    return None
+
+
 # -------------------------------------------------------------- contacts ---
 
 RE_EMAIL = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9-]+(?:\.[A-Za-z0-9-]+)*\.[A-Za-z]{2,}")
@@ -462,6 +483,11 @@ def make_event(source: str, title: str, url: str, summary: str = "", organizer: 
         years = [int(y) for y in re.findall(r"\b(20[1-3]\d)\b", full)]
         if years and max(years) < TODAY.year:
             return None  # l'annonce ne parle que d'années passées
+    exp = explicit_deadline(full)
+    if exp:
+        if exp < TODAY:
+            return None  # la date limite écrite dans l'annonce est déjà passée
+        deadline = exp.isoformat()
     if not deadline and not event_date:
         deadline, event_date = find_dates(full, guess_year=not web)
     if deadline and deadline < TODAY.isoformat():
