@@ -538,7 +538,11 @@ def src_boamp() -> list[dict]:
     base = "https://boamp-datadila.opendatasoft.com/api/explore/v2.1/catalog/datasets/boamp/records"
     since = (TODAY - timedelta(days=int(conf.get("jours", 120)))).isoformat()
     out: list[dict] = []
-    for term in conf.get("termes", []):
+    # Termes « food truck » directs, puis termes d'occupation du domaine public
+    # (buvettes, kiosques, AOT…) gardés seulement s'ils parlent de restauration.
+    context = [norm(w) for w in conf.get("contexte_restauration", [])]
+    plan = [(t, None) for t in conf.get("termes", [])] + [(t, context) for t in conf.get("termes_occupation", [])]
+    for term, ctx in plan:
         attempts = [
             {"where": f"\"{term}\" AND dateparution >= date'{since}'", "order_by": "dateparution desc", "limit": 100},
             {"where": f"\"{term}\"", "order_by": "dateparution desc", "limit": 100},
@@ -575,7 +579,7 @@ def src_boamp() -> list[dict]:
             dl = str(rec.get("datelimitereponse") or "")[:10] or None
             ev = make_event("BOAMP", rec.get("objet") or "", url, summary=f"{nature}. {desc}",
                             organizer=buyer, city_hint=city_hint, depts=depts, deadline=dl,
-                            published=pub, required_terms=[term] + KW_MAIN)
+                            published=pub, required_terms=(ctx if ctx else [term] + KW_MAIN))
             if ev:
                 out.append(ev)
         time.sleep(0.5)

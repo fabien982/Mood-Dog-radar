@@ -222,6 +222,28 @@ boamp:
     - commerce ambulant
     - camion restaurant
     - vente ambulante
+  # Appels d'occupation du domaine public (buvettes, kiosques, plages, festivals...)
+  # gardés seulement s'ils contiennent un mot de « contexte_restauration ».
+  termes_occupation:
+    - occupation du domaine public
+    - occupation temporaire du domaine public
+    - autorisation d'occupation temporaire
+    - convention d'occupation
+    - buvette
+    - petite restauration
+    - restauration rapide
+  contexte_restauration:
+    - restauration
+    - buvette
+    - snack
+    - food truck
+    - foodtruck
+    - petite restauration
+    - restauration rapide
+    - glacier
+    - crêperie
+    - vente à emporter
+    - alimentaire
 
 # --- Source 2 : Alertes Google (gratuit) -------------------------------
 # Crée des alertes sur https://www.google.fr/alerts avec « Diffuser via : Flux RSS »,
@@ -258,6 +280,30 @@ recherche_web:
       modeles:
         - 'site:instagram.com "food truck" "appel à candidatures" OR recherche OR recherchons {zone}'
         - 'site:instagram.com "food trucks" exposants OR inscriptions {zone}'
+
+    - nom: "Mairies de ma zone"
+      type: demandes
+      tous_les_jours: 1
+      max: 24
+      modeles:
+        - 'site:ville-frejus.fr "food truck" OR "avis de publicité" OR "occupation du domaine public"'
+        - 'site:ville-saintraphael.fr "food truck" OR "appel à candidatures" OR "occupation du domaine public"'
+        - 'site:mairie-grimaud.fr OR site:grimaud-provence.com "food truck" OR "appel à candidatures" OR exposants'
+        - 'site:ville-sainttropez.fr "food truck" OR "appel à candidatures" OR "occupation du domaine public"'
+        - 'site:cannes.com OR site:vosdemarches.cannes.com "food truck" OR "avis de publicité" OR "restauration ambulante"'
+        - 'site:nice.fr OR site:nicecotedazur.org "food truck" OR "appel à manifestation" OR "restauration ambulante"'
+        - 'mairie "food truck" "appel à candidatures" Sainte-Maxime OR Roquebrune-sur-Argens OR Puget-sur-Argens OR "Le Muy" OR Draguignan'
+        - 'mairie "food truck" "appel à candidatures" Mandelieu OR Antibes OR Grasse OR Cagnes-sur-Mer OR Hyères OR Cogolin'
+
+    - nom: "Festivals, domaines et châteaux"
+      type: demandes
+      tous_les_jours: 3
+      max: 24
+      modeles:
+        - 'festival musique "food truck" exposants OR candidature OR "recherche" {zone} {annee}'
+        - 'domaine viticole OR château "food truck" recherche OR candidature OR exposants {zone}'
+        - 'domaine OR château "afterwork" OR "soirée" "food truck" {zone} {annee}'
+        - 'festival "restauration" "appel à candidatures" OR "dossier exposant" {zone} {annee}'
 
     - nom: "Fêtes et festivals"
       type: evenements        # toutes les fêtes à venir, pour démarcher toi-même les organisateurs
@@ -302,3 +348,12 @@ pages_surveillees:
   - nom: "Ville de Toulon – food trucks Noël place Monsenergue"
     url: "https://demarches.toulon.fr/infos_demarches/appel-a-projets/appel-a-candidatures-marche-de-noel-2026-place-monsenergue/"
     ville: "Toulon"
+  - nom: "Ville de Fréjus – autorisations d'occupation du domaine public"
+    url: "https://www.ville-frejus.fr/fr/services-et-infos-pratiques/occupation-du-domaine-public/publicite-et-information-sur-les-autorisations-doccupation-et-dutilisation-privative-du-domaine-public/"
+    ville: "Fréjus"
+  - nom: "Ville de Nice – exploitations commerciales sur le domaine public"
+    url: "https://www.nice.fr/fr/professionnels/exploitations-commerciales-sur-le-domaine-public-de-la-ville-de-nice"
+    ville: "Nice"
+  - nom: "Métropole Nice Côte d'Azur – occupation du domaine public"
+    url: "https://www.nicecotedazur.org/metropole/administration/occupation-du-domaine-public/"
+    ville: "Nice"
