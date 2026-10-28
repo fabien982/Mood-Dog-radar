@@ -7,7 +7,7 @@
 # --- Ta zone de travail -------------------------------------------------
 # Point de départ et distance maximale (à vol d'oiseau).
 centre: {nom: "Saint-Raphaël", lat: 43.4253, lon: 6.7684}
-rayon_km: 150
+rayon_km: 250
 
 # Départements touchés par ce rayon. Les annonces ailleurs sont ignorées.
 departements: ["83", "06", "13", "04", "84", "05"]
@@ -193,6 +193,10 @@ motscles:
     - fabricant
     - aménagement de food truck
     - devenir franchisé
+    - foodtruck trouvé
+    - food truck trouvé
+    - candidatures closes
+    - candidatures sont closes
 
 # Expressions supplémentaires qui montrent qu'on cherche un food truck
 # (en plus de celles déjà connues du robot : appel à candidatures, recherche food truck, AOT, exposants...)
@@ -276,3 +280,27 @@ pages_surveillees:
     url: "https://www.esterel-cotedazur.com/en/visit/agenda/"
     type: evenements   # agenda : on garde toutes les fêtes datées
     pages: 6           # nombre de pages de l'agenda à lire
+
+  # --- Appels à candidatures officiels (ajoutés le 28/10/2026) ---
+  - nom: "Wikifoodtruck – appels à candidatures des mairies"
+    url: "https://wikifoodtruck.fr/appels-food-truck"
+  - nom: "Ville de Toulon – appels à projets"
+    url: "https://demarches.toulon.fr/infos_demarches/appel-a-projets/"
+    ville: "Toulon"
+  - nom: "Ville de La Garde – candidatures exposants"
+    url: "https://www.ville-lagarde.fr/page/candidatureexposantsevenements"
+    ville: "La Garde"
+  - nom: "Ville de Valbonne Sophia Antipolis – actualités"
+    url: "https://www.ville-valbonne.fr/actualites/"
+    ville: "Valbonne"
+  - nom: "Ville de Cannes – avis de publicité"
+    url: "https://www.cannes.com/fr/mairie/avis-de-publicite/annee-2026.html"
+    ville: "Cannes"
+  - nom: "Mairie Marseille 11e-12e – appels à manifestation d'intérêt"
+    url: "https://marseille1112.fr/appels-manifestations-d-interet"
+    ville: "Marseille"
+  - nom: "Fest.fr – foires et salons du Var"
+    url: "https://www.fest.fr/agenda/var/marches-foires-et-salons"
+    type: evenements
+    pages: 2
+
