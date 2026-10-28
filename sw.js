@@ -1,5 +1,5 @@
 /* Hors ligne : l'appli s'ouvre même sans réseau, avec la dernière liste connue. */
-const CACHE = "radar-v1";
+const CACHE = "radar-v2";
 const SHELL = ["./", "index.html", "style.css", "app.js", "manifest.webmanifest", "icons/icon.svg", "icons/icon-192.png"];
 
 self.addEventListener("install", (e) => {

@@ -3,8 +3,10 @@
 
 const STATUS = {
   etudier: "À étudier",
+  revoir: "À revoir",
   postuler: "À postuler",
   envoye: "Candidature envoyée",
+  relancer: "À relancer",
   retenu: "Retenu",
   refuse: "Refusé",
   masque: "Masqué",
@@ -123,6 +125,10 @@ function visible() {
     const st = state.status[ev.id] || "etudier";
     if (filter === "masque") return st === "masque";
     if (st === "masque") return false;
+    if (filter === "nouv" && !isNew(ev)) return false;
+    if (filter === "revoir" && !["revoir", "postuler"].includes(st)) return false;
+    if (filter === "envoye" && st !== "envoye") return false;
+    if (filter === "relancer" && st !== "relancer") return false;
     if (filter === "fav" && !state.fav[ev.id]) return false;
     if (filter === "suivi" && st === "etudier" && !state.notes[ev.id]) return false;
     if (filter === "contact" && !hasContact(ev)) return false;
@@ -188,7 +194,14 @@ function emptyState() {
       La recherche automatique passe deux fois par jour. Tu peux la lancer tout de suite depuis l'onglet
       Actions de GitHub (voir le bouton ⓘ en haut).</div>`;
   }
-  return `<div class="empty"><strong>Rien avec ces filtres</strong>Essaie « Tout » ou vide la recherche.</div>`;
+  const tips = {
+    nouv: ["Aucune nouvelle opportunité", "Le robot repasse vers 7 h et 17 h. En attendant, regarde « Toutes »."],
+    revoir: ["Rien à revoir", "Dans une fiche, choisis « À revoir » pour la retrouver ici."],
+    envoye: ["Aucune candidature en attente", "Quand tu as postulé, choisis « Candidature envoyée » dans la fiche."],
+    relancer: ["Personne à relancer", "Choisis « À relancer » dans une fiche quand un organisateur ne répond pas."],
+  }[filter];
+  if (tips && !query) return `<div class="empty"><strong>${tips[0]}</strong>${tips[1]}</div>`;
+  return `<div class="empty"><strong>Rien avec ces filtres</strong>Essaie « Toutes » ou vide la recherche.</div>`;
 }
 
 function render() {
@@ -196,6 +209,11 @@ function render() {
   const total = DATA.events.filter((e) => state.status[e.id] !== "masque").length;
   const fresh = DATA.events.filter(isNew).length;
   $("#subtitle").textContent = `${total} opportunité${total > 1 ? "s" : ""}${fresh ? `, dont ${fresh} nouvelle${fresh > 1 ? "s" : ""}` : ""}. Mise à jour ${ago(DATA.updated)}`;
+  const alive = DATA.events.filter((e) => state.status[e.id] !== "masque");
+  const count = (k) => alive.filter((e) => state.status[e.id] === k).length;
+  $("#n-nouv").textContent = alive.filter(isNew).length;
+  $("#n-relancer").textContent = count("relancer");
+  $("#n-envoye").textContent = count("envoye");
   $("#liste").innerHTML = list.length ? list.map(card).join("") : emptyState();
   if (view === "carte") drawMap(list);
 }
@@ -406,6 +424,15 @@ $("#sort").addEventListener("change", (e) => {
   render();
 });
 $("#btn-info").addEventListener("click", openInfo);
+document.querySelectorAll(".stat").forEach((b) => b.addEventListener("click", () => {
+  const target = document.querySelector(`#chips button[data-f="${b.dataset.go}"]`);
+  if (target) { target.click(); target.scrollIntoView({ block: "nearest", inline: "center" }); }
+  $("#chips").scrollIntoView({ behavior: "smooth", block: "start" });
+}));
+(() => {
+  const d = new Date();
+  $("#today span").textContent = d.toLocaleDateString("fr-FR", { day: "2-digit", month: "2-digit", year: "numeric" });
+})();
 $("#sheet").addEventListener("click", (e) => { if (e.target.id === "sheet") e.target.close(); });
 document.addEventListener("visibilitychange", () => { if (!document.hidden) load(); });
 

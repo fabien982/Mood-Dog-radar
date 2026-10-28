@@ -5,54 +5,62 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>Mood Dog Radar</title>
   <meta name="description" content="Opportunités food truck : appels à candidatures, marchés publics et événements.">
-  <meta name="theme-color" content="#16243F">
+  <meta name="theme-color" content="#F7F1E9">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
   <meta name="apple-mobile-web-app-title" content="Radar">
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header class="top">
-    <div class="brand">
-      <svg class="logo" viewBox="0 0 64 64" aria-hidden="true"><rect x="4" y="18" width="56" height="28" rx="14" fill="#E8A317"/><rect x="10" y="24" width="44" height="16" rx="8" fill="#C8322B"/><path d="M14 32c4-5 8 5 12 0s8 5 12 0 8 5 12 0" stroke="#FFD65C" stroke-width="3" fill="none" stroke-linecap="round"/></svg>
-      <div>
-        <h1>Mood Dog Radar</h1>
-        <p id="subtitle">Chargement…</p>
+    <section class="hero">
+      <div class="hero-top">
+        <p class="today" id="today">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M3.5 10h17M8 3v4M16 3v4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+          <span></span>
+        </p>
+        <button class="icon-btn" id="btn-info" aria-label="Infos sur la recherche">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 11v6M12 7.5v.5" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg>
+        </button>
       </div>
-      <button class="icon-btn" id="btn-info" aria-label="Infos sur la recherche">
-        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 11v6M12 7.5v.5" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg>
-      </button>
-    </div>
+      <h1>Bienvenue, Fabien</h1>
+      <p class="lead">Voici vos opportunités et relances du moment</p>
+      <p id="subtitle">Chargement…</p>
+    </section>
 
-    <div class="switch" role="tablist" aria-label="Affichage">
-      <button role="tab" aria-selected="true" data-view="liste">Liste</button>
-      <button role="tab" aria-selected="false" data-view="carte">Carte</button>
-    </div>
+    <section class="stats" aria-label="Résumé">
+      <button class="stat" data-go="nouv"><span>Nouvelles opportunités</span><b id="n-nouv">–</b></button>
+      <button class="stat" data-go="relancer"><span>À relancer</span><b id="n-relancer">–</b></button>
+      <button class="stat" data-go="envoye"><span>Candidatures en attente</span><b id="n-envoye">–</b></button>
+    </section>
+
+    <h2 class="section-title">À traiter</h2>
+    <p class="section-sub">Files de travail</p>
+    <nav class="chips" id="chips" aria-label="Files de travail">
+      <button data-f="nouv">☆ Nouvelles</button>
+      <button data-f="revoir">☐ À revoir</button>
+      <button data-f="envoye">✉ Candidatures</button>
+      <button data-f="relancer">↻ À relancer</button>
+      <button data-f="tout" class="on">Toutes</button>
+      <button data-f="cand">Appels à candidatures</button>
+      <button data-f="event">Fêtes et festivals</button>
+      <button data-f="marche">Marchés publics</button>
+      <button data-f="fav">Favoris</button>
+      <button data-f="masque">Masqués</button>
+    </nav>
 
     <label class="search">
       <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
-      <input id="q" type="search" placeholder="Ville, fête, marché…" autocomplete="off" aria-label="Rechercher">
+      <input id="q" type="search" placeholder="Rechercher une opportunité…" autocomplete="off" aria-label="Rechercher">
     </label>
-
-    <nav class="chips" id="chips" aria-label="Filtres">
-      <button data-f="tout" class="on">Tout</button>
-      <button data-f="cand">Candidatures</button>
-      <button data-f="date">Avec date</button>
-      <button data-f="marche">Marchés publics</button>
-      <button data-f="event">Fêtes et festivals</button>
-      <button data-f="contact">Avec contact</button>
-      <button data-f="fav">Favoris</button>
-      <button data-f="suivi">Mon suivi</button>
-      <button data-f="masque">Masqués</button>
-    </nav>
 
     <div class="tools">
       <select id="dept" aria-label="Département"><option value="">Tous les départements</option></select>
@@ -62,6 +70,11 @@
         <option value="recent">Plus récents</option>
         <option value="distance">Plus proches de moi</option>
       </select>
+    </div>
+
+    <div class="switch" role="tablist" aria-label="Affichage">
+      <button role="tab" aria-selected="true" data-view="liste">Liste</button>
+      <button role="tab" aria-selected="false" data-view="carte">Carte</button>
     </div>
   </header>
 
