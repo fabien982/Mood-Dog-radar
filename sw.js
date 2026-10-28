@@ -1,9 +1,9 @@
 /* Hors ligne : l'appli s'ouvre même sans réseau, avec la dernière liste connue. */
-const CACHE = "radar-v8";
+const CACHE = "radar-v9";
 const SHELL = ["./", "index.html", "style.css", "app.js", "manifest.webmanifest", "icons/icon.svg", "icons/icon-192.png"];
 
 self.addEventListener("install", (e) => {
-  e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));
+  e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL.map((u) => new Request(u, { cache: "reload" })))).then(() => self.skipWaiting()));
 });
 self.addEventListener("activate", (e) => {
   e.waitUntil(caches.keys().then((keys) => Promise.all(keys.filter((k) => k !== CACHE).map((k) => caches.delete(k))))
@@ -16,7 +16,7 @@ self.addEventListener("fetch", (e) => {
   if (url.origin === location.origin) {
     const key = url.pathname.endsWith("events.json") ? new Request(url.origin + url.pathname) : e.request;
     e.respondWith(
-      fetch(e.request).then((r) => {
+      fetch(e.request, { cache: "no-cache" }).then((r) => {
         if (r.ok) { const copy = r.clone(); caches.open(CACHE).then((c) => c.put(key, copy)); }
         return r;
       }).catch(() => caches.match(key).then((r) => r || caches.match("index.html")))
