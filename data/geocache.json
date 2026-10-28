@@ -1372,5 +1372,109 @@
  "zone:livre": null,
  "zone:divonne-les-bains": null,
  "zone:pau": null,
- "zone:quissac": null
+ "zone:quissac": null,
+ "zone:jouy": null,
+ "zone:greoux": {
+  "lat": 43.74654,
+  "lon": 5.85176,
+  "city": "Gréoux-les-Bains",
+  "dept": "04"
+ },
+ "zone:saint-clar-de-riviere": null,
+ "zone:gervais": null,
+ "zone:saint-remy": {
+  "lat": 43.79626,
+  "lon": 4.8367,
+  "city": "Saint-Rémy-de-Provence",
+  "dept": "13"
+ },
+ "zone:duranus": {
+  "lat": 43.89418,
+  "lon": 7.25895,
+  "city": "Duranus",
+  "dept": "06"
+ },
+ "bormes-les-mimosas": {
+  "lat": 43.14407,
+  "lon": 6.3434,
+  "city": "Bormes-les-Mimosas",
+  "dept": "83"
+ },
+ "zone:la bollene-vesubie": {
+  "lat": 43.99269,
+  "lon": 7.33746,
+  "city": "La Bollène-Vésubie",
+  "dept": "06"
+ },
+ "zone:belvedere": {
+  "lat": 44.03539,
+  "lon": 7.35142,
+  "city": "Belvédère",
+  "dept": "06"
+ },
+ "zone:port saint louis du rhone": {
+  "lat": 43.3999,
+  "lon": 4.80223,
+  "city": "Port-Saint-Louis-du-Rhône",
+  "dept": "13"
+ },
+ "zone:saint-baqui": null,
+ "zone:la grave": {
+  "lat": 45.05293,
+  "lon": 6.28743,
+  "city": "La Grave",
+  "dept": "05"
+ },
+ "zone:seyne": {
+  "lat": 44.34362,
+  "lon": 6.36867,
+  "city": "Seyne",
+  "dept": "04"
+ },
+ "zone:gordes": {
+  "lat": 43.90461,
+  "lon": 5.20604,
+  "city": "Gordes",
+  "dept": "84"
+ },
+ "tanneron": {
+  "lat": 43.58946,
+  "lon": 6.87162,
+  "city": "Tanneron",
+  "dept": "83"
+ },
+ "zone:alpes-maritimes": null,
+ "zone:labyrinthe des hautes herbes": null,
+ "zone:marches de noel": null,
+ "zone:noel de sainte-croix": null,
+ "zone:saint-francois": null,
+ "zone:camille": null,
+ "zone:noel de biot": null,
+ "zone:noel saint-etienne-de-tinee": {
+  "lat": 44.24224,
+  "lon": 6.93803,
+  "city": "Saint-Étienne-de-Tinée",
+  "dept": "06"
+ },
+ "zone:moules": null,
+ "zone:vaucresson": null,
+ "83910": {
+  "lat": 43.49877,
+  "lon": 5.73906,
+  "city": "Pourrières",
+  "dept": "83"
+ },
+ "zone:foyer rural d'eygalieres": null,
+ "zone:concorde plage": null,
+ "zone:la trinite": {
+  "lat": 43.74397,
+  "lon": 7.33453,
+  "city": "La Trinité",
+  "dept": "06"
+ },
+ "zone:citron": null,
+ "zone:martinique": null,
+ "zone:rio": null,
+ "zone:festival une": null,
+ "zone:societe": null
 }
