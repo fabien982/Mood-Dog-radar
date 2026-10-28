@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-28T14:34:45+00:00",
- "count": 84,
- "new_count": 0,
+ "updated": "2026-10-28T14:53:10+00:00",
+ "count": 77,
+ "new_count": 6,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -17,7 +17,7 @@
   },
   "Pages surveillées": {
    "ok": true,
-   "found": 28,
+   "found": 35,
    "errors": []
   }
  },
@@ -31,8 +31,8 @@
  "events": [
   {
    "id": "4b73d4eb07e3",
-   "title": "Nice (06) : AOT campus universitaire pour food truck Ouvert, J-1 Date limite : 29 octobre 2026 à 12h00 L'Université Côte d'Azur lance un appel à candidatures pour l'occupation temporaire du domaine public sur le campus u",
-   "summary": "Nice (06) : AOT campus universitaire pour food truck Ouvert, J-1 Date limite : 29 octobre 2026 à 12h00 L'Université Côte d'Azur lance un appel à candidatures pour l'occupation temporaire du domaine public sur le campus universitaire George V. Cet appel concerne l'exploitation d'une activité de restauration mobile, type food truck. Les candidats doivent soumettre leurs dossiers par voie dématérialisée avant le 29 octobre 2026. Emplacement permanent Alpes-Maritimes Allauch (13) : Appel à candidatu",
+   "title": "Nice (06) : AOT campus universitaire pour food truck | WikiFoodtruck",
+   "summary": "Nice : AOT campus universitaire pour food truck. Date limite : 29 octobre 2026 à 12h00. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Nice 📢 Appels à candidatures Nice AOT campus universitaire pour food truck Mis à jour le 28 octobre 2026 Date limite : 29 octobre 2026 à 12h00 Ouvert, J-1 L'Université Côte d'Azur lance un appel à candidatures pour l'occupation temporaire du domaine public sur le campus universitaire George V. Cet appel concerne l'exploitation d'une activité de restauration mobile, type food truck. Les candidats",
    "type": "Appel à candidatures",
    "source": "Page surveillée",
    "url": "https://wikifoodtruck.fr/appels-food-truck/nice-aot-campus-universitaire-pour-food-truck-2026",
@@ -43,7 +43,7 @@
    "lon": 7.25531,
    "approx": false,
    "deadline": "2026-10-29",
-   "event_date": "2026-10-29",
+   "event_date": "2026-10-28",
    "published": null,
    "contact": {
     "emails": [
@@ -62,30 +62,80 @@
    "via": null,
    "keywords": [
     "AOT",
+    "appel à candidature",
     "appel à candidatures",
+    "candidature",
     "emplacement",
-    "food truck"
+    "food truck",
+    "food trucks",
+    "occupation du domaine public"
    ],
    "fiable": true,
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
+   "contact_checked": true,
+   "lien_ok": "2026-10-28"
+  },
+  {
+   "id": "0b9b8f586002",
+   "title": "Marseille (13) : Installation de food trucks sur campus",
+   "summary": "Marseille : Installation de food trucks sur campus. Date limite : 17 juillet 2026 à 17h00. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Installation de food trucks sur campus Mis à jour le 28 octobre 2026 Date limite : 17 juillet 2026 à 17h00 Clos Aix Marseille Université lance un appel à manifestation d'intérêt pour l'installation de food trucks sur quatre de ses campus. Les candidatures doivent être soumises par courrier ou par mail avant le 17 juillet 2026 à 17h00. Cet appel est ",
+   "type": "Appel à candidatures",
+   "source": "Page surveillée",
+   "url": "https://wikifoodtruck.fr/appels-food-truck/marseille-installation-de-food-trucks-sur-campus-2026",
+   "organizer": "Wikifoodtruck – appels à candidatures des mairies",
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": "2026-10-29",
+   "event_date": "2026-10-28",
+   "published": null,
+   "contact": {
+    "emails": [
+     "francois@wikifoodtruck.fr",
+     "amuloc-ddpi@univ-amu.fr"
+    ],
+    "phones": [],
+    "forms": [
+     "https://wikifoodtruck.fr/appels-food-truck/nice-aot-campus-universitaire-pour-food-truck-2026",
+     "https://wikifoodtruck.fr/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026",
+     "https://wikifoodtruck.fr/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "AOT",
+    "appel à candidatures",
+    "appel à manifestation d'intérêt",
+    "candidature",
+    "emplacement",
+    "food truck",
+    "food trucks"
+   ],
+   "fiable": true,
+   "score": 100,
+   "found_at": "2026-10-28T14:53:10+00:00",
+   "lien_ok": "2026-10-28",
    "contact_checked": true
   },
   {
    "id": "7188173b79a3",
-   "title": "Allauch (13) : Appel à candidature Food Truck Noël 2026 Ouvert, J-5 Date limite : 2 novembre 2026 La Ville d'Allauch lance un appel à candidature pour l'occupation du domaine public par des food trucks décorés sur le thè",
-   "summary": "Nice (06) : AOT campus universitaire pour food truck Ouvert, J-1 Date limite : 29 octobre 2026 à 12h00 L'Université Côte d'Azur lance un appel à candidatures pour l'occupation temporaire du domaine public sur le campus universitaire George V. Cet appel concerne l'exploitation d'une activité de restauration mobile, type food truck. Les candidats doivent soumettre leurs dossiers par voie dématérialisée avant le 29 octobre 2026. Emplacement permanent Alpes-Maritimes Allauch (13) : Appel à candidatu",
+   "title": "Allauch (13) : Appel à candidature Food Truck Noël 2026",
+   "summary": "Allauch : Appel à candidature Food Truck Noël 2026. Date limite : 2 novembre 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Allauch 📢 Appels à candidatures Allauch Appel à candidature Food Truck Noël 2026 Mis à jour le 28 octobre 2026 Date limite : 2 novembre 2026 Ouvert, J-5 La Ville d'Allauch lance un appel à candidature pour l'occupation du domaine public par des food trucks décorés sur le thème de Noël. Les candidatures doivent être soumises avant le 2 novembre 2026 pour l'événement du 28 novembre 2026. Voir l'appel o",
    "type": "Appel à candidatures",
    "source": "Page surveillée",
    "url": "https://wikifoodtruck.fr/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026",
    "organizer": "Wikifoodtruck – appels à candidatures des mairies",
-   "city": "Nice",
-   "dept": "06",
-   "lat": 43.71273,
-   "lon": 7.25531,
-   "approx": false,
+   "city": null,
+   "dept": "13",
+   "lat": 43.54,
+   "lon": 5.09,
+   "approx": true,
    "deadline": "2026-11-02",
-   "event_date": "2026-11-02",
+   "event_date": "2026-10-28",
    "published": null,
    "contact": {
     "emails": [
@@ -104,10 +154,9 @@
    "mode": "demandes",
    "via": null,
    "keywords": [
-    "AOT",
     "appel à candidature",
-    "appel à candidatures",
     "candidature",
+    "commerce ambulant",
     "emplacement",
     "food truck",
     "food trucks",
@@ -116,12 +165,13 @@
    "fiable": true,
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
-   "contact_checked": true
+   "contact_checked": true,
+   "lien_ok": "2026-10-28"
   },
   {
    "id": "c4f86844a475",
-   "title": "Marseille (13) : Appel à manifestation d'intérêt food-trucks Ouvert, J-9 Date limite : 6 novembre 2026 à 12h00 Cet appel à manifestation d'intérêt est destiné aux food trucks pour les dates du 11 au 13 décembre 2026. Les",
-   "summary": "Nice (06) : AOT campus universitaire pour food truck Ouvert, J-1 Date limite : 29 octobre 2026 à 12h00 L'Université Côte d'Azur lance un appel à candidatures pour l'occupation temporaire du domaine public sur le campus universitaire George V. Cet appel concerne l'exploitation d'une activité de restauration mobile, type food truck. Les candidats doivent soumettre leurs dossiers par voie dématérialisée avant le 29 octobre 2026. Emplacement permanent Alpes-Maritimes Allauch (13) : Appel à candidatu",
+   "title": "Marseille (13) : Appel à manifestation d'intérêt food-trucks",
+   "summary": "Marseille : Appel à manifestation d'intérêt food-trucks. Date limite : 6 novembre 2026 à 12h00. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Appel à manifestation d'intérêt food-trucks Mis à jour le 28 octobre 2026 Date limite : 6 novembre 2026 à 12h00 Ouvert, J-9 Cet appel à manifestation d'intérêt est destiné aux food trucks pour les dates du 11 au 13 décembre 2026. Les candidats doivent soumettre leurs dossiers par courrier recommandé avec accusé de réception. Voir l'appel offici",
    "type": "Appel à candidatures",
    "source": "Page surveillée",
    "url": "https://wikifoodtruck.fr/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2",
@@ -132,7 +182,7 @@
    "lon": 5.405,
    "approx": false,
    "deadline": "2026-11-06",
-   "event_date": "2026-12-13",
+   "event_date": "2026-10-28",
    "published": null,
    "contact": {
     "emails": [
@@ -158,13 +208,14 @@
    "fiable": true,
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
-   "contact_checked": true
+   "contact_checked": true,
+   "lien_ok": "2026-10-28"
   },
   {
    "id": "0bd01dc36ce3",
-   "title": "Marseille (13) : Food-truck solidaire Noël au Palais 2026 Ouvert, J-11 Date limite : 8 novembre 2026 Réservé aux structures de l'économie sociale et solidaire (ESS) : la mairie des 4e et 5e arrondissements cherche un foo",
-   "summary": "Nice (06) : AOT campus universitaire pour food truck Ouvert, J-1 Date limite : 29 octobre 2026 à 12h00 L'Université Côte d'Azur lance un appel à candidatures pour l'occupation temporaire du domaine public sur le campus universitaire George V. Cet appel concerne l'exploitation d'une activité de restauration mobile, type food truck. Les candidats doivent soumettre leurs dossiers par voie dématérialisée avant le 29 octobre 2026. Emplacement permanent Alpes-Maritimes Allauch (13) : Appel à candidatu",
-   "type": "Appel à candidatures",
+   "title": "Marseille (13) : Food-truck solidaire Noël au Palais 2026",
+   "summary": "Marseille : Food-truck solidaire Noël au Palais 2026. Date limite : 8 novembre 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Food-truck solidaire Noël au Palais 2026 Mis à jour le 28 octobre 2026 Date limite : 8 novembre 2026 Ouvert, J-11 Réservé aux structures de l'économie sociale et solidaire (ESS) : la mairie des 4e et 5e arrondissements cherche un food truck solidaire (snacks et douceurs, pas de repas complets, avec un volet social ou d'insertion) pour Noël au Palais, au p",
+   "type": "Recherche un food truck",
    "source": "Page surveillée",
    "url": "https://wikifoodtruck.fr/appels-food-truck/marseille-food-truck-solidaire-noel-au-palais-2026",
    "organizer": "Wikifoodtruck – appels à candidatures des mairies",
@@ -174,7 +225,7 @@
    "lon": 5.405,
    "approx": false,
    "deadline": "2026-11-08",
-   "event_date": "2026-12-26",
+   "event_date": "2026-10-28",
    "published": null,
    "contact": {
     "emails": [
@@ -191,8 +242,6 @@
    "mode": "demandes",
    "via": null,
    "keywords": [
-    "AOT",
-    "appel à candidatures",
     "candidature",
     "cherche",
     "emplacement",
@@ -202,16 +251,17 @@
    "fiable": true,
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
-   "contact_checked": true
+   "contact_checked": true,
+   "lien_ok": "2026-10-28"
   },
   {
-   "id": "d767018c5b2f",
+   "id": "8651d5861580",
    "title": "La Garde (83) : Appel à candidatures food-truck | WikiFoodtruck",
    "summary": "La Garde : Appel à candidatures food-truck. Date limite : 5 juin 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › La Garde 📢 Appels à candidatures La Garde Appel à candidatures food-truck Mis à jour le 28 octobre 2026 Date limite : 5 juin 2026 Clos La Ville de La Garde lance un appel à candidatures pour l'occupation temporaire d'un emplacement public destiné aux food trucks. Les candidatures doivent être soumises avant le 5 juin 2026. L'emplacement est situé sur un parking en bordure de l'Avenue de la Paix et de l'Allée des",
    "type": "Appel à candidatures",
-   "source": "Recherche web",
+   "source": "Page surveillée",
    "url": "https://wikifoodtruck.fr/appels-food-truck/la-garde-appel-a-candidatures-food-truck-2026",
-   "organizer": null,
+   "organizer": "Wikifoodtruck – appels à candidatures des mairies",
    "city": null,
    "dept": "83",
    "lat": 43.46,
@@ -227,8 +277,8 @@
     "phones": [],
     "forms": [
      "https://files.appli-intramuros.com/website/uploads/34932/2026/avis_appel_candidat_valant_reglement_procedure_emplacement_n2.pdf",
-     "https://wikifoodtruck.fr/appels-food-truck/nice-convention-food-truck-universite-cote-d-azur-2026",
-     "https://wikifoodtruck.fr/appels-food-truck/nice-aot-campus-universitaire-pour-food-truck-2026"
+     "https://wikifoodtruck.fr/appels-food-truck/nice-aot-campus-universitaire-pour-food-truck-2026",
+     "https://wikifoodtruck.fr/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026"
     ]
    },
    "mode": "demandes",
@@ -241,11 +291,275 @@
     "food trucks",
     "food-truck"
    ],
-   "fiable": false,
+   "fiable": true,
    "score": 100,
-   "found_at": "2026-10-20T05:39:57+00:00",
+   "found_at": "2026-10-28T14:53:10+00:00",
+   "lien_ok": "2026-10-28",
+   "contact_checked": true
+  },
+  {
+   "id": "49cdc810814f",
+   "title": "Marseille (13) : Food trucks et bar festival été 2026 | WikiFoodtruck",
+   "summary": "Marseille : Food trucks et bar festival été 2026. Date limite : 31 mars 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Food trucks et bar festival été 2026 Mis à jour le 28 octobre 2026 Date limite : 31 mars 2026 Clos La Mairie des 4ᵉ et 5ᵉ arrondissements de Marseille lance un appel à manifestation d'intérêt pour l'installation de food trucks et d'un bar mobile lors d'événements culturels durant l'été 2026. Les candidats doivent soumettre leurs propositions avant le 31 mars 202",
+   "type": "Appel à candidatures",
+   "source": "Page surveillée",
+   "url": "https://wikifoodtruck.fr/appels-food-truck/marseille-food-trucks-et-bar-festival-ete-2026",
+   "organizer": "Wikifoodtruck – appels à candidatures des mairies",
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-28",
+   "published": null,
+   "contact": {
+    "emails": [
+     "francois@wikifoodtruck.fr",
+     "culture45@marseille.fr"
+    ],
+    "phones": [
+     "04 91 14 59 97"
+    ],
+    "forms": [
+     "https://wikifoodtruck.fr/appels-food-truck/nice-aot-campus-universitaire-pour-food-truck-2026",
+     "https://wikifoodtruck.fr/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026",
+     "https://wikifoodtruck.fr/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "festival",
+    "food truck",
+    "food trucks"
+   ],
+   "fiable": true,
+   "score": 100,
+   "found_at": "2026-10-28T14:53:10+00:00",
+   "lien_ok": "2026-10-28",
+   "contact_checked": true
+  },
+  {
+   "id": "91e0ba5f0ca0",
+   "title": "Marseille (13) : Food Truck Jardin Joliette | WikiFoodtruck",
+   "summary": "Marseille : Food Truck Jardin Joliette. Date limite : 15 novembre 2025. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Food Truck Jardin Joliette Mis à jour le 28 octobre 2026 Date limite : 15 novembre 2025 Clos La Mairie des 2ᵉ et 3ᵉ arrondissements de Marseille lance un appel à manifestation d'intérêt pour l'installation d'un food truck au Jardin de la Joliette. Les candidats doivent soumettre un dossier complet avant le 15 novembre 2025, incluant des informations sur leur offre et ",
+   "type": "Appel à candidatures",
+   "source": "Page surveillée",
+   "url": "https://wikifoodtruck.fr/appels-food-truck/marseille-food-truck-jardin-joliette-2025",
+   "organizer": "Wikifoodtruck – appels à candidatures des mairies",
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-28",
+   "published": null,
+   "contact": {
+    "emails": [
+     "francois@wikifoodtruck.fr",
+     "ydossetto@marseille.fr",
+     "sdiscala@marseille.fr"
+    ],
+    "phones": [],
+    "forms": [
+     "https://wikifoodtruck.fr/appels-food-truck/nice-aot-campus-universitaire-pour-food-truck-2026",
+     "https://wikifoodtruck.fr/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026",
+     "https://wikifoodtruck.fr/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "emplacement",
+    "food truck",
+    "occupation du domaine public"
+   ],
+   "fiable": true,
+   "score": 100,
+   "found_at": "2026-10-28T14:53:10+00:00",
+   "lien_ok": "2026-10-28",
+   "contact_checked": true
+  },
+  {
+   "id": "9a8973b58aa7",
+   "title": "Appel à candidature food-truck Vignasse - Ville de Valbonne Sophia Antipolis",
+   "summary": "La ville de Valbonne met à disposition une surface à vocation d’activité commerciale sur une parcelle de son domaine public afin d’accueillir un commerce de restauration non sédentaire, exercé par un exploitant de camion ambulant (dit « food truck »). En vertu de l’article L.2122-1 du Code Général de la Propriété des Personnes Publiques, les exploitants de […] La ville de Valbonne met à disposition une surface à vocation d’activité commerciale sur une parcelle de son domaine public afin d’accueillir un commerce de restauration non sédentaire, exercé par un exploitant de camion ambulant (dit « ",
+   "type": "Appel à candidatures",
+   "source": "Page surveillée",
+   "url": "https://www.ville-valbonne.fr/actualite/appel-a-candidature-food-truck-pompidou-2/",
+   "organizer": "Ville de Valbonne Sophia Antipolis – actualités",
+   "city": "Valbonne",
+   "dept": "06",
+   "lat": 43.62734,
+   "lon": 7.01656,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [
+     "mairie@ville-valbonne.fr"
+    ],
+    "phones": [
+     "04 93 12 31 00",
+     "04 92 98 28 60"
+    ],
+    "forms": [
+     "https://www.ville-valbonne.fr/wp-content/uploads/sites/6/2026/10/reglement_de_l_appel_a_candidature_foodtruck_vignasse-2026-V1.docx",
+     "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ville-valbonne.fr%2Factualite%2Fappel-a-candidature-food-truck-pompidou-2%2F",
+     "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ville-valbonne.fr%2Factualite%2Fappel-a-candidature-food-truck-pompidou-2%2F&text=Appel+%C3%A0+candidature+food-truck+Vignasse"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à candidature",
+    "candidature",
+    "food truck",
+    "food-truck",
+    "occupation du domaine public"
+   ],
+   "fiable": true,
+   "score": 100,
+   "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true,
    "lien_ok": "2026-10-28"
+  },
+  {
+   "id": "7af4cb12014d",
+   "title": "Appel à candidature food-truck Pompidou - Ville de Valbonne Sophia Antipolis",
+   "summary": "La ville de Valbonne met à disposition une surface à vocation d’activité commerciale sur une parcelle de son domaine public afin d’accueillir un commerce de restauration non sédentaire, exercé par un exploitant de camion ambulant (dit « food truck »). En vertu de l’article L.2122-1 du Code Général de la Propriété des Personnes Publiques, les exploitants de […] La ville de Valbonne met à disposition une surface à vocation d’activité commerciale sur une parcelle de son domaine public afin d’accueillir un commerce de restauration non sédentaire, exercé par un exploitant de camion ambulant (dit « ",
+   "type": "Appel à candidatures",
+   "source": "Page surveillée",
+   "url": "https://www.ville-valbonne.fr/actualite/appel-a-candidature-food-truck-pompidou/",
+   "organizer": "Ville de Valbonne Sophia Antipolis – actualités",
+   "city": "Valbonne",
+   "dept": "06",
+   "lat": 43.62734,
+   "lon": 7.01656,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [
+     "mairie@ville-valbonne.fr"
+    ],
+    "phones": [
+     "04 93 12 31 00",
+     "04 92 98 28 60"
+    ],
+    "forms": [
+     "https://www.ville-valbonne.fr/wp-content/uploads/sites/6/2026/10/reglement_de_l_appel_a_candidature_foodtruck_Pompidou-2026-V1.docx",
+     "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ville-valbonne.fr%2Factualite%2Fappel-a-candidature-food-truck-pompidou%2F",
+     "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ville-valbonne.fr%2Factualite%2Fappel-a-candidature-food-truck-pompidou%2F&text=Appel+%C3%A0+candidature+food-truck+Pompidou"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à candidature",
+    "candidature",
+    "food truck",
+    "food-truck",
+    "occupation du domaine public"
+   ],
+   "fiable": true,
+   "score": 100,
+   "found_at": "2026-10-28T13:18:09+00:00",
+   "contact_checked": true,
+   "lien_ok": "2026-10-28"
+  },
+  {
+   "id": "a9de372b015d",
+   "title": "Marseille (13) : Appel à manifestation d'intérêt food trucks",
+   "summary": "Marseille : Appel à manifestation d'intérêt food trucks. Date limite : 15 février 2026 à 18h00. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Appel à manifestation d'intérêt food trucks Mis à jour le 28 octobre 2026 Date limite : 15 février 2026 à 18h00 Clos La Mairie des 11ème et 12ème arrondissements de Marseille lance un appel à manifestation d'intérêt pour l'installation de 2 food-trucks lors de la Journée de la Femme. Les candidats doivent soumettre leur dossier avant le 15 févr",
+   "type": "Appel à candidatures",
+   "source": "Page surveillée",
+   "url": "https://wikifoodtruck.fr/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026",
+   "organizer": "Wikifoodtruck – appels à candidatures des mairies",
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-28",
+   "published": null,
+   "contact": {
+    "emails": [
+     "francois@wikifoodtruck.fr"
+    ],
+    "phones": [
+     "04 91 14 61 52"
+    ],
+    "forms": [
+     "https://wikifoodtruck.fr/appels-food-truck/nice-aot-campus-universitaire-pour-food-truck-2026",
+     "https://wikifoodtruck.fr/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026",
+     "https://wikifoodtruck.fr/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à manifestation d'intérêt",
+    "food truck",
+    "food trucks"
+   ],
+   "fiable": true,
+   "score": 100,
+   "found_at": "2026-10-28T14:53:10+00:00",
+   "lien_ok": "2026-10-28",
+   "contact_checked": true
+  },
+  {
+   "id": "0cb588379a49",
+   "title": "Le Pradet (83) : Appel à candidatures food trucks 2026",
+   "summary": "Le Pradet : Appel à candidatures food trucks 2026. Date limite : 9 février 2026 à 17h00. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Le Pradet 📢 Appels à candidatures Le Pradet Appel à candidatures food trucks 2026 Mis à jour le 28 octobre 2026 Date limite : 9 février 2026 à 17h00 Clos La mairie du Pradet lance un appel à candidatures pour des emplacements de food trucks lors de l'événement Ô Fêtes Pradétanes 2026. Les candidats doivent soumettre leur dossier avant le 9 février 2026 à 17h00. Les emplacements sont limités et ",
+   "type": "Appel à candidatures",
+   "source": "Page surveillée",
+   "url": "https://wikifoodtruck.fr/appels-food-truck/le-pradet-appel-a-candidatures-food-trucks-2026",
+   "organizer": "Wikifoodtruck – appels à candidatures des mairies",
+   "city": null,
+   "dept": "83",
+   "lat": 43.46,
+   "lon": 6.22,
+   "approx": true,
+   "deadline": null,
+   "event_date": "2026-10-28",
+   "published": null,
+   "contact": {
+    "emails": [
+     "francois@wikifoodtruck.fr"
+    ],
+    "phones": [
+     "04 94 08 69 72"
+    ],
+    "forms": [
+     "https://www.le-pradet.fr/wp-content/uploads/2026/01/OFP26-TRUCK-RESTAURATION-APPEL-A-CANDIDATURES.pdf",
+     "https://wikifoodtruck.fr/appels-food-truck/nice-aot-campus-universitaire-pour-food-truck-2026",
+     "https://wikifoodtruck.fr/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à candidatures",
+    "candidature",
+    "emplacement",
+    "food truck",
+    "food trucks",
+    "food-truck"
+   ],
+   "fiable": true,
+   "score": 100,
+   "found_at": "2026-10-28T14:53:10+00:00",
+   "lien_ok": "2026-10-28",
+   "contact_checked": true
   },
   {
    "id": "82589b5362ed",
@@ -283,129 +597,6 @@
    "score": 95,
    "found_at": "2026-10-05T05:31:06+00:00",
    "contact_checked": true
-  },
-  {
-   "id": "9a8973b58aa7",
-   "title": "Commerce local Appel à candidature food-truck Vignasse",
-   "summary": "Commerce local Appel à candidature food-truck Vignasse",
-   "type": "Appel à candidatures",
-   "source": "Page surveillée",
-   "url": "https://www.ville-valbonne.fr/actualite/appel-a-candidature-food-truck-pompidou-2/",
-   "organizer": "Ville de Valbonne Sophia Antipolis – actualités",
-   "city": "Valbonne",
-   "dept": "06",
-   "lat": 43.62734,
-   "lon": 7.01656,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [
-     "mairie@ville-valbonne.fr"
-    ],
-    "phones": [
-     "04 93 12 31 00",
-     "04 92 98 28 60"
-    ],
-    "forms": [
-     "https://www.ville-valbonne.fr/wp-content/uploads/sites/6/2026/10/reglement_de_l_appel_a_candidature_foodtruck_vignasse-2026-V1.docx",
-     "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ville-valbonne.fr%2Factualite%2Fappel-a-candidature-food-truck-pompidou-2%2F",
-     "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ville-valbonne.fr%2Factualite%2Fappel-a-candidature-food-truck-pompidou-2%2F&text=Appel+%C3%A0+candidature+food-truck+Vignasse"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à candidature",
-    "candidature",
-    "food-truck"
-   ],
-   "fiable": true,
-   "score": 95,
-   "found_at": "2026-10-28T13:18:09+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "7af4cb12014d",
-   "title": "Commerce local Appel à candidature food-truck Pompidou",
-   "summary": "Commerce local Appel à candidature food-truck Pompidou",
-   "type": "Appel à candidatures",
-   "source": "Page surveillée",
-   "url": "https://www.ville-valbonne.fr/actualite/appel-a-candidature-food-truck-pompidou/",
-   "organizer": "Ville de Valbonne Sophia Antipolis – actualités",
-   "city": "Valbonne",
-   "dept": "06",
-   "lat": 43.62734,
-   "lon": 7.01656,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [
-     "mairie@ville-valbonne.fr"
-    ],
-    "phones": [
-     "04 93 12 31 00",
-     "04 92 98 28 60"
-    ],
-    "forms": [
-     "https://www.ville-valbonne.fr/wp-content/uploads/sites/6/2026/10/reglement_de_l_appel_a_candidature_foodtruck_Pompidou-2026-V1.docx",
-     "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ville-valbonne.fr%2Factualite%2Fappel-a-candidature-food-truck-pompidou%2F",
-     "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ville-valbonne.fr%2Factualite%2Fappel-a-candidature-food-truck-pompidou%2F&text=Appel+%C3%A0+candidature+food-truck+Pompidou"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à candidature",
-    "candidature",
-    "food-truck"
-   ],
-   "fiable": true,
-   "score": 95,
-   "found_at": "2026-10-28T13:18:09+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "def5bdf8832c",
-   "title": "Formation hygiène alimentaire Marseille : 14 h | AIDORESTO",
-   "summary": "Formation hygiène 14 h à Marseille : attestation exigée au marché de Noël du Vieux-Port, appels food trucks des mairies de secteur. Formation sur place. Hygiène alimentaire · 14 heures · Marseille et Bouches-du-Rhône Formation hygiène alimentaire à Marseille Pour le marché de Noël 2026 du Vieux-Port, la Ville de Marseille demandait aux exposants alimentaires une attestation de formation à l'hygiène et une déclaration à la DDPP. Restaurant, snack ou food truck : chaque établissement marseillais doit compter une personne formée 14 heures. Nous la formons chez vous. Marché de Noël Food truck Cont",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://aidoresto.com/formation-hygiene-alimentaire-marseille/",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-28",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "09 72 01 01 74"
-    ],
-    "forms": [
-     "https://aidoresto.com/formation-hygiene-alimentaire-toulon/"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à candidatures",
-    "exposants",
-    "food truck",
-    "food trucks"
-   ],
-   "fiable": false,
-   "score": 95,
-   "found_at": "2026-10-07T05:29:12+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-28"
   },
   {
    "id": "5738d75aaea8",
@@ -550,49 +741,6 @@
    "contact_checked": true
   },
   {
-   "id": "f73891f2ddb8",
-   "title": "Le Marché à la Brocante Antibes 2026 : date, horaires - vide grenier, brocante, puces",
-   "summary": "Brocantes, vide-greniers et marchés aux puces, du 1 janvier au 31 décembre 2026, à Antibes (Alpes-Maritimes) - horaires, tarifs, renseignements. Ce marché de brocante regorge de surprises pour toute personne qui aime chiner. De la porcelaine aux Cannes Concert, spectacle, etc. Je publie sur le JDS Concert, spectacle, etc. Aujourd'hui Demain Ce week-end Agenda Sorties & loisirs Actu Artistes en tournée Publier sur JDS Vos idées sorties Grands événements Activité & Expérience Activité & Expérience : voir tout Aventure Visites Nature Aquatique & nautique Pilotage Ateliers Bien-être Gastronomie Je",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.jds.fr/cannes/foires-et-salons/brocantes/le-marche-a-la-brocante-1527265_A",
-   "organizer": null,
-   "city": "Antibes",
-   "dept": "06",
-   "lat": 43.58219,
-   "lon": 7.10325,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-31",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 92 90 50 00"
-    ],
-    "forms": [
-     "https://www.jds.fr/newsletter-archives/toutes-les-newsletter-jds-fr?origin=modal-newsletter&dpt=06&list=1"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "brocante",
-    "carnaval",
-    "concert",
-    "festival",
-    "fête",
-    "fête de la musique",
-    "fêtes",
-    "marché de noël"
-   ],
-   "fiable": false,
-   "score": 90,
-   "found_at": "2026-10-28T05:49:20+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-28"
-  },
-  {
    "id": "be3cf4bc3050",
    "title": "Mairie de Valdeblore sur Instagram: \"La magie de Noël se prépare déjà à Valdeblore ! La Commune lance son appel à candidatures pour le Marché de Noël, qui se tiendra dimanche 20 décembre 2026 à La Bolline. Artisans, créa",
    "summary": "16 likes, 0 comments - mairie.de.valdeblore le September 13, 2026: \"La magie de Noël se prépare déjà à Valdeblore ! La Commune lance son appel à candidatures pour le Marché de Noël, qui se tiendra dimanche 20 décembre 2026 à La Bolline. Artisans, créateurs, producteurs locaux et food trucks, venez participer à cette belle journée et faire vivre la magie de Noël à Valdeblore. Candidatures avant le 1er novembre 2026 : manif@valdeblore.fr Valdeblore, bien plus qu’un nom, une passion #valdeblore #MarchéDeNoël #Noël2026 ArtisansLocaux CréateursLocaux ProducteursLocaux AlpesMaritimes CotedAzurFrance",
@@ -622,40 +770,6 @@
    "fiable": false,
    "score": 85,
    "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-28"
-  },
-  {
-   "id": "6b0b6725eb10",
-   "title": "Créateurices sur Instagram: \"☃️ Il est encore temps de postuler dans les marchés et boutiques de créateur·ices pour les fêtes de fin d'années. Ne tarde pas à envoyer ta candidature ! ⏰ © Photo de couverture : @oeilpapill",
-   "summary": "107 likes, 3 comments - createurices le October 20, 2026: \"☃️ Il est encore temps de postuler dans les marchés et boutiques de créateur·ices pour les fêtes de fin d'années. Ne tarde pas à envoyer ta candidature ! ⏰ © Photo de couverture : @oeilpapillon pour @roseframboise__ ✌️ 13 (Bouches-du-Rhône) Marseille 2e - Marché de Noël par Shlag Market - du 4 au 6 décembre 2026, au @docksvillage - Date limite des candidatures non connue - Plus d'infos avec 👉 @shlagmarket ✌️ 13 (Bouches-du-Rhône) Marseille 6e - Marché de Noël par Shlag Market - du 18 au 20 décembre 2026, à la @brasserie_zoumai - Date l",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.instagram.com/p/DeyI5JFjqlb/",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": "2026-11-15",
-   "event_date": "2026-12-06",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": "Instagram",
-   "keywords": [
-    "candidature",
-    "fêtes",
-    "marché de noël"
-   ],
-   "fiable": false,
-   "score": 85,
-   "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true,
    "lien_ok": "2026-10-28"
   },
@@ -763,76 +877,40 @@
    "lien_ok": "2026-10-28"
   },
   {
-   "id": "2dc9f4fbbaa4",
-   "title": "Fête de la musique à Aix en Provence",
-   "summary": "Lundi 21 juin 2027 · Aix-en-Provence menu 21 juin 2027 Programme en préparation Fête de la musique 2027 à Aix-en-Provence programme des concerts La Fête de la musique 2027 à Aix-en-Provence aura lieu du 20 au 21 juin 2027. Découvrez les concerts à Aix-en-Provence au programme de la Fête de la musique à Aix-en-Provence avec les lieux et horaires des concerts gratuits ainsi que les infos de circulation. De nombreux artistes et groupes de musique se produiront pour l'occasion dans les rues, les bars et les lieux culturels de la ville. Parcourez également le programme de la Fête de la Musique 2027",
+   "id": "f73891f2ddb8",
+   "title": "Le Marché à la Brocante Antibes 2026 : date, horaires - vide grenier, brocante, puces",
+   "summary": "Brocantes, vide-greniers et marchés aux puces, du 1 janvier au 31 décembre 2026, à Antibes (Alpes-Maritimes) - horaires, tarifs, renseignements. Ce marché de brocante regorge de surprises pour toute personne qui aime chiner. De la porcelaine aux Cannes Concert, spectacle, etc. Je publie sur le JDS Concert, spectacle, etc. Aujourd'hui Demain Ce week-end Agenda Sorties & loisirs Actu Artistes en tournée Publier sur JDS Vos idées sorties Grands événements Activité & Expérience Activité & Expérience : voir tout Aventure Visites Nature Aquatique & nautique Pilotage Ateliers Bien-être Gastronomie Je",
    "type": "Événement",
    "source": "Recherche web",
-   "url": "https://13.agendaculturel.fr/festival/fete-de-la-musique-aix-en-provence.html",
+   "url": "https://www.jds.fr/cannes/foires-et-salons/brocantes/le-marche-a-la-brocante-1527265_A",
    "organizer": null,
-   "city": "Aix-en-Provence",
-   "dept": "13",
-   "lat": 43.54137,
-   "lon": 5.40612,
+   "city": "Antibes",
+   "dept": "06",
+   "lat": 43.58219,
+   "lon": 7.10325,
    "approx": false,
    "deadline": null,
-   "event_date": "2027-06-21",
+   "event_date": "2026-12-31",
    "published": null,
    "contact": {
     "emails": [],
-    "phones": [],
+    "phones": [
+     "04 92 90 50 00"
+    ],
     "forms": [
-     "https://13.agendaculturel.fr/inscription.html"
+     "https://www.jds.fr/newsletter-archives/toutes-les-newsletter-jds-fr?origin=modal-newsletter&dpt=06&list=1"
     ]
    },
    "mode": "evenements",
    "via": null,
    "keywords": [
+    "brocante",
     "concert",
-    "festival",
-    "fête",
-    "fête de la musique"
+    "vide-greniers"
    ],
    "fiable": false,
-   "score": 85,
-   "found_at": "2026-10-21T05:39:46+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-28"
-  },
-  {
-   "id": "39d140978ec0",
-   "title": "Fête de la musique à Digne les Bains",
-   "summary": "Lundi 21 juin 2027 · Digne-les-Bains menu 21 juin 2027 Programme en préparation Fête de la musique 2027 à Digne-les-Bains programme des concerts La Fête de la musique 2027 à Digne-les-Bains aura lieu du 20 au 21 juin 2027. Découvrez les concerts à Digne-les-Bains au programme de la Fête de la musique à Digne-les-Bains avec les lieux et horaires des concerts gratuits ainsi que les infos de circulation. De nombreux artistes et groupes de musique se produiront pour l'occasion dans les rues, les bars et les lieux culturels de la ville. Parcourez également le programme de la Fête de la Musique 2027",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://04.agendaculturel.fr/festival/fete-de-la-musique-digne-les-bains.html",
-   "organizer": null,
-   "city": "Digne-les-Bains",
-   "dept": "04",
-   "lat": 44.0893,
-   "lon": 6.24272,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2027-06-21",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": [
-     "https://04.agendaculturel.fr/inscription.html"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert",
-    "festival",
-    "fête",
-    "fête de la musique"
-   ],
-   "fiable": false,
-   "score": 85,
-   "found_at": "2026-10-21T05:39:46+00:00",
+   "score": 80,
+   "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true,
    "lien_ok": "2026-10-28"
   },
@@ -864,16 +942,11 @@
    "mode": "evenements",
    "via": null,
    "keywords": [
-    "carnaval",
     "concert",
-    "festival",
-    "fête",
-    "fête de la musique",
-    "fêtes",
-    "marché de noël"
+    "festival"
    ],
    "fiable": false,
-   "score": 85,
+   "score": 80,
    "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true,
    "lien_ok": "2026-10-28"
@@ -905,16 +978,11 @@
    "mode": "evenements",
    "via": null,
    "keywords": [
-    "carnaval",
     "concert",
-    "festival",
-    "fête",
-    "fête de la musique",
-    "fêtes",
-    "marché de noël"
+    "festival"
    ],
    "fiable": false,
-   "score": 85,
+   "score": 80,
    "found_at": "2026-10-14T05:39:31+00:00",
    "contact_checked": true,
    "lien_ok": "2026-10-28"
@@ -948,16 +1016,11 @@
    "mode": "evenements",
    "via": null,
    "keywords": [
-    "carnaval",
     "concert",
-    "festival",
-    "fête",
-    "fête de la musique",
-    "fêtes",
-    "marché de noël"
+    "festival"
    ],
    "fiable": false,
-   "score": 85,
+   "score": 80,
    "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true,
    "lien_ok": "2026-10-28"
@@ -988,317 +1051,13 @@
    "mode": "evenements",
    "via": null,
    "keywords": [
-    "carnaval",
     "concert",
-    "festival",
     "fête",
-    "fête de la musique",
-    "fêtes",
     "marché de noël"
    ],
    "fiable": false,
-   "score": 85,
-   "found_at": "2026-10-28T05:49:20+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-28"
-  },
-  {
-   "id": "de0111cd3815",
-   "title": "Marché de Noël Saint-Étienne-de-Tinée 2026 - dates, horaires, ouverture, programme",
-   "summary": "Marché de Noël, du 11 décembre au 13 décembre 2026, à Saint-Étienne-de-Tinée (Alpes-Maritimes) - horaires, tarifs, renseignements. Vivez la magie de Noël à Saint-Étienne-de-Tinée ! Un marché de Noël en montagne, au cœur du village, est Saint-Étienne-de-Tinée Concert, spectacle, etc. Je publie sur le JDS Concert, spectacle, etc. Aujourd'hui Demain Ce week-end Agenda Sorties & loisirs Actu Artistes en tournée Publier sur JDS Vos idées sorties Grands événements Activité & Expérience Activité & Expérience : voir tout Aventure Visites Nature Aquatique & nautique Pilotage Ateliers Bien-être Gastrono",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.jds.fr/manifestations/marche-de-noel/marche-de-noel-1814881_A",
-   "organizer": null,
-   "city": "Saint-Étienne-de-Tinée",
-   "dept": "06",
-   "lat": 44.24224,
-   "lon": 6.93803,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-13",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 93 02 41 96"
-    ],
-    "forms": [
-     "https://www.jds.fr/newsletter-archives/toutes-les-newsletter-jds-fr?origin=modal-newsletter&dpt=06&list=1"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "carnaval",
-    "concert",
-    "festival",
-    "fête",
-    "fête de la musique",
-    "fêtes",
-    "marché de noël"
-   ],
-   "fiable": false,
-   "score": 85,
-   "found_at": "2026-10-28T05:49:20+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-28"
-  },
-  {
-   "id": "572b2e20b590",
-   "title": "Marché de créateurs Saint-Blaise 2026 - dates, horaires, ouverture, programme",
-   "summary": "Marché de Noël, le 15 novembre 2026, à Saint-Blaise (Alpes-Maritimes) - horaires, tarifs, renseignements. 9ème édition du marché de créateurs de Saint-Blaise avec 40 artistes et artisans créateurs venus de tout le département et sélectionnés Nice Concert, spectacle, etc. Je publie sur le JDS Concert, spectacle, etc. Aujourd'hui Demain Ce week-end Agenda Sorties & loisirs Actu Artistes en tournée Publier sur JDS Vos idées sorties Grands événements Activité & Expérience Activité & Expérience : voir tout Aventure Visites Nature Aquatique & nautique Pilotage Ateliers Bien-être Gastronomie Jeux Int",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.jds.fr/nice/manifestations/marche-de-noel/marche-de-createurs-1803257_A",
-   "organizer": null,
-   "city": "Nice",
-   "dept": "06",
-   "lat": 43.71273,
-   "lon": 7.25531,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-15",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": [
-     "https://www.jds.fr/newsletter-archives/toutes-les-newsletter-jds-fr?origin=modal-newsletter&dpt=06&list=1"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "carnaval",
-    "concert",
-    "festival",
-    "fête",
-    "fête de la musique",
-    "fêtes",
-    "marché de noël"
-   ],
-   "fiable": false,
-   "score": 85,
-   "found_at": "2026-10-21T05:39:46+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-28"
-  },
-  {
-   "id": "23a015db7eaa",
-   "title": "Marché de Noël 2026 de Céreste en Luberon Céreste-en-Luberon - dates, horaires, ouverture, programme",
-   "summary": "Marché de Noël, le 5 décembre 2026, à Céreste-en-Luberon (Alpes de Hautes-Provence) - horaires, tarifs, renseignements. Marché de Noël à Céreste-en-Luberon Le 6 décembre 2025, Céreste-en-Luberon se transformera en village de Noël Plus Manosque Concert, spectacle, etc. Je publie sur le JDS Concert, spectacle, etc. Aujourd'hui Demain Ce week-end Agenda Sorties & loisirs Actu Artistes en tournée Publier sur JDS Vos idées sorties Grands événements Activité & Expérience Activité & Expérience : voir tout Aventure Visites Nature Aquatique & nautique Pilotage Ateliers Bien-être Gastronomie Jeux Intera",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.jds.fr/manosque/manifestations/marche-de-noel/marche-de-noel-2026-de-cereste-en-luberon-1731092_A",
-   "organizer": null,
-   "city": "Manosque",
-   "dept": "04",
-   "lat": 43.82654,
-   "lon": 5.79024,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-05",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "06 41 55 36 26"
-    ],
-    "forms": [
-     "https://www.jds.fr/newsletter-archives/toutes-les-newsletter-jds-fr?origin=modal-newsletter&dpt=04&list=1"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "carnaval",
-    "concert",
-    "festival",
-    "fête",
-    "fête de la musique",
-    "fêtes",
-    "marché de noël"
-   ],
-   "fiable": false,
-   "score": 85,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-28"
-  },
-  {
-   "id": "c300562c7715",
-   "title": "Vide-greniers, brocantes et bourses - Saint-Raphaël (50 km)",
-   "summary": "L'agenda indispensable pour dénicher les meilleurs vide-greniers, brocantes, bourses d'objets et bourses de collectionneurs près de chez vous. Ne manquez plus une occasion de faire des trouvailles uniques. Lancez votre recherche maintenant et trouvez l'événement idéal pour chiner ! Ouvrir formulaire de recherche Où recherchez-vous ? Saint-Raphaël (83) - 50 km Enregistrer ma recherche Quand ? Toutes les dates Les week-ends La semaine prochaine Mois Période personnalisée Quoi ? Tous les types Octobre Novembre Décembre Janvier Février Mars Avril Mai Juin Juillet Août Septembre Du au Vide greniers",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://vide-greniers.org/evenements/Saint-Raphael-83",
-   "organizer": null,
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-28",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "brocante",
-    "recherche",
-    "vide-greniers"
-   ],
-   "fiable": false,
    "score": 80,
    "found_at": "2026-10-28T05:49:20+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-28"
-  },
-  {
-   "id": "7cb531e01c7d",
-   "title": "Brocante et vide-grenier Clans (06420) - Brocabrac",
-   "summary": "Clans (06420) - Agenda des brocantes et des vide-greniers à Clans dans votre département. Vous aimez chiner ? Ne ratez aucun événement clansois avec le calendrier Brocabrac ! Vide-greniers, brocantes et autres déballages... Clans Sélectionner une date Type d'événement Créer une alerte Choisir un lieu Clans Suggestion de lieux Provence-Alpes-Côte d'Azur 06 - Alpes-Maritimes Sospel La Gaude Villeneuve-Loubet Saint-Laurent-du-Var Cagnes-sur-Mer Nice Créer une alerte Valider Choisir une date Toutes les dates Aujourd'hui Demain Ce week-end Cette semaine Le week-end prochain Octobre 2026 Novembre 20",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://brocabrac.fr/06/clans/",
-   "organizer": null,
-   "city": "Cagnes-sur-Mer",
-   "dept": "06",
-   "lat": 43.67564,
-   "lon": 7.15009,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-31",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "brocante",
-    "marché de noël",
-    "vide-grenier",
-    "vide-greniers"
-   ],
-   "fiable": false,
-   "score": 80,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-28"
-  },
-  {
-   "id": "0dcb666357ea",
-   "title": "Vide-greniers, brocantes et bourses - Alpes-Maritimes",
-   "summary": "L'agenda indispensable pour dénicher les meilleurs vide-greniers, brocantes, bourses d'objets et bourses de collectionneurs près de chez vous. Ne manquez plus une occasion de faire des trouvailles uniques. Lancez votre recherche maintenant et trouvez l'événement idéal pour chiner ! Ouvrir formulaire de recherche Où recherchez-vous ? Alpes-Maritimes Enregistrer ma recherche Quand ? Toutes les dates Les week-ends La semaine prochaine Mois Période personnalisée Quoi ? Tous les types Octobre Novembre Décembre Janvier Février Mars Avril Mai Juin Juillet Août Septembre Du au Vide greniers Brocante, ",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://vide-greniers.org/evenements/Alpes-Maritimes",
-   "organizer": null,
-   "city": "Cannes",
-   "dept": "06",
-   "lat": 43.55547,
-   "lon": 7.00458,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-28",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "brocante",
-    "recherche",
-    "vide-greniers"
-   ],
-   "fiable": false,
-   "score": 80,
-   "found_at": "2026-10-28T05:49:20+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-28"
-  },
-  {
-   "id": "60b9077042e2",
-   "title": "Vide-greniers, brocantes et bourses - Alpes-Maritimes - Octobre",
-   "summary": "L'agenda indispensable pour dénicher les meilleurs vide-greniers, brocantes, bourses d'objets et bourses de collectionneurs près de chez vous. Ne manquez plus une occasion de faire des trouvailles uniques. Lancez votre recherche maintenant et trouvez l'événement idéal pour chiner ! Ouvrir formulaire de recherche Où recherchez-vous ? Alpes-Maritimes Enregistrer ma recherche Quand ? Toutes les dates Les week-ends La semaine prochaine Mois Période personnalisée Quoi ? Tous les types Octobre Novembre Décembre Janvier Février Mars Avril Mai Juin Juillet Août Septembre Du au Vide greniers Brocante, ",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://vide-greniers.org/evenements/Alpes-Maritimes/Octobre",
-   "organizer": null,
-   "city": "Cannes",
-   "dept": "06",
-   "lat": 43.55547,
-   "lon": 7.00458,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-28",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "brocante",
-    "recherche",
-    "vide-greniers"
-   ],
-   "fiable": false,
-   "score": 80,
-   "found_at": "2026-10-28T05:49:20+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-28"
-  },
-  {
-   "id": "5f942f8641f2",
-   "title": "Evènements à la une",
-   "summary": "Restez connecté et suivez sur votre smartphone nos événements tout au long de l'année avec l'appli. Restez connecté et suivez sur votre smartphone nos événements tout au long de l'année avec l'appli. Sortir en Méditerranée Porte des Maures Connectez-vous sur https://sortir.mpmtourisme.com Sur Android, acceptez d'ajouter le raccourci sur votre smartphone et sur Ios, dans le menu, sélectionnez ''Sur l'écran d'accueil'' Liste Carte Filtres 39 résultat(s) Mercredi 28 octobre 2026 Tooltip replace Initiation / découverte dans le cadre d'un événement Octobre Rose La Londe-les-Maures Les rendez-vous d",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.mpmtourisme.com/evenements",
-   "organizer": null,
-   "city": "La Londe-les-Maures",
-   "dept": "83",
-   "lat": 43.14765,
-   "lon": 6.2513,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-28",
-   "published": null,
-   "contact": {
-    "emails": [
-     "bienvenue@mpmtourisme.com"
-    ],
-    "phones": [
-     "04 94 01 53 10",
-     "04 94 48 56 27",
-     "04 94 48 08 00"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert",
-    "fête"
-   ],
-   "fiable": false,
-   "score": 80,
-   "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true,
    "lien_ok": "2026-10-28"
   },
@@ -1365,10 +1124,8 @@
    "mode": "evenements",
    "via": null,
    "keywords": [
-    "carnaval",
     "concert",
-    "festival",
-    "fêtes"
+    "festival"
    ],
    "fiable": false,
    "score": 80,
@@ -1588,6 +1345,219 @@
    "score": 75,
    "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
+  },
+  {
+   "id": "6b0b6725eb10",
+   "title": "Créateurices sur Instagram: \"☃️ Il est encore temps de postuler dans les marchés et boutiques de créateur·ices pour les fêtes de fin d'années. Ne tarde pas à envoyer ta candidature ! ⏰ © Photo de couverture : @oeilpapill",
+   "summary": "107 likes, 3 comments - createurices le October 20, 2026: \"☃️ Il est encore temps de postuler dans les marchés et boutiques de créateur·ices pour les fêtes de fin d'années. Ne tarde pas à envoyer ta candidature ! ⏰ © Photo de couverture : @oeilpapillon pour @roseframboise__ ✌️ 13 (Bouches-du-Rhône) Marseille 2e - Marché de Noël par Shlag Market - du 4 au 6 décembre 2026, au @docksvillage - Date limite des candidatures non connue - Plus d'infos avec 👉 @shlagmarket ✌️ 13 (Bouches-du-Rhône) Marseille 6e - Marché de Noël par Shlag Market - du 18 au 20 décembre 2026, à la @brasserie_zoumai - Date l",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.instagram.com/p/DeyI5JFjqlb/",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-06",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": "Instagram",
+   "keywords": [
+    "candidature",
+    "fêtes",
+    "marché de noël"
+   ],
+   "fiable": false,
+   "score": 75,
+   "found_at": "2026-10-28T05:49:20+00:00",
+   "contact_checked": true,
+   "lien_ok": "2026-10-28"
+  },
+  {
+   "id": "2dc9f4fbbaa4",
+   "title": "Fête de la musique à Aix en Provence",
+   "summary": "Lundi 21 juin 2027 · Aix-en-Provence menu 21 juin 2027 Programme en préparation Fête de la musique 2027 à Aix-en-Provence programme des concerts La Fête de la musique 2027 à Aix-en-Provence aura lieu du 20 au 21 juin 2027. Découvrez les concerts à Aix-en-Provence au programme de la Fête de la musique à Aix-en-Provence avec les lieux et horaires des concerts gratuits ainsi que les infos de circulation. De nombreux artistes et groupes de musique se produiront pour l'occasion dans les rues, les bars et les lieux culturels de la ville. Parcourez également le programme de la Fête de la Musique 2027",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://13.agendaculturel.fr/festival/fete-de-la-musique-aix-en-provence.html",
+   "organizer": null,
+   "city": "Aix-en-Provence",
+   "dept": "13",
+   "lat": 43.54137,
+   "lon": 5.40612,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2027-06-21",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://13.agendaculturel.fr/inscription.html"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fête",
+    "fête de la musique"
+   ],
+   "fiable": false,
+   "score": 75,
+   "found_at": "2026-10-21T05:39:46+00:00",
+   "contact_checked": true,
+   "lien_ok": "2026-10-28"
+  },
+  {
+   "id": "39d140978ec0",
+   "title": "Fête de la musique à Digne les Bains",
+   "summary": "Lundi 21 juin 2027 · Digne-les-Bains menu 21 juin 2027 Programme en préparation Fête de la musique 2027 à Digne-les-Bains programme des concerts La Fête de la musique 2027 à Digne-les-Bains aura lieu du 20 au 21 juin 2027. Découvrez les concerts à Digne-les-Bains au programme de la Fête de la musique à Digne-les-Bains avec les lieux et horaires des concerts gratuits ainsi que les infos de circulation. De nombreux artistes et groupes de musique se produiront pour l'occasion dans les rues, les bars et les lieux culturels de la ville. Parcourez également le programme de la Fête de la Musique 2027",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://04.agendaculturel.fr/festival/fete-de-la-musique-digne-les-bains.html",
+   "organizer": null,
+   "city": "Digne-les-Bains",
+   "dept": "04",
+   "lat": 44.0893,
+   "lon": 6.24272,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2027-06-21",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://04.agendaculturel.fr/inscription.html"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fête",
+    "fête de la musique"
+   ],
+   "fiable": false,
+   "score": 75,
+   "found_at": "2026-10-21T05:39:46+00:00",
+   "contact_checked": true,
+   "lien_ok": "2026-10-28"
+  },
+  {
+   "id": "de0111cd3815",
+   "title": "Marché de Noël Saint-Étienne-de-Tinée 2026 - dates, horaires, ouverture, programme",
+   "summary": "Marché de Noël, du 11 décembre au 13 décembre 2026, à Saint-Étienne-de-Tinée (Alpes-Maritimes) - horaires, tarifs, renseignements. Vivez la magie de Noël à Saint-Étienne-de-Tinée ! Un marché de Noël en montagne, au cœur du village, est Saint-Étienne-de-Tinée Concert, spectacle, etc. Je publie sur le JDS Concert, spectacle, etc. Aujourd'hui Demain Ce week-end Agenda Sorties & loisirs Actu Artistes en tournée Publier sur JDS Vos idées sorties Grands événements Activité & Expérience Activité & Expérience : voir tout Aventure Visites Nature Aquatique & nautique Pilotage Ateliers Bien-être Gastrono",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.jds.fr/manifestations/marche-de-noel/marche-de-noel-1814881_A",
+   "organizer": null,
+   "city": "Saint-Étienne-de-Tinée",
+   "dept": "06",
+   "lat": 44.24224,
+   "lon": 6.93803,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-13",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 93 02 41 96"
+    ],
+    "forms": [
+     "https://www.jds.fr/newsletter-archives/toutes-les-newsletter-jds-fr?origin=modal-newsletter&dpt=06&list=1"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert",
+    "marché de noël"
+   ],
+   "fiable": false,
+   "score": 75,
+   "found_at": "2026-10-28T05:49:20+00:00",
+   "contact_checked": true,
+   "lien_ok": "2026-10-28"
+  },
+  {
+   "id": "572b2e20b590",
+   "title": "Marché de créateurs Saint-Blaise 2026 - dates, horaires, ouverture, programme",
+   "summary": "Marché de Noël, le 15 novembre 2026, à Saint-Blaise (Alpes-Maritimes) - horaires, tarifs, renseignements. 9ème édition du marché de créateurs de Saint-Blaise avec 40 artistes et artisans créateurs venus de tout le département et sélectionnés Nice Concert, spectacle, etc. Je publie sur le JDS Concert, spectacle, etc. Aujourd'hui Demain Ce week-end Agenda Sorties & loisirs Actu Artistes en tournée Publier sur JDS Vos idées sorties Grands événements Activité & Expérience Activité & Expérience : voir tout Aventure Visites Nature Aquatique & nautique Pilotage Ateliers Bien-être Gastronomie Jeux Int",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.jds.fr/nice/manifestations/marche-de-noel/marche-de-createurs-1803257_A",
+   "organizer": null,
+   "city": "Nice",
+   "dept": "06",
+   "lat": 43.71273,
+   "lon": 7.25531,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-15",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://www.jds.fr/newsletter-archives/toutes-les-newsletter-jds-fr?origin=modal-newsletter&dpt=06&list=1"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert",
+    "marché de noël"
+   ],
+   "fiable": false,
+   "score": 75,
+   "found_at": "2026-10-21T05:39:46+00:00",
+   "contact_checked": true,
+   "lien_ok": "2026-10-28"
+  },
+  {
+   "id": "23a015db7eaa",
+   "title": "Marché de Noël 2026 de Céreste en Luberon Céreste-en-Luberon - dates, horaires, ouverture, programme",
+   "summary": "Marché de Noël, le 5 décembre 2026, à Céreste-en-Luberon (Alpes de Hautes-Provence) - horaires, tarifs, renseignements. Marché de Noël à Céreste-en-Luberon Le 6 décembre 2025, Céreste-en-Luberon se transformera en village de Noël Plus Manosque Concert, spectacle, etc. Je publie sur le JDS Concert, spectacle, etc. Aujourd'hui Demain Ce week-end Agenda Sorties & loisirs Actu Artistes en tournée Publier sur JDS Vos idées sorties Grands événements Activité & Expérience Activité & Expérience : voir tout Aventure Visites Nature Aquatique & nautique Pilotage Ateliers Bien-être Gastronomie Jeux Intera",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.jds.fr/manosque/manifestations/marche-de-noel/marche-de-noel-2026-de-cereste-en-luberon-1731092_A",
+   "organizer": null,
+   "city": "Manosque",
+   "dept": "04",
+   "lat": 43.82654,
+   "lon": 5.79024,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-05",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "06 41 55 36 26"
+    ],
+    "forms": [
+     "https://www.jds.fr/newsletter-archives/toutes-les-newsletter-jds-fr?origin=modal-newsletter&dpt=04&list=1"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert",
+    "marché de noël"
+   ],
+   "fiable": false,
+   "score": 75,
+   "found_at": "2026-09-30T10:17:04+00:00",
+   "contact_checked": true,
+   "lien_ok": "2026-10-28"
   },
   {
    "id": "fe60790ec551",
@@ -1865,53 +1835,12 @@
    "mode": "evenements",
    "via": null,
    "keywords": [
-    "foire",
     "fête",
     "marché de noël"
    ],
    "fiable": false,
    "score": 75,
    "found_at": "2026-10-21T05:39:46+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-28"
-  },
-  {
-   "id": "f97d2054959b",
-   "title": "Calendrier des Fêtes dans Les Alpes maritimes, 06 région Provence-Alpes-Cote d'Azur - Événements en 2026",
-   "summary": "Calendrier pour trouver et inscrire les Fêtes quelles soient votives, patronales, foraines, Fêtes des Saints Patrons des villes et villages de france Calendrier des Fêtes dans Les Alpes maritimes Découvrez les Fêtes Les Alpes maritimes : dates, lieux et informations pratiques pour profiter pleinement de chaque événement. Retrouvez ici notre sélection d événements à ne pas manquer dans le département. 78 Fêtes à découvrir Les Alpes maritimes. Fêtes Le 31 Octobre 2026 samedi 31 octobre Halloween Horaire : De 08:00 à 18:00 Lieu : Rue Saint Sébastien 06410 BIOT Alpes-Maritimes Voir l'événement → F",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://flanerbouger.fr/fete/06-fete-alpes-maritimes.php",
-   "organizer": null,
-   "city": "Cagnes-sur-Mer",
-   "dept": "06",
-   "lat": 43.67564,
-   "lon": 7.15009,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-31",
-   "published": null,
-   "contact": {
-    "emails": [
-     "contact@flanerbouger.fr"
-    ],
-    "phones": [],
-    "forms": [
-     "https://flanerbouger.fr/events/inscription.php",
-     "https://www.flanerbouger.fr/events/creer-votre-evenement.php"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "bal",
-    "fête",
-    "fêtes",
-    "marché de producteurs"
-   ],
-   "fiable": false,
-   "score": 75,
-   "found_at": "2026-10-07T05:29:12+00:00",
    "contact_checked": true,
    "lien_ok": "2026-10-28"
   },
@@ -1982,144 +1911,6 @@
    "fiable": false,
    "score": 75,
    "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-28"
-  },
-  {
-   "id": "4cf3d939c8e4",
-   "title": "Fête votive de Saint-Aygulf à Fréjus : édition 2027 le 5 septembre – Fête de Village",
-   "summary": "La fête votive de Saint-Aygulf, à Fréjus (Var), est annoncée pour le dimanche 5 septembre 2027, place de la Poste. Cette tradition de fin d'été honore saint Aygulphe, moine pèlerin de l'abbaye de Lérins : procession jusqu'à la calanque des Louvans, arrivée du pointu Le Saint-Aygulf, remontée de la statue du saint par le chemin des Douaniers, messe, danses folkloriques et aïoli partagé. L'accès à la fête est libre, le repas payant et sur réservation. Les horaires détaillés de l'édition 2027 ne sont pas encore communiqués. Une tradition de fin d’été à Saint-Aygulf À Saint-Aygulf, quartier balnéa",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://fete-de-village.fr/fete-votive-saint-aygulf-frejus/",
-   "organizer": null,
-   "city": "Fréjus",
-   "dept": "83",
-   "lat": 43.44566,
-   "lon": 6.77051,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2027-09-05",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "fête",
-    "fêtes"
-   ],
-   "fiable": false,
-   "score": 75,
-   "found_at": "2026-10-21T05:39:46+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-28"
-  },
-  {
-   "id": "dce8ab1cd668",
-   "title": "Var – Fête de Village",
-   "summary": "Fêtes de village dans le Var (83) 28 fêtes recensées dans le Var. Fêtes patronales, foires du terroir, carnavals et traditions locales, mises à jour chaque jour. Fête de Sainte Marie-Madeleine 2027 à Plan-d’Aups-Sainte-Baume Le 22 juillet, Plan-d'Aups-Sainte-Baume célèbre sainte Marie-Madeleine dans un cadre unique : une procession des reliques à travers la forêt du massif… Fête du pois chiche de Rougiers 2026 : date et programme Le dimanche 13 septembre 2026, Rougiers (83) célèbre son produit emblématique lors de la fête du pois chiche. Organisée par la confrérie… Fête de la Libération à Barg",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://fete-de-village.fr/region/provence-alpes-cote-d-azur/var/",
-   "organizer": null,
-   "city": "Sainte-Maxime",
-   "dept": "83",
-   "lat": 43.31927,
-   "lon": 6.63529,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2027-08-01",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "bal",
-    "fête",
-    "fêtes"
-   ],
-   "fiable": false,
-   "score": 75,
-   "found_at": "2026-10-07T05:29:12+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-28"
-  },
-  {
-   "id": "020e03735635",
-   "title": "Terreur aux Arènes | Estérel Côte d'Azur",
-   "summary": "Galerie @ Doremi Event - Terreur aux Arènes Description Événement d'Halloween aux Arènes de Fréjus Du lundi 26 au jeudi 29 octobre, puis le samedi 31 octobre 2026, les Arènes de Fréjus accueillent un événement immersif dédié aux festivités d'Halloween. De 13h00 à 23h00, le monument historique ouvre ses portes aux familles et aux amateurs de sensations fortes pour une expérience adaptée à tous les publics. Un parcours immersif en 10 thématiques Installées au cœur des coursives des arènes, 10 zones thématiques vous sont proposées avec des décors et des acteurs terrifiants pour vous faire frisson",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.esterel-cotedazur.com/fiches/terreur-aux-arenes/",
-   "organizer": null,
-   "city": "Fréjus",
-   "dept": "83",
-   "lat": 43.44566,
-   "lon": 6.77051,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-31",
-   "published": null,
-   "contact": {
-    "emails": [
-     "terreur.arenes@gmail.com"
-    ],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival",
-    "festivités"
-   ],
-   "fiable": false,
-   "score": 75,
-   "found_at": "2026-10-28T05:49:20+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-28"
-  },
-  {
-   "id": "28af53a8e290",
-   "title": "Marché de noël Reillanne (04110) - Brocabrac",
-   "summary": "Reillanne (04110) - Agenda des marchés de noël à Reillanne dans votre département. Vous aimez chiner ? Ne ratez aucun événement reillannais avec le calendrier Brocabrac ! Vide-greniers, brocantes et autres déballages... Reillanne Sélectionner une date Marché de Noël Créer une alerte Choisir un lieu Reillanne Suggestion de lieux Provence-Alpes-Côte d'Azur 04 - Alpes-de-Haute-Provence Bras-d'Asse Malijai Villelaure Meyrargues Créer une alerte Valider Choisir une date Toutes les dates Aujourd'hui Demain Ce week-end Cette semaine Le week-end prochain Octobre 2026 Novembre 2026 Décembre 2026 Créer ",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://brocabrac.fr/app.php/04/reillanne/marche-noel/",
-   "organizer": null,
-   "city": null,
-   "dept": "04",
-   "lat": 44.09,
-   "lon": 6.24,
-   "approx": true,
-   "deadline": null,
-   "event_date": "2026-11-22",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "brocante",
-    "marché de noël",
-    "vide-greniers"
-   ],
-   "fiable": false,
-   "score": 75,
-   "found_at": "2026-10-07T05:29:12+00:00",
    "contact_checked": true,
    "lien_ok": "2026-10-28"
   },
@@ -2552,39 +2343,6 @@
    "lien_ok": "2026-10-28"
   },
   {
-   "id": "18b1f1109381",
-   "title": "Marché de Noël d’Aix-en-Provence 2026 : dates, horaires, programme",
-   "summary": "Marché de Noël d’Aix-en-Provence, cours Mirabeau, du 13 novembre au 31 décembre 2026 : une cinquantaine de chalets, santons, calissons et vin chaud. © Ouvre le 13 novembre Marché de Noël d’Aix-en-Provence Le marché de Noël d’Aix-en-Provence, « Les Chalets », s’étend sur le cours Mirabeau du 13 novembre au 31 décembre 2026, sous les platanes décorés et les façades du XVIIe siècle. Une cinquantaine de chalets dédiés à la tradition provençale : santons, calissons, vin chaud aux épices méditerranéennes. Une autre idée du Noël français, sans neige mais avec le soleil. Vaut le week-end Authentique F",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://marches-de-noel.fr/marches/aix-en-provence/",
-   "organizer": null,
-   "city": "Aix-en-Provence",
-   "dept": "13",
-   "lat": 43.54137,
-   "lon": 5.40612,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-31",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "foire",
-    "marché de noël"
-   ],
-   "fiable": false,
-   "score": 70,
-   "found_at": "2026-10-21T05:39:46+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-28"
-  },
-  {
    "id": "40499ad22c7b",
    "title": "Commune de Rocbaron sur Instagram: \"La commune de Rocbaron ouvre les candidatures pour son Marché de Noël du dimanche 13 décembre 2026, et on promet que l'ambiance sera au rendez-vous 🎶✨ 📋 Pour postuler, envoyez votre do",
    "summary": "30 likes, 0 comments - commune_de_rocbaron le September 19, 2026: \"La commune de Rocbaron ouvre les candidatures pour son Marché de Noël du dimanche 13 décembre 2026, et on promet que l'ambiance sera au rendez-vous 🎶✨ 📋 Pour postuler, envoyez votre dossier avant le 4 octobre à : fetes@mairie-rocbaron.fr En joignant : — Le descriptif de votre activité et de vos produits — Votre K-BIS — Votre attestation d'assurance RC en cours de validité — Le métrage de stand souhaité Au plaisir de vous lire… et de vous accueillir en décembre ! 🌟\".",
@@ -2618,6 +2376,38 @@
    "lien_ok": "2026-10-28"
   },
   {
+   "id": "4cf3d939c8e4",
+   "title": "Fête votive de Saint-Aygulf à Fréjus : édition 2027 le 5 septembre – Fête de Village",
+   "summary": "La fête votive de Saint-Aygulf, à Fréjus (Var), est annoncée pour le dimanche 5 septembre 2027, place de la Poste. Cette tradition de fin d'été honore saint Aygulphe, moine pèlerin de l'abbaye de Lérins : procession jusqu'à la calanque des Louvans, arrivée du pointu Le Saint-Aygulf, remontée de la statue du saint par le chemin des Douaniers, messe, danses folkloriques et aïoli partagé. L'accès à la fête est libre, le repas payant et sur réservation. Les horaires détaillés de l'édition 2027 ne sont pas encore communiqués. Une tradition de fin d’été à Saint-Aygulf À Saint-Aygulf, quartier balnéa",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://fete-de-village.fr/fete-votive-saint-aygulf-frejus/",
+   "organizer": null,
+   "city": "Fréjus",
+   "dept": "83",
+   "lat": 43.44566,
+   "lon": 6.77051,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2027-09-05",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fête"
+   ],
+   "fiable": false,
+   "score": 60,
+   "found_at": "2026-10-21T05:39:46+00:00",
+   "contact_checked": true,
+   "lien_ok": "2026-10-28"
+  },
+  {
    "id": "be9b1654a550",
    "title": "FESTIVAL C’EST PAS CLASSIQUE 2026 DANS LES ALPES-MARITIMES",
    "summary": "Découvrez la programmation musicale du festival C'est Pas Classique 2026 LIVE Facebook X Pinterest WhatsApp Email Découvrez la programmation musicale du festival C’est Pas Classique 2026 Du 07 au 22/11/2026 dans le département des Alpes-Maritimes (06). C’est pas Classique déploie sa 21ème édition avec une ambition toujours aussi claire : faire vivre la musique classique autrement, en la faisant dialoguer avec le jazz, la pop, la danse et les musiques du monde. Le festival déploie plus de 25 concerts gratuits dans 14 communes, avec une programmation pensée pour toucher tous les publics, des plu",
@@ -2641,49 +2431,11 @@
    "mode": "evenements",
    "via": null,
    "keywords": [
-    "cherche",
     "festival"
    ],
    "fiable": false,
-   "score": 65,
+   "score": 60,
    "found_at": "2026-10-28T05:49:20+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-28"
-  },
-  {
-   "id": "ea530561c3a0",
-   "title": "Agenda - Animations - Pays d'Aix - Métropole Aix Marseille Tourisme Gardanne",
-   "summary": "Découvrez les animations de nos partenaires autour de Gardanne, en Pays d'Aix et Métropole d'Aix-Marseille-Provence Billetterie Menu principal Recherche FR EN ES Que recherchez-vous ? Afficher la recherche Fermer la recherche Les évenements chez nos voisins Filtres résultats Fermer Effacer Voir les résultats 29 Oct. 2026 Aix-en-Provence Cezanne à Aix : sur les pas du Maître Provençal Ce parcours dans les rues d’Aix, sa ville natale, vous permettra de marcher sur les pas de Paul Cezanne, d’entrer dans son intimité et ainsi de mieux comprendre sa vie et son art. Cezanne à Aix : sur les pas du Ma",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.tourisme-gardanne.fr/ca-bouge-a-gardanne/agenda-aux-alentours/",
-   "organizer": null,
-   "city": "Aix-en-Provence",
-   "dept": "13",
-   "lat": 43.54137,
-   "lon": 5.40612,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-29",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 42 51 02 73"
-    ],
-    "forms": [
-     "https://www.tourisme-gardanne.fr/inscription-a-la-newsletter/"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "fête",
-    "recherche"
-   ],
-   "fiable": false,
-   "score": 65,
-   "found_at": "2026-10-07T05:29:12+00:00",
    "contact_checked": true,
    "lien_ok": "2026-10-28"
   },
@@ -2756,20 +2508,93 @@
    "lien_ok": "2026-10-28"
   },
   {
-   "id": "92adebd78273",
-   "title": "Marché de Noël - Malijai (04)",
-   "summary": "Samedi 12 : 16h à 20h Dimanche 13 : 10h à 18h Artisans et producteurs L'évènement incontournable de la saison : le marché de Noël réservé aux artisans et producteurs locaux Le Marché de Noël de Malijai : un week-end de Noël magique et lumineux Plongez au cœur de la féérie de Noël le week-end du 12 et 13 décembre à Malijai. Venez vivre deux jours enchanteurs ! Au programme : Samedi 12 décembre, soirée spectaculaire 18h : Vin, chocolat et marrons chauds offerts par la mairie. À 19h : un grand feu d'artifice pour un moment inoubliable sous les étoiles. Le Marché restera ouvert en nocturne pour un",
+   "id": "f97d2054959b",
+   "title": "Calendrier des Fêtes dans Les Alpes maritimes, 06 région Provence-Alpes-Cote d'Azur - Événements en 2026",
+   "summary": "Calendrier pour trouver et inscrire les Fêtes quelles soient votives, patronales, foraines, Fêtes des Saints Patrons des villes et villages de france Calendrier des Fêtes dans Les Alpes maritimes Découvrez les Fêtes Les Alpes maritimes : dates, lieux et informations pratiques pour profiter pleinement de chaque événement. Retrouvez ici notre sélection d événements à ne pas manquer dans le département. 78 Fêtes à découvrir Les Alpes maritimes. Fêtes Le 31 Octobre 2026 samedi 31 octobre Halloween Horaire : De 08:00 à 18:00 Lieu : Rue Saint Sébastien 06410 BIOT Alpes-Maritimes Voir l'événement → F",
    "type": "Événement",
    "source": "Recherche web",
-   "url": "https://noel.org/evenement/1027511",
+   "url": "https://flanerbouger.fr/fete/06-fete-alpes-maritimes.php",
    "organizer": null,
-   "city": null,
-   "dept": "04",
-   "lat": 44.09,
-   "lon": 6.24,
-   "approx": true,
+   "city": "Cagnes-sur-Mer",
+   "dept": "06",
+   "lat": 43.67564,
+   "lon": 7.15009,
+   "approx": false,
    "deadline": null,
-   "event_date": "2026-12-12",
+   "event_date": "2026-10-31",
+   "published": null,
+   "contact": {
+    "emails": [
+     "contact@flanerbouger.fr"
+    ],
+    "phones": [],
+    "forms": [
+     "https://flanerbouger.fr/events/inscription.php",
+     "https://www.flanerbouger.fr/events/creer-votre-evenement.php"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fêtes"
+   ],
+   "fiable": false,
+   "score": 55,
+   "found_at": "2026-10-07T05:29:12+00:00",
+   "contact_checked": true,
+   "lien_ok": "2026-10-28"
+  },
+  {
+   "id": "020e03735635",
+   "title": "Terreur aux Arènes | Estérel Côte d'Azur",
+   "summary": "Galerie @ Doremi Event - Terreur aux Arènes Description Événement d'Halloween aux Arènes de Fréjus Du lundi 26 au jeudi 29 octobre, puis le samedi 31 octobre 2026, les Arènes de Fréjus accueillent un événement immersif dédié aux festivités d'Halloween. De 13h00 à 23h00, le monument historique ouvre ses portes aux familles et aux amateurs de sensations fortes pour une expérience adaptée à tous les publics. Un parcours immersif en 10 thématiques Installées au cœur des coursives des arènes, 10 zones thématiques vous sont proposées avec des décors et des acteurs terrifiants pour vous faire frisson",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.esterel-cotedazur.com/fiches/terreur-aux-arenes/",
+   "organizer": null,
+   "city": "Fréjus",
+   "dept": "83",
+   "lat": 43.44566,
+   "lon": 6.77051,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-10-31",
+   "published": null,
+   "contact": {
+    "emails": [
+     "terreur.arenes@gmail.com"
+    ],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festivités"
+   ],
+   "fiable": false,
+   "score": 55,
+   "found_at": "2026-10-28T05:49:20+00:00",
+   "contact_checked": true,
+   "lien_ok": "2026-10-28"
+  },
+  {
+   "id": "18b1f1109381",
+   "title": "Marché de Noël d’Aix-en-Provence 2026 : dates, horaires, programme",
+   "summary": "Marché de Noël d’Aix-en-Provence, cours Mirabeau, du 13 novembre au 31 décembre 2026 : une cinquantaine de chalets, santons, calissons et vin chaud. © Ouvre le 13 novembre Marché de Noël d’Aix-en-Provence Le marché de Noël d’Aix-en-Provence, « Les Chalets », s’étend sur le cours Mirabeau du 13 novembre au 31 décembre 2026, sous les platanes décorés et les façades du XVIIe siècle. Une cinquantaine de chalets dédiés à la tradition provençale : santons, calissons, vin chaud aux épices méditerranéennes. Une autre idée du Noël français, sans neige mais avec le soleil. Vaut le week-end Authentique F",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://marches-de-noel.fr/marches/aix-en-provence/",
+   "organizer": null,
+   "city": "Aix-en-Provence",
+   "dept": "13",
+   "lat": 43.54137,
+   "lon": 5.40612,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-31",
    "published": null,
    "contact": {
     "emails": [],
@@ -2779,56 +2604,17 @@
    "mode": "evenements",
    "via": null,
    "keywords": [
-    "exposants",
-    "marché de noël"
-   ],
-   "fiable": false,
-   "score": 60,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-28"
-  },
-  {
-   "id": "781ea0fc8cce",
-   "title": "Nos marchés",
-   "summary": "L’accent donne du relief aux couleurs et aux senteurs de Provence. Vous êtes bien au cœur d’un de nos nombreux marchés de Méditerranée Portes de Maures. L’accent donne du relief aux couleurs et aux senteurs de Provence. Vous êtes bien au cœur d’un de nos nombreux marchés de Méditerranée Portes de Maures. Rendez-vous incontournables de la convivialité, les artisans et producteurs y partagent le fruit de leur travail. Une ambiance de jours heureux musarde au fil des étals de produits frais et de qualité. Un lieu idéal aussi pour les cadeaux souvenirs …et découvrir l’âme de nos villages. Liste Ca",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.mpmtourisme.com/nos-marches",
-   "organizer": null,
-   "city": "La Londe-les-Maures",
-   "dept": "83",
-   "lat": 43.14765,
-   "lon": 6.2513,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-30",
-   "published": null,
-   "contact": {
-    "emails": [
-     "bienvenue@mpmtourisme.com"
-    ],
-    "phones": [
-     "04 94 01 53 10",
-     "04 94 48 56 27",
-     "04 94 48 08 00"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
     "marché de noël"
    ],
    "fiable": false,
    "score": 55,
-   "found_at": "2026-10-28T05:49:20+00:00",
+   "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true,
    "lien_ok": "2026-10-28"
   },
   {
    "id": "6a4943683019",
-   "title": "Le Bonbon Nice sur Instagram: \"Qui a dit qu’on ne pouvait pas fêter Noël les pieds presque dans l’eau ? Sur la Côte d’Azur, on a notre propre façon de célébrer les fêtes et c’est probablement la plus agréable de France. ",
+   "title": "Le Bonbon Nice sur Instagram: \"Qui a dit qu’on ne pouvait pas fêter Noël les pieds presque dans l’eau ? Sur la Côte d’Azur, on a notre propre façon de célébrer les fêtes et c’est probablement la plus agréable de France.",
    "summary": "2,247 likes, 40 comments - le_bonbon_nice le October 6, 2026: \"Qui a dit qu’on ne pouvait pas fêter Noël les pieds presque dans l’eau ? Sur la Côte d’Azur, on a notre propre façon de célébrer les fêtes et c’est probablement la plus agréable de France. Si tu attendais l’info pour organiser tes sorties de fin d’année, réjouis-toi : le grand Village de Noël de Nice s’installe au cœur du Jardin Albert Ier et Place Massena du 27 novembre 2026 au 3 janvier 2027 !🎄✨ Pendant plus d’un mois, le centre de Nice va prendre des airs de conte de fées sous les palmiers. On y retrouve la fameuse grande roue p",
    "type": "Événement",
    "source": "Recherche web",
@@ -2861,7 +2647,7 @@
   {
    "id": "740060015f96",
    "title": "Marseille - Guide Salon et Foire sur Marseille et les Bouches du Rhône fin 2026 et 2027 - Salon et Foire Marseille et Alentours - The Place TO be",
-   "summary": "Avec The Place TO be, trouvez toutes les informations concernant Guide Salon et Foire sur Marseille et les Bouches du Rhône fin 2026 et 2027 - Salon et Foire Marseille et Alentours à Marseille Du 23/10/2026 au 31/12/2027 Tarif : Gratuit Convient aux enfants : oui Salons et foires à Marseille et dans les Bouches-du-Rhône : le guide 2026 et 2027 Quels salons et quelles foires découvrir à Marseille, Aix-en-Provence, Aubagne, Istres ou La Ciotat ? Art, gastronomie, mariage, maison, bien-être, pop culture ou minéraux : retrouvez les rendez-vous à venir dans les Bouches-du-Rhône, ainsi que quelques ",
+   "summary": "Avec The Place TO be, trouvez toutes les informations concernant Guide Salon et Foire sur Marseille et les Bouches du Rhône fin 2026 et 2027 - Salon et Foire Marseille et Alentours à Marseille Du 23/10/2026 au 31/12/2027 Tarif : Gratuit Convient aux enfants : oui Salons et foires à Marseille et dans les Bouches-du-Rhône : le guide 2026 et 2027 Quels salons et quelles foires découvrir à Marseille, Aix-en-Provence, Aubagne, Istres ou La Ciotat ? Art, gastronomie, mariage, maison, bien-être, pop culture ou minéraux : retrouvez les rendez-vous à venir dans les Bouches-du-Rhône, ainsi que quelques",
    "type": "Événement",
    "source": "Recherche web",
    "url": "https://the-place-to-be.fr/evenement/salon-et-foire-sur-marseille-et-ses-environs-le-guide/",
@@ -2895,7 +2681,7 @@
   {
    "id": "6e2aec29550f",
    "title": "\"Décembre à Moustiers\" : Marché de Noël couvert ! - Office de tourisme de Moustiers-Sainte-Marie",
-   "summary": "Mardi 1 décembre 2026 à 10h Prochaines dates : 2 décembre 2026 3 décembre 2026 4 décembre 2026 5 décembre 2026 Plus d’informations Galerie de l'Ancien Presbytère – Centre village Ajouter à mon agenda Galerie de l'Ancien Presbytère OT MSM OT MSM OT MSM OT MSM Voir toutes les images \"Décembre à Moustiers\", c'est le rendez-vous de l'hiver pour des cadeaux de Noël locaux et originaux ! Du 1er au 30 décembre 2026, une expo-vente autour de l'art et artisanat local se tiendra à la Galerie de l'Ancien Presbytère : venez vous faire plaisir Pour cette nouvelle édition de Décembre à Moustiers, nous vous ",
+   "summary": "Mardi 1 décembre 2026 à 10h Prochaines dates : 2 décembre 2026 3 décembre 2026 4 décembre 2026 5 décembre 2026 Plus d’informations Galerie de l'Ancien Presbytère – Centre village Ajouter à mon agenda Galerie de l'Ancien Presbytère OT MSM OT MSM OT MSM OT MSM Voir toutes les images \"Décembre à Moustiers\", c'est le rendez-vous de l'hiver pour des cadeaux de Noël locaux et originaux ! Du 1er au 30 décembre 2026, une expo-vente autour de l'art et artisanat local se tiendra à la Galerie de l'Ancien Presbytère : venez vous faire plaisir Pour cette nouvelle édition de Décembre à Moustiers, nous vous",
    "type": "Événement",
    "source": "Recherche web",
    "url": "https://www.moustiers.fr/fiche/decembre-a-moustiers-marche-de-noel-couvert/",
@@ -2934,7 +2720,7 @@
   {
    "id": "ba6d3aecf6e0",
    "title": "Marché de Noël - GOLFE SAINT TROPEZ",
-   "summary": "Le marché de Noël se tient au Château Saint-Maur, 535 route de Collobrières, 83310 Cogolin, du samedi 5 au dimanche 6 décembre 2026. Des artisans... Marché de Noël Date et heure 05-12-26 @ 10:00 ⇒ 06-12-26 @ 17:00 Commune Cogolin 535 route de Collobrières, 83310 Cogolin 📍 Voir sur la carte Catégorie d'événement Marchés & Brocantes Le marché de Noël se tient au Château Saint-Maur, 535 route de Collobrières, 83310 Cogolin, du samedi 5 au dimanche 6 décembre 2026. Des artisans et commerçants locaux proposent leurs créations et des idées cadeaux. Du vin chaud est disponible sur place. L’événement ",
+   "summary": "Le marché de Noël se tient au Château Saint-Maur, 535 route de Collobrières, 83310 Cogolin, du samedi 5 au dimanche 6 décembre 2026. Des artisans... Marché de Noël Date et heure 05-12-26 @ 10:00 ⇒ 06-12-26 @ 17:00 Commune Cogolin 535 route de Collobrières, 83310 Cogolin 📍 Voir sur la carte Catégorie d'événement Marchés & Brocantes Le marché de Noël se tient au Château Saint-Maur, 535 route de Collobrières, 83310 Cogolin, du samedi 5 au dimanche 6 décembre 2026. Des artisans et commerçants locaux proposent leurs créations et des idées cadeaux. Du vin chaud est disponible sur place. L’événement",
    "type": "Événement",
    "source": "Recherche web",
    "url": "https://golfe-saint-tropez.com/evenement/cogolin/marche-de-noel/",
@@ -2971,7 +2757,7 @@
   {
    "id": "63bc22b9321b",
    "title": "Marché de Noël Aix-en-Provence 2026 : dates, santons | Mira",
-   "summary": "Quand ouvre le marché de Noël d'Aix-en-Provence en 2026 ? Du 13 novembre au 31 décembre, cours Mirabeau, de 10 h à 20 h : santons, manèges et parkings. Marché de Noël 2026 Dates 2026 confirmées Marché de Noël d'Aix-en-Provence 2026 en famille : dates, horaires et sorties VEN. 13 NOV. JEU. 31 DÉC. 49 jours de marché Du 13 nov. au 31 déc. 2026 · entrée gratuite Mis à jour le 28 octobre 2026 · lieux vérifiés, événements sourcés sur les sites officiels et les agendas publics Infos pratiques Dates 2026 confirmées Marché de Noël d'Aix-en-Provence 2026, cours Mirabeau : dates, horaires et plan Dates ",
+   "summary": "Quand ouvre le marché de Noël d'Aix-en-Provence en 2026 ? Du 13 novembre au 31 décembre, cours Mirabeau, de 10 h à 20 h : santons, manèges et parkings. Marché de Noël 2026 Dates 2026 confirmées Marché de Noël d'Aix-en-Provence 2026 en famille : dates, horaires et sorties VEN. 13 NOV. JEU. 31 DÉC. 49 jours de marché Du 13 nov. au 31 déc. 2026 · entrée gratuite Mis à jour le 28 octobre 2026 · lieux vérifiés, événements sourcés sur les sites officiels et les agendas publics Infos pratiques Dates 2026 confirmées Marché de Noël d'Aix-en-Provence 2026, cours Mirabeau : dates, horaires et plan Dates",
    "type": "Événement",
    "source": "Recherche web",
    "url": "https://www.miraparent.com/sorties/aix-en-provence/noel/",
@@ -3029,38 +2815,6 @@
     "candidature",
     "exposants",
     "marché de noël"
-   ],
-   "fiable": false,
-   "score": 55,
-   "found_at": "2026-10-14T05:39:31+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-28"
-  },
-  {
-   "id": "b4a56d479448",
-   "title": "Marchés de Noël en Bouches-du-Rhône 2026 : dates, horaires",
-   "summary": "Marchés de Noël en Bouches-du-Rhône 2026 : dates, horaires et lieux à Marseille, Aix-en-Provence, Aubagne, Arles et Salon-de-Provence, entrée gratuite. Les marchés de Noël en Bouches-du-Rhône 2026 s’étendent de la mi-novembre à début janvier, répartis entre Marseille, Aix-en-Provence, Aubagne, Arles et Salon-de-Provence. Sur les cinq sites, l’entrée reste gratuite. La tradition remonte à la fin du XVIIIe siècle, dans les années qui suivent la Révolution française, quand les crèches d’église interdites se sont reconstituées chez les particuliers sous forme de petites figurines en argile. Marsei",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://towd.com/marches-de-noel-en-bouches-du-rhone/",
-   "organizer": null,
-   "city": "Aix-en-Provence",
-   "dept": "13",
-   "lat": 43.54137,
-   "lon": 5.40612,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-30",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "foire"
    ],
    "fiable": false,
    "score": 55,
