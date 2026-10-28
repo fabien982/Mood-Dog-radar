@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-28T13:54:14+00:00",
- "count": 176,
- "new_count": 0,
+ "updated": "2026-10-28T14:05:03+00:00",
+ "count": 182,
+ "new_count": 6,
  "sources": {
   "BOAMP": {
    "ok": true,
-   "found": 0
+   "found": 11
   },
   "Alertes Google": {
    "ok": true,
@@ -13,18 +13,20 @@
   },
   "Recherche web": {
    "ok": true,
-   "found": 0
+   "found": 4
   },
   "Pages surveillées": {
    "ok": true,
-   "found": 26,
+   "found": 28,
    "errors": []
   }
  },
  "web_runs": {
   "Candidatures": "2026-10-28",
   "Instagram": "2026-10-28",
-  "Fêtes et festivals": "2026-10-28"
+  "Fêtes et festivals": "2026-10-28",
+  "Mairies de ma zone": "2026-10-28",
+  "Festivals, domaines et châteaux": "2026-10-28"
  },
  "events": [
   {
@@ -364,6 +366,38 @@
    "contact_checked": true
   },
   {
+   "id": "5738d75aaea8",
+   "title": "Autorisation d'occupation temporaire du domaine public (Aot) du campus universitaire George V (Inspe) d'Université Côte d'Azur pour l'exploitation d'une activité de restauration mo",
+   "summary": "Avis de marché. Prestations de services",
+   "type": "Marché public",
+   "source": "BOAMP",
+   "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-97382",
+   "organizer": "Université Côte d'Azur",
+   "city": null,
+   "dept": "06",
+   "lat": 43.94,
+   "lon": 7.18,
+   "approx": true,
+   "deadline": "2026-10-29",
+   "event_date": null,
+   "published": "2026-10-08",
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "AOT",
+    "restauration"
+   ],
+   "fiable": true,
+   "score": 90,
+   "found_at": "2026-10-28T14:05:03+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "4f10bf3b874a",
    "title": "La grande soirée Guinguette et Paillettes",
    "summary": "21 Nov 2026 La grande soirée Guinguette et Paillettes Les Papakools et la Cassiop’Team Rugby s’unissent pour vous proposer une soirée placée sous le signe de la fête, de la musique et de la convivialité ! Saint-Raphaël",
@@ -433,6 +467,44 @@
    "fiable": false,
    "score": 90,
    "found_at": "2026-10-12T05:30:37+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "a2b93978dc18",
+   "title": "Objet de l’occupation : 1 foodtruck",
+   "summary": "Objet de l’occupation : 1 foodtruck",
+   "type": "Appel à candidatures",
+   "source": "Page surveillée",
+   "url": "https://www.ville-frejus.fr/fr/services-et-infos-pratiques/occupation-du-domaine-public/publicite-et-information-sur-les-autorisations-doccupation-et-dutilisation-privative-du-domaine-public/",
+   "organizer": "Ville de Fréjus – autorisations d'occupation du domaine public",
+   "city": "Fréjus",
+   "dept": "83",
+   "lat": 43.44566,
+   "lon": 6.77051,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 17 66 00"
+    ],
+    "forms": [
+     "https://www.ville-frejus.fr/mairie/demarches/inscription-sur-les-listes-electorales/",
+     "https://www.ville-frejus.fr/au-quotidien/enfance-et-education/inscriptions-scolaires/",
+     "https://www.ville-frejus.fr/au-quotidien/infos-pratiques/dossiers-dinformations-operateurs-de-telephonie-mobile-antennes-relais/"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "foodtruck",
+    "occupation du domaine public"
+   ],
+   "fiable": true,
+   "score": 90,
+   "found_at": "2026-10-28T14:05:03+00:00",
    "contact_checked": true
   },
   {
@@ -606,6 +678,133 @@
    "contact_checked": true
   },
   {
+   "id": "a32fb82f9219",
+   "title": "Prestation de service de restauration collective pour le commune de Miramas",
+   "summary": "Avis de marché. Restauration collective",
+   "type": "Marché public",
+   "source": "BOAMP",
+   "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-96901",
+   "organizer": "Commune de Miramas",
+   "city": "Miramas",
+   "dept": "13",
+   "lat": 43.5828,
+   "lon": 5.00978,
+   "approx": false,
+   "deadline": "2026-11-05",
+   "event_date": null,
+   "published": "2026-10-08",
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "restauration"
+   ],
+   "fiable": true,
+   "score": 85,
+   "found_at": "2026-10-28T14:05:03+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "912abab1d011",
+   "title": "EAO0226 - CAISSE DES ECOLES - Fournitures des mobiliers scolaires, extra-scolaires, de restauration et services associés - Accord-cadre à marchés subséquents et à bons de commande - Relance",
+   "summary": "Avis de marché. Mobilier",
+   "type": "Marché public",
+   "source": "BOAMP",
+   "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-103228",
+   "organizer": "Caisse des écoles de la commune d'Hyères",
+   "city": "Hyères",
+   "dept": "83",
+   "lat": 43.11673,
+   "lon": 6.20255,
+   "approx": false,
+   "deadline": "2026-11-25",
+   "event_date": null,
+   "published": "2026-10-25",
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "restauration"
+   ],
+   "fiable": true,
+   "score": 85,
+   "found_at": "2026-10-28T14:05:03+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "91132d510dc3",
+   "title": "Convention d’autorisation d’occupation temporaire du domaine public pour l’exploitation de l’espace restauration de la piscine Altitude 500 à Grasse",
+   "summary": "Avis de marché. Repas, traiteur",
+   "type": "Marché public",
+   "source": "BOAMP",
+   "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-104478",
+   "organizer": "Communauté d'Agglomération du Pays de Grasse (06)",
+   "city": "Grasse",
+   "dept": "06",
+   "lat": 43.65406,
+   "lon": 6.93776,
+   "approx": false,
+   "deadline": "2026-12-08",
+   "event_date": null,
+   "published": "2026-10-28",
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "restauration"
+   ],
+   "fiable": true,
+   "score": 85,
+   "found_at": "2026-10-28T14:05:03+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "16a5d48e6ca4",
+   "title": "𝗙𝗢𝗢𝗗 𝗧𝗥𝗨𝗖𝗞𝗦 : 𝗔𝗽𝗽𝗲𝗹 𝗮 𝗰𝗮𝗻𝗱𝗶𝗱𝗮𝘁𝘂𝗿𝗲 𝗽𝗼𝘂𝗿 ...",
+   "summary": "APPEL À CANDIDATURES – FOOD TRUCK / RESTAURATION Dans le cadre de notre Vide-Grenier à Sanary, nous recherchons un food truck ou professionnel de ...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/VilleDeSaintBrieuc/posts/%F0%9D%97%99%F0%9D%97%A2%F0%9D%97%A2%F0%9D%97%97-%F0%9D%97%A7%F0%9D%97%A5%F0%9D%97%A8%F0%9D%97%96%F0%9D%97%9E%F0%9D%97%A6-%F0%9D%97%94%F0%9D%97%BD%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%B9-%F0%9D%97%AE%CC%80-%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1%F0%9D%97%B6%F0%9D%97%B1%F0%9D%97%AE%F0%9D%98%81%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%B2-%F0%9D%97%BD%F0%9D%97%BC%F0%9D%98%82%F0%9D%97%BF-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AE%F0%9D%9F%B3six-emplacements-sont-disponibles-dans/1535491205285529/",
+   "organizer": null,
+   "city": "Sanary-sur-Mer",
+   "dept": "83",
+   "lat": 43.13329,
+   "lon": 5.79527,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "appel à candidatures",
+    "food truck",
+    "recherchons",
+    "vide-grenier"
+   ],
+   "fiable": false,
+   "score": 85,
+   "found_at": "2026-10-21T05:39:46+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "c6ce7fcb64d1",
    "title": "Soirée Choucroute",
    "summary": "14 Nov 2026 Soirée Choucroute Le Comité des Fêtes de Roquebrune-sur-Argens vous donne rendez-vous le samedi 14 novembre pour une soirée conviviale et festive placée sous le signe de la gourmandise ! Roquebrune-sur-Argens",
@@ -674,40 +873,6 @@
    "fiable": false,
    "score": 85,
    "found_at": "2026-10-23T05:39:39+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "16a5d48e6ca4",
-   "title": "𝗙𝗢𝗢𝗗 𝗧𝗥𝗨𝗖𝗞𝗦 : 𝗔𝗽𝗽𝗲𝗹 𝗮 𝗰𝗮𝗻𝗱𝗶𝗱𝗮𝘁𝘂𝗿𝗲 𝗽𝗼𝘂𝗿 ...",
-   "summary": "APPEL À CANDIDATURES – FOOD TRUCK / RESTAURATION Dans le cadre de notre Vide-Grenier à Sanary, nous recherchons un food truck ou professionnel de ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/VilleDeSaintBrieuc/posts/%F0%9D%97%99%F0%9D%97%A2%F0%9D%97%A2%F0%9D%97%97-%F0%9D%97%A7%F0%9D%97%A5%F0%9D%97%A8%F0%9D%97%96%F0%9D%97%9E%F0%9D%97%A6-%F0%9D%97%94%F0%9D%97%BD%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%B9-%F0%9D%97%AE%CC%80-%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1%F0%9D%97%B6%F0%9D%97%B1%F0%9D%97%AE%F0%9D%98%81%F0%9D%98%82%F0%9D%97%BF%F0%9D%97%B2-%F0%9D%97%BD%F0%9D%97%BC%F0%9D%98%82%F0%9D%97%BF-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AE%F0%9D%9F%B3six-emplacements-sont-disponibles-dans/1535491205285529/",
-   "organizer": null,
-   "city": "Sanary-sur-Mer",
-   "dept": "83",
-   "lat": 43.13329,
-   "lon": 5.79527,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "appel à candidatures",
-    "food truck",
-    "recherchons",
-    "vide-grenier"
-   ],
-   "fiable": false,
-   "score": 85,
-   "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true
   },
   {
@@ -1239,6 +1404,71 @@
    "contact_checked": true
   },
   {
+   "id": "d2ac015afb81",
+   "title": "📍 Roots & Spice Food Truck Quai de Toul an Héry, Plestin ...",
+   "summary": "Le Festival Musique du Bout du Monde est à la recherche de foodtrucks ... Caro Maï ▻ Recherche Food truck événements. 13w · Public · Bonsoir, Pour la ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/1816590361890883/posts/4418014808415079/",
+   "organizer": null,
+   "city": "Toulon",
+   "dept": "83",
+   "lat": 43.1367,
+   "lon": 5.9338,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "festival",
+    "food truck",
+    "recherche"
+   ],
+   "fiable": false,
+   "score": 75,
+   "found_at": "2026-10-27T05:40:24+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "35b82803383c",
+   "title": "‼️‼️ Voilà l'édition 2026 …. 13 et 14 novembre de 16h à 24h ...",
+   "summary": "Aimé Garnier ▻ Les Animations du Golfe de Saint-Tropez ... concerts, animations, restauration, camping… et ... APPEL À CANDIDATURES – FOOD TRUCKS 2026 !",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/1375941346069664/posts/4371164946547274/",
+   "organizer": null,
+   "city": "Saint-Tropez",
+   "dept": "83",
+   "lat": 43.26495,
+   "lon": 6.65812,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "appel à candidatures",
+    "food trucks"
+   ],
+   "fiable": false,
+   "score": 75,
+   "found_at": "2026-10-28T14:05:03+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "5e169cfea05b",
    "title": "Fréjus Fête Halloween",
    "summary": "26 Oct 2026 au 31 Oct 2026 Fréjus Fête Halloween A l’origine, Halloween est une fête celtique d’origine irlandaise. En effet, ce sont les Irlandais qui ont apporté avec eux la tradition aux Etat-Unis ! Il s’agit donc, en réalité, du nouvel an celtique ! Fréjus",
@@ -1449,38 +1679,6 @@
    "fiable": false,
    "score": 75,
    "found_at": "2026-10-28T05:49:20+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "d2ac015afb81",
-   "title": "📍 Roots & Spice Food Truck Quai de Toul an Héry, Plestin ...",
-   "summary": "... Food Truck , à l'emporté ou sur place pour profitez de la superbe terrasse ... APPEL À CANDIDATURES – SAISON 2027 Les programmations 2027 sont ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/1816590361890883/posts/4418014808415079/",
-   "organizer": null,
-   "city": "Toulon",
-   "dept": "83",
-   "lat": 43.1367,
-   "lon": 5.9338,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "appel à candidatures",
-    "food truck"
-   ],
-   "fiable": false,
-   "score": 75,
-   "found_at": "2026-10-27T05:40:24+00:00",
    "contact_checked": true
   },
   {
@@ -3088,6 +3286,38 @@
    "contact_checked": true
   },
   {
+   "id": "21b95a8a2084",
+   "title": "Mardi soir , ça va être Exceptionnel chez Nardouprod ...",
+   "summary": "Bonjour Je recherche un food truck pour le domaine des restanques du golfe de st tropez a grimaud dans le var le mardi soir. ... Recherche Food Truck Burgers ...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/footballenprovinceduluxembourg/posts/28429898930043253/",
+   "organizer": null,
+   "city": "Grimaud",
+   "dept": "83",
+   "lat": 43.28228,
+   "lon": 6.54503,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "food truck",
+    "recherche"
+   ],
+   "fiable": false,
+   "score": 70,
+   "found_at": "2026-10-27T05:40:24+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "6e66b06d1f6d",
    "title": "Halloween à Saint-Raphaël",
    "summary": "20 Oct 2026 au 01 Nov 2026 Halloween à Saint-Raphaël La magie d’Halloween s’invite à Saint-Raphaël avec au programme : spectacles, ateliers, jeu de piste, contes effrayants et soirée déguisée ! Saint-Raphaël",
@@ -3500,38 +3730,6 @@
    "fiable": false,
    "score": 70,
    "found_at": "2026-10-25T05:38:16+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "21b95a8a2084",
-   "title": "Mardi soir , ça va être Exceptionnel chez Nardouprod ...",
-   "summary": "Bonjour Je recherche un food truck pour le domaine des restanques du golfe de st tropez a grimaud dans le var le mardi soir. ... Recherche Food Truck Burgers ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/footballenprovinceduluxembourg/posts/28429898930043253/",
-   "organizer": null,
-   "city": "Grimaud",
-   "dept": "83",
-   "lat": 43.28228,
-   "lon": 6.54503,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "fiable": false,
-   "score": 70,
-   "found_at": "2026-10-27T05:40:24+00:00",
    "contact_checked": true
   },
   {

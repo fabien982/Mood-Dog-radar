@@ -1488,5 +1488,17 @@
   "lon": 6.93803,
   "city": "Saint-Étienne-de-Tinée",
   "dept": "06"
+ },
+ "miramas": {
+  "lat": 43.5828,
+  "lon": 5.00978,
+  "city": "Miramas",
+  "dept": "13"
+ },
+ "34400": {
+  "lat": 43.68215,
+  "lon": 4.13476,
+  "city": "Lunel",
+  "dept": "34"
  }
 }
