@@ -65,7 +65,10 @@ h1 { margin: 14px 0 6px; font-weight: 800; font-size: 1.9rem; line-height: 1.15;
 .stat span { color: var(--doux); font-size: .95rem; }
 .stat b { font-size: 2rem; font-weight: 800; line-height: 1.1; font-variant-numeric: tabular-nums; }
 .stat:active { transform: scale(.99); }
-@media (min-width: 560px) { .stats { grid-template-columns: repeat(3, 1fr); } }
+.stat small { display: block; color: var(--doux); font-size: .85rem; }
+.stat-fest { border: 2px solid var(--moutarde); }
+@media (min-width: 560px) { .stats { grid-template-columns: repeat(2, 1fr); } }
+@media (min-width: 900px) { .stats { grid-template-columns: repeat(4, 1fr); } }
 
 .section-title { margin: 22px 0 0; font-size: 1.5rem; font-weight: 800; }
 .section-sub { margin: 2px 0 0; color: var(--doux); }

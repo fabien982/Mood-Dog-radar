@@ -227,6 +227,9 @@ function render() {
   $("#n-nouv").textContent = alive.filter((e) => isNew(e) && isDemande(e)).length;
   $("#n-relancer").textContent = count("relancer");
   $("#n-envoye").textContent = count("envoye");
+  $("#n-fest").textContent = FESTS.length || "–";
+  const fo = FESTS.filter((f) => f.appel).length;
+  $("#n-fest-open").textContent = fo ? `${fo} avec candidatures ouvertes` : "Touche pour voir la liste";
   if (filter === "festivals") { $("#liste").innerHTML = festivalList(); if (view === "carte") drawMap([]); return; }
   $("#liste").innerHTML = list.length ? list.map(card).join("") : emptyState();
   if (view === "carte") drawMap(list);
@@ -236,18 +239,22 @@ function render() {
 function festivalList() {
   const q = query.trim().toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
   const today = new Date().toISOString().slice(0, 10);
-  let list = FESTS.filter((f) => (!dept || f.dept === dept) && (!f.date || f.date >= today || f.appel));
+  let list = FESTS.filter((f) => !dept || f.dept === dept);
+  const past = (f) => !!f.date && f.date < today && !f.appel;
   if (q) list = list.filter((f) => `${f.name} ${f.town}`.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").includes(q));
-  list.sort((a, b) => (!!b.appel - !!a.appel) || String(a.date || "9999").localeCompare(String(b.date || "9999")));
+  list.sort((a, b) => (!!b.appel - !!a.appel) || (past(a) - past(b))
+    || (past(a) ? String(a.date).slice(5).localeCompare(String(b.date).slice(5)) : String(a.date || "9999").localeCompare(String(b.date || "9999"))));
   if (!list.length) {
     return `<div class="empty"><strong>${FESTS.length ? "Aucun festival avec ces filtres" : "Liste des festivals en préparation"}</strong>
       ${FESTS.length ? "Vide la recherche ou change de département." : "Le robot récupère la liste de tous les festivals de PACA à son prochain passage."}</div>`;
   }
   const open = list.filter((f) => f.appel).length;
-  const head = `<p class="help">${list.length} festivals en PACA. Le robot vérifie chaque matin quelques festivals à tour de rôle : dès que l'un ouvre ses candidatures restauration / food truck, il passe en haut de la liste.${open ? ` <b>${open} avec un appel ouvert.</b>` : ""}</p>`;
+  const nPast = list.filter(past).length;
+  const head = `<p class="help">${list.length} festivals en PACA (${list.length - nPast} à venir, ${nPast} dont l'édition ${new Date().getFullYear()} est passée : ils sont plus bas, on guette leur prochaine édition). Le robot vérifie chaque matin quelques festivals à tour de rôle : dès que l'un ouvre ses candidatures restauration / food truck, il passe en haut de la liste.${open ? ` <b>${open} avec un appel ouvert.</b>` : ""}</p>`;
   return head + list.map((f) => {
     const [y, m, d] = (f.date || "").split("-").map(Number);
-    const stub = f.date ? { cls: "jour", big: d, small: `${MONTHS[m - 1]} ${y}` } : { cls: "calme", big: "?", small: "date à venir" };
+    const stub = past(f) ? { cls: "calme", big: MONTHS[m - 1], small: `édition ${y} passée` }
+      : f.date ? { cls: "jour", big: d, small: `${MONTHS[m - 1]} ${y}` } : { cls: "calme", big: "?", small: "date à venir" };
     const status = f.appel
       ? `<span class="tag ok">✓ Candidatures ouvertes</span>${f.appel.deadline ? `<span class="tag">clôture ${esc(fmtDate(f.appel.deadline))}</span>` : ""}`
       : f.checked ? `<span class="tag">Pas encore d'appel · vérifié le ${esc(fmtDate(f.checked))}</span>` : `<span class="tag">Vérification à venir</span>`;
