@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-28T13:18:09+00:00",
- "count": 209,
- "new_count": 7,
+ "updated": "2026-10-28T13:54:14+00:00",
+ "count": 176,
+ "new_count": 0,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -17,10 +17,8 @@
   },
   "Pages surveillées": {
    "ok": true,
-   "found": 27,
-   "errors": [
-    "Fest.fr – foires et salons du Var : HTTPError"
-   ]
+   "found": 26,
+   "errors": []
   }
  },
  "web_runs": {
@@ -66,6 +64,7 @@
     "emplacement",
     "food truck"
    ],
+   "fiable": true,
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true
@@ -112,6 +111,7 @@
     "food trucks",
     "occupation du domaine public"
    ],
+   "fiable": true,
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true
@@ -153,6 +153,7 @@
     "food truck",
     "food trucks"
    ],
+   "fiable": true,
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true
@@ -196,6 +197,7 @@
     "food truck",
     "food-truck"
    ],
+   "fiable": true,
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true
@@ -232,6 +234,7 @@
     "fête",
     "soirée"
    ],
+   "fiable": false,
    "score": 95,
    "found_at": "2026-10-05T05:31:06+00:00",
    "contact_checked": true
@@ -273,6 +276,7 @@
     "candidature",
     "food-truck"
    ],
+   "fiable": true,
    "score": 95,
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true
@@ -314,6 +318,7 @@
     "candidature",
     "food-truck"
    ],
+   "fiable": true,
    "score": 95,
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true
@@ -353,6 +358,7 @@
     "food truck",
     "food-truck"
    ],
+   "fiable": false,
    "score": 95,
    "found_at": "2026-10-20T05:39:57+00:00",
    "contact_checked": true
@@ -387,6 +393,7 @@
     "guinguette",
     "soirée"
    ],
+   "fiable": false,
    "score": 90,
    "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
@@ -423,6 +430,7 @@
     "concert",
     "soirée"
    ],
+   "fiable": false,
    "score": 90,
    "found_at": "2026-10-12T05:30:37+00:00",
    "contact_checked": true
@@ -457,6 +465,7 @@
     "recherchons",
     "vide-grenier"
    ],
+   "fiable": false,
    "score": 90,
    "found_at": "2026-10-17T05:37:23+00:00",
    "contact_checked": true
@@ -491,6 +500,7 @@
     "recherchons",
     "vide-grenier"
    ],
+   "fiable": false,
    "score": 90,
    "found_at": "2026-10-15T05:39:55+00:00",
    "contact_checked": true
@@ -524,6 +534,7 @@
     "food-truck",
     "recherche"
    ],
+   "fiable": false,
    "score": 90,
    "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true
@@ -556,42 +567,9 @@
     "food trucks",
     "food-truck"
    ],
+   "fiable": false,
    "score": 90,
    "found_at": "2026-10-01T05:27:39+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "c92caddee32a",
-   "title": "APPEL AUX FOOD TRUCKS / SUCRÉ, SALÉ 🌭🎂 Bonjour à tous ...",
-   "summary": "APPEL À CANDIDATURES – FOOD TRUCKS 2026 ! ... RECHERCHE FOOD TRUCK ... var Nous Recherchons un food truck sucré Veuillez me contacter Merci a vous.",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/evenements.et.soirees/posts/4206600129473848/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "appel à candidatures",
-    "food truck",
-    "food trucks",
-    "recherche",
-    "recherchons"
-   ],
-   "score": 90,
-   "found_at": "2026-10-04T09:18:55+00:00",
    "contact_checked": true
   },
   {
@@ -622,6 +600,7 @@
     "food truck",
     "food trucks"
    ],
+   "fiable": false,
    "score": 90,
    "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true
@@ -658,6 +637,7 @@
     "fêtes",
     "soirée"
    ],
+   "fiable": false,
    "score": 85,
    "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
@@ -691,6 +671,7 @@
     "recherchons",
     "vide-grenier"
    ],
+   "fiable": false,
    "score": 85,
    "found_at": "2026-10-23T05:39:39+00:00",
    "contact_checked": true
@@ -724,6 +705,7 @@
     "recherchons",
     "vide-grenier"
    ],
+   "fiable": false,
    "score": 85,
    "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true
@@ -756,6 +738,7 @@
     "food trucks",
     "recherche"
    ],
+   "fiable": false,
    "score": 85,
    "found_at": "2026-10-14T05:39:31+00:00",
    "contact_checked": true
@@ -789,6 +772,7 @@
     "recherchons",
     "vide-grenier"
    ],
+   "fiable": false,
    "score": 85,
    "found_at": "2026-10-23T05:39:39+00:00",
    "contact_checked": true
@@ -821,6 +805,7 @@
     "foodtruck",
     "recherche"
    ],
+   "fiable": false,
    "score": 85,
    "found_at": "2026-10-23T05:39:39+00:00",
    "contact_checked": true
@@ -854,6 +839,7 @@
     "recherchons",
     "vide-grenier"
    ],
+   "fiable": false,
    "score": 85,
    "found_at": "2026-10-12T05:30:37+00:00",
    "contact_checked": true
@@ -887,6 +873,7 @@
     "candidature",
     "food truck"
    ],
+   "fiable": false,
    "score": 85,
    "found_at": "2026-10-02T05:26:58+00:00",
    "contact_checked": true
@@ -918,6 +905,7 @@
     "festivités",
     "marché de noël"
    ],
+   "fiable": false,
    "score": 80,
    "found_at": "2026-10-14T05:39:31+00:00",
    "contact_checked": true
@@ -950,6 +938,7 @@
     "exposants",
     "food-truck"
    ],
+   "fiable": false,
    "score": 80,
    "found_at": "2026-10-25T05:38:16+00:00",
    "contact_checked": true
@@ -982,6 +971,7 @@
     "festival",
     "food truck"
    ],
+   "fiable": false,
    "score": 80,
    "found_at": "2026-10-01T05:27:39+00:00",
    "contact_checked": true
@@ -1014,6 +1004,7 @@
     "food truck",
     "recherche"
    ],
+   "fiable": false,
    "score": 80,
    "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true
@@ -1047,6 +1038,7 @@
     "food truck",
     "recherche"
    ],
+   "fiable": false,
    "score": 80,
    "found_at": "2026-10-26T05:42:56+00:00",
    "contact_checked": true
@@ -1078,6 +1070,7 @@
     "concert",
     "festival"
    ],
+   "fiable": false,
    "score": 80,
    "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
@@ -1109,6 +1102,7 @@
     "brocante",
     "vide-grenier"
    ],
+   "fiable": false,
    "score": 80,
    "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
@@ -1141,6 +1135,7 @@
     "vide-grenier",
     "vide-greniers"
    ],
+   "fiable": false,
    "score": 80,
    "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
@@ -1173,73 +1168,9 @@
     "exposants",
     "food truck"
    ],
+   "fiable": false,
    "score": 80,
    "found_at": "2026-10-21T05:39:46+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "52c60762993a",
-   "title": "🚚 RECHERCHE FOOD-TRUCK – SAINT-MAXIMIN ...",
-   "summary": "RECHERCHE FOOD-TRUCK – SAINT-MAXIMIN-LA-SAINTE ... recherchons des food trucks ou traiteur type ... var. Merci beaucoup. Maryvonne Porter and 4 ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/464711687781403/posts/2128947611357794/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food trucks",
-    "food-truck",
-    "recherche",
-    "recherchons"
-   ],
-   "score": 80,
-   "found_at": "2026-09-29T23:11:06+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "498fa9353447",
-   "title": "Bonjour à tous, La transjaï, régate longue distance ouvertes aux ...",
-   "summary": "... Food Truck ou traiteur indépendant pour assurer la restauration du public. ... APPEL À CANDIDATURES – FOOD TRUCKS 2026 ! ... Alpes-Maritimes Avec une ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/318488959056001/posts/2089602021944677/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "appel à candidatures",
-    "food truck",
-    "food trucks"
-   ],
-   "score": 80,
-   "found_at": "2026-10-20T05:39:57+00:00",
    "contact_checked": true
   },
   {
@@ -1270,6 +1201,7 @@
     "exposants",
     "food truck"
    ],
+   "fiable": false,
    "score": 80,
    "found_at": "2026-10-16T05:39:08+00:00",
    "contact_checked": true
@@ -1301,6 +1233,7 @@
     "brocante",
     "vide-grenier"
    ],
+   "fiable": false,
    "score": 80,
    "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true
@@ -1336,6 +1269,7 @@
    "keywords": [
     "fête"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-05T05:31:06+00:00",
    "contact_checked": true
@@ -1370,6 +1304,7 @@
    "keywords": [
     "festival"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-27T05:40:24+00:00",
    "contact_checked": true
@@ -1405,6 +1340,7 @@
    "keywords": [
     "festival"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-11T05:27:20+00:00",
    "contact_checked": true
@@ -1438,6 +1374,7 @@
    "keywords": [
     "concert"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-11T05:27:20+00:00",
    "contact_checked": true
@@ -1472,6 +1409,7 @@
    "keywords": [
     "concert"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-14T05:39:31+00:00",
    "contact_checked": true
@@ -1508,6 +1446,7 @@
    "keywords": [
     "concert"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
@@ -1539,6 +1478,7 @@
     "appel à candidatures",
     "food truck"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-27T05:40:24+00:00",
    "contact_checked": true
@@ -1570,104 +1510,9 @@
     "appel à candidatures",
     "food-truck"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-28T05:49:20+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "a1a63f105bcd",
-   "title": "🚨🌴 ALERTE AUX GOURMANDS ! 🌮🍔 La team Chez J&J ...",
-   "summary": "Recherche Food truck événements. Jetj Sandwicherie Tacos5hMorunas ... Le Camion Bleu Foodtruck Barcelonnette ▻ Alpes-de-Haute-Provence | Entre Ciel et Lavande.",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/1052429426732653/posts/1474261591216099/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "foodtruck",
-    "recherche"
-   ],
-   "score": 75,
-   "found_at": "2026-10-26T05:42:56+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "b17f652fcbb8",
-   "title": "Bonjour a tous retour pour la suite du food truck gateaux ...",
-   "summary": "Le Camion Bleu Foodtruck Barcelonnette ▻ Alpes-de-Haute-Provence | Entre Ciel et Lavande ... Alpakagirl_68220 ▻ Recherche Food truck événements. 6w · Public ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/183819802398104/posts/2236903493756381/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "foodtruck",
-    "recherche"
-   ],
-   "score": 75,
-   "found_at": "2026-10-19T05:39:54+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "f70b6b7a4a16",
-   "title": "recherche créateurs & producteurs",
-   "summary": "Département des Alpes de Haute Provence (04) (France). Handicap & alors ... exposants Vous êtes artisan, créateur ou food truck et souhaitez participer ?",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/1050458128354593/posts/28695638536743180/",
-   "organizer": null,
-   "city": null,
-   "dept": "04",
-   "lat": 44.09,
-   "lon": 6.24,
-   "approx": true,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "exposants",
-    "food truck",
-    "recherche"
-   ],
-   "score": 75,
-   "found_at": "2026-10-12T05:30:37+00:00",
    "contact_checked": true
   },
   {
@@ -1697,6 +1542,7 @@
     "appel à manifestation d'intérêt",
     "restauration ambulante"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-25T05:38:16+00:00",
    "contact_checked": true
@@ -1728,6 +1574,7 @@
     "appel à manifestation d'intérêt",
     "restauration ambulante"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-04T09:18:55+00:00",
    "contact_checked": true
@@ -1759,6 +1606,7 @@
     "appel à manifestation d'intérêt",
     "restauration ambulante"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true
@@ -1790,6 +1638,7 @@
     "brocante",
     "vide-greniers"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
@@ -1821,6 +1670,7 @@
     "brocante",
     "vide-greniers"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
@@ -1852,6 +1702,7 @@
     "vide-grenier",
     "vide-greniers"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true
@@ -1883,6 +1734,7 @@
     "brocante",
     "vide-greniers"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
@@ -1917,6 +1769,7 @@
    "keywords": [
     "concert"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-25T05:38:16+00:00",
    "contact_checked": true
@@ -1952,6 +1805,7 @@
    "keywords": [
     "fête"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-25T05:38:16+00:00",
    "contact_checked": true
@@ -1987,6 +1841,7 @@
    "keywords": [
     "concert"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-25T05:38:16+00:00",
    "contact_checked": true
@@ -2023,6 +1878,7 @@
    "keywords": [
     "fête"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-25T05:38:16+00:00",
    "contact_checked": true
@@ -2057,6 +1913,7 @@
    "keywords": [
     "concert"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-26T05:42:56+00:00",
    "contact_checked": true
@@ -2088,6 +1945,7 @@
     "appel à manifestation d'intérêt",
     "restauration ambulante"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-13T05:31:02+00:00",
    "contact_checked": true
@@ -2122,6 +1980,7 @@
    "keywords": [
     "festival"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-11T05:27:20+00:00",
    "contact_checked": true
@@ -2153,6 +2012,7 @@
     "appel à candidatures",
     "food-truck"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-26T05:42:56+00:00",
    "contact_checked": true
@@ -2184,6 +2044,7 @@
     "appel à candidatures",
     "food truck"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true
@@ -2216,43 +2077,7 @@
     "fête",
     "recherche"
    ],
-   "score": 75,
-   "found_at": "2026-10-24T05:39:34+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "7373d886b683",
-   "title": "food truck pour un événement dans les Bouches-du-Rhône",
-   "summary": "... emplacement réservé aux food trucks, accès au site et contraintes techniques éventuelles. ... Vous recherchez un food truck pour votre prochain événement dans les ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.donyandco.com/details-food+truck+pour+collectivites+mairies+et+evenements+publics+dans+les+bouches-du-rhone-150",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [
-     "contact.donyandco@gmail.com"
-    ],
-    "phones": [
-     "07 67 88 67 99",
-     "07 50 00 62 72"
-    ],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "emplacement",
-    "food truck",
-    "food trucks"
-   ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-24T05:39:34+00:00",
    "contact_checked": true
@@ -2285,6 +2110,7 @@
     "food trucks",
     "recherche"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-24T05:39:34+00:00",
    "contact_checked": true
@@ -2318,6 +2144,7 @@
     "fête",
     "fête de la musique"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true
@@ -2351,6 +2178,7 @@
     "fête",
     "fête de la musique"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true
@@ -2382,6 +2210,7 @@
     "fête",
     "marché de noël"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-14T05:39:31+00:00",
    "contact_checked": true
@@ -2419,6 +2248,7 @@
     "fête",
     "marché de noël"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true
@@ -2452,6 +2282,7 @@
     "fête",
     "fête de la musique"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true
@@ -2483,6 +2314,7 @@
     "fête",
     "fête de la musique"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true
@@ -2514,6 +2346,7 @@
     "appel à candidatures",
     "food truck"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-17T05:37:23+00:00",
    "contact_checked": true
@@ -2546,6 +2379,7 @@
     "food truck",
     "recherche"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-14T05:39:31+00:00",
    "contact_checked": true
@@ -2578,6 +2412,7 @@
     "food-truck",
     "recherche"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-17T05:37:23+00:00",
    "contact_checked": true
@@ -2609,6 +2444,7 @@
     "food truck",
     "occupation du domaine public"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-14T05:39:31+00:00",
    "contact_checked": true
@@ -2645,6 +2481,7 @@
     "fête",
     "fêtes"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-07T05:29:12+00:00",
    "contact_checked": true
@@ -2678,6 +2515,7 @@
     "festival",
     "foire"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-14T05:39:31+00:00",
    "contact_checked": true
@@ -2709,6 +2547,7 @@
     "brocante",
     "vide-greniers"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-14T05:39:31+00:00",
    "contact_checked": true
@@ -2740,6 +2579,7 @@
     "appel à candidatures",
     "food truck"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-13T05:31:02+00:00",
    "contact_checked": true
@@ -2771,6 +2611,7 @@
     "appel à candidatures",
     "food truck"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-08T05:28:57+00:00",
    "contact_checked": true
@@ -2802,6 +2643,7 @@
     "appel à manifestation d'intérêt",
     "restauration ambulante"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-12T05:30:37+00:00",
    "contact_checked": true
@@ -2833,6 +2675,7 @@
     "appel à candidatures",
     "food truck"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-01T05:27:39+00:00",
    "contact_checked": true
@@ -2868,40 +2711,9 @@
     "appel à candidatures",
     "food truck"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-07T05:29:12+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "e5f740f16568",
-   "title": "Bonjour,",
-   "summary": "Recherche food truck sucré – Anniversaire ... Bonjour, je recherche des food trucks sur la ... Anonymous participant ▻ Tu sais que tu viens des Alpes-Maritimes ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/488396098211880/posts/2836100683441398/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "food trucks",
-    "recherche"
-   ],
-   "score": 75,
-   "found_at": "2026-10-01T05:27:39+00:00",
    "contact_checked": true
   },
   {
@@ -2931,6 +2743,7 @@
     "appel à candidatures",
     "food truck"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true
@@ -2962,6 +2775,7 @@
     "appel à manifestation d'intérêt",
     "restauration ambulante"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true
@@ -2993,6 +2807,7 @@
     "appel à candidatures",
     "food truck"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-01T05:27:39+00:00",
    "contact_checked": true
@@ -3024,6 +2839,7 @@
     "appel à candidatures",
     "food truck"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-02T05:26:58+00:00",
    "contact_checked": true
@@ -3059,6 +2875,7 @@
     "fête",
     "marché de noël"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-07T05:29:12+00:00",
    "contact_checked": true
@@ -3091,40 +2908,9 @@
     "fête",
     "fêtes"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-07T05:29:12+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "5432199f13b1",
-   "title": "Pas de service ce midi food truck en panne",
-   "summary": "Recherche Food truck événements. la crêpe qui roule5d. Pas de service ce midi ... Le Camion Bleu Foodtruck Barcelonnette ▻ Alpes-de-Haute-Provence | Entre Ciel ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/1052429426732653/posts/1445472387428353/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "foodtruck",
-    "recherche"
-   ],
-   "score": 75,
-   "found_at": "2026-09-30T00:21:22+00:00",
    "contact_checked": true
   },
   {
@@ -3154,6 +2940,7 @@
     "appel à manifestation d'intérêt",
     "restauration ambulante"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-10-02T05:26:58+00:00",
    "contact_checked": true
@@ -3185,6 +2972,7 @@
     "appel à manifestation d'intérêt",
     "restauration ambulante"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-09-30T05:27:39+00:00",
    "contact_checked": true
@@ -3217,6 +3005,7 @@
     "marché de noël",
     "recherche"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true
@@ -3258,6 +3047,7 @@
     "marché de noël",
     "recherche"
    ],
+   "fiable": false,
    "score": 75,
    "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true
@@ -3292,6 +3082,7 @@
    "keywords": [
     "brocante"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
@@ -3330,6 +3121,7 @@
    "keywords": [
     "soirée"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-10-17T05:37:23+00:00",
    "contact_checked": true
@@ -3364,6 +3156,7 @@
    "keywords": [
     "soirée"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-10-26T16:07:09+00:00",
    "contact_checked": true
@@ -3399,6 +3192,7 @@
    "keywords": [
     "journée"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-10-20T15:38:32+00:00",
    "contact_checked": true
@@ -3432,6 +3226,7 @@
    "keywords": [
     "soirée"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-10-18T05:37:28+00:00",
    "contact_checked": true
@@ -3465,6 +3260,7 @@
    "keywords": [
     "soirée"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-10-27T05:40:24+00:00",
    "contact_checked": true
@@ -3499,6 +3295,7 @@
    "keywords": [
     "soirée"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-10-18T05:37:28+00:00",
    "contact_checked": true
@@ -3534,6 +3331,7 @@
    "keywords": [
     "soirée"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
@@ -3569,6 +3367,7 @@
    "keywords": [
     "journée"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
@@ -3601,6 +3400,7 @@
    "keywords": [
     "soirée"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-10-27T05:40:24+00:00",
    "contact_checked": true
@@ -3633,6 +3433,7 @@
    "keywords": [
     "salon"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-10-22T05:39:07+00:00",
    "contact_checked": true
@@ -3664,6 +3465,7 @@
     "food truck",
     "recherche"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-10-26T05:42:56+00:00",
    "contact_checked": true
@@ -3695,6 +3497,7 @@
     "food truck",
     "recherche"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-10-25T05:38:16+00:00",
    "contact_checked": true
@@ -3726,6 +3529,7 @@
     "food truck",
     "recherche"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-10-27T05:40:24+00:00",
    "contact_checked": true
@@ -3764,6 +3568,7 @@
    "keywords": [
     "food truck"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-10-06T05:28:06+00:00",
    "contact_checked": true
@@ -3801,6 +3606,7 @@
     "festivités",
     "marché de noël"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
@@ -3832,6 +3638,7 @@
     "foire",
     "marché de noël"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true
@@ -3863,6 +3670,7 @@
     "food truck",
     "recherche"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-10-24T05:39:34+00:00",
    "contact_checked": true
@@ -3894,40 +3702,9 @@
     "food truck",
     "recherche"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-10-08T05:28:57+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "0621feb4fdf7",
-   "title": "Arles Crau Camargue Montagnette lance un appel à projet ...",
-   "summary": "... appel à manifestation d'intérêt en vue de la création d'une cité de l'image ... food truck sur le secteur de la crau, l'emplacement sera essentiel pour ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/laprovence/posts/arles-crau-camargue-montagnette-lance-un-appel-%C3%A0-projet-jusquau-30-octobre-pour/1579454897559002/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "emplacement",
-    "food truck"
-   ],
-   "score": 70,
-   "found_at": "2026-10-23T05:39:39+00:00",
    "contact_checked": true
   },
   {
@@ -3957,40 +3734,9 @@
     "food truck",
     "recherche"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-10-07T05:29:12+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "5adf373869c4",
-   "title": "Arles Crau Camargue Montagnette lance un appel à projet ...",
-   "summary": "... appel à manifestation d'intérêt en vue de la création d'une cité de l'image ... food truck sur le secteur de la crau, l'emplacement sera essentiel pour ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/laprovence/posts/arles-crau-camargue-montagnette-lance-un-appel-%C3%A0-projet-jusquau-30-octobre-pour-/1579454897559002/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "emplacement",
-    "food truck"
-   ],
-   "score": 70,
-   "found_at": "2026-10-11T05:27:20+00:00",
    "contact_checked": true
   },
   {
@@ -4026,6 +3772,7 @@
     "festivités",
     "marché de noël"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true
@@ -4057,6 +3804,7 @@
     "food truck",
     "recherche"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true
@@ -4088,6 +3836,7 @@
     "food truck",
     "recherche"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-10-16T05:39:08+00:00",
    "contact_checked": true
@@ -4118,6 +3867,7 @@
    "keywords": [
     "food trucks"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true
@@ -4149,6 +3899,7 @@
     "food trucks",
     "recherchons"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true
@@ -4180,40 +3931,9 @@
     "food truck",
     "recherche"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-10-09T05:29:24+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "6d480841a581",
-   "title": "Bonjours je suis à la recherche d'un petit bout de terrain ou ...",
-   "summary": "... Alpes-Maritimes ? • Oui • Non • Peut-être selon ... Je possède 1 food truck burger et un food truck ... Appel à candidatures ! Je suis gérant de la salle ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/valloninfo/posts/28851302601129700/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "appel à candidatures",
-    "food truck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-10-02T05:26:58+00:00",
    "contact_checked": true
   },
   {
@@ -4250,6 +3970,7 @@
     "fêtes",
     "marché de noël"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-10-07T05:29:12+00:00",
    "contact_checked": true
@@ -4285,6 +4006,7 @@
     "fêtes",
     "marché de noël"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-10-07T05:29:12+00:00",
    "contact_checked": true
@@ -4316,6 +4038,7 @@
     "foire",
     "marché de noël"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true
@@ -4347,6 +4070,7 @@
     "food truck",
     "recherche"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true
@@ -4378,6 +4102,7 @@
     "food truck",
     "recherche"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true
@@ -4409,6 +4134,7 @@
     "food truck",
     "recherche"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true
@@ -4440,6 +4166,7 @@
     "food truck",
     "recherche"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true
@@ -4471,6 +4198,7 @@
     "food truck",
     "recherche"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true
@@ -4502,39 +4230,9 @@
     "food truck",
     "recherche"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-10-01T05:27:39+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "1ce52eb92bea",
-   "title": "Bonjour, je viens de rejoindre ce groupe car pour notre ...",
-   "summary": "Je recherche également un food truck, de préférence crêpes et galettes! ... Handicap & alors ▻ Département des Alpes de Haute Provence (04) (France). 6d ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/280569647653654/posts/1093141453063132/",
-   "organizer": null,
-   "city": null,
-   "dept": "04",
-   "lat": 44.09,
-   "lon": 6.24,
-   "approx": true,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 70,
-   "found_at": "2026-09-30T00:21:22+00:00",
    "contact_checked": true
   },
   {
@@ -4564,6 +4262,7 @@
     "food truck",
     "recherche"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true
@@ -4595,6 +4294,7 @@
     "food trucks",
     "recherchons"
    ],
+   "fiable": false,
    "score": 70,
    "found_at": "2026-09-29T23:11:06+00:00",
    "contact_checked": true
@@ -4628,70 +4328,9 @@
    "keywords": [
     "marché de noël"
    ],
+   "fiable": false,
    "score": 65,
    "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "78f69c151bb4",
-   "title": "🎃 Des frissons… et du goût 🔥🎉 La Nuit des Chocottes ...",
-   "summary": "... food truck et envie de rejoindre l'aventure ? Présentez-nous votre cuisine en répondant à l'appel à candidatures ... Alpes-Maritimes, Var et Bouches-du- ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.instagram.com/p/DeEko7PgF68/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Instagram",
-   "keywords": [
-    "appel à candidatures",
-    "food truck"
-   ],
-   "score": 65,
-   "found_at": "2026-10-27T05:40:24+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "db980fda1482",
-   "title": "Exploitation de chalets du « Village de Noël en Provence ...",
-   "summary": "Appel à candidatures pour l'occupation temporaire du domaine public communal ... food truck « vintage ou de caractère » pour les activités suivantes ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/villedulavandou/posts/appel-%C3%A0-candidatures-pour-loccupation-temporaire-du-domaine-public-communal-expl/1523399123145752/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "appel à candidatures",
-    "food truck"
-   ],
-   "score": 65,
-   "found_at": "2026-10-08T05:28:57+00:00",
    "contact_checked": true
   },
   {
@@ -4720,174 +4359,9 @@
    "keywords": [
     "food truck"
    ],
+   "fiable": false,
    "score": 65,
    "found_at": "2026-10-27T05:40:24+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "db529bf0aa31",
-   "title": "Un sourire, un câlin, des étoiles plein les yeux… Découvrez une ...",
-   "summary": "Didier Desanti ▻ Alpes de Haute-Provence. 1y ... Appel à manifestation d'intérêt À ce stade, il s ... food-truck salé : frites, burgers, kebabs, etc.",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/OSE.Lorraine/posts/4585110958420663/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "food-truck"
-   ],
-   "score": 65,
-   "found_at": "2026-10-17T05:37:23+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "cfd5c0b21c5c",
-   "title": "Appels à candidatures food truck : emplacements et AMI",
-   "summary": "L'Université Côte d'Azur lance un appel à candidatures pour la mise à disposition ponctuelle du domaine public pour un food truck sur le campus Carlone. Les ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://wikifoodtruck.fr/appels-food-truck",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [
-     "francois@wikifoodtruck.fr"
-    ],
-    "phones": [],
-    "forms": [
-     "https://wikifoodtruck.fr/appels-food-truck/nice-convention-food-truck-universite-cote-d-azur-2026",
-     "https://wikifoodtruck.fr/appels-food-truck/paimpol-appel-a-candidatures-food-trucks-2027",
-     "https://wikifoodtruck.fr/appels-food-truck/correncon-en-vercors-appel-a-manifestation-d-interet-food-truck-2026"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à candidatures",
-    "food truck"
-   ],
-   "score": 65,
-   "found_at": "2026-10-20T05:39:57+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "2181218a230c",
-   "title": "Le salon Terro'Art 2026 les 26 et 27 septembre à Tarbes +infos ...",
-   "summary": "Alpes de Haute-Provence Tourisme ▻ Alpes de Haute-Provence ... food truck pour la partie restauration > contact ... Appel à manifestation d'intérêt À ce stade, il ...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/1398754508339397/posts/1401899708024877/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "food truck"
-   ],
-   "score": 65,
-   "found_at": "2026-10-13T05:31:02+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "9f1a6dda2a73",
-   "title": "Pascal Lorillo",
-   "summary": "RECHERCHE FOOD-TRUCK – SAINT-MAXIMIN- LA-SAINTE-BAUME Nous recherchons un food-truck souhaitant s'installer de manière régulière dans la Zone ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/pascal.lorillo/posts/38520311817614866/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food-truck",
-    "recherche",
-    "recherchons"
-   ],
-   "score": 65,
-   "found_at": "2026-09-30T00:21:22+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "869cdb994ca0",
-   "title": "Sud Marchés Publics - Le portail d'accès aux appels d'offres ...",
-   "summary": "Autorisation d’occupation temporaire du domaine public (AOT) du campus universitaire George V (INSPE) d’Université Côte d’Azur pour l’exploitation d’une activité de restauration mobile type Food truck.",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://marches-publics.maregionsud.fr/index.php/avis/avis_found?pager=5",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": [
-     "http://h2p-esh.e-marchespublics.com/pack/dossier_de_consultation_electronique_221_1186395.html",
-     "http://h2p-esh.e-marchespublics.com/pack/dossier_de_consultation_electronique_221_1186392.html",
-     "http://h2p-esh.e-marchespublics.com/pack/dossier_de_consultation_electronique_221_1186300.html"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "AOT",
-    "food truck"
-   ],
-   "score": 65,
-   "found_at": "2026-10-13T05:31:02+00:00",
    "contact_checked": true
   },
   {
@@ -4921,133 +4395,9 @@
     "fête",
     "fête de la musique"
    ],
+   "fiable": false,
    "score": 65,
    "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "99da557fd0cf",
-   "title": "CE SAMEDI 12 SEPTEMBRE! Sainte-Justine-de-Newton",
-   "summary": "... var Nous Recherchons un food truck sucré Veuillez me contacter Merci a vous ... RECHERCHE FOOD TRUCK — Samedi 6 juin, midi.",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/1045696432116756/posts/28716091727983854/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche",
-    "recherchons"
-   ],
-   "score": 65,
-   "found_at": "2026-09-29T23:56:38+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "78277a651828",
-   "title": "lors de la Coupe du monde de la pizza 2026, à Rome ...",
-   "summary": "... (Var). Bruno De Gaudemar 🎙️ Marion Vigreux. M6 Info. 35w · Public ... Sophie Geron ▻ Recherche Food Truck. 44w · Public · Bonjour, je suis Sophie ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/lalsacefr/posts/il-est-le-lucky-luke-des-pizzaiolos-lors-de-la-coupe-du-monde-de-la-pizza-2026-%C3%A0/1562443319248385/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 60,
-   "found_at": "2026-10-28T05:49:20+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "a7c6b3842c1c",
-   "title": "Près du Neubourg, elle quitte son métier d'assistante ...",
-   "summary": "Robert Passet ▻ Recherche Food truck événements. 3w · Public · Bonjour à tous ... Bouches-du-Rhône ou aux alentours qui recherche ce type de commerce, je ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/courrierdeleure/posts/pr%C3%A8s-du-neubourg-elle-quitte-son-m%C3%A9tier-dassistante-commerciale-pour-lancer-son-/1779969034131584/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 60,
-   "found_at": "2026-10-23T05:39:39+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "8e214dcb0c1d",
-   "title": "Rédaction 🚨🥞 OH MY CRÊPE AFFOLE LES PAPILLES ...",
-   "summary": "Plaisirs Sucrés ▻ Recherche Food truck événements. 1w · Public · Bonjour, Je ... La Crêperie - Restaurant Forcalquier, Alpes de haute provence ▻ SORTIR DANS LE ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/1299240421557768/posts/1687463642735442/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 60,
-   "found_at": "2026-10-23T05:39:39+00:00",
    "contact_checked": true
   },
   {
@@ -5080,6 +4430,7 @@
    "keywords": [
     "festival"
    ],
+   "fiable": false,
    "score": 60,
    "found_at": "2026-10-14T05:39:31+00:00",
    "contact_checked": true
@@ -5112,39 +4463,9 @@
    "keywords": [
     "festival"
    ],
+   "fiable": false,
    "score": 60,
    "found_at": "2026-10-28T05:49:20+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "8b231ade7475",
-   "title": "Restauration : des food-trucks recherchés sur les aires de ...",
-   "summary": "... recherche des food-trucks salés et/ou sucrés. Burgers • Pizzas ... RECHERCHE FOOD-TRUCK – SAINT-MAXIMIN-LA- SAINTE-BAUME Nous ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/actu.frnantes/posts/restauration-des-food-trucks-recherch%C3%A9s-sur-les-aires-de-repos-de-la-2x2-voies-e/1391861986264891/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food-truck",
-    "recherche"
-   ],
-   "score": 60,
-   "found_at": "2026-10-24T05:39:34+00:00",
    "contact_checked": true
   },
   {
@@ -5173,6 +4494,7 @@
    "keywords": [
     "fête"
    ],
+   "fiable": false,
    "score": 60,
    "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true
@@ -5205,6 +4527,7 @@
    "keywords": [
     "festival"
    ],
+   "fiable": false,
    "score": 60,
    "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true
@@ -5237,6 +4560,7 @@
    "keywords": [
     "festival"
    ],
+   "fiable": false,
    "score": 60,
    "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true
@@ -5271,6 +4595,7 @@
    "keywords": [
     "festival"
    ],
+   "fiable": false,
    "score": 60,
    "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true
@@ -5301,39 +4626,9 @@
    "keywords": [
     "brocante"
    ],
+   "fiable": false,
    "score": 60,
    "found_at": "2026-10-14T05:39:31+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "744f2e15f3b9",
-   "title": "Bonsoir 🙂 Si vous possédez un Food Truck, un camping-car, un ...",
-   "summary": "Recherche food truck – Saison été 2026 ... Je réalise une petite étude de marché dans les Alpes- Maritimes ... Alpes-Maritimes ? • Oui • Non • Peut-être selon ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/1523606787861349/posts/4620628141492516/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 60,
-   "found_at": "2026-10-16T05:39:08+00:00",
    "contact_checked": true
   },
   {
@@ -5362,6 +4657,7 @@
    "keywords": [
     "fête"
    ],
+   "fiable": false,
    "score": 60,
    "found_at": "2026-10-07T05:29:12+00:00",
    "contact_checked": true
@@ -5395,6 +4691,7 @@
    "keywords": [
     "festival"
    ],
+   "fiable": false,
    "score": 60,
    "found_at": "2026-10-14T05:39:31+00:00",
    "contact_checked": true
@@ -5426,6 +4723,7 @@
     "foire",
     "marché de noël"
    ],
+   "fiable": false,
    "score": 60,
    "found_at": "2026-10-14T05:39:31+00:00",
    "contact_checked": true
@@ -5457,196 +4755,9 @@
     "exposants",
     "marché de noël"
    ],
+   "fiable": false,
    "score": 60,
    "found_at": "2026-10-14T05:39:31+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "f2a09d8bc8f9",
-   "title": "Annonces camion food truck d'occasion",
-   "summary": "Recherche food truck. 1 €. Prix: 1 €. Le Rheu 35650. Située à Le Rheu 35650. 28 ... Équipements pour commerces & marchés Provence-Alpes-Côte d'Azur ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.leboncoin.fr/ck/equipements_pour_commerces_marches/camion-food-truck/p-3",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 60,
-   "found_at": "2026-10-10T05:27:15+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "910ca561bdc4",
-   "title": "Pour plus d'informations +33 7 83 58 13 77",
-   "summary": "Recherche Food truck événements. Canos Truck. AI content. 3d. Pour plus d ... Waze Alpes-Maritimes ▻ Communauté Waze Alpes-Maritimes. 1y · Public · ⚠️ Info ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/1052429426732653/posts/1452137000095225/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "07 83 58 13 77"
-    ],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 60,
-   "found_at": "2026-10-10T05:27:15+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "099ee6f03a0a",
-   "title": "Food remorque d'occasion - Équipements pour commerces ...",
-   "summary": "Recherche food truck. 1 €. Prix: 1 €. Le Rheu 35650. Située à Le Rheu 35650. 28 ... Équipements pour commerces & marchés Provence-Alpes-Côte d'Azur ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.leboncoin.fr/ck/equipements_pour_commerces_marches/food-remorque/p-7",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 60,
-   "found_at": "2026-10-07T05:29:12+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "3fab843885eb",
-   "title": "Saint Maximin ma ville",
-   "summary": "SAINTE MAXIME VOTRE PIED A TERRE AU COEUR DU GOLF DE ST TROPEZ. – Bel ... 12h · Public · RECHERCHE FOOD-TRUCK – SAINT-MAXIMIN-LA- SAINTE-BAUME ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/464711687781403/posts/2129290774656811/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food-truck",
-    "recherche"
-   ],
-   "score": 60,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "c1e61ae5e3d6",
-   "title": "On commence par un petit déjeuner BIO à IFREMER sur le ...",
-   "summary": "RECHERCHE FOOD-TRUCK – SAINT-MAXIMIN-LA- SAINTE-BAUME Nous ... SAINTE MAXIME VOTRE PIED A TERRE AU COEUR DU GOLF DE ST TROPEZ. 0 reactions. Eau ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/464711687781403/posts/2129223024663586/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food-truck",
-    "recherche"
-   ],
-   "score": 60,
-   "found_at": "2026-10-06T05:28:06+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "0319f2dff2b6",
-   "title": "👋 Bonjour à tous !",
-   "summary": "Anonymous participant ▻ Tu sais que tu viens des Alpes-Maritimes quand... 44w · Public ... Thaïs Nivaille ▻ Recherche Food truck événements. 4w · Public.",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/cestnormalaseraing/posts/2140592356589142/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 60,
-   "found_at": "2026-10-01T05:27:39+00:00",
    "contact_checked": true
   },
   {
@@ -5680,6 +4791,7 @@
    "keywords": [
     "festival"
    ],
+   "fiable": false,
    "score": 60,
    "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true
@@ -5712,39 +4824,9 @@
    "keywords": [
     "festival"
    ],
+   "fiable": false,
    "score": 60,
    "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "066b7ee91479",
-   "title": "Bonjour 🖐️ , 🚨Ce soir, JEUDI 24 SEPTEMBRE ...",
-   "summary": "... var) le Titi Truck vous propose en plat: JAMBON GRILLÉ SAUCE MADERE ... Thaïs Nivaille ▻ Recherche Food truck événements. 6w · Public · Food truck 12 ...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/836452566423982/posts/28465527263089807/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "food truck",
-    "recherche"
-   ],
-   "score": 60,
-   "found_at": "2026-09-29T23:11:06+00:00",
    "contact_checked": true
   },
   {
@@ -5775,6 +4857,7 @@
    "keywords": [
     "marché de noël"
    ],
+   "fiable": false,
    "score": 55,
    "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
@@ -5809,6 +4892,7 @@
    "keywords": [
     "marché de noël"
    ],
+   "fiable": false,
    "score": 55,
    "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
@@ -5839,6 +4923,7 @@
    "keywords": [
     "marché de noël"
    ],
+   "fiable": false,
    "score": 55,
    "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
@@ -5869,6 +4954,7 @@
    "keywords": [
     "marché de noël"
    ],
+   "fiable": false,
    "score": 55,
    "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true
@@ -5899,6 +4985,7 @@
    "keywords": [
     "marché de noël"
    ],
+   "fiable": false,
    "score": 55,
    "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
@@ -5935,6 +5022,7 @@
    "keywords": [
     "marché de noël"
    ],
+   "fiable": false,
    "score": 55,
    "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
@@ -5968,6 +5056,7 @@
    "keywords": [
     "marché de noël"
    ],
+   "fiable": false,
    "score": 55,
    "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
@@ -6000,6 +5089,7 @@
    "keywords": [
     "foire"
    ],
+   "fiable": false,
    "score": 55,
    "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
@@ -6030,6 +5120,7 @@
    "keywords": [
     "foire"
    ],
+   "fiable": false,
    "score": 55,
    "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
@@ -6064,6 +5155,7 @@
    "keywords": [
     "festivités"
    ],
+   "fiable": false,
    "score": 55,
    "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
@@ -6098,6 +5190,7 @@
    "keywords": [
     "marché de noël"
    ],
+   "fiable": false,
    "score": 55,
    "found_at": "2026-10-07T05:29:12+00:00",
    "contact_checked": true
@@ -6128,6 +5221,7 @@
    "keywords": [
     "marché de noël"
    ],
+   "fiable": false,
    "score": 55,
    "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true
@@ -6160,6 +5254,7 @@
    "keywords": [
     "marché de noël"
    ],
+   "fiable": false,
    "score": 55,
    "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true
@@ -6197,6 +5292,7 @@
    "keywords": [
     "marché de noël"
    ],
+   "fiable": false,
    "score": 55,
    "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true
@@ -6227,6 +5323,7 @@
    "keywords": [
     "marché de noël"
    ],
+   "fiable": false,
    "score": 55,
    "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true
@@ -6257,6 +5354,7 @@
    "keywords": [
     "marché de noël"
    ],
+   "fiable": false,
    "score": 55,
    "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true
@@ -6287,6 +5385,7 @@
    "keywords": [
     "marché de noël"
    ],
+   "fiable": false,
    "score": 55,
    "found_at": "2026-10-14T05:39:31+00:00",
    "contact_checked": true
@@ -6319,6 +5418,7 @@
    "keywords": [
     "marché de noël"
    ],
+   "fiable": false,
    "score": 55,
    "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true
@@ -6351,6 +5451,7 @@
    "keywords": [
     "carnaval"
    ],
+   "fiable": false,
    "score": 55,
    "found_at": "2026-10-14T05:39:31+00:00",
    "contact_checked": true
@@ -6381,6 +5482,7 @@
    "keywords": [
     "marché de noël"
    ],
+   "fiable": false,
    "score": 55,
    "found_at": "2026-10-07T05:29:12+00:00",
    "contact_checked": true
@@ -6415,6 +5517,7 @@
    "keywords": [
     "marché de noël"
    ],
+   "fiable": false,
    "score": 55,
    "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true
@@ -6445,6 +5548,7 @@
    "keywords": [
     "marché de noël"
    ],
+   "fiable": false,
    "score": 55,
    "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true
@@ -6475,6 +5579,7 @@
    "keywords": [
     "marché de noël"
    ],
+   "fiable": false,
    "score": 55,
    "found_at": "2026-10-07T05:29:12+00:00",
    "contact_checked": true
@@ -6510,6 +5615,7 @@
    "keywords": [
     "marché de noël"
    ],
+   "fiable": false,
    "score": 55,
    "found_at": "2026-10-07T05:29:12+00:00",
    "contact_checked": true
@@ -6542,6 +5648,7 @@
    "keywords": [
     "marché de noël"
    ],
+   "fiable": false,
    "score": 55,
    "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true
@@ -6572,6 +5679,7 @@
    "keywords": [
     "fête"
    ],
+   "fiable": false,
    "score": 50,
    "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
@@ -6602,6 +5710,7 @@
    "keywords": [
     "festival"
    ],
+   "fiable": false,
    "score": 50,
    "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
@@ -6632,6 +5741,7 @@
    "keywords": [
     "festival"
    ],
+   "fiable": false,
    "score": 50,
    "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
@@ -6662,6 +5772,7 @@
    "keywords": [
     "festival"
    ],
+   "fiable": false,
    "score": 50,
    "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true
@@ -6692,6 +5803,7 @@
    "keywords": [
     "festival"
    ],
+   "fiable": false,
    "score": 50,
    "found_at": "2026-10-14T05:39:31+00:00",
    "contact_checked": true
@@ -6723,6 +5835,7 @@
     "candidature",
     "marché de noël"
    ],
+   "fiable": false,
    "score": 50,
    "found_at": "2026-10-14T05:39:31+00:00",
    "contact_checked": true
@@ -6753,6 +5866,7 @@
    "keywords": [
     "marché de noël"
    ],
+   "fiable": false,
    "score": 45,
    "found_at": "2026-10-14T05:39:31+00:00",
    "contact_checked": true
@@ -6787,6 +5901,7 @@
    "keywords": [
     "marché de noël"
    ],
+   "fiable": false,
    "score": 45,
    "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true
@@ -6821,6 +5936,7 @@
    "keywords": [
     "marché de noël"
    ],
+   "fiable": false,
    "score": 45,
    "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true
@@ -6855,6 +5971,7 @@
    "keywords": [
     "foire"
    ],
+   "fiable": false,
    "score": 45,
    "found_at": "2026-10-07T05:29:12+00:00",
    "contact_checked": true
