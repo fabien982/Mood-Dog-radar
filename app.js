@@ -18,6 +18,7 @@ const $ = (s, el = document) => el.querySelector(s);
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
 let DATA = { events: [], sources: {} };
+let FESTS = [];
 let view = "liste", filter = "demandes", query = "", dept = "", sort = "echeance";
 let me = null, map = null, layer = null;
 
@@ -107,6 +108,10 @@ async function load() {
     const r = await fetch("data/events.json?v=" + Date.now(), { cache: "no-store" });
     if (!r.ok) throw new Error(r.status);
     DATA = await r.json();
+    try {
+      const rf = await fetch("data/festivals.json?v=" + Date.now(), { cache: "no-store" });
+      if (rf.ok) FESTS = Object.values((await rf.json()).festivals || {});
+    } catch (e) { /* pas encore de liste */ }
   } catch (e) {
     $("#subtitle").textContent = "Pas de connexion : dernière liste enregistrée";
   }
@@ -222,8 +227,38 @@ function render() {
   $("#n-nouv").textContent = alive.filter((e) => isNew(e) && isDemande(e)).length;
   $("#n-relancer").textContent = count("relancer");
   $("#n-envoye").textContent = count("envoye");
+  if (filter === "festivals") { $("#liste").innerHTML = festivalList(); if (view === "carte") drawMap([]); return; }
   $("#liste").innerHTML = list.length ? list.map(card).join("") : emptyState();
   if (view === "carte") drawMap(list);
+}
+
+/* ---------- tous les festivals de PACA ---------- */
+function festivalList() {
+  const q = query.trim().toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  const today = new Date().toISOString().slice(0, 10);
+  let list = FESTS.filter((f) => (!dept || f.dept === dept) && (!f.date || f.date >= today || f.appel));
+  if (q) list = list.filter((f) => `${f.name} ${f.town}`.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").includes(q));
+  list.sort((a, b) => (!!b.appel - !!a.appel) || String(a.date || "9999").localeCompare(String(b.date || "9999")));
+  if (!list.length) {
+    return `<div class="empty"><strong>${FESTS.length ? "Aucun festival avec ces filtres" : "Liste des festivals en préparation"}</strong>
+      ${FESTS.length ? "Vide la recherche ou change de département." : "Le robot récupère la liste de tous les festivals de PACA à son prochain passage."}</div>`;
+  }
+  const open = list.filter((f) => f.appel).length;
+  const head = `<p class="help">${list.length} festivals en PACA. Le robot vérifie chaque matin quelques festivals à tour de rôle : dès que l'un ouvre ses candidatures restauration / food truck, il passe en haut de la liste.${open ? ` <b>${open} avec un appel ouvert.</b>` : ""}</p>`;
+  return head + list.map((f) => {
+    const [y, m, d] = (f.date || "").split("-").map(Number);
+    const stub = f.date ? { cls: "jour", big: d, small: `${MONTHS[m - 1]} ${y}` } : { cls: "calme", big: "?", small: "date à venir" };
+    const status = f.appel
+      ? `<span class="tag ok">✓ Candidatures ouvertes</span>${f.appel.deadline ? `<span class="tag">clôture ${esc(fmtDate(f.appel.deadline))}</span>` : ""}`
+      : f.checked ? `<span class="tag">Pas encore d'appel · vérifié le ${esc(fmtDate(f.checked))}</span>` : `<span class="tag">Vérification à venir</span>`;
+    const target = f.appel ? `data-id="${esc(f.appel.id)}"` : `data-url="${esc(f.url)}"`;
+    return `<button class="ticket ${f.appel ? "" : stub.cls}" ${target}>
+      <div class="stub"><b>${esc(f.appel ? "✓" : stub.big)}</b><small>${esc(f.appel ? "candidatures ouvertes" : stub.small)}</small></div>
+      <div class="body"><div class="meta">${status}</div>
+        <h2>${esc(f.name)}</h2>
+        <p class="where">${esc([f.town, f.dept && `(${f.dept})`].filter(Boolean).join(" ") || "PACA")}</p></div>
+    </button>`;
+  }).join("");
 }
 
 /* ---------- carte ---------- */
@@ -400,7 +435,9 @@ function openInfo() {
 /* ---------- interactions ---------- */
 $("#liste").addEventListener("click", (e) => {
   const t = e.target.closest(".ticket");
-  if (t) openEvent(t.dataset.id);
+  if (!t) return;
+  if (t.dataset.id) openEvent(t.dataset.id);
+  else if (t.dataset.url) window.open(t.dataset.url, "_blank", "noopener");
 });
 $("#chips").addEventListener("click", (e) => {
   const b = e.target.closest("button");

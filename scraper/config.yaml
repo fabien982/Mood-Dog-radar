@@ -291,7 +291,7 @@ recherche_web:
 
     - nom: "Instagram"
       type: demandes
-      tous_les_jours: 1
+      tous_les_jours: 3
       max: 12
       modeles:
         - 'site:instagram.com "food truck" "appel à candidatures" OR recherche OR recherchons {zone}'
@@ -342,6 +342,17 @@ recherche_web:
         - 'feria OR carnaval OR corso OR "fête de la musique" {zone} {annee}'
         - 'concert OR guinguette "plein air" {zone} {annee}'
         - 'site:instagram.com fête OR festival OR "marché nocturne" {zone} {annee}'
+
+# --- Tous les festivals de PACA ----------------------------------------
+# Chaque semaine, le robot relit l'annuaire festivalenfrance.com (≈ 360 festivals en PACA).
+# Chaque matin, il cherche l'appel à candidatures restauration / food truck de quelques
+# festivals, à tour de rôle (ceux qui ont lieu le plus tôt passent en premier).
+festivals_paca:
+  actif: true
+  annuaire: "https://www.festivalenfrance.com/festivals/provence-alpes-cote-dazur"
+  annuaire_tous_les_jours: 7
+  pages_max: 30
+  par_jour: 12   # festivals vérifiés par matin (≈ 360 festivals vérifiés par mois)
 
 # --- Festivals que tu veux suivre --------------------------------------
 # Le robot cherche leur appel à candidatures restauration / food truck tous les 3 jours.

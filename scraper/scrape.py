@@ -960,12 +960,126 @@ def verify_links(events: list[dict], budget: int = 200) -> list[dict]:
             continue  # la page détail ne confirme pas : on écarte
         if again is None:
             continue  # la vraie page ne correspond pas (autre région, pas de food truck, passé…)
-        for k in ("found_at", "contact", "contact_checked"):
+        for k in ("found_at", "contact", "contact_checked", "festival"):
             if k in ev:
                 again[k] = ev[k]
         again["id"] = ev["id"]
         again["lien_ok"] = TODAY.isoformat()
         out.append(again)
+    return out
+
+
+# ------------------------------------------------ tous les festivals PACA ---
+FESTIVALS_FILE = DATA_DIR / "festivals.json"
+RE_FEST_LINK = re.compile(r"/festival/([a-z0-9-]+)/?$")
+RE_FEST_DEPT = re.compile(r"\s[—-]\s*([^()—]+?)\s*\((\d{2})\)")
+RE_FEST_DATE = re.compile(r"^(20\d\d)\s+(\d{1,2})\s+([a-zéû]+)\.?")
+
+
+def _slug(text: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "-", norm(text).replace("'", "")).strip("-")
+
+
+def _split_card(text: str, slug: str) -> tuple[str, str]:
+    """Carte « 2027 16 janv. → 17 janv. Gratuit Nom du festival Ville — Var (83) … » → (nom, ville)."""
+    head = text.split(" — ")[0]
+    words = head.split()
+    for i in range(len(words)):
+        for j in range(i + 1, len(words) + 1):
+            span = " ".join(words[i:j])
+            sl = _slug(span)
+            if sl == slug:
+                return span, " ".join(words[j:])
+            if not slug.startswith(sl):
+                break
+    return slug.replace("-", " ").title(), ""
+
+
+def load_festivals() -> dict:
+    try:
+        return json.loads(FESTIVALS_FILE.read_text("utf-8"))
+    except Exception:
+        return {"updated": None, "festivals": {}}
+
+
+def refresh_festival_list(store: dict) -> int:
+    """Relit l'annuaire festivalenfrance.com (tous les festivals de PACA), une fois par semaine."""
+    conf = CFG.get("festivals_paca", {})
+    last = store.get("updated")
+    if last and (TODAY - date.fromisoformat(last[:10])).days < int(conf.get("annuaire_tous_les_jours", 7)):
+        return 0
+    base = conf.get("annuaire", "https://www.festivalenfrance.com/festivals/provence-alpes-cote-dazur")
+    fests = store.setdefault("festivals", {})
+    added = 0
+    for n in range(1, int(conf.get("pages_max", 30)) + 1):
+        url = base if n == 1 else f"{base}/{n}"
+        try:
+            r = session.get(url, timeout=TIMEOUT)
+        except Exception:
+            break
+        if not r.ok:
+            break
+        soup = BeautifulSoup(r.text, "html.parser")
+        cards = 0
+        for a in soup.find_all("a", href=True):
+            m = RE_FEST_LINK.search(urlparse(urljoin(url, a["href"])).path)
+            if not m:
+                continue
+            slug = m.group(1)
+            text = clean(a.get_text(" "))
+            if len(text) < 6:
+                continue
+            cards += 1
+            name, town = _split_card(text, slug)
+            dm = RE_FEST_DEPT.search(text)
+            dept = dm.group(2) if dm else None
+            ym = RE_FEST_DATE.search(text)
+            when = None
+            if ym:
+                mname = norm(ym.group(3))[:4]
+                mon = next((v for k, v in MONTHS.items() if k.startswith(mname)), None)
+                if mon:
+                    when = _mk_date(int(ym.group(2)), mon, int(ym.group(1)))
+            f = fests.get(slug)
+            if not f:
+                f = fests[slug] = {"slug": slug, "checked": None, "appel": None}
+                added += 1
+            f.update({"name": name, "town": town.strip(" ,") or None, "dept": dept,
+                      "url": urljoin(url, a["href"]), "date": when.isoformat() if when else f.get("date")})
+        if cards == 0:
+            break
+        time.sleep(0.8)
+    store["updated"] = NOW.isoformat(timespec="seconds")
+    return added
+
+
+def check_festivals(store: dict, brave: str | None, serper: str | None) -> list[dict]:
+    """Cherche l'appel à candidatures restauration de quelques festivals chaque jour, à tour de rôle."""
+    conf = CFG.get("festivals_paca", {})
+    if not conf.get("actif", True) or not (brave or serper):
+        return []
+    fests = sorted(store.get("festivals", {}).values(),
+                   key=lambda f: (f.get("checked") or "0000", f.get("date") or "9999"))
+    years = f"{TODAY.year} OR {TODAY.year + 1}"
+    out: list[dict] = []
+    for f in fests[: int(conf.get("par_jour", 12))]:
+        q = f'"{f["name"]}" "food truck" OR foodtruck OR restauration OR exposants candidature OR "appel à candidatures" {years}'
+        try:
+            results = _brave(q, brave) if brave else _serper(q, serper)
+        except Exception:
+            continue
+        f["checked"] = TODAY.isoformat()
+        key = [w for w in _slug(f["name"]).split("-") if len(w) > 3 and w not in ("festival", "fete", "foire")]
+        for title, url, snippet, age in results:
+            nt = norm(f"{title} {snippet}")
+            if key and sum(w in nt for w in key) < max(1, len(key) // 2):
+                continue  # le résultat ne parle pas de ce festival
+            ev = make_event("Recherche web", title or "", url or "", summary=snippet or "",
+                            published=iso_or_none(age), city_hint=f.get("town") or "", mode="demandes")
+            if ev:
+                ev["festival"] = f["name"]
+                out.append(ev)
+        time.sleep(1.1)
     return out
 
 
@@ -1023,6 +1137,18 @@ def main() -> int:
         except Exception as exc:
             status[name] = {"ok": False, "found": 0, "error": f"{exc.__class__.__name__}: {exc}"[:200]}
         log(f"{name}: {status[name]}")
+    # Tous les festivals de PACA : annuaire chaque semaine + vérification à tour de rôle
+    fstore = load_festivals()
+    try:
+        added = refresh_festival_list(fstore)
+        scheduled_pm = os.getenv("GITHUB_EVENT_NAME") == "schedule" and datetime.now(timezone.utc).hour >= 12
+        found = [] if scheduled_pm else check_festivals(fstore, os.getenv("BRAVE_API_KEY"), os.getenv("SERPER_API_KEY"))
+        collected += found
+        status["Festivals PACA"] = {"ok": True, "found": len(found),
+                                    "note": f"{len(fstore.get('festivals', {}))} festivals suivis" + (f", {added} nouveaux" if added else "")}
+    except Exception as exc:
+        status["Festivals PACA"] = {"ok": False, "found": 0, "error": str(exc)[:200]}
+    log(f"Festivals PACA: {status['Festivals PACA']}")
     try:
         found, errors = src_pages()
         collected += found
@@ -1067,7 +1193,7 @@ def main() -> int:
                            mode=ev.get("mode", "demandes"), hors_zone=bool(ev.get("hors_zone")))
         if again is None:
             continue  # ne passe plus les filtres : on l'enlève
-        for k in ("found_at", "contact", "contact_checked", "lat", "lon", "city", "dept", "approx", "lien_ok"):
+        for k in ("found_at", "contact", "contact_checked", "lat", "lon", "city", "dept", "approx", "lien_ok", "festival"):
             if k in ev:
                 again[k] = ev[k]
         again["id"] = uid
@@ -1090,6 +1216,16 @@ def main() -> int:
         "events": events,
     }
     EVENTS_FILE.write_text(json.dumps(payload, ensure_ascii=False, indent=1), "utf-8")
+    # relie chaque festival à son appel trouvé (s'il a survécu à la vérification du lien)
+    open_calls = {e.get("festival"): e for e in events if e.get("festival")}
+    for f in fstore.get("festivals", {}).values():
+        e = open_calls.get(f.get("name"))
+        if e:
+            f["appel"] = {"id": e["id"], "url": e["url"], "title": e["title"], "deadline": e.get("deadline"),
+                          "found_at": e.get("found_at")}
+        elif f.get("appel") and not any(x["id"] == f["appel"]["id"] for x in events):
+            f["appel"] = None
+    FESTIVALS_FILE.write_text(json.dumps(fstore, ensure_ascii=False, indent=1), "utf-8")
     GEOCACHE_FILE.write_text(json.dumps(GEOCACHE, ensure_ascii=False, indent=1), "utf-8")
     log(f"Terminé : {len(events)} opportunités, dont {len(new_events)} nouvelles.")
     notify_telegram(new_events)
