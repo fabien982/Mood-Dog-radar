@@ -321,6 +321,15 @@ recherche_web:
         - 'domaine OR château "afterwork" OR "soirée" "food truck" {zone} {annee}'
         - 'festival "restauration" "appel à candidatures" OR "dossier exposant" {zone} {annee}'
 
+    - nom: "Festivals suivis"
+      type: demandes
+      liste: festivals_suivis   # voir la liste plus bas
+      hors_zone: true           # tu as choisi ces festivals : on les garde même loin
+      tous_les_jours: 3
+      max: 60
+      modeles:
+        - '"{nom}" "food truck" OR foodtruck OR restauration OR exposants candidature OR "appel à candidatures" {annee}'
+
     - nom: "Fêtes et festivals"
       type: evenements        # toutes les fêtes à venir, pour démarcher toi-même les organisateurs
       tous_les_jours: 7       # une fois par semaine suffit
@@ -333,6 +342,24 @@ recherche_web:
         - 'feria OR carnaval OR corso OR "fête de la musique" {zone} {annee}'
         - 'concert OR guinguette "plein air" {zone} {annee}'
         - 'site:instagram.com fête OR festival OR "marché nocturne" {zone} {annee}'
+
+# --- Festivals que tu veux suivre --------------------------------------
+# Le robot cherche leur appel à candidatures restauration / food truck tous les 3 jours.
+# Ajoute ou enlève des noms librement (un par ligne).
+festivals_suivis:
+  - "La Kermesse Festival"        # La Seyne-sur-Mer (83)
+  - "Terres du Son"               # Monts (37)
+  - "Yellow Festival"             # Glisy (80)
+  - "Walking Bass Festival"
+  - "Marsatac"                    # Marseille
+  - "Delta Festival"              # Marseille
+  - "Fiesta des Suds"             # Marseille
+  - "Les Plages Électroniques"    # Cannes
+  - "Jazz à Juan"                 # Antibes Juan-les-Pins
+  - "Nice Jazz Festival"          # Nice
+  - "Les Nuits du Sud"            # Vence
+  - "Jardin Sonore"               # Vitrolles
+  - "Festival de Ramatuelle"      # Ramatuelle
 
 # --- Source 4 : Pages surveillées (mairies, offices de tourisme...) -----
 # Le robot lit ces pages à chaque passage et garde les passages qui parlent de food truck.

@@ -457,7 +457,8 @@ def locate(text: str, city_hint: str = "", depts: list[str] | None = None) -> di
 def make_event(source: str, title: str, url: str, summary: str = "", organizer: str = "",
                city_hint: str = "", depts: list[str] | None = None, deadline: str | None = None,
                event_date: str | None = None, published: str | None = None,
-               required_terms: list[str] | None = None, mode: str = "demandes") -> dict | None:
+               required_terms: list[str] | None = None, mode: str = "demandes",
+               hors_zone: bool = False) -> dict | None:
     title, summary = clean(title), clean(summary)
     if not title or not url:
         return None
@@ -496,27 +497,27 @@ def make_event(source: str, title: str, url: str, summary: str = "", organizer: 
         return None
 
     loc = locate(full, city_hint, depts)
-    if DEPTS and loc["dept"] and loc["dept"] not in DEPTS:
+    if DEPTS and loc["dept"] and loc["dept"] not in DEPTS and not hors_zone:
         return None
     if DEPTS and source in ("Recherche web", "Alerte Google") and not loc["dept"]:
         g = guess_place(full)
         if g:
             loc.update(g)
             loc["approx"] = False
-    if DEPTS and source in ("Recherche web", "Alerte Google") and loc["dept"] not in DEPTS:
+    if DEPTS and source in ("Recherche web", "Alerte Google") and loc["dept"] not in DEPTS and not hors_zone:
         zone_words = [norm(z) for z in CFG.get("zones_recherche", []) + TOWNS] + REGION_WORDS
         if not contains_any(nt, zone_words):
             return None  # aucun lieu de ta zone dans l'annonce : trop incertain
 
     centre = CFG.get("centre")
-    if centre and loc.get("lat") is not None and not loc.get("approx"):
+    if centre and loc.get("lat") is not None and not loc.get("approx") and not hors_zone:
         dist = km_between(centre["lat"], centre["lon"], loc["lat"], loc["lon"])
         if dist > float(CFG.get("rayon_km", 9999)):
             return None
     bonus = contains_any(nt, KW_BONUS)
     kind = classify(nt, source)
     in_zone = bool(loc["dept"] in DEPTS) if DEPTS else True
-    if web and not events_mode and kind != "Événement" and (not in_zone or loc.get("approx") and not loc.get("city")):
+    if web and not hors_zone and not events_mode and kind != "Événement" and (not in_zone or loc.get("approx") and not loc.get("city")):
         zone_names = [norm(t) for t in TOWNS + CFG.get("zones_recherche", [])] + ["var", "bouches-du-rhone", "alpes-maritimes", "vaucluse"]
         if not (in_zone and contains_any(nt, zone_names)):
             return None  # demande trouvée sur le web sans lieu sûr dans ta zone
@@ -551,6 +552,7 @@ def make_event(source: str, title: str, url: str, summary: str = "", organizer: 
         "via": via_label(url),
         "keywords": sorted(set(main + bonus))[:8],
         "fiable": fiable,
+        "hors_zone": hors_zone or None,
         "score": min(100, score),
     }
 
@@ -737,8 +739,17 @@ def src_web_search() -> list[dict]:
         if last and (TODAY - date.fromisoformat(last)).days < every:
             continue  # ce groupe a déjà tourné récemment
         mode = group.get("type", "demandes")
-        queries = [tpl.replace("{annee}", years).format(zone=z)
-                   for tpl in group.get("modeles", []) for z in CFG.get("zones_recherche", [])]
+        queries: list[str] = []
+        for tpl in group.get("modeles", []):
+            tpl = tpl.replace("{annee}", years)
+            zones = CFG.get("zones_recherche", []) if "{zone}" in tpl else [""]
+            items = CFG.get(group.get("liste", ""), []) if "{nom}" in tpl else [""]
+            for z in zones:
+                for it in items:
+                    q = tpl.replace("{zone}", z).replace("{nom}", str(it))
+                    if q not in queries:
+                        queries.append(q)
+        hors_zone = bool(group.get("hors_zone"))
         group_done = 0
         for q in queries[: int(group.get("max", 30))]:
             try:
@@ -755,7 +766,7 @@ def src_web_search() -> list[dict]:
                 if y and int(y.group(1)) < TODAY.year:
                     continue  # page publiée une année précédente
                 ev = make_event("Recherche web", title or "", url or "", summary=snippet or "",
-                                published=iso_or_none(age), mode=mode)
+                                published=iso_or_none(age), mode=mode, hors_zone=hors_zone)
                 if ev:
                     out.append(ev)
             time.sleep(1.1)
@@ -943,7 +954,8 @@ def verify_links(events: list[dict], budget: int = 200) -> list[dict]:
             continue  # page illisible : impossible de vérifier, on l'écarte
         title, text = got
         again = make_event(ev["source"], title or ev["title"], ev["url"], summary=text[:1500],
-                           organizer=ev.get("organizer") or "", mode=ev.get("mode", "demandes"))
+                           organizer=ev.get("organizer") or "", mode=ev.get("mode", "demandes"),
+                           hors_zone=bool(ev.get("hors_zone")))
         if again is None and page_link:
             continue  # la page détail ne confirme pas : on écarte
         if again is None:
@@ -1052,7 +1064,7 @@ def main() -> int:
                            event_date=None if ev.get("source") in ("Recherche web", "Alerte Google") else ev.get("event_date"),
                            required_terms=(KW_MAIN + CFG.get("boamp", {}).get("termes", [])) if ev.get("source") == "BOAMP" else None,
                            depts=[ev["dept"]] if ev.get("dept") else None, city_hint=ev.get("city") or "",
-                           mode=ev.get("mode", "demandes"))
+                           mode=ev.get("mode", "demandes"), hors_zone=bool(ev.get("hors_zone")))
         if again is None:
             continue  # ne passe plus les filtres : on l'enlève
         for k in ("found_at", "contact", "contact_checked", "lat", "lon", "city", "dept", "approx", "lien_ok"):

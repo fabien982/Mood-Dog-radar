@@ -184,6 +184,7 @@ function card(ev) {
         <span class="tag ${TYPE_CLASS[ev.type] || ""}">${esc(ev.type === "Événement" ? "Fête / événement" : ev.type)}</span>
         ${st && st !== "etudier" ? `<span class="tag st">${esc(STATUS[st])}</span>` : ""}
         ${hasContact(ev) ? '<span class="tag">Contact</span>' : ""}
+        ${ev.hors_zone ? '<span class="tag">Festival suivi · hors zone</span>' : ""}
       </div>
       <h2>${esc(ev.title)}</h2>
       ${ev.summary && ev.summary !== ev.title ? `<p class="snip">${esc(ev.summary)}</p>` : ""}
