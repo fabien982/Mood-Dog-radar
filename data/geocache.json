@@ -1500,5 +1500,30 @@
   "lon": 4.13476,
   "city": "Lunel",
   "dept": "34"
- }
+ },
+ "zone:instagram": null,
+ "zone:developpement economique": null,
+ "zone:jds vos": null,
+ "zone:patrimoine halloween marche de noel": null,
+ "zone:noel sports sports": null,
+ "zone:valdeblore sur instagram": null,
+ "83570": {
+  "lat": 43.47032,
+  "lon": 6.18124,
+  "city": "Carcès",
+  "dept": "83"
+ },
+ "13260": {
+  "lat": 43.22349,
+  "lon": 5.54883,
+  "city": "Cassis",
+  "dept": "13"
+ },
+ "zone:mandelieu-la napoule webcam": {
+  "lat": 43.54447,
+  "lon": 6.93366,
+  "city": "Mandelieu-la-Napoule",
+  "dept": "06"
+ },
+ "zone:rocbaron sur instagram": null
 }
