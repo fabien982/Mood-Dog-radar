@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-28T14:53:10+00:00",
- "count": 77,
- "new_count": 6,
+ "updated": "2026-10-28T14:55:34+00:00",
+ "count": 71,
+ "new_count": 0,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -17,7 +17,7 @@
   },
   "Pages surveillées": {
    "ok": true,
-   "found": 35,
+   "found": 28,
    "errors": []
   }
  },
@@ -43,7 +43,7 @@
    "lon": 7.25531,
    "approx": false,
    "deadline": "2026-10-29",
-   "event_date": "2026-10-28",
+   "event_date": null,
    "published": null,
    "contact": {
     "emails": [
@@ -77,51 +77,6 @@
    "lien_ok": "2026-10-28"
   },
   {
-   "id": "0b9b8f586002",
-   "title": "Marseille (13) : Installation de food trucks sur campus",
-   "summary": "Marseille : Installation de food trucks sur campus. Date limite : 17 juillet 2026 à 17h00. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Installation de food trucks sur campus Mis à jour le 28 octobre 2026 Date limite : 17 juillet 2026 à 17h00 Clos Aix Marseille Université lance un appel à manifestation d'intérêt pour l'installation de food trucks sur quatre de ses campus. Les candidatures doivent être soumises par courrier ou par mail avant le 17 juillet 2026 à 17h00. Cet appel est ",
-   "type": "Appel à candidatures",
-   "source": "Page surveillée",
-   "url": "https://wikifoodtruck.fr/appels-food-truck/marseille-installation-de-food-trucks-sur-campus-2026",
-   "organizer": "Wikifoodtruck – appels à candidatures des mairies",
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": "2026-10-29",
-   "event_date": "2026-10-28",
-   "published": null,
-   "contact": {
-    "emails": [
-     "francois@wikifoodtruck.fr",
-     "amuloc-ddpi@univ-amu.fr"
-    ],
-    "phones": [],
-    "forms": [
-     "https://wikifoodtruck.fr/appels-food-truck/nice-aot-campus-universitaire-pour-food-truck-2026",
-     "https://wikifoodtruck.fr/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026",
-     "https://wikifoodtruck.fr/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "AOT",
-    "appel à candidatures",
-    "appel à manifestation d'intérêt",
-    "candidature",
-    "emplacement",
-    "food truck",
-    "food trucks"
-   ],
-   "fiable": true,
-   "score": 100,
-   "found_at": "2026-10-28T14:53:10+00:00",
-   "lien_ok": "2026-10-28",
-   "contact_checked": true
-  },
-  {
    "id": "7188173b79a3",
    "title": "Allauch (13) : Appel à candidature Food Truck Noël 2026",
    "summary": "Allauch : Appel à candidature Food Truck Noël 2026. Date limite : 2 novembre 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Allauch 📢 Appels à candidatures Allauch Appel à candidature Food Truck Noël 2026 Mis à jour le 28 octobre 2026 Date limite : 2 novembre 2026 Ouvert, J-5 La Ville d'Allauch lance un appel à candidature pour l'occupation du domaine public par des food trucks décorés sur le thème de Noël. Les candidatures doivent être soumises avant le 2 novembre 2026 pour l'événement du 28 novembre 2026. Voir l'appel o",
@@ -135,7 +90,7 @@
    "lon": 5.09,
    "approx": true,
    "deadline": "2026-11-02",
-   "event_date": "2026-10-28",
+   "event_date": null,
    "published": null,
    "contact": {
     "emails": [
@@ -182,7 +137,7 @@
    "lon": 5.405,
    "approx": false,
    "deadline": "2026-11-06",
-   "event_date": "2026-10-28",
+   "event_date": null,
    "published": null,
    "contact": {
     "emails": [
@@ -225,7 +180,7 @@
    "lon": 5.405,
    "approx": false,
    "deadline": "2026-11-08",
-   "event_date": "2026-10-28",
+   "event_date": null,
    "published": null,
    "contact": {
     "emails": [
@@ -253,136 +208,6 @@
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true,
    "lien_ok": "2026-10-28"
-  },
-  {
-   "id": "8651d5861580",
-   "title": "La Garde (83) : Appel à candidatures food-truck | WikiFoodtruck",
-   "summary": "La Garde : Appel à candidatures food-truck. Date limite : 5 juin 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › La Garde 📢 Appels à candidatures La Garde Appel à candidatures food-truck Mis à jour le 28 octobre 2026 Date limite : 5 juin 2026 Clos La Ville de La Garde lance un appel à candidatures pour l'occupation temporaire d'un emplacement public destiné aux food trucks. Les candidatures doivent être soumises avant le 5 juin 2026. L'emplacement est situé sur un parking en bordure de l'Avenue de la Paix et de l'Allée des",
-   "type": "Appel à candidatures",
-   "source": "Page surveillée",
-   "url": "https://wikifoodtruck.fr/appels-food-truck/la-garde-appel-a-candidatures-food-truck-2026",
-   "organizer": "Wikifoodtruck – appels à candidatures des mairies",
-   "city": null,
-   "dept": "83",
-   "lat": 43.46,
-   "lon": 6.22,
-   "approx": true,
-   "deadline": null,
-   "event_date": "2026-10-28",
-   "published": null,
-   "contact": {
-    "emails": [
-     "francois@wikifoodtruck.fr"
-    ],
-    "phones": [],
-    "forms": [
-     "https://files.appli-intramuros.com/website/uploads/34932/2026/avis_appel_candidat_valant_reglement_procedure_emplacement_n2.pdf",
-     "https://wikifoodtruck.fr/appels-food-truck/nice-aot-campus-universitaire-pour-food-truck-2026",
-     "https://wikifoodtruck.fr/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à candidatures",
-    "candidature",
-    "emplacement",
-    "food truck",
-    "food trucks",
-    "food-truck"
-   ],
-   "fiable": true,
-   "score": 100,
-   "found_at": "2026-10-28T14:53:10+00:00",
-   "lien_ok": "2026-10-28",
-   "contact_checked": true
-  },
-  {
-   "id": "49cdc810814f",
-   "title": "Marseille (13) : Food trucks et bar festival été 2026 | WikiFoodtruck",
-   "summary": "Marseille : Food trucks et bar festival été 2026. Date limite : 31 mars 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Food trucks et bar festival été 2026 Mis à jour le 28 octobre 2026 Date limite : 31 mars 2026 Clos La Mairie des 4ᵉ et 5ᵉ arrondissements de Marseille lance un appel à manifestation d'intérêt pour l'installation de food trucks et d'un bar mobile lors d'événements culturels durant l'été 2026. Les candidats doivent soumettre leurs propositions avant le 31 mars 202",
-   "type": "Appel à candidatures",
-   "source": "Page surveillée",
-   "url": "https://wikifoodtruck.fr/appels-food-truck/marseille-food-trucks-et-bar-festival-ete-2026",
-   "organizer": "Wikifoodtruck – appels à candidatures des mairies",
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-28",
-   "published": null,
-   "contact": {
-    "emails": [
-     "francois@wikifoodtruck.fr",
-     "culture45@marseille.fr"
-    ],
-    "phones": [
-     "04 91 14 59 97"
-    ],
-    "forms": [
-     "https://wikifoodtruck.fr/appels-food-truck/nice-aot-campus-universitaire-pour-food-truck-2026",
-     "https://wikifoodtruck.fr/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026",
-     "https://wikifoodtruck.fr/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "festival",
-    "food truck",
-    "food trucks"
-   ],
-   "fiable": true,
-   "score": 100,
-   "found_at": "2026-10-28T14:53:10+00:00",
-   "lien_ok": "2026-10-28",
-   "contact_checked": true
-  },
-  {
-   "id": "91e0ba5f0ca0",
-   "title": "Marseille (13) : Food Truck Jardin Joliette | WikiFoodtruck",
-   "summary": "Marseille : Food Truck Jardin Joliette. Date limite : 15 novembre 2025. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Food Truck Jardin Joliette Mis à jour le 28 octobre 2026 Date limite : 15 novembre 2025 Clos La Mairie des 2ᵉ et 3ᵉ arrondissements de Marseille lance un appel à manifestation d'intérêt pour l'installation d'un food truck au Jardin de la Joliette. Les candidats doivent soumettre un dossier complet avant le 15 novembre 2025, incluant des informations sur leur offre et ",
-   "type": "Appel à candidatures",
-   "source": "Page surveillée",
-   "url": "https://wikifoodtruck.fr/appels-food-truck/marseille-food-truck-jardin-joliette-2025",
-   "organizer": "Wikifoodtruck – appels à candidatures des mairies",
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-28",
-   "published": null,
-   "contact": {
-    "emails": [
-     "francois@wikifoodtruck.fr",
-     "ydossetto@marseille.fr",
-     "sdiscala@marseille.fr"
-    ],
-    "phones": [],
-    "forms": [
-     "https://wikifoodtruck.fr/appels-food-truck/nice-aot-campus-universitaire-pour-food-truck-2026",
-     "https://wikifoodtruck.fr/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026",
-     "https://wikifoodtruck.fr/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "emplacement",
-    "food truck",
-    "occupation du domaine public"
-   ],
-   "fiable": true,
-   "score": 100,
-   "found_at": "2026-10-28T14:53:10+00:00",
-   "lien_ok": "2026-10-28",
-   "contact_checked": true
   },
   {
    "id": "9a8973b58aa7",
@@ -473,93 +298,6 @@
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true,
    "lien_ok": "2026-10-28"
-  },
-  {
-   "id": "a9de372b015d",
-   "title": "Marseille (13) : Appel à manifestation d'intérêt food trucks",
-   "summary": "Marseille : Appel à manifestation d'intérêt food trucks. Date limite : 15 février 2026 à 18h00. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Appel à manifestation d'intérêt food trucks Mis à jour le 28 octobre 2026 Date limite : 15 février 2026 à 18h00 Clos La Mairie des 11ème et 12ème arrondissements de Marseille lance un appel à manifestation d'intérêt pour l'installation de 2 food-trucks lors de la Journée de la Femme. Les candidats doivent soumettre leur dossier avant le 15 févr",
-   "type": "Appel à candidatures",
-   "source": "Page surveillée",
-   "url": "https://wikifoodtruck.fr/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026",
-   "organizer": "Wikifoodtruck – appels à candidatures des mairies",
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-28",
-   "published": null,
-   "contact": {
-    "emails": [
-     "francois@wikifoodtruck.fr"
-    ],
-    "phones": [
-     "04 91 14 61 52"
-    ],
-    "forms": [
-     "https://wikifoodtruck.fr/appels-food-truck/nice-aot-campus-universitaire-pour-food-truck-2026",
-     "https://wikifoodtruck.fr/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026",
-     "https://wikifoodtruck.fr/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à manifestation d'intérêt",
-    "food truck",
-    "food trucks"
-   ],
-   "fiable": true,
-   "score": 100,
-   "found_at": "2026-10-28T14:53:10+00:00",
-   "lien_ok": "2026-10-28",
-   "contact_checked": true
-  },
-  {
-   "id": "0cb588379a49",
-   "title": "Le Pradet (83) : Appel à candidatures food trucks 2026",
-   "summary": "Le Pradet : Appel à candidatures food trucks 2026. Date limite : 9 février 2026 à 17h00. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Le Pradet 📢 Appels à candidatures Le Pradet Appel à candidatures food trucks 2026 Mis à jour le 28 octobre 2026 Date limite : 9 février 2026 à 17h00 Clos La mairie du Pradet lance un appel à candidatures pour des emplacements de food trucks lors de l'événement Ô Fêtes Pradétanes 2026. Les candidats doivent soumettre leur dossier avant le 9 février 2026 à 17h00. Les emplacements sont limités et ",
-   "type": "Appel à candidatures",
-   "source": "Page surveillée",
-   "url": "https://wikifoodtruck.fr/appels-food-truck/le-pradet-appel-a-candidatures-food-trucks-2026",
-   "organizer": "Wikifoodtruck – appels à candidatures des mairies",
-   "city": null,
-   "dept": "83",
-   "lat": 43.46,
-   "lon": 6.22,
-   "approx": true,
-   "deadline": null,
-   "event_date": "2026-10-28",
-   "published": null,
-   "contact": {
-    "emails": [
-     "francois@wikifoodtruck.fr"
-    ],
-    "phones": [
-     "04 94 08 69 72"
-    ],
-    "forms": [
-     "https://www.le-pradet.fr/wp-content/uploads/2026/01/OFP26-TRUCK-RESTAURATION-APPEL-A-CANDIDATURES.pdf",
-     "https://wikifoodtruck.fr/appels-food-truck/nice-aot-campus-universitaire-pour-food-truck-2026",
-     "https://wikifoodtruck.fr/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à candidatures",
-    "candidature",
-    "emplacement",
-    "food truck",
-    "food trucks",
-    "food-truck"
-   ],
-   "fiable": true,
-   "score": 100,
-   "found_at": "2026-10-28T14:53:10+00:00",
-   "lien_ok": "2026-10-28",
-   "contact_checked": true
   },
   {
    "id": "82589b5362ed",
@@ -754,7 +492,7 @@
    "lon": 7.1798,
    "approx": false,
    "deadline": "2026-11-01",
-   "event_date": "2026-12-20",
+   "event_date": null,
    "published": null,
    "contact": {
     "emails": [],
