@@ -214,6 +214,14 @@ signaux:
   - places disponibles
   - réservez votre emplacement
 
+# --- Vérification des liens -------------------------------------------
+# Chaque annonce trouvée sur le web est relue depuis le VRAI lien avant d'être gardée.
+# Si la page ne parle pas de food truck dans ta zone, l'annonce est écartée.
+verification_liens:
+  actif: true
+  max: 200                 # pages vérifiées au maximum par passage
+  garder_illisibles: false # pages fermées (connexion Facebook…) : on les écarte
+
 # Combien de jours on garde une annonce sans date une fois trouvée.
 conserver_jours: 90
 

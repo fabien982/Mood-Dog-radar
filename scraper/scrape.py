@@ -834,6 +834,79 @@ def src_pages() -> tuple[list[dict], list[str]]:
     return out, errors
 
 
+# ------------------------------------------------- vérification des liens ---
+SOCIAL = ("facebook.com", "fb.com", "instagram.com")
+LOGIN_WALL = re.compile(r"^(facebook|instagram|log in|connexion|se connecter|log into facebook)\b|vous devez vous connecter|you must log in|connectez-vous", re.I)
+
+
+def page_text(url: str) -> tuple[str, str] | None:
+    """Ouvre le vrai lien et renvoie (titre, texte). None si la page est illisible."""
+    host = urlparse(url).netloc.lower()
+    social = any(host.endswith(d) for d in SOCIAL)
+    headers = {"User-Agent": "facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)"} if social else {}
+    r = session.get(url, timeout=12, headers=headers, allow_redirects=True)
+    if not r.ok or "html" not in r.headers.get("content-type", ""):
+        return None
+    soup = BeautifulSoup(r.content[:1_500_000], "html.parser")
+    meta = lambda *names: next((clean(m.get("content", "")) for n in names
+                               for m in [soup.find("meta", attrs={"property": n}) or soup.find("meta", attrs={"name": n})]
+                               if m and m.get("content")), "")
+    title = meta("og:title", "twitter:title") or clean(soup.title.get_text(" ") if soup.title else "")
+    desc = meta("og:description", "description", "twitter:description")
+    if social:
+        body = ""
+    else:
+        for tag in soup(["script", "style", "noscript", "header", "footer", "nav", "form", "aside"]):
+            tag.decompose()
+        main = soup.find("main") or soup.find("article") or soup.body or soup
+        body = clean(main.get_text(" "))[:5000]
+    text = clean(f"{desc} {body}")
+    if len(text) < 60 or LOGIN_WALL.search(title or "") and len(text) < 300:
+        return None
+    return title, text
+
+
+def verify_links(events: list[dict], budget: int = 200) -> list[dict]:
+    """Relit chaque annonce trouvée sur le web à partir du VRAI lien.
+    Les extraits de Google/Facebook mélangent souvent plusieurs publications :
+    on ne garde que ce que dit réellement la page (lieu, food truck, dates)."""
+    conf = CFG.get("verification_liens", {})
+    if not conf.get("actif", True):
+        return events
+    keep_unreadable = bool(conf.get("garder_illisibles", False))
+    out = []
+    for ev in events:
+        if ev.get("source") not in ("Recherche web", "Alerte Google") or ev.get("lien_ok"):
+            out.append(ev)
+            continue
+        if budget <= 0:
+            out.append(ev)  # sera vérifiée au prochain passage
+            continue
+        budget -= 1
+        try:
+            got = page_text(ev["url"])
+        except Exception:
+            got = None
+        time.sleep(0.4)
+        if not got:
+            if keep_unreadable:
+                ev["lien_ok"] = "illisible"
+                out.append(ev)
+            continue  # page illisible : impossible de vérifier, on l'écarte
+        title, text = got
+        again = make_event(ev["source"], title or ev["title"], ev["url"], summary=text[:1500],
+                           mode=ev.get("mode", "demandes"))
+        if again is None:
+            continue  # la vraie page ne correspond pas (autre région, pas de food truck, passé…)
+        for k in ("found_at", "contact", "contact_checked"):
+            if k in ev:
+                again[k] = ev[k]
+        again["id"] = ev["id"]
+        again["lien_ok"] = TODAY.isoformat()
+        out.append(again)
+    return out
+
+
 # ------------------------------------------------------------ assemblage ---
 
 def still_valid(ev: dict, keep_days: int) -> bool:
@@ -932,13 +1005,17 @@ def main() -> int:
                            mode=ev.get("mode", "demandes"))
         if again is None:
             continue  # ne passe plus les filtres : on l'enlève
-        for k in ("found_at", "contact", "contact_checked", "lat", "lon", "city", "dept", "approx"):
+        for k in ("found_at", "contact", "contact_checked", "lat", "lon", "city", "dept", "approx", "lien_ok"):
             if k in ev:
                 again[k] = ev[k]
         again["id"] = uid
         merged[uid] = again
 
     events = [e for e in merged.values() if still_valid(e, keep_days)]
+    before = len(events)
+    events = verify_links(events, budget=int(CFG.get("verification_liens", {}).get("max", 200)))
+    log(f"Vérification des liens : {before - len(events)} annonce(s) écartée(s) car la vraie page ne correspond pas")
+    new_events = [e for e in new_events if any(x["id"] == e["id"] for x in events)]
     events.sort(key=lambda e: (-(e.get("score") or 0), e.get("deadline") or "9999"))
     enrich_contacts(events, budget=int(CFG.get("pages_contacts_max", 60)))
 
