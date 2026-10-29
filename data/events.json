@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-29T05:51:19+00:00",
+ "updated": "2026-10-29T15:57:15+00:00",
  "count": 71,
- "new_count": 3,
+ "new_count": 0,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -13,7 +13,8 @@
   },
   "Recherche web": {
    "ok": true,
-   "found": 39
+   "found": 0,
+   "note": "recherche web faite le matin seulement (économise le quota)"
   },
   "Festivals PACA": {
    "ok": true,
@@ -80,8 +81,8 @@
    "hors_zone": null,
    "score": 100,
    "found_at": "2026-10-29T05:51:19+00:00",
-   "lien_ok": "2026-10-29",
-   "contact_checked": true
+   "contact_checked": true,
+   "lien_ok": "2026-10-29"
   },
   {
    "id": "7188173b79a3",
@@ -562,42 +563,6 @@
    "contact_checked": true
   },
   {
-   "id": "e1586e0c02f0",
-   "title": "📣 APPEL À CANDIDATURES – FOOD TRUCK / RESTAURATION 🍔🌭🥙 | Facebook",
-   "summary": "📣 APPEL À CANDIDATURES – FOOD TRUCK / RESTAURATION 🍔🌭🥙 Dans le cadre de notre Vide-Grenier à Sanary, nous recherchons un food truck ou professionnel de la restauration/snacking pour proposer une...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/218367301912274/posts/2707688172980162/",
-   "organizer": null,
-   "city": "Sanary-sur-Mer",
-   "dept": "83",
-   "lat": 43.13329,
-   "lon": 5.79527,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "appel à candidatures",
-    "food truck",
-    "recherchons",
-    "vide-grenier"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 85,
-   "found_at": "2026-10-23T05:39:39+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-29"
-  },
-  {
    "id": "c6ce7fcb64d1",
    "title": "Soirée Choucroute",
    "summary": "14 Nov 2026 Soirée Choucroute Le Comité des Fêtes de Roquebrune-sur-Argens vous donne rendez-vous le samedi 14 novembre pour une soirée conviviale et festive placée sous le signe de la gourmandise ! Roquebrune-sur-Argens",
@@ -634,6 +599,42 @@
    "score": 85,
    "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
+  },
+  {
+   "id": "e1586e0c02f0",
+   "title": "📣 APPEL À CANDIDATURES – FOOD TRUCK / RESTAURATION 🍔🌭🥙 | Facebook",
+   "summary": "📣 APPEL À CANDIDATURES – FOOD TRUCK / RESTAURATION 🍔🌭🥙 Dans le cadre de notre Vide-Grenier à Sanary, nous recherchons un food truck ou professionnel de la restauration/snacking pour proposer une...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/218367301912274/posts/2707688172980162/",
+   "organizer": null,
+   "city": "Sanary-sur-Mer",
+   "dept": "83",
+   "lat": 43.13329,
+   "lon": 5.79527,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "appel à candidatures",
+    "food truck",
+    "recherchons",
+    "vide-grenier"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 85,
+   "found_at": "2026-10-23T05:39:39+00:00",
+   "contact_checked": true,
+   "lien_ok": "2026-10-29"
   },
   {
    "id": "f73891f2ddb8",
@@ -900,41 +901,6 @@
    "lien_ok": "2026-10-28"
   },
   {
-   "id": "a5f509f73ce3",
-   "title": "draguignan petites annonces | 📢 RECHERCHE EMPLACEMENT POUR FOOD TRUCK – DRAGUIGNAN | Facebook",
-   "summary": "📢 RECHERCHE EMPLACEMENT POUR FOOD TRUCK – DRAGUIGNAN Bonsoir à tous ! Je suis à la recherche d’un emplacement pour le lancement prochain de mon activité de food truck sur le secteur de Draguignan...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/516747546399584/posts/1917069986367326/",
-   "organizer": null,
-   "city": "Draguignan",
-   "dept": "83",
-   "lat": 43.53234,
-   "lon": 6.46034,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "emplacement",
-    "food truck",
-    "recherche"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-10-29T05:51:19+00:00",
-   "lien_ok": "2026-10-29",
-   "contact_checked": true
-  },
-  {
    "id": "5e169cfea05b",
    "title": "Fréjus Fête Halloween",
    "summary": "26 Oct 2026 au 31 Oct 2026 Fréjus Fête Halloween A l’origine, Halloween est une fête celtique d’origine irlandaise. En effet, ce sont les Irlandais qui ont apporté avec eux la tradition aux Etat-Unis ! Il s’agit donc, en réalité, du nouvel an celtique ! Fréjus",
@@ -1190,6 +1156,41 @@
    "score": 75,
    "found_at": "2026-10-25T05:38:16+00:00",
    "contact_checked": true
+  },
+  {
+   "id": "a5f509f73ce3",
+   "title": "draguignan petites annonces | 📢 RECHERCHE EMPLACEMENT POUR FOOD TRUCK – DRAGUIGNAN | Facebook",
+   "summary": "📢 RECHERCHE EMPLACEMENT POUR FOOD TRUCK – DRAGUIGNAN Bonsoir à tous ! Je suis à la recherche d’un emplacement pour le lancement prochain de mon activité de food truck sur le secteur de Draguignan...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/516747546399584/posts/1917069986367326/",
+   "organizer": null,
+   "city": "Draguignan",
+   "dept": "83",
+   "lat": 43.53234,
+   "lon": 6.46034,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "emplacement",
+    "food truck",
+    "recherche"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-10-29T05:51:19+00:00",
+   "contact_checked": true,
+   "lien_ok": "2026-10-29"
   },
   {
    "id": "ef3716ab9094",
