@@ -1531,5 +1531,12 @@
   "lon": 6.18124,
   "city": "Carcès",
   "dept": "83"
- }
+ },
+ "zone:valras-plage": null,
+ "zone:longeville-les": null,
+ "zone:rlp": null,
+ "zone:la pommeraie-sur": null,
+ "zone:lannelvoez": null,
+ "zone:monaco": null,
+ "zone:noel dans": null
 }

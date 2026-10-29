@@ -903,7 +903,7 @@
   },
   "altitude-jazz-festival": {
    "slug": "altitude-jazz-festival",
-   "checked": null,
+   "checked": "2026-10-29",
    "appel": null,
    "name": "Altitude Jazz Festival",
    "town": "Briançon",
@@ -963,7 +963,7 @@
   },
   "biennale-de-musique-classique-de-barcelonnette": {
    "slug": "biennale-de-musique-classique-de-barcelonnette",
-   "checked": null,
+   "checked": "2026-10-29",
    "appel": null,
    "name": "Biennale de Musique Classique de Barcelonnette",
    "town": "Barcelonnette",
@@ -1043,7 +1043,7 @@
   },
   "burning-mane-en-provence": {
    "slug": "burning-mane-en-provence",
-   "checked": null,
+   "checked": "2026-10-29",
    "appel": null,
    "name": "Burning Mane en Provence",
    "town": "Mane",
@@ -1233,7 +1233,7 @@
   },
   "electro-live-barcelonnette": {
    "slug": "electro-live-barcelonnette",
-   "checked": null,
+   "checked": "2026-10-29",
    "appel": null,
    "name": "Électro Live Barcelonnette",
    "town": "Barcelonnette",
@@ -1373,7 +1373,7 @@
   },
   "festival-brin-de-culture": {
    "slug": "festival-brin-de-culture",
-   "checked": null,
+   "checked": "2026-10-29",
    "appel": null,
    "name": "Festival Brin de Culture",
    "town": "Manosque",
@@ -2093,7 +2093,7 @@
   },
   "fete-de-la-truffe-noire-daups": {
    "slug": "fete-de-la-truffe-noire-daups",
-   "checked": null,
+   "checked": "2026-10-29",
    "appel": null,
    "name": "Fête de la Truffe Noire d'Aups",
    "town": "Aups",
@@ -2693,7 +2693,7 @@
   },
   "les-festivales-des-alpes": {
    "slug": "les-festivales-des-alpes",
-   "checked": null,
+   "checked": "2026-10-29",
    "appel": null,
    "name": "Les Festivales des Alpes",
    "town": "Turriers",
@@ -2713,7 +2713,7 @@
   },
   "les-hivernales-davignon": {
    "slug": "les-hivernales-davignon",
-   "checked": null,
+   "checked": "2026-10-29",
    "appel": null,
    "name": "Les Hivernales d'Avignon",
    "town": "Avignon",
@@ -2733,7 +2733,7 @@
   },
   "les-martmites": {
    "slug": "les-martmites",
-   "checked": null,
+   "checked": "2026-10-29",
    "appel": null,
    "name": "Les mARTmites",
    "town": "Cruis",
@@ -3113,7 +3113,7 @@
   },
   "messe-des-truffes-de-richerenches": {
    "slug": "messe-des-truffes-de-richerenches",
-   "checked": null,
+   "checked": "2026-10-29",
    "appel": null,
    "name": "Messe des Truffes de Richerenches",
    "town": "Richerenches",
@@ -3253,7 +3253,7 @@
   },
   "ou-sont-les-femmes": {
    "slug": "ou-sont-les-femmes",
-   "checked": null,
+   "checked": "2026-10-29",
    "appel": null,
    "name": "Où Sont les Femmes",
    "town": "Forcalquier",
@@ -3403,7 +3403,7 @@
   },
   "rythmnbouffe": {
    "slug": "rythmnbouffe",
-   "checked": null,
+   "checked": "2026-10-29",
    "appel": null,
    "name": "Rythm'n'Bouffe",
    "town": "Pierrerue",
