@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-30T05:52:02+00:00",
- "count": 72,
- "new_count": 4,
+ "updated": "2026-10-30T15:54:06+00:00",
+ "count": 73,
+ "new_count": 1,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -13,7 +13,8 @@
   },
   "Recherche web": {
    "ok": true,
-   "found": 37
+   "found": 0,
+   "note": "recherche web faite le matin seulement (économise le quota)"
   },
   "Festivals PACA": {
    "ok": true,
@@ -173,50 +174,6 @@
    "lien_ok": "2026-10-30"
   },
   {
-   "id": "939a818e1d37",
-   "title": "Marseille (13) : Food-truck solidaire Noël au Palais 2026",
-   "summary": "Marseille : Food-truck solidaire Noël au Palais 2026. Date limite : 8 novembre 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Food-truck solidaire Noël au Palais 2026 Mis à jour le 30 octobre 2026 Date limite : 8 novembre 2026 Ouvert, J-9 Réservé aux structures de l'économie sociale et solidaire (ESS) : la mairie des 4e et 5e arrondissements cherche un food truck solidaire (snacks et douceurs, pas de repas complets, avec un volet social ou d'insertion) pour Noël au Palais, au pa",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.google.com/goto?url=CAESmAEB6zswFTuiomXSHSOzWrECSVabX8ucIX36d_Ecw5msqnR1zgdJ-75WH0YAuSzFvcki1-huKQnAsJnTJabGLVDon3Iocrs9tiRil0rQ0pRBLs1L_Gp5xSKln3O5hjJ3h9pXTQoyNGIW8okligsc1ox-Dfw2oFFGyoQ8CPB2vuY94JYJdPWQ-3VfdDe-vB4OMxw3RWQ1B76y-w",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": "2026-11-08",
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [
-     "francois@wikifoodtruck.fr",
-     "culture45@marseille.fr"
-    ],
-    "phones": [],
-    "forms": [
-     "https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
-     "https://www.google.com/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026",
-     "https://www.google.com/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "candidature",
-    "cherche",
-    "emplacement",
-    "food truck",
-    "food-truck"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 100,
-   "found_at": "2026-10-30T05:52:02+00:00",
-   "lien_ok": "2026-10-30",
-   "contact_checked": true
-  },
-  {
    "id": "9a8973b58aa7",
    "title": "Appel à candidature food-truck Vignasse - Ville de Valbonne Sophia Antipolis",
    "summary": "La ville de Valbonne met à disposition une surface à vocation d’activité commerciale sur une parcelle de son domaine public afin d’accueillir un commerce de restauration non sédentaire, exercé par un exploitant de camion ambulant (dit « food truck »). En vertu de l’article L.2122-1 du Code Général de la Propriété des Personnes Publiques, les exploitants de […] La ville de Valbonne met à disposition une surface à vocation d’activité commerciale sur une parcelle de son domaine public afin d’accueillir un commerce de restauration non sédentaire, exercé par un exploitant de camion ambulant (dit « ",
@@ -305,6 +262,48 @@
    "hors_zone": null,
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
+   "contact_checked": true,
+   "lien_ok": "2026-10-30"
+  },
+  {
+   "id": "939a818e1d37",
+   "title": "Marseille (13) : Food-truck solidaire Noël au Palais 2026",
+   "summary": "Marseille : Food-truck solidaire Noël au Palais 2026. Date limite : 8 novembre 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Food-truck solidaire Noël au Palais 2026 Mis à jour le 30 octobre 2026 Date limite : 8 novembre 2026 Ouvert, J-9 Réservé aux structures de l'économie sociale et solidaire (ESS) : la mairie des 4e et 5e arrondissements cherche un food truck solidaire (snacks et douceurs, pas de repas complets, avec un volet social ou d'insertion) pour Noël au Palais, au pa",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESmAEB6zswFTuiomXSHSOzWrECSVabX8ucIX36d_Ecw5msqnR1zgdJ-75WH0YAuSzFvcki1-huKQnAsJnTJabGLVDon3Iocrs9tiRil0rQ0pRBLs1L_Gp5xSKln3O5hjJ3h9pXTQoyNGIW8okligsc1ox-Dfw2oFFGyoQ8CPB2vuY94JYJdPWQ-3VfdDe-vB4OMxw3RWQ1B76y-w",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": "2026-11-08",
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [
+     "francois@wikifoodtruck.fr",
+     "culture45@marseille.fr"
+    ],
+    "phones": [],
+    "forms": [
+     "https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
+     "https://www.google.com/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026",
+     "https://www.google.com/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "cherche",
+    "food truck",
+    "food-truck"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 95,
+   "found_at": "2026-10-30T05:52:02+00:00",
    "contact_checked": true,
    "lien_ok": "2026-10-30"
   },
@@ -594,44 +593,6 @@
    "lien_ok": "2026-10-30"
   },
   {
-   "id": "c6ce7fcb64d1",
-   "title": "Soirée Choucroute",
-   "summary": "14 Nov 2026 Soirée Choucroute Le Comité des Fêtes de Roquebrune-sur-Argens vous donne rendez-vous le samedi 14 novembre pour une soirée conviviale et festive placée sous le signe de la gourmandise ! Roquebrune-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/soiree-choucroute-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-14",
-   "published": null,
-   "contact": {
-    "emails": [
-     "cdf.roquebrune@orange.fr"
-    ],
-    "phones": [
-     "07 59 66 65 91",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "fêtes",
-    "soirée"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 85,
-   "found_at": "2026-10-28T05:49:20+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "f73891f2ddb8",
    "title": "Le Marché à la Brocante Antibes 2026 : date, horaires - vide grenier, brocante, puces",
    "summary": "Brocantes, vide-greniers et marchés aux puces, du 1 janvier au 31 décembre 2026, à Antibes (Alpes-Maritimes) - horaires, tarifs, renseignements. Ce marché de brocante regorge de surprises pour toute personne qui aime chiner. De la porcelaine aux Cannes Concert, spectacle, etc. Je publie sur le JDS Concert, spectacle, etc. Aujourd'hui Demain Ce week-end Agenda Sorties & loisirs Actu Artistes en tournée Publier sur JDS Vos idées sorties Grands événements Activité & Expérience Activité & Expérience : voir tout Aventure Visites Nature Aquatique & nautique Pilotage Ateliers Bien-être Gastronomie Je",
@@ -896,41 +857,6 @@
    "lien_ok": "2026-10-28"
   },
   {
-   "id": "a5f509f73ce3",
-   "title": "draguignan petites annonces | 📢 RECHERCHE EMPLACEMENT POUR FOOD TRUCK – DRAGUIGNAN | Facebook",
-   "summary": "📢 RECHERCHE EMPLACEMENT POUR FOOD TRUCK – DRAGUIGNAN Bonsoir à tous ! Je suis à la recherche d’un emplacement pour le lancement prochain de mon activité de food truck sur le secteur de Draguignan...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/516747546399584/posts/1917069986367326/",
-   "organizer": null,
-   "city": "Draguignan",
-   "dept": "83",
-   "lat": 43.53234,
-   "lon": 6.46034,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "emplacement",
-    "food truck",
-    "recherche"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-10-29T05:51:19+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-30"
-  },
-  {
    "id": "5e169cfea05b",
    "title": "Fréjus Fête Halloween",
    "summary": "26 Oct 2026 au 31 Oct 2026 Fréjus Fête Halloween A l’origine, Halloween est une fête celtique d’origine irlandaise. En effet, ce sont les Irlandais qui ont apporté avec eux la tradition aux Etat-Unis ! Il s’agit donc, en réalité, du nouvel an celtique ! Fréjus",
@@ -1112,6 +1038,44 @@
    "contact_checked": true
   },
   {
+   "id": "1cc63aa14f8c",
+   "title": "Salon Made in France Varois",
+   "summary": "14 Nov 2026 Salon Made in France Varois Le Salon Made in France Varois met à l'honneur le savoir-faire français avec des exposants locaux du Var! Puget-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/salon-made-in-france-varois-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Puget-sur-Argens",
+   "dept": "83",
+   "lat": 43.47045,
+   "lon": 6.68553,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-14",
+   "published": null,
+   "contact": {
+    "emails": [
+     "contact@levillagemadeinfrance.fr"
+    ],
+    "phones": [
+     "09 88 07 32 41",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "exposants",
+    "salon"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-10-30T15:54:06+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "8df2559ba4a3",
    "title": "Quinteto Libertad",
    "summary": "20 Nov 2026 Quinteto Libertad La Casa Jazz propose un concert dans le respect des racines du « nuevo tango », entre sensualité, ferveur, mélodies sublimes et harmonies de Buenos Aires. Saint-Raphaël",
@@ -1184,6 +1148,41 @@
    "score": 75,
    "found_at": "2026-10-25T05:38:16+00:00",
    "contact_checked": true
+  },
+  {
+   "id": "a5f509f73ce3",
+   "title": "draguignan petites annonces | 📢 RECHERCHE EMPLACEMENT POUR FOOD TRUCK – DRAGUIGNAN | Facebook",
+   "summary": "📢 RECHERCHE EMPLACEMENT POUR FOOD TRUCK – DRAGUIGNAN Bonsoir à tous ! Je suis à la recherche d’un emplacement pour le lancement prochain de mon activité de food truck sur le secteur de Draguignan...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/516747546399584/posts/1917069986367326/",
+   "organizer": null,
+   "city": "Draguignan",
+   "dept": "83",
+   "lat": 43.53234,
+   "lon": 6.46034,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "emplacement",
+    "food truck",
+    "recherche"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-10-29T05:51:19+00:00",
+   "contact_checked": true,
+   "lien_ok": "2026-10-30"
   },
   {
    "id": "0821880fefa4",
@@ -1991,40 +1990,6 @@
    "contact_checked": true
   },
   {
-   "id": "ded17c759a62",
-   "title": "Ultra trail des troupes de marine",
-   "summary": "21 Nov 2026 au 22 Nov 2026 Ultra trail des troupes de marine L’Ultra-Trail des Troupes de Marine se tiendra les 21 et 22 novembre 2026 à Fréjus, autour du Musée des Troupes de Marine. Cet événement propose trois parcours de 24,4 km, 58,8 km et 128 km, adaptés à différents niveaux. Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/ultra-trail-des-troupes-de-marine-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-21",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "trail"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 70,
-   "found_at": "2026-10-29T05:51:19+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "ba8138a6331f",
    "title": "Salon Bien-être & Thérapies",
    "summary": "21 Nov 2026 au 22 Nov 2026 Salon Bien-être & Thérapies 10ᵉ édition sur le thème « l’enthousiasme : booster son hiver et rester zen » Saint-Raphaël",
@@ -2056,6 +2021,40 @@
    "hors_zone": null,
    "score": 70,
    "found_at": "2026-10-22T05:39:07+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "ded17c759a62",
+   "title": "Ultra trail des troupes de marine",
+   "summary": "21 Nov 2026 au 22 Nov 2026 Ultra trail des troupes de marine L’Ultra-Trail des Troupes de Marine se tiendra les 21 et 22 novembre 2026 à Fréjus, autour du Musée des Troupes de Marine. Cet événement propose trois parcours de 24,4 km, 58,8 km et 128 km, adaptés à différents niveaux. Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/ultra-trail-des-troupes-de-marine-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-21",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "trail"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-10-29T05:51:19+00:00",
    "contact_checked": true
   },
   {
@@ -2094,6 +2093,43 @@
    "hors_zone": null,
    "score": 70,
    "found_at": "2026-10-30T05:52:02+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "c6ce7fcb64d1",
+   "title": "Soirée Choucroute",
+   "summary": "14 Nov 2026 Soirée Choucroute Le Comité des Fêtes de Roquebrune-sur-Argens vous donne rendez-vous le samedi 14 novembre pour une soirée conviviale et festive placée sous le signe de la gourmandise ! Roquebrune-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/soiree-choucroute-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Roquebrune-sur-Argens",
+   "dept": "83",
+   "lat": 43.42692,
+   "lon": 6.66176,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-14",
+   "published": null,
+   "contact": {
+    "emails": [
+     "cdf.roquebrune@orange.fr"
+    ],
+    "phones": [
+     "07 59 66 65 91",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fêtes"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
   },
   {
