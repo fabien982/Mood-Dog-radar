@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-29T15:57:15+00:00",
- "count": 71,
- "new_count": 0,
+ "updated": "2026-10-30T05:52:02+00:00",
+ "count": 72,
+ "new_count": 4,
  "sources": {
   "BOAMP": {
    "ok": true,
-   "found": 9
+   "found": 8
   },
   "Alertes Google": {
    "ok": true,
@@ -13,8 +13,7 @@
   },
   "Recherche web": {
    "ok": true,
-   "found": 0,
-   "note": "recherche web faite le matin seulement (économise le quota)"
+   "found": 37
   },
   "Festivals PACA": {
    "ok": true,
@@ -28,66 +27,18 @@
   }
  },
  "web_runs": {
-  "Candidatures": "2026-10-29",
+  "Candidatures": "2026-10-30",
   "Instagram": "2026-10-28",
   "Fêtes et festivals": "2026-10-28",
-  "Mairies de ma zone": "2026-10-29",
+  "Mairies de ma zone": "2026-10-30",
   "Festivals, domaines et châteaux": "2026-10-28",
   "Festivals suivis": "2026-10-28"
  },
  "events": [
   {
-   "id": "93e800d224af",
-   "title": "Nice (06) : AOT campus universitaire pour food truck | WikiFoodtruck",
-   "summary": "Nice : AOT campus universitaire pour food truck. Date limite : 29 octobre 2026 à 12h00. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Nice 📢 Appels à candidatures Nice AOT campus universitaire pour food truck Mis à jour le 29 octobre 2026 Date limite : 29 octobre 2026 à 12h00 Dernier jour L'Université Côte d'Azur lance un appel à candidatures pour l'occupation temporaire du domaine public sur le campus universitaire George V. Cet appel concerne l'exploitation d'une activité de restauration mobile, type food truck. Les candidat",
-   "type": "Appel à candidatures",
-   "source": "Page surveillée",
-   "url": "https://wikifoodtruck.fr/appels-food-truck/nice-aot-campus-universitaire-pour-food-truck-2026",
-   "organizer": "Wikifoodtruck – appels à candidatures des mairies",
-   "city": "Nice",
-   "dept": "06",
-   "lat": 43.71273,
-   "lon": 7.25531,
-   "approx": false,
-   "deadline": "2026-10-29",
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [
-     "francois@wikifoodtruck.fr"
-    ],
-    "phones": [
-     "04 89 15 10 05"
-    ],
-    "forms": [
-     "https://wikifoodtruck.fr/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026",
-     "https://wikifoodtruck.fr/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2",
-     "https://wikifoodtruck.fr/appels-food-truck/marseille-food-truck-solidaire-noel-au-palais-2026"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "AOT",
-    "appel à candidature",
-    "appel à candidatures",
-    "candidature",
-    "emplacement",
-    "food truck",
-    "food trucks",
-    "occupation du domaine public"
-   ],
-   "fiable": true,
-   "hors_zone": null,
-   "score": 100,
-   "found_at": "2026-10-29T05:51:19+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-29"
-  },
-  {
    "id": "7188173b79a3",
    "title": "Allauch (13) : Appel à candidature Food Truck Noël 2026",
-   "summary": "Allauch : Appel à candidature Food Truck Noël 2026. Date limite : 2 novembre 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Allauch 📢 Appels à candidatures Allauch Appel à candidature Food Truck Noël 2026 Mis à jour le 29 octobre 2026 Date limite : 2 novembre 2026 Ouvert, J-4 La Ville d'Allauch lance un appel à candidature pour l'occupation du domaine public par des food trucks décorés sur le thème de Noël. Les candidatures doivent être soumises avant le 2 novembre 2026 pour l'événement du 28 novembre 2026. Voir l'appel o",
+   "summary": "Allauch : Appel à candidature Food Truck Noël 2026. Date limite : 2 novembre 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Allauch 📢 Appels à candidatures Allauch Appel à candidature Food Truck Noël 2026 Mis à jour le 30 octobre 2026 Date limite : 2 novembre 2026 Ouvert, J-3 La Ville d'Allauch lance un appel à candidature pour l'occupation du domaine public par des food trucks décorés sur le thème de Noël. Les candidatures doivent être soumises avant le 2 novembre 2026 pour l'événement du 28 novembre 2026. Voir l'appel o",
    "type": "Appel à candidatures",
    "source": "Page surveillée",
    "url": "https://wikifoodtruck.fr/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026",
@@ -130,12 +81,12 @@
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-10-29"
+   "lien_ok": "2026-10-30"
   },
   {
    "id": "c4f86844a475",
    "title": "Marseille (13) : Appel à manifestation d'intérêt food-trucks",
-   "summary": "Marseille : Appel à manifestation d'intérêt food-trucks. Date limite : 6 novembre 2026 à 12h00. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Appel à manifestation d'intérêt food-trucks Mis à jour le 29 octobre 2026 Date limite : 6 novembre 2026 à 12h00 Ouvert, J-8 Cet appel à manifestation d'intérêt est destiné aux food trucks pour les dates du 11 au 13 décembre 2026. Les candidats doivent soumettre leurs dossiers par courrier recommandé avec accusé de réception. Voir l'appel offici",
+   "summary": "Marseille : Appel à manifestation d'intérêt food-trucks. Date limite : 6 novembre 2026 à 12h00. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Appel à manifestation d'intérêt food-trucks Mis à jour le 30 octobre 2026 Date limite : 6 novembre 2026 à 12h00 Ouvert, J-7 Cet appel à manifestation d'intérêt est destiné aux food trucks pour les dates du 11 au 13 décembre 2026. Les candidats doivent soumettre leurs dossiers par courrier recommandé avec accusé de réception. Voir l'appel offici",
    "type": "Appel à candidatures",
    "source": "Page surveillée",
    "url": "https://wikifoodtruck.fr/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2",
@@ -162,24 +113,25 @@
    "mode": "demandes",
    "via": null,
    "keywords": [
-    "AOT",
-    "appel à candidatures",
+    "appel à candidature",
     "appel à manifestation d'intérêt",
-    "emplacement",
+    "candidature",
     "food truck",
-    "food trucks"
+    "food trucks",
+    "food-truck",
+    "occupation du domaine public"
    ],
    "fiable": true,
    "hors_zone": null,
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-10-29"
+   "lien_ok": "2026-10-30"
   },
   {
    "id": "0bd01dc36ce3",
    "title": "Marseille (13) : Food-truck solidaire Noël au Palais 2026",
-   "summary": "Marseille : Food-truck solidaire Noël au Palais 2026. Date limite : 8 novembre 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Food-truck solidaire Noël au Palais 2026 Mis à jour le 29 octobre 2026 Date limite : 8 novembre 2026 Ouvert, J-10 Réservé aux structures de l'économie sociale et solidaire (ESS) : la mairie des 4e et 5e arrondissements cherche un food truck solidaire (snacks et douceurs, pas de repas complets, avec un volet social ou d'insertion) pour Noël au Palais, au p",
+   "summary": "Marseille : Food-truck solidaire Noël au Palais 2026. Date limite : 8 novembre 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Food-truck solidaire Noël au Palais 2026 Mis à jour le 30 octobre 2026 Date limite : 8 novembre 2026 Ouvert, J-9 Réservé aux structures de l'économie sociale et solidaire (ESS) : la mairie des 4e et 5e arrondissements cherche un food truck solidaire (snacks et douceurs, pas de repas complets, avec un volet social ou d'insertion) pour Noël au Palais, au pa",
    "type": "Recherche un food truck",
    "source": "Page surveillée",
    "url": "https://wikifoodtruck.fr/appels-food-truck/marseille-food-truck-solidaire-noel-au-palais-2026",
@@ -218,7 +170,51 @@
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-10-29"
+   "lien_ok": "2026-10-30"
+  },
+  {
+   "id": "939a818e1d37",
+   "title": "Marseille (13) : Food-truck solidaire Noël au Palais 2026",
+   "summary": "Marseille : Food-truck solidaire Noël au Palais 2026. Date limite : 8 novembre 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Food-truck solidaire Noël au Palais 2026 Mis à jour le 30 octobre 2026 Date limite : 8 novembre 2026 Ouvert, J-9 Réservé aux structures de l'économie sociale et solidaire (ESS) : la mairie des 4e et 5e arrondissements cherche un food truck solidaire (snacks et douceurs, pas de repas complets, avec un volet social ou d'insertion) pour Noël au Palais, au pa",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESmAEB6zswFTuiomXSHSOzWrECSVabX8ucIX36d_Ecw5msqnR1zgdJ-75WH0YAuSzFvcki1-huKQnAsJnTJabGLVDon3Iocrs9tiRil0rQ0pRBLs1L_Gp5xSKln3O5hjJ3h9pXTQoyNGIW8okligsc1ox-Dfw2oFFGyoQ8CPB2vuY94JYJdPWQ-3VfdDe-vB4OMxw3RWQ1B76y-w",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": "2026-11-08",
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [
+     "francois@wikifoodtruck.fr",
+     "culture45@marseille.fr"
+    ],
+    "phones": [],
+    "forms": [
+     "https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
+     "https://www.google.com/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026",
+     "https://www.google.com/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "candidature",
+    "cherche",
+    "emplacement",
+    "food truck",
+    "food-truck"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 100,
+   "found_at": "2026-10-30T05:52:02+00:00",
+   "lien_ok": "2026-10-30",
+   "contact_checked": true
   },
   {
    "id": "9a8973b58aa7",
@@ -264,7 +260,7 @@
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-10-29"
+   "lien_ok": "2026-10-30"
   },
   {
    "id": "7af4cb12014d",
@@ -310,7 +306,7 @@
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-10-29"
+   "lien_ok": "2026-10-30"
   },
   {
    "id": "82589b5362ed",
@@ -348,39 +344,6 @@
    "hors_zone": null,
    "score": 95,
    "found_at": "2026-10-05T05:31:06+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "5738d75aaea8",
-   "title": "Autorisation d'occupation temporaire du domaine public (Aot) du campus universitaire George V (Inspe) d'Université Côte d'Azur pour l'exploitation d'une activité de restauration mo",
-   "summary": "Avis de marché. Prestations de services",
-   "type": "Marché public",
-   "source": "BOAMP",
-   "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-97382",
-   "organizer": "Université Côte d'Azur",
-   "city": null,
-   "dept": "06",
-   "lat": 43.94,
-   "lon": 7.18,
-   "approx": true,
-   "deadline": "2026-10-29",
-   "event_date": null,
-   "published": "2026-10-08",
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "AOT",
-    "restauration"
-   ],
-   "fiable": true,
-   "hors_zone": null,
-   "score": 90,
-   "found_at": "2026-10-28T14:05:03+00:00",
    "contact_checked": true
   },
   {
@@ -531,6 +494,38 @@
    "lien_ok": "2026-10-28"
   },
   {
+   "id": "284fedaf572b",
+   "title": "Convention d’autorisation d’occupation temporaire du domaine public à destination d’une activité de restauration.",
+   "summary": "Avis de marché. Prestations de services",
+   "type": "Marché public",
+   "source": "BOAMP",
+   "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-105162",
+   "organizer": "CA DU PAYS DE GRASSE",
+   "city": "Grasse",
+   "dept": "06",
+   "lat": 43.65406,
+   "lon": 6.93776,
+   "approx": false,
+   "deadline": "2026-11-30",
+   "event_date": null,
+   "published": "2026-10-30",
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "restauration"
+   ],
+   "fiable": true,
+   "hors_zone": null,
+   "score": 85,
+   "found_at": "2026-10-30T05:52:02+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "91132d510dc3",
    "title": "Convention d’autorisation d’occupation temporaire du domaine public pour l’exploitation de l’espace restauration de la piscine Altitude 500 à Grasse",
    "summary": "Avis de marché. Repas, traiteur",
@@ -561,6 +556,42 @@
    "score": 85,
    "found_at": "2026-10-28T14:05:03+00:00",
    "contact_checked": true
+  },
+  {
+   "id": "e1586e0c02f0",
+   "title": "📣 APPEL À CANDIDATURES – FOOD TRUCK / RESTAURATION 🍔🌭🥙 | Facebook",
+   "summary": "📣 APPEL À CANDIDATURES – FOOD TRUCK / RESTAURATION 🍔🌭🥙 Dans le cadre de notre Vide-Grenier à Sanary, nous recherchons un food truck ou professionnel de la restauration/snacking pour proposer une...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/218367301912274/posts/2707688172980162/",
+   "organizer": null,
+   "city": "Sanary-sur-Mer",
+   "dept": "83",
+   "lat": 43.13329,
+   "lon": 5.79527,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "appel à candidatures",
+    "food truck",
+    "recherchons",
+    "vide-grenier"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 85,
+   "found_at": "2026-10-23T05:39:39+00:00",
+   "contact_checked": true,
+   "lien_ok": "2026-10-30"
   },
   {
    "id": "c6ce7fcb64d1",
@@ -599,42 +630,6 @@
    "score": 85,
    "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
-  },
-  {
-   "id": "e1586e0c02f0",
-   "title": "📣 APPEL À CANDIDATURES – FOOD TRUCK / RESTAURATION 🍔🌭🥙 | Facebook",
-   "summary": "📣 APPEL À CANDIDATURES – FOOD TRUCK / RESTAURATION 🍔🌭🥙 Dans le cadre de notre Vide-Grenier à Sanary, nous recherchons un food truck ou professionnel de la restauration/snacking pour proposer une...",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/218367301912274/posts/2707688172980162/",
-   "organizer": null,
-   "city": "Sanary-sur-Mer",
-   "dept": "83",
-   "lat": 43.13329,
-   "lon": 5.79527,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "appel à candidatures",
-    "food truck",
-    "recherchons",
-    "vide-grenier"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 85,
-   "found_at": "2026-10-23T05:39:39+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-29"
   },
   {
    "id": "f73891f2ddb8",
@@ -901,6 +896,41 @@
    "lien_ok": "2026-10-28"
   },
   {
+   "id": "a5f509f73ce3",
+   "title": "draguignan petites annonces | 📢 RECHERCHE EMPLACEMENT POUR FOOD TRUCK – DRAGUIGNAN | Facebook",
+   "summary": "📢 RECHERCHE EMPLACEMENT POUR FOOD TRUCK – DRAGUIGNAN Bonsoir à tous ! Je suis à la recherche d’un emplacement pour le lancement prochain de mon activité de food truck sur le secteur de Draguignan...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/516747546399584/posts/1917069986367326/",
+   "organizer": null,
+   "city": "Draguignan",
+   "dept": "83",
+   "lat": 43.53234,
+   "lon": 6.46034,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "emplacement",
+    "food truck",
+    "recherche"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-10-29T05:51:19+00:00",
+   "contact_checked": true,
+   "lien_ok": "2026-10-30"
+  },
+  {
    "id": "5e169cfea05b",
    "title": "Fréjus Fête Halloween",
    "summary": "26 Oct 2026 au 31 Oct 2026 Fréjus Fête Halloween A l’origine, Halloween est une fête celtique d’origine irlandaise. En effet, ce sont les Irlandais qui ont apporté avec eux la tradition aux Etat-Unis ! Il s’agit donc, en réalité, du nouvel an celtique ! Fréjus",
@@ -1003,6 +1033,41 @@
    "via": null,
    "keywords": [
     "festival"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-10-11T05:27:20+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "ef3716ab9094",
+   "title": "Concert de l'Harmonie Aurélienne",
+   "summary": "08 Nov 2026 Concert de l'Harmonie Aurélienne Concert d'automne partagé avec l'Harmonie Indépendante des Arcs Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/concert-de-lharmonie-aurelienne-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-08",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "06 60 63 79 75",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
    ],
    "fiable": false,
    "hors_zone": null,
@@ -1155,76 +1220,6 @@
    "hors_zone": null,
    "score": 75,
    "found_at": "2026-10-25T05:38:16+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "a5f509f73ce3",
-   "title": "draguignan petites annonces | 📢 RECHERCHE EMPLACEMENT POUR FOOD TRUCK – DRAGUIGNAN | Facebook",
-   "summary": "📢 RECHERCHE EMPLACEMENT POUR FOOD TRUCK – DRAGUIGNAN Bonsoir à tous ! Je suis à la recherche d’un emplacement pour le lancement prochain de mon activité de food truck sur le secteur de Draguignan...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/516747546399584/posts/1917069986367326/",
-   "organizer": null,
-   "city": "Draguignan",
-   "dept": "83",
-   "lat": 43.53234,
-   "lon": 6.46034,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "emplacement",
-    "food truck",
-    "recherche"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-10-29T05:51:19+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-29"
-  },
-  {
-   "id": "ef3716ab9094",
-   "title": "Concert de l'Harmonie Aurélienne",
-   "summary": "08 Nov 2026 Concert de l'Harmonie Aurélienne Concert d'automne partagé avec l'Harmonie Indépendante des Arcs Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/concert-de-lharmonie-aurelienne-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-08",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "06 60 63 79 75",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-10-11T05:27:20+00:00",
    "contact_checked": true
   },
   {
@@ -1779,42 +1774,6 @@
    "contact_checked": true
   },
   {
-   "id": "74fb94e7b528",
-   "title": "CINE FEEL GOOD AU CINEMA LE VOX",
-   "summary": "29 Oct 2026 CINE FEEL GOOD AU CINEMA LE VOX SOIREE CINE FEEL GOOD AVEC LE FILM \"UN PTI TRUC EN PLUS\" Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/cine-feel-good-au-cinema-le-vox-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-10-29",
-   "published": null,
-   "contact": {
-    "emails": [
-     "directionvox@gmail.com"
-    ],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "soirée"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 70,
-   "found_at": "2026-10-26T16:07:09+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "38c29c503cdb",
    "title": "Soirée dansante au Village Made In France",
    "summary": "31 Oct 2026 Soirée dansante au Village Made In France Le Studio Tropicais vous donne rendez-vous au Village Made In France pour une soirée dansante ! Puget-sur-Argens",
@@ -1995,24 +1954,27 @@
    "contact_checked": true
   },
   {
-   "id": "ba8138a6331f",
-   "title": "Salon Bien-être & Thérapies",
-   "summary": "21 Nov 2026 au 22 Nov 2026 Salon Bien-être & Thérapies 10ᵉ édition sur le thème « l’enthousiasme : booster son hiver et rester zen » Saint-Raphaël",
+   "id": "687b7624278e",
+   "title": "Thomas Marty - Soirée caritative Octobre Rose",
+   "summary": "14 Nov 2026 Thomas Marty - Soirée caritative Octobre Rose Soirée caritative \"Octobre Rose\" - Thomas Marty en spectacle Puget-sur-Argens",
    "type": "Événement",
    "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/salon-bien-etre-therapies-4/",
+   "url": "https://www.esterel-cotedazur.com/en/cards/thomas-marty-soiree-caritative-octobre-rose/",
    "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
+   "city": "Puget-sur-Argens",
    "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
+   "lat": 43.47045,
+   "lon": 6.68553,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-11-21",
+   "event_date": "2026-11-14",
    "published": null,
    "contact": {
-    "emails": [],
+    "emails": [
+     "culture@mairie-puget-sur-argens.com"
+    ],
     "phones": [
+     "04 94 19 61 35",
      "04 94 19 10 60"
     ],
     "forms": []
@@ -2020,12 +1982,12 @@
    "mode": "evenements",
    "via": null,
    "keywords": [
-    "salon"
+    "soirée"
    ],
    "fiable": false,
    "hors_zone": null,
    "score": 70,
-   "found_at": "2026-10-22T05:39:07+00:00",
+   "found_at": "2026-10-30T05:52:02+00:00",
    "contact_checked": true
   },
   {
@@ -2060,6 +2022,78 @@
    "hors_zone": null,
    "score": 70,
    "found_at": "2026-10-29T05:51:19+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "ba8138a6331f",
+   "title": "Salon Bien-être & Thérapies",
+   "summary": "21 Nov 2026 au 22 Nov 2026 Salon Bien-être & Thérapies 10ᵉ édition sur le thème « l’enthousiasme : booster son hiver et rester zen » Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/salon-bien-etre-therapies-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-21",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "salon"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-10-22T05:39:07+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "31225759a500",
+   "title": "La journée des collectionneurs au Village Made in France",
+   "summary": "28 Nov 2026 La journée des collectionneurs au Village Made in France 5ème édition de la journée des collectionneurs au Musée du Jouet Puget-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/la-journee-des-collectionneurs-au-village-made-in-france-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Puget-sur-Argens",
+   "dept": "83",
+   "lat": 43.47045,
+   "lon": 6.68553,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-28",
+   "published": null,
+   "contact": {
+    "emails": [
+     "collectionbienjouet@gmail.com"
+    ],
+    "phones": [
+     "09 83 69 31 63",
+     "09 88 07 32 41",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "journée"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-10-30T05:52:02+00:00",
    "contact_checked": true
   },
   {

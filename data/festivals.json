@@ -933,7 +933,7 @@
   },
   "babel-music-xp": {
    "slug": "babel-music-xp",
-   "checked": null,
+   "checked": "2026-10-30",
    "appel": null,
    "name": "Babel Music XP",
    "town": "Marseille",
@@ -1063,7 +1063,7 @@
   },
   "carnaval-de-nice": {
    "slug": "carnaval-de-nice",
-   "checked": null,
+   "checked": "2026-10-30",
    "appel": null,
    "name": "Carnaval de Nice",
    "town": "Nice",
@@ -1273,7 +1273,7 @@
   },
   "festhiver-divers": {
    "slug": "festhiver-divers",
-   "checked": null,
+   "checked": "2026-10-30",
    "appel": null,
    "name": "Fest'Hiver Divers",
    "town": "La Tour-sur-Tinée",
@@ -1343,7 +1343,7 @@
   },
   "festival-avec-le-temps": {
    "slug": "festival-avec-le-temps",
-   "checked": null,
+   "checked": "2026-10-30",
    "appel": null,
    "name": "Festival Avec le Temps",
    "town": "Marseille",
@@ -1573,7 +1573,7 @@
   },
   "festival-de-musique-de-toulon-et-sa-region": {
    "slug": "festival-de-musique-de-toulon-et-sa-region",
-   "checked": null,
+   "checked": "2026-10-30",
    "appel": null,
    "name": "Festival de Musique de Toulon et sa Région",
    "town": "Toulon",
@@ -1633,7 +1633,7 @@
   },
   "festival-du-cinema-asiatique": {
    "slug": "festival-du-cinema-asiatique",
-   "checked": null,
+   "checked": "2026-10-30",
    "appel": null,
    "name": "Festival du Cinéma Asiatique",
    "town": "Draguignan",
@@ -1643,7 +1643,7 @@
   },
   "festival-du-court-metrage-de-frejus": {
    "slug": "festival-du-court-metrage-de-frejus",
-   "checked": null,
+   "checked": "2026-10-30",
    "appel": null,
    "name": "Festival du Court-Métrage de Fréjus",
    "town": "Fréjus",
@@ -1813,7 +1813,7 @@
   },
   "festival-international-music-cinema": {
    "slug": "festival-international-music-cinema",
-   "checked": null,
+   "checked": "2026-10-30",
    "appel": null,
    "name": "Festival International Music & Cinema",
    "town": "Marseille",
@@ -1843,7 +1843,7 @@
   },
   "festival-limprudanse": {
    "slug": "festival-limprudanse",
-   "checked": null,
+   "checked": "2026-10-30",
    "appel": null,
    "name": "Festival L'ImpruDanse",
    "town": "Draguignan",
@@ -2123,7 +2123,7 @@
   },
   "fete-du-citron-de-menton": {
    "slug": "fete-du-citron-de-menton",
-   "checked": null,
+   "checked": "2026-10-30",
    "appel": null,
    "name": "Fête du Citron de Menton",
    "town": "Menton",
@@ -3233,7 +3233,7 @@
   },
   "nuit-du-folk": {
    "slug": "nuit-du-folk",
-   "checked": null,
+   "checked": "2026-10-30",
    "appel": null,
    "name": "Nuit du Folk",
    "town": "Gap",
@@ -3583,7 +3583,7 @@
   },
   "viva-il-cine": {
    "slug": "viva-il-cine",
-   "checked": null,
+   "checked": "2026-10-30",
    "appel": null,
    "name": "Viva il Ciné",
    "town": "! Veynes",
