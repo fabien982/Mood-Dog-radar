@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-30T15:54:06+00:00",
- "count": 73,
- "new_count": 1,
+ "updated": "2026-10-31T10:54:29+00:00",
+ "count": 78,
+ "new_count": 5,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -13,33 +13,32 @@
   },
   "Recherche web": {
    "ok": true,
-   "found": 0,
-   "note": "recherche web faite le matin seulement (économise le quota)"
+   "found": 46
   },
   "Festivals PACA": {
    "ok": true,
-   "found": 0,
+   "found": 1,
    "note": "359 festivals suivis"
   },
   "Pages surveillées": {
    "ok": true,
-   "found": 28,
+   "found": 31,
    "errors": []
   }
  },
  "web_runs": {
-  "Candidatures": "2026-10-30",
-  "Instagram": "2026-10-28",
+  "Candidatures": "2026-10-31",
+  "Instagram": "2026-10-31",
   "Fêtes et festivals": "2026-10-28",
-  "Mairies de ma zone": "2026-10-30",
-  "Festivals, domaines et châteaux": "2026-10-28",
-  "Festivals suivis": "2026-10-28"
+  "Mairies de ma zone": "2026-10-31",
+  "Festivals, domaines et châteaux": "2026-10-31",
+  "Festivals suivis": "2026-10-31"
  },
  "events": [
   {
    "id": "7188173b79a3",
    "title": "Allauch (13) : Appel à candidature Food Truck Noël 2026",
-   "summary": "Allauch : Appel à candidature Food Truck Noël 2026. Date limite : 2 novembre 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Allauch 📢 Appels à candidatures Allauch Appel à candidature Food Truck Noël 2026 Mis à jour le 30 octobre 2026 Date limite : 2 novembre 2026 Ouvert, J-3 La Ville d'Allauch lance un appel à candidature pour l'occupation du domaine public par des food trucks décorés sur le thème de Noël. Les candidatures doivent être soumises avant le 2 novembre 2026 pour l'événement du 28 novembre 2026. Voir l'appel o",
+   "summary": "Allauch : Appel à candidature Food Truck Noël 2026. Date limite : 2 novembre 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Allauch 📢 Appels à candidatures Allauch Appel à candidature Food Truck Noël 2026 Mis à jour le 31 octobre 2026 Date limite : 2 novembre 2026 Ouvert, J-2 La Ville d'Allauch lance un appel à candidature pour l'occupation du domaine public par des food trucks décorés sur le thème de Noël. Les candidatures doivent être soumises avant le 2 novembre 2026 pour l'événement du 28 novembre 2026. Voir l'appel o",
    "type": "Appel à candidatures",
    "source": "Page surveillée",
    "url": "https://wikifoodtruck.fr/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026",
@@ -75,6 +74,7 @@
     "emplacement",
     "food truck",
     "food trucks",
+    "foodtruck",
     "occupation du domaine public"
    ],
    "fiable": true,
@@ -82,12 +82,12 @@
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-10-30"
+   "lien_ok": "2026-10-31"
   },
   {
    "id": "c4f86844a475",
    "title": "Marseille (13) : Appel à manifestation d'intérêt food-trucks",
-   "summary": "Marseille : Appel à manifestation d'intérêt food-trucks. Date limite : 6 novembre 2026 à 12h00. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Appel à manifestation d'intérêt food-trucks Mis à jour le 30 octobre 2026 Date limite : 6 novembre 2026 à 12h00 Ouvert, J-7 Cet appel à manifestation d'intérêt est destiné aux food trucks pour les dates du 11 au 13 décembre 2026. Les candidats doivent soumettre leurs dossiers par courrier recommandé avec accusé de réception. Voir l'appel offici",
+   "summary": "Marseille : Appel à manifestation d'intérêt food-trucks. Date limite : 6 novembre 2026 à 12h00. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Appel à manifestation d'intérêt food-trucks Mis à jour le 31 octobre 2026 Date limite : 6 novembre 2026 à 12h00 Ouvert, J-6 Cet appel à manifestation d'intérêt est destiné aux food trucks pour les dates du 11 au 13 décembre 2026. Les candidats doivent soumettre leurs dossiers par courrier recommandé avec accusé de réception. Voir l'appel offici",
    "type": "Appel à candidatures",
    "source": "Page surveillée",
    "url": "https://wikifoodtruck.fr/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2",
@@ -117,9 +117,10 @@
     "appel à candidature",
     "appel à manifestation d'intérêt",
     "candidature",
+    "emplacement",
     "food truck",
     "food trucks",
-    "food-truck",
+    "foodtruck",
     "occupation du domaine public"
    ],
    "fiable": true,
@@ -127,12 +128,12 @@
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-10-30"
+   "lien_ok": "2026-10-31"
   },
   {
    "id": "0bd01dc36ce3",
    "title": "Marseille (13) : Food-truck solidaire Noël au Palais 2026",
-   "summary": "Marseille : Food-truck solidaire Noël au Palais 2026. Date limite : 8 novembre 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Food-truck solidaire Noël au Palais 2026 Mis à jour le 30 octobre 2026 Date limite : 8 novembre 2026 Ouvert, J-9 Réservé aux structures de l'économie sociale et solidaire (ESS) : la mairie des 4e et 5e arrondissements cherche un food truck solidaire (snacks et douceurs, pas de repas complets, avec un volet social ou d'insertion) pour Noël au Palais, au pa",
+   "summary": "Marseille : Food-truck solidaire Noël au Palais 2026. Date limite : 8 novembre 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Food-truck solidaire Noël au Palais 2026 Mis à jour le 31 octobre 2026 Date limite : 8 novembre 2026 Ouvert, J-8 Réservé aux structures de l'économie sociale et solidaire (ESS) : la mairie des 4e et 5e arrondissements cherche un food truck solidaire (snacks et douceurs, pas de repas complets, avec un volet social ou d'insertion) pour Noël au Palais, au pa",
    "type": "Recherche un food truck",
    "source": "Page surveillée",
    "url": "https://wikifoodtruck.fr/appels-food-truck/marseille-food-truck-solidaire-noel-au-palais-2026",
@@ -164,14 +165,60 @@
     "cherche",
     "emplacement",
     "food truck",
-    "food-truck"
+    "food-truck",
+    "foodtruck"
    ],
    "fiable": true,
    "hors_zone": null,
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-10-30"
+   "lien_ok": "2026-10-31"
+  },
+  {
+   "id": "eb9cf028f2bd",
+   "title": "Marseille (13) : Food-truck solidaire Noël au Palais 2026",
+   "summary": "Marseille : Food-truck solidaire Noël au Palais 2026. Date limite : 8 novembre 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Food-truck solidaire Noël au Palais 2026 Mis à jour le 31 octobre 2026 Date limite : 8 novembre 2026 Ouvert, J-8 Réservé aux structures de l'économie sociale et solidaire (ESS) : la mairie des 4e et 5e arrondissements cherche un food truck solidaire (snacks et douceurs, pas de repas complets, avec un volet social ou d'insertion) pour Noël au Palais, au pa",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESmAEB6zswFSNUhfrSblY52MaIA027zu8WX4xz5-WmBa93bU8R-aF6EOQ69geFe5EJ4qrLgKr5ZP-HAQsuGySBKD225PUeKpHX00NUj_na67JcOp4pSismZ-RvekJpmQL_kox3Lu0obaFqZjsdCPPuz2IvFeF-S4IYksZ6wtmTUeJI6dSaSTAZaZ8NuP6L6wrRYYYq6vCcZwf93g",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": "2026-11-08",
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [
+     "francois@wikifoodtruck.fr",
+     "culture45@marseille.fr"
+    ],
+    "phones": [],
+    "forms": [
+     "https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
+     "https://www.google.com/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026",
+     "https://www.google.com/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "candidature",
+    "cherche",
+    "emplacement",
+    "food truck",
+    "food-truck",
+    "foodtruck"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 100,
+   "found_at": "2026-10-31T10:54:29+00:00",
+   "lien_ok": "2026-10-31",
+   "contact_checked": true
   },
   {
    "id": "9a8973b58aa7",
@@ -217,7 +264,7 @@
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-10-30"
+   "lien_ok": "2026-10-31"
   },
   {
    "id": "7af4cb12014d",
@@ -263,7 +310,7 @@
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-10-30"
+   "lien_ok": "2026-10-31"
   },
   {
    "id": "939a818e1d37",
@@ -346,12 +393,12 @@
    "contact_checked": true
   },
   {
-   "id": "4f10bf3b874a",
+   "id": "0a87c3cc25a1",
    "title": "La grande soirée Guinguette et Paillettes",
    "summary": "21 Nov 2026 La grande soirée Guinguette et Paillettes Les Papakools et la Cassiop’Team Rugby s’unissent pour vous proposer une soirée placée sous le signe de la fête, de la musique et de la convivialité ! Saint-Raphaël",
    "type": "Événement",
    "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/la-grande-soiree-guinguette-et-paillettes-4/",
+   "url": "https://www.esterel-cotedazur.com/en/cards/la-grande-soiree-guinguette-et-paillettes/",
    "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
    "city": "Saint-Raphaël",
    "dept": "83",
@@ -378,7 +425,7 @@
    "fiable": false,
    "hors_zone": null,
    "score": 90,
-   "found_at": "2026-10-28T05:49:20+00:00",
+   "found_at": "2026-10-31T10:54:29+00:00",
    "contact_checked": true
   },
   {
@@ -456,6 +503,41 @@
    "hors_zone": null,
    "score": 90,
    "found_at": "2026-10-28T14:05:03+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "4f10bf3b874a",
+   "title": "La grande soirée Guinguette et Paillettes",
+   "summary": "21 Nov 2026 La grande soirée Guinguette et Paillettes Les Papakools et la Cassiop’Team Rugby s’unissent pour vous proposer une soirée placée sous le signe de la fête, de la musique et de la convivialité ! Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/la-grande-soiree-guinguette-et-paillettes-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-21",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fête",
+    "guinguette"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 90,
+   "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
   },
   {
@@ -590,7 +672,125 @@
    "score": 85,
    "found_at": "2026-10-23T05:39:39+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-10-30"
+   "lien_ok": "2026-10-31"
+  },
+  {
+   "id": "6cdbbf56228e",
+   "title": "📣 APPEL À CANDIDATURES – FOOD TRUCK / RESTAURATION 🍔🌭🥙 | Facebook",
+   "summary": "📣 APPEL À CANDIDATURES – FOOD TRUCK / RESTAURATION 🍔🌭🥙 Dans le cadre de notre Vide-Grenier à Sanary, nous recherchons un food truck ou professionnel de la restauration/snacking pour proposer une...",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESggEB6zswFTA4t8pZDn6zXxzGFfP9aCJSn9InSkZwoeDUhcBoLZAUh33NLGAG497Lg7KT44wjqqmYsD3ZVI0iRE0UxvfV1z1BW71DsIqTgpwbcBPMzbXCU62OhWlkqwuqoPg-EXCWjmUa1F7o9tB5CJzwbiLL513DPb_U4czrC_K8E1tx",
+   "organizer": null,
+   "city": "Sanary-sur-Mer",
+   "dept": "83",
+   "lat": 43.13329,
+   "lon": 5.79527,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à candidatures",
+    "food truck",
+    "recherchons",
+    "vide-grenier"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 85,
+   "found_at": "2026-10-31T10:54:29+00:00",
+   "lien_ok": "2026-10-31",
+   "contact_checked": true
+  },
+  {
+   "id": "c6ce7fcb64d1",
+   "title": "Soirée Choucroute",
+   "summary": "14 Nov 2026 Soirée Choucroute Le Comité des Fêtes de Roquebrune-sur-Argens vous donne rendez-vous le samedi 14 novembre pour une soirée conviviale et festive placée sous le signe de la gourmandise ! Roquebrune-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/soiree-choucroute-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Roquebrune-sur-Argens",
+   "dept": "83",
+   "lat": 43.42692,
+   "lon": 6.66176,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-14",
+   "published": null,
+   "contact": {
+    "emails": [
+     "cdf.roquebrune@orange.fr"
+    ],
+    "phones": [
+     "07 59 66 65 91",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fêtes",
+    "soirée"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 85,
+   "found_at": "2026-10-28T05:49:20+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "625295c89b60",
+   "title": "Noël au Palais 2026 : appel à candidatures pour un food-truck et un chalet so… – Mairie des 4ᵉ et 5ᵉ arrondissements de Marseille",
+   "summary": "À l’occasion de Noël au Palais 2026, la Mairie des 4ᵉ et 5ᵉ arrondissements de Marseille lance un appel à manifestation d’intérêt (AMI) à destina… Partager cette page Facebook LinkedIn Twitter E-mail Organisé du 19 au 26 décembre 2026 , avec une fermeture le 25 décembre, cet événement familial et festif proposera aux habitants des animations et des moments de convivialité dans l’esprit des fêtes de fin d’année. À travers cet appel à candidatures, la mairie de secteur souhaite associer les structures engagées dans des démarches sociales, solidaires et durables à cette nouvelle édition. Deux emp",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-26",
+   "published": null,
+   "contact": {
+    "emails": [
+     "culture45@marseille.fr"
+    ],
+    "phones": [
+     "04 91 14 60 30"
+    ],
+    "forms": [
+     "https://www.facebook.com/sharer/sharer.php?u=https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
+     "https://www.linkedin.com/sharing/share-offsite/?url=https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
+     "https://twitter.com/share?url=https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à candidatures",
+    "appel à manifestation d'intérêt",
+    "emplacement",
+    "food-truck"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 85,
+   "found_at": "2026-10-31T10:54:29+00:00",
+   "lien_ok": "2026-10-31",
+   "contact_checked": true
   },
   {
    "id": "f73891f2ddb8",
@@ -857,6 +1057,41 @@
    "lien_ok": "2026-10-28"
   },
   {
+   "id": "a5f509f73ce3",
+   "title": "draguignan petites annonces | 📢 RECHERCHE EMPLACEMENT POUR FOOD TRUCK – DRAGUIGNAN | Facebook",
+   "summary": "📢 RECHERCHE EMPLACEMENT POUR FOOD TRUCK – DRAGUIGNAN Bonsoir à tous ! Je suis à la recherche d’un emplacement pour le lancement prochain de mon activité de food truck sur le secteur de Draguignan...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/516747546399584/posts/1917069986367326/",
+   "organizer": null,
+   "city": "Draguignan",
+   "dept": "83",
+   "lat": 43.53234,
+   "lon": 6.46034,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "emplacement",
+    "food truck",
+    "recherche"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-10-29T05:51:19+00:00",
+   "contact_checked": true,
+   "lien_ok": "2026-10-31"
+  },
+  {
    "id": "5e169cfea05b",
    "title": "Fréjus Fête Halloween",
    "summary": "26 Oct 2026 au 31 Oct 2026 Fréjus Fête Halloween A l’origine, Halloween est une fête celtique d’origine irlandaise. En effet, ce sont les Irlandais qui ont apporté avec eux la tradition aux Etat-Unis ! Il s’agit donc, en réalité, du nouvel an celtique ! Fréjus",
@@ -896,7 +1131,7 @@
   {
    "id": "7a9df4672862",
    "title": "Festival Régional De Théâtre Amateur",
-   "summary": "04 Nov 2026 au 08 Nov 2026 Festival Régional De Théâtre Amateur Comme chaque année, cet évènement incontournable à Puget est organisé par la Compagnie Le QUIPROQUO du Foyer Culturel Laïque et la Ville de Puget sur Argens. Puget-sur-Argens",
+   "summary": "04 Nov 2026 Festival Régional De Théâtre Amateur Comme chaque année, cet évènement incontournable à Puget est organisé par la Compagnie Le QUIPROQUO du Foyer Culturel Laïque et la Ville de Puget sur Argens. Puget-sur-Argens",
    "type": "Événement",
    "source": "Page surveillée",
    "url": "https://www.esterel-cotedazur.com/en/cards/festival-regional-de-theatre-amateur/",
@@ -1148,41 +1383,6 @@
    "score": 75,
    "found_at": "2026-10-25T05:38:16+00:00",
    "contact_checked": true
-  },
-  {
-   "id": "a5f509f73ce3",
-   "title": "draguignan petites annonces | 📢 RECHERCHE EMPLACEMENT POUR FOOD TRUCK – DRAGUIGNAN | Facebook",
-   "summary": "📢 RECHERCHE EMPLACEMENT POUR FOOD TRUCK – DRAGUIGNAN Bonsoir à tous ! Je suis à la recherche d’un emplacement pour le lancement prochain de mon activité de food truck sur le secteur de Draguignan...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/516747546399584/posts/1917069986367326/",
-   "organizer": null,
-   "city": "Draguignan",
-   "dept": "83",
-   "lat": 43.53234,
-   "lon": 6.46034,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "emplacement",
-    "food truck",
-    "recherche"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-10-29T05:51:19+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-30"
   },
   {
    "id": "0821880fefa4",
@@ -1990,12 +2190,12 @@
    "contact_checked": true
   },
   {
-   "id": "ba8138a6331f",
-   "title": "Salon Bien-être & Thérapies",
-   "summary": "21 Nov 2026 au 22 Nov 2026 Salon Bien-être & Thérapies 10ᵉ édition sur le thème « l’enthousiasme : booster son hiver et rester zen » Saint-Raphaël",
+   "id": "698e8fa227f1",
+   "title": "L'Apéros Swing",
+   "summary": "14 Nov 2026 L'Apéros Swing Soirée de musique festive et dansante organisée par Classic Jazz Paca dans le cadre de ses fameux Apéros Swing avec le 5tet du Caveau de la Huchette Saint-Raphaël",
    "type": "Événement",
    "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/salon-bien-etre-therapies-4/",
+   "url": "https://www.esterel-cotedazur.com/en/cards/laperos-swing-4/",
    "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
    "city": "Saint-Raphaël",
    "dept": "83",
@@ -2003,7 +2203,7 @@
    "lon": 6.84991,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-11-21",
+   "event_date": "2026-11-14",
    "published": null,
    "contact": {
     "emails": [],
@@ -2015,12 +2215,12 @@
    "mode": "evenements",
    "via": null,
    "keywords": [
-    "salon"
+    "soirée"
    ],
    "fiable": false,
    "hors_zone": null,
    "score": 70,
-   "found_at": "2026-10-22T05:39:07+00:00",
+   "found_at": "2026-10-31T10:54:29+00:00",
    "contact_checked": true
   },
   {
@@ -2055,6 +2255,40 @@
    "hors_zone": null,
    "score": 70,
    "found_at": "2026-10-29T05:51:19+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "ba8138a6331f",
+   "title": "Salon Bien-être & Thérapies",
+   "summary": "21 Nov 2026 au 22 Nov 2026 Salon Bien-être & Thérapies 10ᵉ édition sur le thème « l’enthousiasme : booster son hiver et rester zen » Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/salon-bien-etre-therapies-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-21",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "salon"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-10-22T05:39:07+00:00",
    "contact_checked": true
   },
   {
@@ -2093,43 +2327,6 @@
    "hors_zone": null,
    "score": 70,
    "found_at": "2026-10-30T05:52:02+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "c6ce7fcb64d1",
-   "title": "Soirée Choucroute",
-   "summary": "14 Nov 2026 Soirée Choucroute Le Comité des Fêtes de Roquebrune-sur-Argens vous donne rendez-vous le samedi 14 novembre pour une soirée conviviale et festive placée sous le signe de la gourmandise ! Roquebrune-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/soiree-choucroute-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-14",
-   "published": null,
-   "contact": {
-    "emails": [
-     "cdf.roquebrune@orange.fr"
-    ],
-    "phones": [
-     "07 59 66 65 91",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "fêtes"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 70,
-   "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
   },
   {

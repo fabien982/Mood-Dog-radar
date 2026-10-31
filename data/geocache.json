@@ -1543,5 +1543,27 @@
  "zone:tulette": null,
  "zone:safrane": null,
  "zone:noet": null,
- "zone:seneffe": null
+ "zone:seneffe": null,
+ "zone:seranon": {
+  "lat": 43.77163,
+  "lon": 6.68251,
+  "city": "Séranon",
+  "dept": "06"
+ },
+ "zone:chateauroux": {
+  "lat": 44.62076,
+  "lon": 6.52795,
+  "city": "Châteauroux-les-Alpes",
+  "dept": "05"
+ },
+ "zone:reggae": null,
+ "zone:bien-etre": null,
+ "zone:saubrigues": null,
+ "zone:muizon": null,
+ "17800": {
+  "lat": 45.57784,
+  "lon": -0.55996,
+  "city": "Pons",
+  "dept": "17"
+ }
 }
