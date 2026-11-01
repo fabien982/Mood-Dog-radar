@@ -1565,5 +1565,13 @@
   "lon": -0.55996,
   "city": "Pons",
   "dept": "17"
- }
+ },
+ "le cannet-des-maures": {
+  "lat": 43.40189,
+  "lon": 6.3545,
+  "city": "Le Cannet-des-Maures",
+  "dept": "83"
+ },
+ "zone:la roche-sur-yon": null,
+ "zone:palais": null
 }

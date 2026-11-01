@@ -763,7 +763,7 @@
   },
   "grimaud-art-urbain": {
    "slug": "grimaud-art-urbain",
-   "checked": null,
+   "checked": "2026-11-01",
    "appel": null,
    "name": "Grimaud Art Urbain",
    "town": "Grimaud",
@@ -1023,7 +1023,7 @@
   },
   "bravade-de-saint-tropez": {
    "slug": "bravade-de-saint-tropez",
-   "checked": null,
+   "checked": "2026-11-01",
    "appel": null,
    "name": "Bravade de Saint-Tropez",
    "town": "Saint-Tropez",
@@ -1073,7 +1073,7 @@
   },
   "cassis-fete-son-vin": {
    "slug": "cassis-fete-son-vin",
-   "checked": null,
+   "checked": "2026-11-01",
    "appel": null,
    "name": "Cassis Fête son Vin",
    "town": "Cassis",
@@ -1243,7 +1243,7 @@
   },
   "exporose": {
    "slug": "exporose",
-   "checked": null,
+   "checked": "2026-11-01",
    "appel": null,
    "name": "ExpoRose",
    "town": "Grasse",
@@ -1463,7 +1463,7 @@
   },
   "festival-de-la-camargue-et-du-delta-du-rhone": {
    "slug": "festival-de-la-camargue-et-du-delta-du-rhone",
-   "checked": null,
+   "checked": "2026-11-01",
    "appel": null,
    "name": "Festival de la Camargue et du Delta du Rhône",
    "town": "Saintes-Maries-de-la-Mer",
@@ -1803,7 +1803,7 @@
   },
   "festival-international-du-film-de-cannes": {
    "slug": "festival-international-du-film-de-cannes",
-   "checked": null,
+   "checked": "2026-11-01",
    "appel": null,
    "name": "Festival International du Film de Cannes",
    "town": "Cannes",
@@ -2163,7 +2163,7 @@
   },
   "fete-du-livre-jeunesse-de-manosque": {
    "slug": "fete-du-livre-jeunesse-de-manosque",
-   "checked": null,
+   "checked": "2026-11-01",
    "appel": null,
    "name": "Fête du Livre Jeunesse de Manosque",
    "town": "Manosque",
@@ -2343,7 +2343,7 @@
   },
   "gap-foire-expo": {
    "slug": "gap-foire-expo",
-   "checked": null,
+   "checked": "2026-11-01",
    "appel": null,
    "name": "Gap Foire Expo",
    "town": "Gap",
@@ -2493,7 +2493,7 @@
   },
   "justrose-festival": {
    "slug": "justrose-festival",
-   "checked": null,
+   "checked": "2026-11-01",
    "appel": null,
    "name": "Just'Rosé Festival",
    "town": "Sanary-sur-Mer",
@@ -2603,7 +2603,7 @@
   },
   "les-artgricoles": {
    "slug": "les-artgricoles",
-   "checked": null,
+   "checked": "2026-11-01",
    "appel": null,
    "name": "Les Artgricoles",
    "town": "Guillestre",
@@ -3393,7 +3393,7 @@
   },
   "rockfest-1-max-de-bruit": {
    "slug": "rockfest-1-max-de-bruit",
-   "checked": null,
+   "checked": "2026-11-01",
    "appel": null,
    "name": "Rockfest 1 Max de Bruit",
    "town": "Nice",
@@ -3483,7 +3483,7 @@
   },
   "trail-la-perce-roche": {
    "slug": "trail-la-perce-roche",
-   "checked": null,
+   "checked": "2026-11-01",
    "appel": null,
    "name": "Trail la Perce-Roche",
    "town": "Sisteron",
