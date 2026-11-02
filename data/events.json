@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-01T19:36:36+00:00",
- "count": 75,
- "new_count": 0,
+ "updated": "2026-11-02T13:28:07+00:00",
+ "count": 77,
+ "new_count": 5,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -23,7 +23,7 @@
   },
   "Pages surveillées": {
    "ok": true,
-   "found": 27,
+   "found": 32,
    "errors": []
   }
  },
@@ -37,9 +37,9 @@
  },
  "events": [
   {
-   "id": "7188173b79a3",
+   "id": "f891d1d82563",
    "title": "Allauch (13) : Appel à candidature Food Truck Noël 2026",
-   "summary": "Allauch : Appel à candidature Food Truck Noël 2026. Date limite : 2 novembre 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Allauch 📢 Appels à candidatures Allauch Appel à candidature Food Truck Noël 2026 Mis à jour le 1er novembre 2026 Date limite : 2 novembre 2026 Ouvert, J-1 La Ville d'Allauch lance un appel à candidature pour l'occupation du domaine public par des food trucks décorés sur le thème de Noël. Les candidatures doivent être soumises avant le 2 novembre 2026 pour l'événement du 28 novembre 2026. Voir l'appel",
+   "summary": "Allauch : Appel à candidature Food Truck Noël 2026. Date limite : 2 novembre 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Allauch 📢 Appels à candidatures Allauch Appel à candidature Food Truck Noël 2026 Mis à jour le 2 novembre 2026 Date limite : 2 novembre 2026 Dernier jour La Ville d'Allauch lance un appel à candidature pour l'occupation du domaine public par des food trucks décorés sur le thème de Noël. Les candidatures doivent être soumises avant le 2 novembre 2026 pour l'événement du 28 novembre 2026. Voir l'appel ",
    "type": "Appel à candidatures",
    "source": "Page surveillée",
    "url": "https://wikifoodtruck.fr/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026",
@@ -62,8 +62,8 @@
     ],
     "forms": [
      "https://www.allauch.com/wp-content/uploads/2026/10/APPEL-A-CANDIDATURE-FOOD-TRUCK-Noel-2026.pdf",
-     "https://wikifoodtruck.fr/appels-food-truck/nice-aot-campus-universitaire-pour-food-truck-2026",
-     "https://wikifoodtruck.fr/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2"
+     "https://wikifoodtruck.fr/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2",
+     "https://wikifoodtruck.fr/appels-food-truck/valbonne-appel-a-candidature-food-truck-pompidou-2026"
     ]
    },
    "mode": "demandes",
@@ -81,14 +81,14 @@
    "fiable": true,
    "hors_zone": null,
    "score": 100,
-   "found_at": "2026-10-28T13:18:09+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-11-01"
+   "found_at": "2026-11-02T13:28:07+00:00",
+   "lien_ok": "2026-11-02",
+   "contact_checked": true
   },
   {
    "id": "c4f86844a475",
    "title": "Marseille (13) : Appel à manifestation d'intérêt food-trucks",
-   "summary": "Marseille : Appel à manifestation d'intérêt food-trucks. Date limite : 6 novembre 2026 à 12h00. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Appel à manifestation d'intérêt food-trucks Mis à jour le 1er novembre 2026 Date limite : 6 novembre 2026 à 12h00 Ouvert, J-5 Cet appel à manifestation d'intérêt est destiné aux food trucks pour les dates du 11 au 13 décembre 2026. Les candidats doivent soumettre leurs dossiers par courrier recommandé avec accusé de réception. Voir l'appel offi",
+   "summary": "Marseille : Appel à manifestation d'intérêt food-trucks. Date limite : 6 novembre 2026 à 12h00. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Appel à manifestation d'intérêt food-trucks Mis à jour le 2 novembre 2026 Date limite : 6 novembre 2026 à 12h00 Ouvert, J-4 Cet appel à manifestation d'intérêt est destiné aux food trucks pour les dates du 11 au 13 décembre 2026. Les candidats doivent soumettre leurs dossiers par courrier recommandé avec accusé de réception. Voir l'appel offici",
    "type": "Appel à candidatures",
    "source": "Page surveillée",
    "url": "https://wikifoodtruck.fr/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2",
@@ -129,12 +129,106 @@
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-11-01"
+   "lien_ok": "2026-11-02"
+  },
+  {
+   "id": "2e2b32de5f8e",
+   "title": "Valbonne (06) : Appel à candidature food-truck Pompidou",
+   "summary": "Valbonne : Appel à candidature food-truck Pompidou. Date limite : 6 novembre 2026 à 23h59. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Valbonne 📢 Appels à candidatures Valbonne Appel à candidature food-truck Pompidou Mis à jour le 2 novembre 2026 Date limite : 6 novembre 2026 à 23h59 Ouvert, J-4 La Ville de Valbonne lance un appel à candidature pour des food trucks au sein de l'espace Pompidou. Les candidats intéressés doivent soumettre leur dossier selon les modalités précisées sur le site officiel. Voir l'appel officiel → ",
+   "type": "Appel à candidatures",
+   "source": "Page surveillée",
+   "url": "https://wikifoodtruck.fr/appels-food-truck/valbonne-appel-a-candidature-food-truck-pompidou-2026",
+   "organizer": "Wikifoodtruck – appels à candidatures des mairies",
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": "2026-11-06",
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [
+     "francois@wikifoodtruck.fr",
+     "mairie@ville-valbonne.fr"
+    ],
+    "phones": [],
+    "forms": [
+     "https://www.ville-valbonne.fr/actualite/appel-a-candidature-food-truck-pompidou/",
+     "https://wikifoodtruck.fr/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026",
+     "https://wikifoodtruck.fr/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à candidature",
+    "appel à manifestation d'intérêt",
+    "candidature",
+    "emplacement",
+    "food truck",
+    "food trucks",
+    "food-truck",
+    "foodtruck"
+   ],
+   "fiable": true,
+   "hors_zone": null,
+   "score": 100,
+   "found_at": "2026-11-02T13:28:07+00:00",
+   "lien_ok": "2026-11-02",
+   "contact_checked": true
+  },
+  {
+   "id": "d289eb20e982",
+   "title": "Valbonne (06) : Appel à candidature food truck Vignasse",
+   "summary": "Valbonne : Appel à candidature food truck Vignasse. Date limite : 6 novembre 2026 à 23h59. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Valbonne 📢 Appels à candidatures Valbonne Appel à candidature food truck Vignasse Mis à jour le 2 novembre 2026 Date limite : 6 novembre 2026 à 23h59 Ouvert, J-4 La Ville de Valbonne Sophia Antipolis lance un appel à candidature pour l'attribution d'emplacements de food trucks. Les candidats intéressés doivent soumettre leur dossier selon les modalités précisées dans l'appel. Voir l'appel off",
+   "type": "Appel à candidatures",
+   "source": "Page surveillée",
+   "url": "https://wikifoodtruck.fr/appels-food-truck/valbonne-appel-a-candidature-food-truck-vignasse-2026",
+   "organizer": "Wikifoodtruck – appels à candidatures des mairies",
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": "2026-11-06",
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [
+     "francois@wikifoodtruck.fr",
+     "mairie@ville-valbonne.fr"
+    ],
+    "phones": [],
+    "forms": [
+     "https://www.ville-valbonne.fr/actualite/appel-a-candidature-food-truck-pompidou-2/",
+     "https://wikifoodtruck.fr/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026",
+     "https://wikifoodtruck.fr/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à candidature",
+    "appel à manifestation d'intérêt",
+    "candidature",
+    "emplacement",
+    "food truck",
+    "food trucks",
+    "foodtruck",
+    "occupation du domaine public"
+   ],
+   "fiable": true,
+   "hors_zone": null,
+   "score": 100,
+   "found_at": "2026-11-02T13:28:07+00:00",
+   "lien_ok": "2026-11-02",
+   "contact_checked": true
   },
   {
    "id": "0bd01dc36ce3",
    "title": "Marseille (13) : Food-truck solidaire Noël au Palais 2026",
-   "summary": "Marseille : Food-truck solidaire Noël au Palais 2026. Date limite : 8 novembre 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Food-truck solidaire Noël au Palais 2026 Mis à jour le 1er novembre 2026 Date limite : 8 novembre 2026 Ouvert, J-7 Réservé aux structures de l'économie sociale et solidaire (ESS) : la mairie des 4e et 5e arrondissements cherche un food truck solidaire (snacks et douceurs, pas de repas complets, avec un volet social ou d'insertion) pour Noël au Palais, au ",
+   "summary": "Marseille : Food-truck solidaire Noël au Palais 2026. Date limite : 8 novembre 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Food-truck solidaire Noël au Palais 2026 Mis à jour le 2 novembre 2026 Date limite : 8 novembre 2026 Ouvert, J-6 Réservé aux structures de l'économie sociale et solidaire (ESS) : la mairie des 4e et 5e arrondissements cherche un food truck solidaire (snacks et douceurs, pas de repas complets, avec un volet social ou d'insertion) pour Noël au Palais, au pa",
    "type": "Recherche un food truck",
    "source": "Page surveillée",
    "url": "https://wikifoodtruck.fr/appels-food-truck/marseille-food-truck-solidaire-noel-au-palais-2026",
@@ -174,7 +268,7 @@
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-11-01"
+   "lien_ok": "2026-11-02"
   },
   {
    "id": "9a8973b58aa7",
@@ -220,7 +314,7 @@
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-11-01"
+   "lien_ok": "2026-11-02"
   },
   {
    "id": "7af4cb12014d",
@@ -266,7 +360,7 @@
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-11-01"
+   "lien_ok": "2026-11-02"
   },
   {
    "id": "eb9cf028f2bd",
@@ -499,40 +593,6 @@
    "score": 90,
    "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
-  },
-  {
-   "id": "be3cf4bc3050",
-   "title": "Mairie de Valdeblore sur Instagram: \"La magie de Noël se prépare déjà à Valdeblore ! La Commune lance son appel à candidatures pour le Marché de Noël, qui se tiendra dimanche 20 décembre 2026 à La Bolline. Artisans, créa",
-   "summary": "16 likes, 0 comments - mairie.de.valdeblore le September 13, 2026: \"La magie de Noël se prépare déjà à Valdeblore ! La Commune lance son appel à candidatures pour le Marché de Noël, qui se tiendra dimanche 20 décembre 2026 à La Bolline. Artisans, créateurs, producteurs locaux et food trucks, venez participer à cette belle journée et faire vivre la magie de Noël à Valdeblore. Candidatures avant le 1er novembre 2026 : manif@valdeblore.fr Valdeblore, bien plus qu’un nom, une passion #valdeblore #MarchéDeNoël #Noël2026 ArtisansLocaux CréateursLocaux ProducteursLocaux AlpesMaritimes CotedAzurFrance",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.instagram.com/p/DdOSBu_Nm7M/",
-   "organizer": null,
-   "city": "Valdeblore",
-   "dept": "06",
-   "lat": 44.06806,
-   "lon": 7.1798,
-   "approx": false,
-   "deadline": "2026-11-01",
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Instagram",
-   "keywords": [
-    "appel à candidatures",
-    "food trucks"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 85,
-   "found_at": "2026-09-30T10:17:04+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-28"
   },
   {
    "id": "284fedaf572b",
@@ -1085,12 +1145,12 @@
    "lien_ok": "2026-10-28"
   },
   {
-   "id": "7a9df4672862",
-   "title": "Festival Régional De Théâtre Amateur",
-   "summary": "04 Nov 2026 Festival Régional De Théâtre Amateur Comme chaque année, cet évènement incontournable à Puget est organisé par la Compagnie Le QUIPROQUO du Foyer Culturel Laïque et la Ville de Puget sur Argens. Puget-sur-Argens",
+   "id": "9b57dd3fdf9b",
+   "title": "FESTIVAL DU MAS D'HIVER",
+   "summary": "06 Nov 2026 au 28 Nov 2026 FESTIVAL DU MAS D'HIVER Recurring festival every year at the same time with different artists! Puget-sur-Argens",
    "type": "Événement",
    "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/festival-regional-de-theatre-amateur/",
+   "url": "https://www.esterel-cotedazur.com/en/cards/festival-du-mas-dhiver/",
    "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
    "city": "Puget-sur-Argens",
    "dept": "83",
@@ -1098,13 +1158,14 @@
    "lon": 6.68553,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-11-04",
+   "event_date": "2026-11-06",
    "published": null,
    "contact": {
-    "emails": [],
+    "emails": [
+     "info@lemas-concert.com"
+    ],
     "phones": [
-     "04 94 45 61 63",
-     "04 94 19 61 35",
+     "04 94 55 51 83",
      "04 94 19 10 60"
     ],
     "forms": []
@@ -1117,7 +1178,78 @@
    "fiable": false,
    "hors_zone": null,
    "score": 75,
-   "found_at": "2026-10-27T05:40:24+00:00",
+   "found_at": "2026-10-11T05:27:20+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "ef3716ab9094",
+   "title": "Concert de l'Harmonie Aurélienne",
+   "summary": "08 Nov 2026 Concert de l'Harmonie Aurélienne Concert d'automne partagé avec l'Harmonie Indépendante des Arcs Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/concert-de-lharmonie-aurelienne-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-08",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "06 60 63 79 75",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-10-11T05:27:20+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "860747038f7c",
+   "title": "« Shock »",
+   "summary": "10 Nov 2026 « Shock » Concert Pop Rock organisé par l'association Manège du service de pédopsychiatrie située à l'hôpital intercommunal de Fréjus Saint-Raphaël. Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/shock-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-10",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "07 62 47 32 46",
+     "06 69 71 09 22",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-10-14T05:39:31+00:00",
    "contact_checked": true
   },
   {
@@ -1270,43 +1402,6 @@
    "contact_checked": true
   },
   {
-   "id": "900e30fce8cf",
-   "title": "Gospel de Noël",
-   "summary": "06 Dec 2026 Gospel de Noël Participez à un concert gospel au sein d'un lieu enchanteur, l'Eglise Saint-Pierre Saint-Paul située dans le cœur du village médiéval à Roquebrune-sur-Argens, où musique et voix humaine se marient pour créer une expérience sensorielle inoubliable. Roquebrune-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/gospel-de-noel/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-06",
-   "published": null,
-   "contact": {
-    "emails": [
-     "village@roquebrunesurargens.fr"
-    ],
-    "phones": [
-     "04 94 19 89 89",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-11-01T11:49:25+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "d4bda3afd1f0",
    "title": "Fête de la Saint-Nicolas",
    "summary": "06 Dec 2026 Fête de la Saint-Nicolas Tradition de la nuit du premier week-end de décembre, Saint-Nicolas, sur son âne, se rend dans les maisons des enfants. La tradition Saint-Nicolas se perpétue à Roquebrune-sur-Argens. Roquebrune-sur-Argens",
@@ -1337,6 +1432,43 @@
    "via": null,
    "keywords": [
     "fête"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-11-01T11:49:25+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "900e30fce8cf",
+   "title": "Gospel de Noël",
+   "summary": "06 Dec 2026 Gospel de Noël Participez à un concert gospel au sein d'un lieu enchanteur, l'Eglise Saint-Pierre Saint-Paul située dans le cœur du village médiéval à Roquebrune-sur-Argens, où musique et voix humaine se marient pour créer une expérience sensorielle inoubliable. Roquebrune-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/gospel-de-noel/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Roquebrune-sur-Argens",
+   "dept": "83",
+   "lat": 43.42692,
+   "lon": 6.66176,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-06",
+   "published": null,
+   "contact": {
+    "emails": [
+     "village@roquebrunesurargens.fr"
+    ],
+    "phones": [
+     "04 94 19 89 89",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
    ],
    "fiable": false,
    "hors_zone": null,
@@ -1381,6 +1513,42 @@
    "contact_checked": true
   },
   {
+   "id": "7a9df4672862",
+   "title": "Festival Régional De Théâtre Amateur",
+   "summary": "04 Nov 2026 Festival Régional De Théâtre Amateur Comme chaque année, cet évènement incontournable à Puget est organisé par la Compagnie Le QUIPROQUO du Foyer Culturel Laïque et la Ville de Puget sur Argens. Puget-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/festival-regional-de-theatre-amateur/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Puget-sur-Argens",
+   "dept": "83",
+   "lat": 43.47045,
+   "lon": 6.68553,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-04",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 45 61 63",
+     "04 94 19 61 35",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-10-27T05:40:24+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "a5f509f73ce3",
    "title": "draguignan petites annonces | 📢 RECHERCHE EMPLACEMENT POUR FOOD TRUCK – DRAGUIGNAN | Facebook",
    "summary": "📢 RECHERCHE EMPLACEMENT POUR FOOD TRUCK – DRAGUIGNAN Bonsoir à tous ! Je suis à la recherche d’un emplacement pour le lancement prochain de mon activité de food truck sur le secteur de Draguignan...",
@@ -1414,114 +1582,6 @@
    "found_at": "2026-10-29T05:51:19+00:00",
    "contact_checked": true,
    "lien_ok": "2026-11-01"
-  },
-  {
-   "id": "9b57dd3fdf9b",
-   "title": "FESTIVAL DU MAS D'HIVER",
-   "summary": "06 Nov 2026 au 28 Nov 2026 FESTIVAL DU MAS D'HIVER Recurring festival every year at the same time with different artists! Puget-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/festival-du-mas-dhiver/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Puget-sur-Argens",
-   "dept": "83",
-   "lat": 43.47045,
-   "lon": 6.68553,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-06",
-   "published": null,
-   "contact": {
-    "emails": [
-     "info@lemas-concert.com"
-    ],
-    "phones": [
-     "04 94 55 51 83",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-10-11T05:27:20+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "ef3716ab9094",
-   "title": "Concert de l'Harmonie Aurélienne",
-   "summary": "08 Nov 2026 Concert de l'Harmonie Aurélienne Concert d'automne partagé avec l'Harmonie Indépendante des Arcs Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/concert-de-lharmonie-aurelienne-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-08",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "06 60 63 79 75",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-10-11T05:27:20+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "860747038f7c",
-   "title": "« Shock »",
-   "summary": "10 Nov 2026 « Shock » Concert Pop Rock organisé par l'association Manège du service de pédopsychiatrie située à l'hôpital intercommunal de Fréjus Saint-Raphaël. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/shock-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-10",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "07 62 47 32 46",
-     "06 69 71 09 22",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-10-14T05:39:31+00:00",
-   "contact_checked": true
   },
   {
    "id": "6b0b6725eb10",
@@ -1999,46 +2059,6 @@
    "lien_ok": "2026-10-28"
   },
   {
-   "id": "6e66b06d1f6d",
-   "title": "Halloween à Saint-Raphaël",
-   "summary": "20 Oct 2026 au 01 Nov 2026 Halloween à Saint-Raphaël La magie d’Halloween s’invite à Saint-Raphaël avec au programme : spectacles, ateliers, jeu de piste, contes effrayants et soirée déguisée ! Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/halloween-a-saint-raphael/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-01",
-   "published": null,
-   "contact": {
-    "emails": [
-     "pafj@ville-saintraphael.fr",
-     "musee@ville-saintraphael.fr",
-     "contact@museedefunes.fr"
-    ],
-    "phones": [
-     "04 94 82 92 81",
-     "04 94 19 25 75",
-     "04 94 83 97 69"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "soirée"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 70,
-   "found_at": "2026-10-17T05:37:23+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "e56a5b082887",
    "title": "Couple en Danger",
    "summary": "06 Nov 2026 Couple en Danger La prochaine soirée théâtrale au cinéma le Vox Fréjus",
@@ -2071,6 +2091,76 @@
    "hors_zone": null,
    "score": 70,
    "found_at": "2026-10-27T05:40:24+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "e0310f9cae76",
+   "title": "Chœur Sardes X Sacrée Musique",
+   "summary": "07 Nov 2026 Chœur Sardes X Sacrée Musique La Saison Musicale vous invite à une expérience tout à fait inédite : une soirée entièrement illuminée à la vraie bougie avec les Tenores di Orosei, l’une des plus célèbres formations de polyphonies Sardes. Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/choeur-sardes-x-sacree-musique-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-07",
+   "published": null,
+   "contact": {
+    "emails": [
+     "billetterie@sacreemusique.fr"
+    ],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "soirée"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-11-02T13:28:07+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "698e8fa227f1",
+   "title": "L'Apéros Swing",
+   "summary": "14 Nov 2026 L'Apéros Swing Soirée de musique festive et dansante organisée par Classic Jazz Paca dans le cadre de ses fameux Apéros Swing avec le 5tet du Caveau de la Huchette Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/laperos-swing-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-14",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "soirée"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-10-31T10:54:29+00:00",
    "contact_checked": true
   },
   {
@@ -2148,12 +2238,12 @@
    "contact_checked": true
   },
   {
-   "id": "698e8fa227f1",
-   "title": "L'Apéros Swing",
-   "summary": "14 Nov 2026 L'Apéros Swing Soirée de musique festive et dansante organisée par Classic Jazz Paca dans le cadre de ses fameux Apéros Swing avec le 5tet du Caveau de la Huchette Saint-Raphaël",
+   "id": "ded17c759a62",
+   "title": "Ultra trail des troupes de marine",
+   "summary": "21 Nov 2026 au 22 Nov 2026 Ultra trail des troupes de marine L’Ultra-Trail des Troupes de Marine se tiendra les 21 et 22 novembre 2026 à Fréjus, autour du Musée des Troupes de Marine. Cet événement propose trois parcours de 24,4 km, 58,8 km et 128 km, adaptés à différents niveaux. Fréjus",
    "type": "Événement",
    "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/laperos-swing-4/",
+   "url": "https://www.esterel-cotedazur.com/en/cards/ultra-trail-des-troupes-de-marine-4/",
    "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
    "city": "Saint-Raphaël",
    "dept": "83",
@@ -2161,7 +2251,7 @@
    "lon": 6.84991,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-11-14",
+   "event_date": "2026-11-21",
    "published": null,
    "contact": {
     "emails": [],
@@ -2173,12 +2263,12 @@
    "mode": "evenements",
    "via": null,
    "keywords": [
-    "soirée"
+    "trail"
    ],
    "fiable": false,
    "hors_zone": null,
    "score": 70,
-   "found_at": "2026-10-31T10:54:29+00:00",
+   "found_at": "2026-10-29T05:51:19+00:00",
    "contact_checked": true
   },
   {
@@ -2216,24 +2306,28 @@
    "contact_checked": true
   },
   {
-   "id": "ded17c759a62",
-   "title": "Ultra trail des troupes de marine",
-   "summary": "21 Nov 2026 au 22 Nov 2026 Ultra trail des troupes de marine L’Ultra-Trail des Troupes de Marine se tiendra les 21 et 22 novembre 2026 à Fréjus, autour du Musée des Troupes de Marine. Cet événement propose trois parcours de 24,4 km, 58,8 km et 128 km, adaptés à différents niveaux. Fréjus",
+   "id": "31225759a500",
+   "title": "La journée des collectionneurs au Village Made in France",
+   "summary": "28 Nov 2026 La journée des collectionneurs au Village Made in France 5ème édition de la journée des collectionneurs au Musée du Jouet Puget-sur-Argens",
    "type": "Événement",
    "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/ultra-trail-des-troupes-de-marine-4/",
+   "url": "https://www.esterel-cotedazur.com/en/cards/la-journee-des-collectionneurs-au-village-made-in-france-4/",
    "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
+   "city": "Puget-sur-Argens",
    "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
+   "lat": 43.47045,
+   "lon": 6.68553,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-11-21",
+   "event_date": "2026-11-28",
    "published": null,
    "contact": {
-    "emails": [],
+    "emails": [
+     "collectionbienjouet@gmail.com"
+    ],
     "phones": [
+     "09 83 69 31 63",
+     "09 88 07 32 41",
      "04 94 19 10 60"
     ],
     "forms": []
@@ -2241,12 +2335,12 @@
    "mode": "evenements",
    "via": null,
    "keywords": [
-    "trail"
+    "journée"
    ],
    "fiable": false,
    "hors_zone": null,
    "score": 70,
-   "found_at": "2026-10-29T05:51:19+00:00",
+   "found_at": "2026-11-02T13:28:07+00:00",
    "contact_checked": true
   },
   {
