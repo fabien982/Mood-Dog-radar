@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-02T23:05:32+00:00",
- "count": 77,
- "new_count": 1,
+ "updated": "2026-11-03T12:45:48+00:00",
+ "count": 79,
+ "new_count": 4,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -36,54 +36,6 @@
   "Festivals suivis": "2026-10-31"
  },
  "events": [
-  {
-   "id": "a74b1249d648",
-   "title": "Allauch (13) : Appel à candidature Food Truck Noël 2026",
-   "summary": "Allauch : Appel à candidature Food Truck Noël 2026. Date limite : 2 novembre 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Allauch 📢 Appels à candidatures Allauch Appel à candidature Food Truck Noël 2026 Mis à jour le 3 novembre 2026 Date limite : 2 novembre 2026 Clos La Ville d'Allauch lance un appel à candidature pour l'occupation du domaine public par des food trucks décorés sur le thème de Noël. Les candidatures doivent être soumises avant le 2 novembre 2026 pour l'événement du 28 novembre 2026. Cet appel est clos. L",
-   "type": "Appel à candidatures",
-   "source": "Page surveillée",
-   "url": "https://wikifoodtruck.fr/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026",
-   "organizer": "Wikifoodtruck – appels à candidatures des mairies",
-   "city": null,
-   "dept": "13",
-   "lat": 43.54,
-   "lon": 5.09,
-   "approx": true,
-   "deadline": "2026-11-02",
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [
-     "commerce@allauch.com"
-    ],
-    "phones": [
-     "04 91 10 49 71"
-    ],
-    "forms": [
-     "https://www.allauch.com/wp-content/uploads/2026/10/APPEL-A-CANDIDATURE-FOOD-TRUCK-Noel-2026.pdf",
-     "https://wikifoodtruck.fr/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2",
-     "https://wikifoodtruck.fr/appels-food-truck/valbonne-appel-a-candidature-food-truck-pompidou-2026"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à candidature",
-    "candidature",
-    "commerce ambulant",
-    "emplacement",
-    "food truck",
-    "food trucks",
-    "foodtruck",
-    "occupation du domaine public"
-   ],
-   "fiable": true,
-   "hors_zone": null,
-   "score": 100,
-   "found_at": "2026-11-02T23:05:32+00:00",
-   "lien_ok": "2026-11-02",
-   "contact_checked": true
-  },
   {
    "id": "c4f86844a475",
    "title": "Marseille (13) : Appel à manifestation d'intérêt food-trucks",
@@ -128,7 +80,7 @@
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-11-02"
+   "lien_ok": "2026-11-03"
   },
   {
    "id": "2e2b32de5f8e",
@@ -175,7 +127,7 @@
    "score": 100,
    "found_at": "2026-11-02T13:28:07+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-11-02"
+   "lien_ok": "2026-11-03"
   },
   {
    "id": "d289eb20e982",
@@ -222,7 +174,7 @@
    "score": 100,
    "found_at": "2026-11-02T13:28:07+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-11-02"
+   "lien_ok": "2026-11-03"
   },
   {
    "id": "0bd01dc36ce3",
@@ -267,7 +219,7 @@
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-11-02"
+   "lien_ok": "2026-11-03"
   },
   {
    "id": "9a8973b58aa7",
@@ -313,7 +265,7 @@
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-11-02"
+   "lien_ok": "2026-11-03"
   },
   {
    "id": "7af4cb12014d",
@@ -359,7 +311,7 @@
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-11-02"
+   "lien_ok": "2026-11-03"
   },
   {
    "id": "eb9cf028f2bd",
@@ -444,6 +396,44 @@
    "found_at": "2026-10-30T05:52:02+00:00",
    "contact_checked": true,
    "lien_ok": "2026-10-30"
+  },
+  {
+   "id": "1c4731f86c14",
+   "title": "Récital Piano-Voix",
+   "summary": "07 Nov 2026 Récital Piano-Voix Une soirée exceptionnelle organisée par Lisa Angell. Venez profiter d'un concert rare ou Rémy Bailet pianiste concertiste accompagne 25 artistes. Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/recital-piano-voix/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-07",
+   "published": null,
+   "contact": {
+    "emails": [
+     "lisa.revs83@gmail.com"
+    ],
+    "phones": [
+     "06 14 43 37 41",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert",
+    "soirée"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 90,
+   "found_at": "2026-11-03T12:45:48+00:00",
+   "contact_checked": true
   },
   {
    "id": "0a87c3cc25a1",
@@ -1144,6 +1134,42 @@
    "lien_ok": "2026-10-28"
   },
   {
+   "id": "7a9df4672862",
+   "title": "Festival Régional De Théâtre Amateur",
+   "summary": "04 Nov 2026 Festival Régional De Théâtre Amateur Comme chaque année, cet évènement incontournable à Puget est organisé par la Compagnie Le QUIPROQUO du Foyer Culturel Laïque et la Ville de Puget sur Argens. Puget-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/festival-regional-de-theatre-amateur/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Puget-sur-Argens",
+   "dept": "83",
+   "lat": 43.47045,
+   "lon": 6.68553,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-04",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 45 61 63",
+     "04 94 19 61 35",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-10-27T05:40:24+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "9b57dd3fdf9b",
    "title": "FESTIVAL DU MAS D'HIVER",
    "summary": "06 Nov 2026 au 28 Nov 2026 FESTIVAL DU MAS D'HIVER Recurring festival every year at the same time with different artists! Puget-sur-Argens",
@@ -1328,6 +1354,115 @@
    "contact_checked": true
   },
   {
+   "id": "8287fb5281da",
+   "title": "Concert de piano classique",
+   "summary": "21 Nov 2026 Concert de piano classique Le Rotary Club de Saint-Raphaël organise un concert au profit des Sauveteurs en Mer (SNSM) Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/concert-de-piano-classique-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-21",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "07 89 94 71 59",
+     "04 98 11 89 00",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-11-03T12:45:48+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "900e30fce8cf",
+   "title": "Gospel de Noël",
+   "summary": "06 Dec 2026 Gospel de Noël Participez à un concert gospel au sein d'un lieu enchanteur, l'Eglise Saint-Pierre Saint-Paul située dans le cœur du village médiéval à Roquebrune-sur-Argens, où musique et voix humaine se marient pour créer une expérience sensorielle inoubliable. Roquebrune-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/gospel-de-noel/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Roquebrune-sur-Argens",
+   "dept": "83",
+   "lat": 43.42692,
+   "lon": 6.66176,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-06",
+   "published": null,
+   "contact": {
+    "emails": [
+     "village@roquebrunesurargens.fr"
+    ],
+    "phones": [
+     "04 94 19 89 89",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-11-01T11:49:25+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "fa535172c79a",
+   "title": "Chœur d'enfants X Sacrée Musique",
+   "summary": "11 Dec 2026 Chœur d'enfants X Sacrée Musique Une nouvelle date à marquer d'une pierre blanche dans la Saison Musicale : pour ce deuxième concert de Noël à la Cathédrale, découvrez la Maîtrise Sainte-Philomène de Haguenau, lauréate du très prestigieux Prix Liliane Bettencourt pour le chant choral. Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/choeur-denfants-x-sacree-musique-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-11",
+   "published": null,
+   "contact": {
+    "emails": [
+     "billetterie@sacreemusique.fr"
+    ],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-10-26T05:42:56+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "fe60790ec551",
    "title": "Chœur de l'Opéra de Toulon X Sacrée Musique",
    "summary": "04 Dec 2026 Chœur de l'Opéra de Toulon X Sacrée Musique Concert de Noël Fréjus",
@@ -1436,115 +1571,6 @@
    "hors_zone": null,
    "score": 75,
    "found_at": "2026-11-01T11:49:25+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "900e30fce8cf",
-   "title": "Gospel de Noël",
-   "summary": "06 Dec 2026 Gospel de Noël Participez à un concert gospel au sein d'un lieu enchanteur, l'Eglise Saint-Pierre Saint-Paul située dans le cœur du village médiéval à Roquebrune-sur-Argens, où musique et voix humaine se marient pour créer une expérience sensorielle inoubliable. Roquebrune-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/gospel-de-noel/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-06",
-   "published": null,
-   "contact": {
-    "emails": [
-     "village@roquebrunesurargens.fr"
-    ],
-    "phones": [
-     "04 94 19 89 89",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-11-01T11:49:25+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "fa535172c79a",
-   "title": "Chœur d'enfants X Sacrée Musique",
-   "summary": "11 Dec 2026 Chœur d'enfants X Sacrée Musique Une nouvelle date à marquer d'une pierre blanche dans la Saison Musicale : pour ce deuxième concert de Noël à la Cathédrale, découvrez la Maîtrise Sainte-Philomène de Haguenau, lauréate du très prestigieux Prix Liliane Bettencourt pour le chant choral. Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/choeur-denfants-x-sacree-musique-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-11",
-   "published": null,
-   "contact": {
-    "emails": [
-     "billetterie@sacreemusique.fr"
-    ],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-10-26T05:42:56+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "7a9df4672862",
-   "title": "Festival Régional De Théâtre Amateur",
-   "summary": "04 Nov 2026 Festival Régional De Théâtre Amateur Comme chaque année, cet évènement incontournable à Puget est organisé par la Compagnie Le QUIPROQUO du Foyer Culturel Laïque et la Ville de Puget sur Argens. Puget-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/festival-regional-de-theatre-amateur/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Puget-sur-Argens",
-   "dept": "83",
-   "lat": 43.47045,
-   "lon": 6.68553,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-04",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 94 45 61 63",
-     "04 94 19 61 35",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-10-27T05:40:24+00:00",
    "contact_checked": true
   },
   {
@@ -2129,12 +2155,49 @@
    "contact_checked": true
   },
   {
-   "id": "698e8fa227f1",
+   "id": "687b7624278e",
+   "title": "Thomas Marty - Soirée caritative Octobre Rose",
+   "summary": "14 Nov 2026 Thomas Marty - Soirée caritative Octobre Rose Soirée caritative \"Octobre Rose\" - Thomas Marty en spectacle Puget-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/thomas-marty-soiree-caritative-octobre-rose/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Puget-sur-Argens",
+   "dept": "83",
+   "lat": 43.47045,
+   "lon": 6.68553,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-14",
+   "published": null,
+   "contact": {
+    "emails": [
+     "culture@mairie-puget-sur-argens.com"
+    ],
+    "phones": [
+     "04 94 19 61 35",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "soirée"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-10-30T05:52:02+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "02a5bfa5e0b1",
    "title": "L'Apéros Swing",
    "summary": "14 Nov 2026 L'Apéros Swing Soirée de musique festive et dansante organisée par Classic Jazz Paca dans le cadre de ses fameux Apéros Swing avec le 5tet du Caveau de la Huchette Saint-Raphaël",
    "type": "Événement",
    "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/laperos-swing-4/",
+   "url": "https://www.esterel-cotedazur.com/en/cards/laperos-swing/",
    "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
    "city": "Saint-Raphaël",
    "dept": "83",
@@ -2159,7 +2222,7 @@
    "fiable": false,
    "hors_zone": null,
    "score": 70,
-   "found_at": "2026-10-31T10:54:29+00:00",
+   "found_at": "2026-11-03T12:45:48+00:00",
    "contact_checked": true
   },
   {
@@ -2200,27 +2263,24 @@
    "contact_checked": true
   },
   {
-   "id": "687b7624278e",
-   "title": "Thomas Marty - Soirée caritative Octobre Rose",
-   "summary": "14 Nov 2026 Thomas Marty - Soirée caritative Octobre Rose Soirée caritative \"Octobre Rose\" - Thomas Marty en spectacle Puget-sur-Argens",
+   "id": "ba8138a6331f",
+   "title": "Salon Bien-être & Thérapies",
+   "summary": "21 Nov 2026 au 22 Nov 2026 Salon Bien-être & Thérapies 10ᵉ édition sur le thème « l’enthousiasme : booster son hiver et rester zen » Saint-Raphaël",
    "type": "Événement",
    "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/thomas-marty-soiree-caritative-octobre-rose/",
+   "url": "https://www.esterel-cotedazur.com/en/cards/salon-bien-etre-therapies-4/",
    "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Puget-sur-Argens",
+   "city": "Saint-Raphaël",
    "dept": "83",
-   "lat": 43.47045,
-   "lon": 6.68553,
+   "lat": 43.44268,
+   "lon": 6.84991,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-11-14",
+   "event_date": "2026-11-21",
    "published": null,
    "contact": {
-    "emails": [
-     "culture@mairie-puget-sur-argens.com"
-    ],
+    "emails": [],
     "phones": [
-     "04 94 19 61 35",
      "04 94 19 10 60"
     ],
     "forms": []
@@ -2228,12 +2288,12 @@
    "mode": "evenements",
    "via": null,
    "keywords": [
-    "soirée"
+    "salon"
    ],
    "fiable": false,
    "hors_zone": null,
    "score": 70,
-   "found_at": "2026-10-30T05:52:02+00:00",
+   "found_at": "2026-10-22T05:39:07+00:00",
    "contact_checked": true
   },
   {
@@ -2271,12 +2331,12 @@
    "contact_checked": true
   },
   {
-   "id": "ba8138a6331f",
-   "title": "Salon Bien-être & Thérapies",
-   "summary": "21 Nov 2026 au 22 Nov 2026 Salon Bien-être & Thérapies 10ᵉ édition sur le thème « l’enthousiasme : booster son hiver et rester zen » Saint-Raphaël",
+   "id": "6f1dae7334cc",
+   "title": "Salon du Palais Gourmand",
+   "summary": "27 Nov 2026 au 29 Nov 2026 Salon du Palais Gourmand Du 27 novembre au 29 novembre 2026, le Salon Gastronomie à Saint-Raphaël transforme le Palais des Congrès en un véritable temple du goût. Saint-Raphaël",
    "type": "Événement",
    "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/salon-bien-etre-therapies-4/",
+   "url": "https://www.esterel-cotedazur.com/en/cards/salon-du-palais-gourmand-4/",
    "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
    "city": "Saint-Raphaël",
    "dept": "83",
@@ -2284,11 +2344,14 @@
    "lon": 6.84991,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-11-21",
+   "event_date": "2026-11-27",
    "published": null,
    "contact": {
-    "emails": [],
+    "emails": [
+     "wareorganisation83@gmail.com"
+    ],
     "phones": [
+     "04 94 52 80 80",
      "04 94 19 10 60"
     ],
     "forms": []
@@ -2301,7 +2364,7 @@
    "fiable": false,
    "hors_zone": null,
    "score": 70,
-   "found_at": "2026-10-22T05:39:07+00:00",
+   "found_at": "2026-11-03T12:45:48+00:00",
    "contact_checked": true
   },
   {
