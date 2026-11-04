@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-03T20:56:57+00:00",
- "count": 79,
+ "updated": "2026-11-04T12:58:01+00:00",
+ "count": 78,
  "new_count": 0,
  "sources": {
   "BOAMP": {
@@ -23,7 +23,7 @@
   },
   "Pages surveillées": {
    "ok": true,
-   "found": 32,
+   "found": 30,
    "errors": []
   }
  },
@@ -39,7 +39,7 @@
   {
    "id": "c4f86844a475",
    "title": "Marseille (13) : Appel à manifestation d'intérêt food-trucks",
-   "summary": "Marseille : Appel à manifestation d'intérêt food-trucks. Date limite : 6 novembre 2026 à 12h00. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Appel à manifestation d'intérêt food-trucks Mis à jour le 3 novembre 2026 Date limite : 6 novembre 2026 à 12h00 Ouvert, J-3 Cet appel à manifestation d'intérêt est destiné aux food trucks pour les dates du 11 au 13 décembre 2026. Les candidats doivent soumettre leurs dossiers par courrier recommandé avec accusé de réception. Voir l'appel offici",
+   "summary": "Marseille : Appel à manifestation d'intérêt food-trucks. Date limite : 6 novembre 2026 à 12h00. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Appel à manifestation d'intérêt food-trucks Mis à jour le 4 novembre 2026 Date limite : 6 novembre 2026 à 12h00 Ouvert, J-2 Cet appel à manifestation d'intérêt est destiné aux food trucks pour les dates du 11 au 13 décembre 2026. Les candidats doivent soumettre leurs dossiers par courrier recommandé avec accusé de réception. Voir l'appel offici",
    "type": "Appel à candidatures",
    "source": "Page surveillée",
    "url": "https://wikifoodtruck.fr/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2",
@@ -80,12 +80,12 @@
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-11-03"
+   "lien_ok": "2026-11-04"
   },
   {
    "id": "2e2b32de5f8e",
    "title": "Valbonne (06) : Appel à candidature food-truck Pompidou",
-   "summary": "Valbonne : Appel à candidature food-truck Pompidou. Date limite : 6 novembre 2026 à 23h59. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Valbonne 📢 Appels à candidatures Valbonne Appel à candidature food-truck Pompidou Mis à jour le 3 novembre 2026 Date limite : 6 novembre 2026 à 23h59 Ouvert, J-3 La Ville de Valbonne lance un appel à candidature pour des food trucks au sein de l'espace Pompidou. Les candidats intéressés doivent soumettre leur dossier selon les modalités précisées sur le site officiel. Voir l'appel officiel → ",
+   "summary": "Valbonne : Appel à candidature food-truck Pompidou. Date limite : 6 novembre 2026 à 23h59. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Valbonne 📢 Appels à candidatures Valbonne Appel à candidature food-truck Pompidou Mis à jour le 4 novembre 2026 Date limite : 6 novembre 2026 à 23h59 Ouvert, J-2 La Ville de Valbonne lance un appel à candidature pour des food trucks au sein de l'espace Pompidou. Les candidats intéressés doivent soumettre leur dossier selon les modalités précisées sur le site officiel. Voir l'appel officiel → ",
    "type": "Appel à candidatures",
    "source": "Page surveillée",
    "url": "https://wikifoodtruck.fr/appels-food-truck/valbonne-appel-a-candidature-food-truck-pompidou-2026",
@@ -127,12 +127,12 @@
    "score": 100,
    "found_at": "2026-11-02T13:28:07+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-11-03"
+   "lien_ok": "2026-11-04"
   },
   {
    "id": "d289eb20e982",
    "title": "Valbonne (06) : Appel à candidature food truck Vignasse",
-   "summary": "Valbonne : Appel à candidature food truck Vignasse. Date limite : 6 novembre 2026 à 23h59. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Valbonne 📢 Appels à candidatures Valbonne Appel à candidature food truck Vignasse Mis à jour le 3 novembre 2026 Date limite : 6 novembre 2026 à 23h59 Ouvert, J-3 La Ville de Valbonne Sophia Antipolis lance un appel à candidature pour l'attribution d'emplacements de food trucks. Les candidats intéressés doivent soumettre leur dossier selon les modalités précisées dans l'appel. Voir l'appel off",
+   "summary": "Valbonne : Appel à candidature food truck Vignasse. Date limite : 6 novembre 2026 à 23h59. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Valbonne 📢 Appels à candidatures Valbonne Appel à candidature food truck Vignasse Mis à jour le 4 novembre 2026 Date limite : 6 novembre 2026 à 23h59 Ouvert, J-2 La Ville de Valbonne Sophia Antipolis lance un appel à candidature pour l'attribution d'emplacements de food trucks. Les candidats intéressés doivent soumettre leur dossier selon les modalités précisées dans l'appel. Voir l'appel off",
    "type": "Appel à candidatures",
    "source": "Page surveillée",
    "url": "https://wikifoodtruck.fr/appels-food-truck/valbonne-appel-a-candidature-food-truck-vignasse-2026",
@@ -174,12 +174,12 @@
    "score": 100,
    "found_at": "2026-11-02T13:28:07+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-11-03"
+   "lien_ok": "2026-11-04"
   },
   {
    "id": "0bd01dc36ce3",
    "title": "Marseille (13) : Food-truck solidaire Noël au Palais 2026",
-   "summary": "Marseille : Food-truck solidaire Noël au Palais 2026. Date limite : 8 novembre 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Food-truck solidaire Noël au Palais 2026 Mis à jour le 3 novembre 2026 Date limite : 8 novembre 2026 Ouvert, J-5 Réservé aux structures de l'économie sociale et solidaire (ESS) : la mairie des 4e et 5e arrondissements cherche un food truck solidaire (snacks et douceurs, pas de repas complets, avec un volet social ou d'insertion) pour Noël au Palais, au pa",
+   "summary": "Marseille : Food-truck solidaire Noël au Palais 2026. Date limite : 8 novembre 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Food-truck solidaire Noël au Palais 2026 Mis à jour le 4 novembre 2026 Date limite : 8 novembre 2026 Ouvert, J-4 Réservé aux structures de l'économie sociale et solidaire (ESS) : la mairie des 4e et 5e arrondissements cherche un food truck solidaire (snacks et douceurs, pas de repas complets, avec un volet social ou d'insertion) pour Noël au Palais, au pa",
    "type": "Recherche un food truck",
    "source": "Page surveillée",
    "url": "https://wikifoodtruck.fr/appels-food-truck/marseille-food-truck-solidaire-noel-au-palais-2026",
@@ -219,7 +219,7 @@
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-11-03"
+   "lien_ok": "2026-11-04"
   },
   {
    "id": "9a8973b58aa7",
@@ -265,7 +265,7 @@
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-11-03"
+   "lien_ok": "2026-11-04"
   },
   {
    "id": "7af4cb12014d",
@@ -311,7 +311,7 @@
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-11-03"
+   "lien_ok": "2026-11-04"
   },
   {
    "id": "eb9cf028f2bd",
@@ -715,43 +715,6 @@
    "hors_zone": null,
    "score": 85,
    "found_at": "2026-10-28T05:49:20+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "099aec8d0d51",
-   "title": "L'enquête magique des lutins",
-   "summary": "23 Dec 2026 L'enquête magique des lutins Le 23 décembre à 14h30, partez en famille à la chasse aux énigmes de Noël dans le village médiéval de Roquebrune-sur-Argens et sauvez la magie des fêtes ! Roquebrune-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/lenquete-magique-des-lutins/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-23",
-   "published": null,
-   "contact": {
-    "emails": [
-     "village@roquebrunesurargens.fr"
-    ],
-    "phones": [
-     "04 94 19 89 89",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "fêtes"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 85,
-   "found_at": "2026-11-01T11:49:25+00:00",
    "contact_checked": true
   },
   {
@@ -1390,79 +1353,6 @@
    "contact_checked": true
   },
   {
-   "id": "900e30fce8cf",
-   "title": "Gospel de Noël",
-   "summary": "06 Dec 2026 Gospel de Noël Participez à un concert gospel au sein d'un lieu enchanteur, l'Eglise Saint-Pierre Saint-Paul située dans le cœur du village médiéval à Roquebrune-sur-Argens, où musique et voix humaine se marient pour créer une expérience sensorielle inoubliable. Roquebrune-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/gospel-de-noel/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-06",
-   "published": null,
-   "contact": {
-    "emails": [
-     "village@roquebrunesurargens.fr"
-    ],
-    "phones": [
-     "04 94 19 89 89",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-11-01T11:49:25+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "fa535172c79a",
-   "title": "Chœur d'enfants X Sacrée Musique",
-   "summary": "11 Dec 2026 Chœur d'enfants X Sacrée Musique Une nouvelle date à marquer d'une pierre blanche dans la Saison Musicale : pour ce deuxième concert de Noël à la Cathédrale, découvrez la Maîtrise Sainte-Philomène de Haguenau, lauréate du très prestigieux Prix Liliane Bettencourt pour le chant choral. Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/choeur-denfants-x-sacree-musique-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-11",
-   "published": null,
-   "contact": {
-    "emails": [
-     "billetterie@sacreemusique.fr"
-    ],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-10-26T05:42:56+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "fe60790ec551",
    "title": "Chœur de l'Opéra de Toulon X Sacrée Musique",
    "summary": "04 Dec 2026 Chœur de l'Opéra de Toulon X Sacrée Musique Concert de Noël Fréjus",
@@ -1533,6 +1423,79 @@
    "hors_zone": null,
    "score": 75,
    "found_at": "2026-10-25T05:38:16+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "900e30fce8cf",
+   "title": "Gospel de Noël",
+   "summary": "06 Dec 2026 Gospel de Noël Participez à un concert gospel au sein d'un lieu enchanteur, l'Eglise Saint-Pierre Saint-Paul située dans le cœur du village médiéval à Roquebrune-sur-Argens, où musique et voix humaine se marient pour créer une expérience sensorielle inoubliable. Roquebrune-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/gospel-de-noel/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Roquebrune-sur-Argens",
+   "dept": "83",
+   "lat": 43.42692,
+   "lon": 6.66176,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-06",
+   "published": null,
+   "contact": {
+    "emails": [
+     "village@roquebrunesurargens.fr"
+    ],
+    "phones": [
+     "04 94 19 89 89",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-11-01T11:49:25+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "fa535172c79a",
+   "title": "Chœur d'enfants X Sacrée Musique",
+   "summary": "11 Dec 2026 Chœur d'enfants X Sacrée Musique Une nouvelle date à marquer d'une pierre blanche dans la Saison Musicale : pour ce deuxième concert de Noël à la Cathédrale, découvrez la Maîtrise Sainte-Philomène de Haguenau, lauréate du très prestigieux Prix Liliane Bettencourt pour le chant choral. Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/choeur-denfants-x-sacree-musique-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-11",
+   "published": null,
+   "contact": {
+    "emails": [
+     "billetterie@sacreemusique.fr"
+    ],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-10-26T05:42:56+00:00",
    "contact_checked": true
   },
   {
@@ -2155,6 +2118,43 @@
    "contact_checked": true
   },
   {
+   "id": "e1b46d18f65d",
+   "title": "Journée bien-être Yoga, Sensorialité et Oenologie",
+   "summary": "14 Nov 2026 Journée bien-être Yoga, Sensorialité et Oenologie In Roquebrune-sur-Argens, enjoy a full day dedicated to the body, the senses and taste. In the gentle light of a Provençal autumn, take the time to slow down and listen — to your breath, an aroma, a fruit. Roquebrune-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/journee-bien-etre-yoga-sensorialite-et-oenologie/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Roquebrune-sur-Argens",
+   "dept": "83",
+   "lat": 43.42692,
+   "lon": 6.66176,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-14",
+   "published": null,
+   "contact": {
+    "emails": [
+     "juliedumond22@gmail.com"
+    ],
+    "phones": [
+     "06 15 34 55 48",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "journée"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-10-28T05:49:20+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "687b7624278e",
    "title": "Thomas Marty - Soirée caritative Octobre Rose",
    "summary": "14 Nov 2026 Thomas Marty - Soirée caritative Octobre Rose Soirée caritative \"Octobre Rose\" - Thomas Marty en spectacle Puget-sur-Argens",
@@ -2223,43 +2223,6 @@
    "hors_zone": null,
    "score": 70,
    "found_at": "2026-11-03T12:45:48+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "e1b46d18f65d",
-   "title": "Journée bien-être Yoga, Sensorialité et Oenologie",
-   "summary": "14 Nov 2026 Journée bien-être Yoga, Sensorialité et Oenologie In Roquebrune-sur-Argens, enjoy a full day dedicated to the body, the senses and taste. In the gentle light of a Provençal autumn, take the time to slow down and listen — to your breath, an aroma, a fruit. Roquebrune-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/journee-bien-etre-yoga-sensorialite-et-oenologie/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-14",
-   "published": null,
-   "contact": {
-    "emails": [
-     "juliedumond22@gmail.com"
-    ],
-    "phones": [
-     "06 15 34 55 48",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "journée"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 70,
-   "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
   },
   {
@@ -2406,26 +2369,27 @@
    "contact_checked": true
   },
   {
-   "id": "ddd3bba2e6c3",
-   "title": "Le Chœur du Sud au Forum de Fréjus – Happy’Handy",
-   "summary": "12 Dec 2026 Le Chœur du Sud au Forum de Fréjus – Happy’Handy Happy’Handy vous donne rendez-vous au Théâtre Le Forum de Fréjus pour une grande soirée musicale et solidaire avec Le Chœur du Sud, dirigé par le chef Jean-Luc Costa, et trois artistes invités. Fréjus",
+   "id": "099aec8d0d51",
+   "title": "L'enquête magique des lutins",
+   "summary": "23 Dec 2026 L'enquête magique des lutins Le 23 décembre à 14h30, partez en famille à la chasse aux énigmes de Noël dans le village médiéval de Roquebrune-sur-Argens et sauvez la magie des fêtes ! Roquebrune-sur-Argens",
    "type": "Événement",
    "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/le-choeur-du-sud-au-forum-de-frejus-happyhandy-4/",
+   "url": "https://www.esterel-cotedazur.com/en/cards/lenquete-magique-des-lutins/",
    "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
+   "city": "Roquebrune-sur-Argens",
    "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
+   "lat": 43.42692,
+   "lon": 6.66176,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-12-12",
+   "event_date": "2026-12-23",
    "published": null,
    "contact": {
     "emails": [
-     "contact@happyhandy.fr"
+     "village@roquebrunesurargens.fr"
     ],
     "phones": [
+     "04 94 19 89 89",
      "04 94 19 10 60"
     ],
     "forms": []
@@ -2433,7 +2397,7 @@
    "mode": "evenements",
    "via": null,
    "keywords": [
-    "soirée"
+    "fêtes"
    ],
    "fiable": false,
    "hors_zone": null,
