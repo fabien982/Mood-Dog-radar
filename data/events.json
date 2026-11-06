@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-06T12:55:10+00:00",
- "count": 77,
- "new_count": 4,
+ "updated": "2026-11-06T20:51:21+00:00",
+ "count": 78,
+ "new_count": 1,
  "sources": {
   "BOAMP": {
    "ok": true,
-   "found": 9
+   "found": 10
   },
   "Alertes Google": {
    "ok": true,
@@ -125,8 +125,8 @@
    "hors_zone": null,
    "score": 100,
    "found_at": "2026-11-06T12:55:10+00:00",
-   "lien_ok": "2026-11-06",
-   "contact_checked": true
+   "contact_checked": true,
+   "lien_ok": "2026-11-06"
   },
   {
    "id": "ebd1443a30e5",
@@ -171,8 +171,8 @@
    "hors_zone": null,
    "score": 100,
    "found_at": "2026-11-06T12:55:10+00:00",
-   "lien_ok": "2026-11-06",
-   "contact_checked": true
+   "contact_checked": true,
+   "lien_ok": "2026-11-06"
   },
   {
    "id": "0bd01dc36ce3",
@@ -218,6 +218,39 @@
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true,
    "lien_ok": "2026-11-06"
+  },
+  {
+   "id": "3ede42726119",
+   "title": "DSP - DELEGATION DE SERVICE PUBLIC POUR L'EXPLOITATION DU SNACK BUVETTE DU MARCHE AUX FRUITS ET LEGUMES ANDRE VIDAU",
+   "summary": "Avis de marché. Délégation de service public, Boisson",
+   "type": "Marché public",
+   "source": "BOAMP",
+   "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-108320",
+   "organizer": "Commune de Saint Etienne du Grès (13)",
+   "city": "Saint-Étienne-du-Grès",
+   "dept": "13",
+   "lat": 43.79436,
+   "lon": 4.73256,
+   "approx": false,
+   "deadline": "2026-11-27",
+   "event_date": null,
+   "published": "2026-11-06",
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "buvette",
+    "snack"
+   ],
+   "fiable": true,
+   "hors_zone": null,
+   "score": 100,
+   "found_at": "2026-11-06T20:51:21+00:00",
+   "contact_checked": true
   },
   {
    "id": "9a8973b58aa7",
