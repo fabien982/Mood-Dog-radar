@@ -633,7 +633,7 @@
   },
   "fete-de-la-transhumance-saint-remy-de-provence": {
    "slug": "fete-de-la-transhumance-saint-remy-de-provence",
-   "checked": null,
+   "checked": "2026-11-07",
    "appel": null,
    "name": "Fete de la Transhumance Saint-Remy-de-Provence",
    "town": null,
@@ -1113,7 +1113,7 @@
   },
   "choregies-dorange": {
    "slug": "choregies-dorange",
-   "checked": null,
+   "checked": "2026-11-07",
    "appel": null,
    "name": "Chorégies d'Orange",
    "town": "Orange",
@@ -1163,7 +1163,7 @@
   },
   "crossover-festival": {
    "slug": "crossover-festival",
-   "checked": null,
+   "checked": "2026-11-07",
    "appel": null,
    "name": "Crossover Festival",
    "town": "Nice",
@@ -1683,7 +1683,7 @@
   },
   "festival-du-peu": {
    "slug": "festival-du-peu",
-   "checked": null,
+   "checked": "2026-11-07",
    "appel": null,
    "name": "Festival du Peu",
    "town": "Le Broc",
@@ -2253,7 +2253,7 @@
   },
   "fete-medievale-de-tourrette-levens": {
    "slug": "fete-medievale-de-tourrette-levens",
-   "checked": null,
+   "checked": "2026-11-07",
    "appel": null,
    "name": "Fête Médiévale de Tourrette-Levens",
    "town": "Tourrette-Levens",
@@ -2373,7 +2373,7 @@
   },
   "insane-festival": {
    "slug": "insane-festival",
-   "checked": null,
+   "checked": "2026-11-07",
    "appel": null,
    "name": "Insane Festival",
    "town": "Apt",
@@ -2763,7 +2763,7 @@
   },
   "les-musicales-du-luberon": {
    "slug": "les-musicales-du-luberon",
-   "checked": null,
+   "checked": "2026-11-07",
    "appel": null,
    "name": "Les Musicales du Luberon",
    "town": "Ménerbes",
@@ -2953,7 +2953,7 @@
   },
   "les-printemps-du-monde": {
    "slug": "les-printemps-du-monde",
-   "checked": null,
+   "checked": "2026-11-07",
    "appel": null,
    "name": "Les Printemps du Monde",
    "town": "Correns",
@@ -3023,7 +3023,7 @@
   },
   "luberon-music-festival": {
    "slug": "luberon-music-festival",
-   "checked": null,
+   "checked": "2026-11-07",
    "appel": null,
    "name": "Luberon Music Festival",
    "town": "Apt",
@@ -3263,7 +3263,7 @@
   },
   "outdoormix-festival": {
    "slug": "outdoormix-festival",
-   "checked": null,
+   "checked": "2026-11-07",
    "appel": null,
    "name": "Outdoormix Festival",
    "town": "Embrun",
@@ -3273,7 +3273,7 @@
   },
   "pelerinage-des-gitans-aux-saintes-maries-de-la-mer": {
    "slug": "pelerinage-des-gitans-aux-saintes-maries-de-la-mer",
-   "checked": null,
+   "checked": "2026-11-07",
    "appel": null,
    "name": "Pèlerinage des Gitans aux Saintes-Maries-de-la-Mer",
    "town": "Saintes-Maries-de-la-Mer",
@@ -3353,7 +3353,7 @@
   },
   "retours-du-monde": {
    "slug": "retours-du-monde",
-   "checked": null,
+   "checked": "2026-11-07",
    "appel": null,
    "name": "Retours du Monde",
    "town": "Saint-Jean-Saint-Nicolas",

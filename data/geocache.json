@@ -1580,5 +1580,172 @@
   "lon": 4.73256,
   "city": "Saint-Étienne-du-Grès",
   "dept": "13"
+ },
+ "zone:morlhon-le": null,
+ "zone:bruges": null,
+ "zone:creil": null,
+ "zone:benesse- maremne": null,
+ "zone:veron": null,
+ "zone:avoine": null,
+ "zone:compiegne": null,
+ "zone:cosybar": null,
+ "zone:montpellier": null,
+ "zone:communes de montesquieu": null,
+ "zone:puylaurens": null,
+ "zone:jeudi": null,
+ "zone:argens places": null,
+ "zone:salon du bien vieillir en anjou": null,
+ "zone:pere": null,
+ "zone:food truck festival": null,
+ "zone:manoir": null,
+ "zone:sur-meuse": null,
+ "zone:l'helico": null,
+ "zone:marche gourmand": null,
+ "zone:remoulins": null,
+ "zone:clochers": null,
+ "zone:petite": null,
+ "zone:st maurice de sorgues": null,
+ "zone:mervans rendez-vous": null,
+ "zone:departement des alpes-maritimes": null,
+ "zone:patriarcat": null,
+ "zone:saint blaise": {
+  "lat": 43.8138,
+  "lon": 7.22729,
+  "city": "Saint-Blaise",
+  "dept": "06"
+ },
+ "zone:lourmarin quel": null,
+ "zone:lourmarin": {
+  "lat": 43.76698,
+  "lon": 5.36915,
+  "city": "Lourmarin",
+  "dept": "84"
+ },
+ "zone:mallemort": {
+  "lat": 43.72279,
+  "lon": 5.17825,
+  "city": "Mallemort",
+  "dept": "13"
+ },
+ "zone:raon": null,
+ "zone:saint-sauveur-de-montagut": null,
+ "zone:miss golfe de saint -tropez": null,
+ "zone:bonne terrasse": null,
+ "zone:la garde-freinet": {
+  "lat": 43.31321,
+  "lon": 6.48008,
+  "city": "La Garde-Freinet",
+  "dept": "83"
+ },
+ "zone:festico": null,
+ "zone:yaounde": null,
+ "zone:vallery": null,
+ "zone:salon-de-provence": {
+  "lat": 43.6377,
+  "lon": 5.06204,
+  "city": "Salon-de-Provence",
+  "dept": "13"
+ },
+ "zone:verac": null,
+ "zone:noel bayon": null,
+ "zone:noel du chateau sainte": null,
+ "zone:la valette": {
+  "lat": 43.14384,
+  "lon": 5.99089,
+  "city": "La Valette-du-Var",
+  "dept": "83"
+ },
+ "zone:noel enchante": null,
+ "zone:crule": null,
+ "zone:noel des alpes-maritimes": null,
+ "aubagne": {
+  "lat": 43.30189,
+  "lon": 5.56389,
+  "city": "Aubagne",
+  "dept": "13"
+ },
+ "zone:noel hautes-alpes": null,
+ "zone:noel de gap": null,
+ "zone:noel des taillades": null,
+ "zone:noel de cheval-blanc": null,
+ "zone:saint-benoit": {
+  "lat": 43.96345,
+  "lon": 6.72698,
+  "city": "Saint-Benoît",
+  "dept": "04"
+ },
+ "zone:abondance": null,
+ "zone:noel d'abondance": null,
+ "zone:valence": null,
+ "zone:croix": null,
+ "vallauris": {
+  "lat": 43.57423,
+  "lon": 7.06012,
+  "city": "Vallauris",
+  "dept": "06"
+ },
+ "83330": {
+  "lat": 43.19794,
+  "lon": 5.81432,
+  "city": "Le Beausset",
+  "dept": "83"
+ },
+ "six-fours-les-plages": {
+  "lat": 43.09171,
+  "lon": 5.8176,
+  "city": "Six-Fours-les-Plages",
+  "dept": "83"
+ },
+ "zone:samedi": null,
+ "zone:dimanche": null,
+ "zone:cavaillon": {
+  "lat": 43.84879,
+  "lon": 5.03618,
+  "city": "Cavaillon",
+  "dept": "84"
+ },
+ "zone:aix en provence": {
+  "lat": 43.54137,
+  "lon": 5.40612,
+  "city": "Aix-en-Provence",
+  "dept": "13"
+ },
+ "zone:radio graceland": null,
+ "zone:pauline": null,
+ "zone:chabre": null,
+ "saint-jean-saint-nicolas": {
+  "lat": 44.66873,
+  "lon": 6.22968,
+  "city": "Saint-Jean-Saint-Nicolas",
+  "dept": "05"
+ },
+ "apt": {
+  "lat": 43.8788,
+  "lon": 5.37604,
+  "city": "Apt",
+  "dept": "84"
+ },
+ "zone:champ de mars parking square": null,
+ "83680": {
+  "lat": 43.31321,
+  "lon": 6.48008,
+  "city": "La Garde-Freinet",
+  "dept": "83"
+ },
+ "zone:noel en europe": null,
+ "zone:noel strasbourg": null,
+ "zone:noel de touch-arts": null,
+ "zone:gourdon": {
+  "lat": 43.72788,
+  "lon": 6.98755,
+  "city": "Gourdon",
+  "dept": "06"
+ },
+ "74779": null,
+ "zone:cheval-blanc": {
+  "lat": 43.78487,
+  "lon": 5.10141,
+  "city": "Cheval-Blanc",
+  "dept": "84"
  }
 }

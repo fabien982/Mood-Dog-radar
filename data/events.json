@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-06T20:51:21+00:00",
- "count": 78,
- "new_count": 1,
+ "updated": "2026-11-07T11:42:37+00:00",
+ "count": 107,
+ "new_count": 33,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -13,171 +13,32 @@
   },
   "Recherche web": {
    "ok": true,
-   "found": 0,
-   "note": "recherche web faite le matin seulement (économise le quota)"
+   "found": 97
   },
   "Festivals PACA": {
    "ok": true,
-   "found": 0,
+   "found": 3,
    "note": "359 festivals suivis"
   },
   "Pages surveillées": {
    "ok": true,
-   "found": 30,
+   "found": 27,
    "errors": []
   }
  },
  "web_runs": {
-  "Candidatures": "2026-11-01",
-  "Instagram": "2026-10-31",
-  "Fêtes et festivals": "2026-10-28",
-  "Mairies de ma zone": "2026-11-01",
-  "Festivals, domaines et châteaux": "2026-10-31",
-  "Festivals suivis": "2026-10-31"
+  "Candidatures": "2026-11-07",
+  "Instagram": "2026-11-07",
+  "Fêtes et festivals": "2026-11-07",
+  "Mairies de ma zone": "2026-11-07",
+  "Festivals, domaines et châteaux": "2026-11-07",
+  "Festivals suivis": "2026-11-07"
  },
  "events": [
   {
-   "id": "c4f86844a475",
-   "title": "Marseille (13) : Appel à manifestation d'intérêt food-trucks",
-   "summary": "Marseille : Appel à manifestation d'intérêt food-trucks. Date limite : 6 novembre 2026 à 12h00. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Appel à manifestation d'intérêt food-trucks Mis à jour le 6 novembre 2026 Date limite : 6 novembre 2026 à 12h00 Dernier jour Cet appel à manifestation d'intérêt est destiné aux food trucks pour les dates du 11 au 13 décembre 2026. Les candidats doivent soumettre leurs dossiers par courrier recommandé avec accusé de réception. Voir l'appel offic",
-   "type": "Appel à candidatures",
-   "source": "Page surveillée",
-   "url": "https://wikifoodtruck.fr/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2",
-   "organizer": "Wikifoodtruck – appels à candidatures des mairies",
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": "2026-11-06",
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [
-     "francois@wikifoodtruck.fr"
-    ],
-    "phones": [],
-    "forms": [
-     "https://wikifoodtruck.fr/appels-food-truck/nice-aot-campus-universitaire-pour-food-truck-2026",
-     "https://wikifoodtruck.fr/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026",
-     "https://wikifoodtruck.fr/appels-food-truck/marseille-food-truck-solidaire-noel-au-palais-2026"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à candidature",
-    "appel à manifestation d'intérêt",
-    "candidature",
-    "emplacement",
-    "food truck",
-    "food trucks",
-    "food-truck",
-    "foodtruck"
-   ],
-   "fiable": true,
-   "hors_zone": null,
-   "score": 100,
-   "found_at": "2026-10-28T13:18:09+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-11-06"
-  },
-  {
-   "id": "09f4b071e7d6",
-   "title": "Valbonne (06) : Appel à candidature food-truck Pompidou",
-   "summary": "Valbonne : Appel à candidature food-truck Pompidou. Date limite : 6 novembre 2026 à 23h59. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Valbonne 📢 Appels à candidatures Valbonne Appel à candidature food-truck Pompidou Mis à jour le 6 novembre 2026 Date limite : 6 novembre 2026 à 23h59 Dernier jour La Ville de Valbonne lance un appel à candidature pour des food trucks au sein de l'espace Pompidou. Les candidats intéressés doivent soumettre leur dossier selon les modalités précisées sur le site officiel. Voir l'appel officiel →",
-   "type": "Appel à candidatures",
-   "source": "Page surveillée",
-   "url": "https://wikifoodtruck.fr/appels-food-truck/valbonne-appel-a-candidature-food-truck-pompidou-2026",
-   "organizer": "Wikifoodtruck – appels à candidatures des mairies",
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": "2026-11-06",
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [
-     "mairie@ville-valbonne.fr"
-    ],
-    "phones": [],
-    "forms": [
-     "https://www.ville-valbonne.fr/actualite/appel-a-candidature-food-truck-pompidou/",
-     "https://wikifoodtruck.fr/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2",
-     "https://wikifoodtruck.fr/appels-food-truck/valbonne-appel-a-candidature-food-truck-vignasse-2026"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à candidature",
-    "appel à manifestation d'intérêt",
-    "candidature",
-    "emplacement",
-    "food truck",
-    "food trucks",
-    "food-truck",
-    "foodtruck"
-   ],
-   "fiable": true,
-   "hors_zone": null,
-   "score": 100,
-   "found_at": "2026-11-06T12:55:10+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-11-06"
-  },
-  {
-   "id": "ebd1443a30e5",
-   "title": "Valbonne (06) : Appel à candidature food truck Vignasse",
-   "summary": "Valbonne : Appel à candidature food truck Vignasse. Date limite : 6 novembre 2026 à 23h59. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Valbonne 📢 Appels à candidatures Valbonne Appel à candidature food truck Vignasse Mis à jour le 6 novembre 2026 Date limite : 6 novembre 2026 à 23h59 Dernier jour La Ville de Valbonne Sophia Antipolis lance un appel à candidature pour l'attribution d'emplacements de food trucks. Les candidats intéressés doivent soumettre leur dossier selon les modalités précisées dans l'appel. Voir l'appel of",
-   "type": "Appel à candidatures",
-   "source": "Page surveillée",
-   "url": "https://wikifoodtruck.fr/appels-food-truck/valbonne-appel-a-candidature-food-truck-vignasse-2026",
-   "organizer": "Wikifoodtruck – appels à candidatures des mairies",
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": "2026-11-06",
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [
-     "mairie@ville-valbonne.fr"
-    ],
-    "phones": [],
-    "forms": [
-     "https://www.ville-valbonne.fr/actualite/appel-a-candidature-food-truck-pompidou-2/",
-     "https://wikifoodtruck.fr/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2",
-     "https://wikifoodtruck.fr/appels-food-truck/valbonne-appel-a-candidature-food-truck-pompidou-2026"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à candidature",
-    "appel à manifestation d'intérêt",
-    "candidature",
-    "emplacement",
-    "food truck",
-    "food trucks",
-    "food-truck",
-    "foodtruck"
-   ],
-   "fiable": true,
-   "hors_zone": null,
-   "score": 100,
-   "found_at": "2026-11-06T12:55:10+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-11-06"
-  },
-  {
    "id": "0bd01dc36ce3",
    "title": "Marseille (13) : Food-truck solidaire Noël au Palais 2026",
-   "summary": "Marseille : Food-truck solidaire Noël au Palais 2026. Date limite : 8 novembre 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Food-truck solidaire Noël au Palais 2026 Mis à jour le 6 novembre 2026 Date limite : 8 novembre 2026 Ouvert, J-2 Réservé aux structures de l'économie sociale et solidaire (ESS) : la mairie des 4e et 5e arrondissements cherche un food truck solidaire (snacks et douceurs, pas de repas complets, avec un volet social ou d'insertion) pour Noël au Palais, au pa",
+   "summary": "Marseille : Food-truck solidaire Noël au Palais 2026. Date limite : 8 novembre 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Food-truck solidaire Noël au Palais 2026 Mis à jour le 7 novembre 2026 Date limite : 8 novembre 2026 Ouvert, J-1 Réservé aux structures de l'économie sociale et solidaire (ESS) : la mairie des 4e et 5e arrondissements cherche un food truck solidaire (snacks et douceurs, pas de repas complets, avec un volet social ou d'insertion) pour Noël au Palais, au pa",
    "type": "Recherche un food truck",
    "source": "Page surveillée",
    "url": "https://wikifoodtruck.fr/appels-food-truck/marseille-food-truck-solidaire-noel-au-palais-2026",
@@ -217,7 +78,7 @@
    "score": 100,
    "found_at": "2026-10-28T13:18:09+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-11-06"
+   "lien_ok": "2026-11-07"
   },
   {
    "id": "3ede42726119",
@@ -251,98 +112,6 @@
    "score": 100,
    "found_at": "2026-11-06T20:51:21+00:00",
    "contact_checked": true
-  },
-  {
-   "id": "9a8973b58aa7",
-   "title": "Appel à candidature food-truck Vignasse - Ville de Valbonne Sophia Antipolis",
-   "summary": "La ville de Valbonne met à disposition une surface à vocation d’activité commerciale sur une parcelle de son domaine public afin d’accueillir un commerce de restauration non sédentaire, exercé par un exploitant de camion ambulant (dit « food truck »). En vertu de l’article L.2122-1 du Code Général de la Propriété des Personnes Publiques, les exploitants de […] La ville de Valbonne met à disposition une surface à vocation d’activité commerciale sur une parcelle de son domaine public afin d’accueillir un commerce de restauration non sédentaire, exercé par un exploitant de camion ambulant (dit « ",
-   "type": "Appel à candidatures",
-   "source": "Page surveillée",
-   "url": "https://www.ville-valbonne.fr/actualite/appel-a-candidature-food-truck-pompidou-2/",
-   "organizer": "Ville de Valbonne Sophia Antipolis – actualités",
-   "city": "Valbonne",
-   "dept": "06",
-   "lat": 43.62734,
-   "lon": 7.01656,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [
-     "mairie@ville-valbonne.fr"
-    ],
-    "phones": [
-     "04 93 12 31 00",
-     "04 92 98 28 60"
-    ],
-    "forms": [
-     "https://www.ville-valbonne.fr/wp-content/uploads/sites/6/2026/10/reglement_de_l_appel_a_candidature_foodtruck_vignasse-2026-V1.docx",
-     "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ville-valbonne.fr%2Factualite%2Fappel-a-candidature-food-truck-pompidou-2%2F",
-     "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ville-valbonne.fr%2Factualite%2Fappel-a-candidature-food-truck-pompidou-2%2F&text=Appel+%C3%A0+candidature+food-truck+Vignasse"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à candidature",
-    "candidature",
-    "food truck",
-    "food-truck",
-    "occupation du domaine public"
-   ],
-   "fiable": true,
-   "hors_zone": null,
-   "score": 100,
-   "found_at": "2026-10-28T13:18:09+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-11-06"
-  },
-  {
-   "id": "7af4cb12014d",
-   "title": "Appel à candidature food-truck Pompidou - Ville de Valbonne Sophia Antipolis",
-   "summary": "La ville de Valbonne met à disposition une surface à vocation d’activité commerciale sur une parcelle de son domaine public afin d’accueillir un commerce de restauration non sédentaire, exercé par un exploitant de camion ambulant (dit « food truck »). En vertu de l’article L.2122-1 du Code Général de la Propriété des Personnes Publiques, les exploitants de […] La ville de Valbonne met à disposition une surface à vocation d’activité commerciale sur une parcelle de son domaine public afin d’accueillir un commerce de restauration non sédentaire, exercé par un exploitant de camion ambulant (dit « ",
-   "type": "Appel à candidatures",
-   "source": "Page surveillée",
-   "url": "https://www.ville-valbonne.fr/actualite/appel-a-candidature-food-truck-pompidou/",
-   "organizer": "Ville de Valbonne Sophia Antipolis – actualités",
-   "city": "Valbonne",
-   "dept": "06",
-   "lat": 43.62734,
-   "lon": 7.01656,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [
-     "mairie@ville-valbonne.fr"
-    ],
-    "phones": [
-     "04 93 12 31 00",
-     "04 92 98 28 60"
-    ],
-    "forms": [
-     "https://www.ville-valbonne.fr/wp-content/uploads/sites/6/2026/10/reglement_de_l_appel_a_candidature_foodtruck_Pompidou-2026-V1.docx",
-     "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ville-valbonne.fr%2Factualite%2Fappel-a-candidature-food-truck-pompidou%2F",
-     "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ville-valbonne.fr%2Factualite%2Fappel-a-candidature-food-truck-pompidou%2F&text=Appel+%C3%A0+candidature+food-truck+Pompidou"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à candidature",
-    "candidature",
-    "food truck",
-    "food-truck",
-    "occupation du domaine public"
-   ],
-   "fiable": true,
-   "hors_zone": null,
-   "score": 100,
-   "found_at": "2026-10-28T13:18:09+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-11-06"
   },
   {
    "id": "eb9cf028f2bd",
@@ -429,6 +198,94 @@
    "lien_ok": "2026-10-30"
   },
   {
+   "id": "9a8973b58aa7",
+   "title": "Commerce local Appel à candidature food-truck Vignasse",
+   "summary": "Commerce local Appel à candidature food-truck Vignasse",
+   "type": "Appel à candidatures",
+   "source": "Page surveillée",
+   "url": "https://www.ville-valbonne.fr/actualite/appel-a-candidature-food-truck-pompidou-2/",
+   "organizer": "Ville de Valbonne Sophia Antipolis – actualités",
+   "city": "Valbonne",
+   "dept": "06",
+   "lat": 43.62734,
+   "lon": 7.01656,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [
+     "mairie@ville-valbonne.fr"
+    ],
+    "phones": [
+     "04 93 12 31 00",
+     "04 92 98 28 60"
+    ],
+    "forms": [
+     "https://www.ville-valbonne.fr/wp-content/uploads/sites/6/2026/10/reglement_de_l_appel_a_candidature_foodtruck_vignasse-2026-V1.docx",
+     "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ville-valbonne.fr%2Factualite%2Fappel-a-candidature-food-truck-pompidou-2%2F",
+     "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ville-valbonne.fr%2Factualite%2Fappel-a-candidature-food-truck-pompidou-2%2F&text=Appel+%C3%A0+candidature+food-truck+Vignasse"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à candidature",
+    "candidature",
+    "food-truck"
+   ],
+   "fiable": true,
+   "hors_zone": null,
+   "score": 95,
+   "found_at": "2026-10-28T13:18:09+00:00",
+   "contact_checked": true,
+   "lien_ok": "page source"
+  },
+  {
+   "id": "7af4cb12014d",
+   "title": "Commerce local Appel à candidature food-truck Pompidou",
+   "summary": "Commerce local Appel à candidature food-truck Pompidou",
+   "type": "Appel à candidatures",
+   "source": "Page surveillée",
+   "url": "https://www.ville-valbonne.fr/actualite/appel-a-candidature-food-truck-pompidou/",
+   "organizer": "Ville de Valbonne Sophia Antipolis – actualités",
+   "city": "Valbonne",
+   "dept": "06",
+   "lat": 43.62734,
+   "lon": 7.01656,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [
+     "mairie@ville-valbonne.fr"
+    ],
+    "phones": [
+     "04 93 12 31 00",
+     "04 92 98 28 60"
+    ],
+    "forms": [
+     "https://www.ville-valbonne.fr/wp-content/uploads/sites/6/2026/10/reglement_de_l_appel_a_candidature_foodtruck_Pompidou-2026-V1.docx",
+     "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ville-valbonne.fr%2Factualite%2Fappel-a-candidature-food-truck-pompidou%2F",
+     "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ville-valbonne.fr%2Factualite%2Fappel-a-candidature-food-truck-pompidou%2F&text=Appel+%C3%A0+candidature+food-truck+Pompidou"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à candidature",
+    "candidature",
+    "food-truck"
+   ],
+   "fiable": true,
+   "hors_zone": null,
+   "score": 95,
+   "found_at": "2026-10-28T13:18:09+00:00",
+   "contact_checked": true,
+   "lien_ok": "page source"
+  },
+  {
    "id": "1c4731f86c14",
    "title": "Récital Piano-Voix",
    "summary": "07 Nov 2026 Récital Piano-Voix Une soirée exceptionnelle organisée par Lisa Angell. Venez profiter d'un concert rare ou Rémy Bailet pianiste concertiste accompagne 25 artistes. Saint-Raphaël",
@@ -464,42 +321,6 @@
    "hors_zone": null,
    "score": 90,
    "found_at": "2026-11-03T12:45:48+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "0a87c3cc25a1",
-   "title": "La grande soirée Guinguette et Paillettes",
-   "summary": "21 Nov 2026 La grande soirée Guinguette et Paillettes Les Papakools et la Cassiop’Team Rugby s’unissent pour vous proposer une soirée placée sous le signe de la fête, de la musique et de la convivialité ! Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/la-grande-soiree-guinguette-et-paillettes/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-21",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "fête",
-    "guinguette",
-    "soirée"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 90,
-   "found_at": "2026-10-31T10:54:29+00:00",
    "contact_checked": true
   },
   {
@@ -580,6 +401,41 @@
    "contact_checked": true
   },
   {
+   "id": "0a87c3cc25a1",
+   "title": "La grande soirée Guinguette et Paillettes",
+   "summary": "21 Nov 2026 La grande soirée Guinguette et Paillettes Les Papakools et la Cassiop’Team Rugby s’unissent pour vous proposer une soirée placée sous le signe de la fête, de la musique et de la convivialité ! Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/la-grande-soiree-guinguette-et-paillettes/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-21",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fête",
+    "guinguette"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 90,
+   "found_at": "2026-10-31T10:54:29+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "4f10bf3b874a",
    "title": "La grande soirée Guinguette et Paillettes",
    "summary": "21 Nov 2026 La grande soirée Guinguette et Paillettes Les Papakools et la Cassiop’Team Rugby s’unissent pour vous proposer une soirée placée sous le signe de la fête, de la musique et de la convivialité ! Saint-Raphaël",
@@ -612,6 +468,41 @@
    "hors_zone": null,
    "score": 90,
    "found_at": "2026-10-28T05:49:20+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "993dac53cc4f",
+   "title": "Créateurices sur Instagram: \"☃️ Il est encore temps de postuler dans les marchés et boutiques de créateur·ices pour les fêtes de fin d'années. Ne tarde pas à envoyer ta candidature ! ⏰ © Photo de couverture : @oeilpapill",
+   "summary": "111 likes, 3 comments - createurices le October 20, 2026: \"☃️ Il est encore temps de postuler dans les marchés et boutiques de créateur·ices pour les fêtes de fin d'années. Ne tarde pas à envoyer ta candidature ! ⏰ © Photo de couverture : @oeilpapillon pour @roseframboise__ ✌️ 13 (Bouches-du-Rhône) Marseille 2e - Marché de Noël par Shlag Market - du 4 au 6 décembre 2026, au @docksvillage - Date limite des candidatures non connue - Plus d'infos avec 👉 @shlagmarket ✌️ 13 (Bouches-du-Rhône) Marseille 6e - Marché de Noël par Shlag Market - du 18 au 20 décembre 2026, à la @brasserie_zoumai - Date l",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESZQHEIkXXTTgXFkckZgBKHbVmVHR_QIiNNyyWgMN0pzFd2SXJVINsSYr8xQIUu90aj1gbGFgc67Q7-csj57U3fMxTwnqgXmP9Ah-H0tjj2mL9BVCovXw9S_9kvuaUCE0Z51FeEJit",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": "2026-11-15",
+   "event_date": "2026-12-06",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "candidature",
+    "fêtes",
+    "marché de noël"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 85,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
    "contact_checked": true
   },
   {
@@ -749,6 +640,179 @@
    "contact_checked": true
   },
   {
+   "id": "625295c89b60",
+   "title": "Noël au Palais 2026 : appel à candidatures pour un food-truck et un chalet so… – Mairie des 4ᵉ et 5ᵉ arrondissements de Marseille",
+   "summary": "À l’occasion de Noël au Palais 2026, la Mairie des 4ᵉ et 5ᵉ arrondissements de Marseille lance un appel à manifestation d’intérêt (AMI) à destina… Partager cette page Facebook LinkedIn Twitter E-mail Organisé du 19 au 26 décembre 2026 , avec une fermeture le 25 décembre, cet événement familial et festif proposera aux habitants des animations et des moments de convivialité dans l’esprit des fêtes de fin d’année. À travers cet appel à candidatures, la mairie de secteur souhaite associer les structures engagées dans des démarches sociales, solidaires et durables à cette nouvelle édition. Deux emp",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-26",
+   "published": null,
+   "contact": {
+    "emails": [
+     "culture45@marseille.fr"
+    ],
+    "phones": [
+     "04 91 14 60 30"
+    ],
+    "forms": [
+     "https://www.facebook.com/sharer/sharer.php?u=https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
+     "https://www.linkedin.com/sharing/share-offsite/?url=https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
+     "https://twitter.com/share?url=https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à candidatures",
+    "appel à manifestation d'intérêt",
+    "emplacement",
+    "food-truck"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 85,
+   "found_at": "2026-10-31T10:54:29+00:00",
+   "contact_checked": true,
+   "lien_ok": "2026-11-07"
+  },
+  {
+   "id": "a0f7be956ebf",
+   "title": "Festival : Les femmes s'en mêlent 2026 - Salon-de-Provence : dates, programmation, billetterie",
+   "summary": "Festival, le 7 novembre 2026, à Salon-de-Provence (Bouches du Rhône) - horaires, tarifs, renseignements. Depuis 1997, le festival Les Femmes s’en Mêlent œuvre pour une plus grande visibilité des artistes femmes dans les musiques actuelles. Les Salon-de-Provence Concert, spectacle, etc. Je publie sur le JDS Concert, spectacle, etc. Aujourd'hui Demain Ce week-end Agenda Sorties & loisirs Actu Artistes en tournée Publier sur JDS Vos idées sorties Grands événements Activité & Expérience Activité & Expérience : voir tout Aventure Visites Nature Aquatique & nautique Pilotage Ateliers Bien-être Gastr",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESowEBxCJF10ucIt3LKQvr4o7wJWqDU3YQ3rrBUUbNCKAd6-Va4Y45OwPcV3K-kVGhgGpoHMhTvG-Q513rUPJhhqU1ujQ4vfipqMQN0tRJH6rmwfQOxZdIOgqycQhhWQf9t6X7oMFAVvNCAfb6EfdI1qRFuy4ygabWC5QL8q6qtb56dnvk6YW37s2B6uRI3i4vLstJ2rXDl_MWig1UKqj601JM8wfh&gsessionid=L9v2aKA8JzNcE4-2Gn4NgODGa2OZCiNZnmTTgHiDA4bMFKQpoQizAA",
+   "organizer": null,
+   "city": "Salon-de-Provence",
+   "dept": "13",
+   "lat": 43.6377,
+   "lon": 5.06204,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-07",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://www.helloasso.com/associations/oeuvre-de-la-jeunesse-laique-de-salon-de-provence-centre-de-culture-et-loisirs-du-portail-coucou/evenements/festival-les-femmes-s-en-melent",
+     "https://www.jds.fr/newsletter-archives/toutes-les-newsletter-jds-fr?origin=modal-newsletter&dpt=13&list=1"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "carnaval",
+    "concert",
+    "festival",
+    "fête",
+    "fête de la musique",
+    "fêtes",
+    "marché de noël"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 85,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
+   "contact_checked": true
+  },
+  {
+   "id": "ce207f0ea6c7",
+   "title": "Marché de créateurs Saint-Blaise 2026 - dates, horaires, ouverture, programme",
+   "summary": "Marché de Noël, le 15 novembre 2026, à Saint-Blaise (Alpes-Maritimes) - horaires, tarifs, renseignements. 9ème édition du marché de créateurs de Saint-Blaise avec 40 artistes et artisans créateurs venus de tout le département et sélectionnés Nice Concert, spectacle, etc. Je publie sur le JDS Concert, spectacle, etc. Aujourd'hui Demain Ce week-end Agenda Sorties & loisirs Actu Artistes en tournée Publier sur JDS Vos idées sorties Grands événements Activité & Expérience Activité & Expérience : voir tout Aventure Visites Nature Aquatique & nautique Pilotage Ateliers Bien-être Gastronomie Jeux Int",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESkAEBxCJF11GvaQt0Q_jr5VtQW67EsbeVjc9CJpMg5rUs4UZ2NzGEkCgJ5-gS7YYssYF_186RVA1mpJMkIzKPjfyeWMYV7xi9Z01h5RPa-geGQ9bIC5NCFAd-jZJ4SNlW6oBbaHmvvWJf8y-huBhCvHAMPSj7FNZbY5Z6NNNFx0y7XxuHpb41a4qK_3A2imK2jyE",
+   "organizer": null,
+   "city": "Nice",
+   "dept": "06",
+   "lat": 43.71273,
+   "lon": 7.25531,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-15",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://www.jds.fr/newsletter-archives/toutes-les-newsletter-jds-fr?origin=modal-newsletter&dpt=06&list=1"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "carnaval",
+    "concert",
+    "festival",
+    "fête",
+    "fête de la musique",
+    "fêtes",
+    "marché de noël"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 85,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
+   "contact_checked": true
+  },
+  {
+   "id": "b192c87a3461",
+   "title": "Les Belles Échappées - Marché de Noël et découverte d'Aix-en-Provence Gassin 2026 - dates, horaires, ouverture, programme",
+   "summary": "Marché de Noël, le 5 décembre 2026, à Gassin (Var) - horaires, tarifs, renseignements. Partez de Gassin pour une escapade à Aix-en-Provence ! Profitez d’une visite guidée de la ville avec Serge Vota, puis flânez au marché de Noël sur le cours Gassin Concert, spectacle, etc. Je publie sur le JDS Concert, spectacle, etc. Aujourd'hui Demain Ce week-end Agenda Sorties & loisirs Actu Artistes en tournée Publier sur JDS Vos idées sorties Grands événements Activité & Expérience Activité & Expérience : voir tout Aventure Visites Nature Aquatique & nautique Pilotage Ateliers Bien-être Gastronomie Jeux ",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESuwEBxCJF10a1XjUFeY-whnzw6N1XM6NDhrThmszSOdtl_G0fTZ5VCrjb431YWRyfKYQu7vlzUpxr9xz2RlYC10z4U7PF-oR97bTgzry0FOSFPVVeUetwge1FrK3X8ZczU4dl1H9syYkd6VughUAqMZnYlU1_4PcUmNzqloG7BGSfObikpS3E8LUZXTe0YpzNjJGA9s0H1UY4T9VC1-wFinxSzj4RuyXdVW-0aybnQzsQ9D_cXAmRGzIc1BeL",
+   "organizer": null,
+   "city": "Aix-en-Provence",
+   "dept": "13",
+   "lat": 43.54137,
+   "lon": 5.40612,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-05",
+   "published": null,
+   "contact": {
+    "emails": [
+     "lesbellesechappees@yahoo.fr"
+    ],
+    "phones": [
+     "06 85 38 25 77"
+    ],
+    "forms": [
+     "https://www.helloasso.com/",
+     "https://www.jds.fr/newsletter-archives/toutes-les-newsletter-jds-fr?origin=modal-newsletter&dpt=83&list=1"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "carnaval",
+    "concert",
+    "festival",
+    "fête",
+    "fête de la musique",
+    "fêtes",
+    "marché de noël"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 85,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
+   "contact_checked": true
+  },
+  {
    "id": "e1586e0c02f0",
    "title": "📣 APPEL À CANDIDATURES – FOOD TRUCK / RESTAURATION 🍔🌭🥙 | Facebook",
    "summary": "📣 APPEL À CANDIDATURES – FOOD TRUCK / RESTAURATION 🍔🌭🥙 Dans le cadre de notre Vide-Grenier à Sanary, nous recherchons un food truck ou professionnel de la restauration/snacking pour proposer une...",
@@ -821,12 +885,410 @@
    "lien_ok": "2026-10-31"
   },
   {
-   "id": "625295c89b60",
-   "title": "Noël au Palais 2026 : appel à candidatures pour un food-truck et un chalet so… – Mairie des 4ᵉ et 5ᵉ arrondissements de Marseille",
-   "summary": "À l’occasion de Noël au Palais 2026, la Mairie des 4ᵉ et 5ᵉ arrondissements de Marseille lance un appel à manifestation d’intérêt (AMI) à destina… Partager cette page Facebook LinkedIn Twitter E-mail Organisé du 19 au 26 décembre 2026 , avec une fermeture le 25 décembre, cet événement familial et festif proposera aux habitants des animations et des moments de convivialité dans l’esprit des fêtes de fin d’année. À travers cet appel à candidatures, la mairie de secteur souhaite associer les structures engagées dans des démarches sociales, solidaires et durables à cette nouvelle édition. Deux emp",
-   "type": "Appel à candidatures",
+   "id": "c0b464bc4794",
+   "title": "Les marchés de Noël immanquables de Marseille et alentours !",
+   "summary": "Marchés de noël, foire aux santons… À l’arrivée de l’hiver, Marseille et sa région savent mettre de la magie de noël dans notre quotidien. © Francesco Bonino | Shutterstock Save Share Inès Azouz – Journaliste · novembre 5, 2026 Faites de nous votre source préférée Quoi de mieux que des marchés de noël pour nous faire vivre l’ambiance magique des fêtes ? Mis en place dès le mois de novembre pour la plupart, ces lieux éphémères sont les endroits parfaits pour se balader en famille et commencer à acheter les cadeaux qui attendront patiemment sous le sapin jusqu’au 25 décembre. Marseille Secrète v",
+   "type": "Événement",
    "source": "Recherche web",
-   "url": "https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
+   "url": "https://www.google.com/goto?url=CAESfgHEIkXX1zqdrcDFUF_Sx1J_mAVswdZHQk0_et1l3eI9oQR6lOLJiuI69KOhkJy2f9ZJB2daOumBfCKeAO860mtv-BPrMrW4P4UDtb1Ekb8r8gZmgAdDcWWgeuX88LbkJ65yauWNL1jPi1Q1GQIf4OIlJ95M729U5gZPdrZtgg",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": "2027-01-03",
+   "event_date": "2026-11-28",
+   "published": null,
+   "contact": {
+    "emails": [
+     "marseille@secretmedianetwork.com"
+    ],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "foire",
+    "fêtes",
+    "marché de noël"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 80,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
+   "contact_checked": true
+  },
+  {
+   "id": "5ae9ea0df2f9",
+   "title": "Festival Sacrée Musique | Concert Saint-Tropez | Golfe de Saint-Tropez Destination",
+   "summary": "Deux grands concerts de Noël illuminés à la bougie à Saint-Tropez : polyphonies sardes avec le Conservatoire du Golfe le 5 décembre, puis Chœur de l’Opéra de Toulon le 6 décembre, à Notre-D Retour à la liste Saint-Tropez Samedi 5 décembre 2026 à 20h Ajouter à mon agenda Deux grands concerts de Noël illuminés à la bougie à Saint-Tropez : polyphonies sardes avec le Conservatoire du Golfe le 5 décembre, puis Chœur de l’Opéra de Toulon le 6 décembre, à Notre-Dame-de-l’Assomption. À l’approche de Noël, Sacrée Musique revient à Saint-Tropez pour ses habituels concerts illuminés à la bougie dans l’ég",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.golfe-saint-tropez-information.com/fr/animation/culture/saint-tropez/festival-sacree-musique-8048882",
+   "organizer": null,
+   "city": "Saint-Tropez",
+   "dept": "83",
+   "lat": 43.26495,
+   "lon": 6.65812,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-05",
+   "published": null,
+   "contact": {
+    "emails": [
+     "info@visitgolfe.com"
+    ],
+    "phones": [
+     "04 94 97 45 21"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert",
+    "festival"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 80,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
+   "contact_checked": true
+  },
+  {
+   "id": "9360796e6057",
+   "title": "Brocante et vide-grenier Sanary-sur-Mer (83110) - Brocabrac",
+   "summary": "Sanary-sur-Mer (83110) - Agenda des brocantes et des vide-greniers à Sanary-sur-Mer dans votre département. Vous aimez chiner ? Ne ratez aucun événement sanaryen avec le calendrier Brocabrac ! Vide-greniers, brocantes et autres déballages... Sanary-sur-Mer Sélectionner une date Type d'événement Créer une alerte Choisir un lieu Sanary-sur-Mer Suggestion de lieux Provence-Alpes-Côte d'Azur 83 - Var La Destrousse Carnoules Puget-Ville Tourves Saint-Mandrier-sur-Mer Bandol Créer une alerte Valider Choisir une date Toutes les dates Aujourd'hui Demain Ce week-end Cette semaine Le week-end prochain N",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://brocabrac.fr/83/sanary-sur-mer/",
+   "organizer": null,
+   "city": "Six-Fours-les-Plages",
+   "dept": "83",
+   "lat": 43.09171,
+   "lon": 5.8176,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-14",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "brocante",
+    "marché de noël",
+    "vide-grenier",
+    "vide-greniers"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 80,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
+   "contact_checked": true
+  },
+  {
+   "id": "5dfaf116b3e2",
+   "title": "Brocante et vide-grenier Le Plan-de-la-Tour (83120) - Brocabrac",
+   "summary": "Le Plan-de-la-Tour (83120) - Agenda des brocantes et des vide-greniers à Le Plan-de-la-Tour dans votre département. Vous aimez chiner ? Ne ratez aucun événement plantourian avec le calendrier Brocabrac ! Vide-greniers, brocantes et autres déballages... Le Plan-de-la-Tour Sélectionner une date Type d'événement Créer une alerte Choisir un lieu Le Plan-de-la-Tour Suggestion de lieux Provence-Alpes-Côte d'Azur 83 - Var Vins-sur-Caramy Saint-Paul-en-Forêt Cabasse Les Adrets-de-l'Estérel Callian Carnoules Créer une alerte Valider Choisir une date Toutes les dates Aujourd'hui Demain Ce week-end Cette",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESZwHEIkXXZH9iz8dC7AKZmXoStBVviCPF5hFFjkWwt64bHJC2xZf5ukgShuOnWkJYlqCyKlMqE0pdktzKQEpJrVluYVJ9-tQ9w_aRtqHQkjnaDk0rkr2VWz2SEM48FyXO48VYsDC7sGA",
+   "organizer": null,
+   "city": "Les Adrets-de-l'Estérel",
+   "dept": "83",
+   "lat": 43.52692,
+   "lon": 6.83259,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-07",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "brocante",
+    "marché de noël",
+    "vide-grenier",
+    "vide-greniers"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 80,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
+   "contact_checked": true
+  },
+  {
+   "id": "95d59615baaa",
+   "title": "Brocante et vide-grenier Vence (06140) - Brocabrac",
+   "summary": "Vence (06140) - Agenda des brocantes et des vide-greniers à Vence dans votre département. Vous aimez chiner ? Ne ratez aucun événement vençois avec le calendrier Brocabrac ! Vide-greniers, brocantes et autres déballages... Vence Sélectionner une date Type d'événement Créer une alerte Choisir un lieu Vence Suggestion de lieux Provence-Alpes-Côte d'Azur 06 - Alpes-Maritimes Revest-les-Roches Cabris Saint-Paul-en-Forêt Les Adrets-de-l'Estérel Auribeau-sur-Siagne Callian Créer une alerte Valider Choisir une date Toutes les dates Aujourd'hui Demain Ce week-end Cette semaine Le week-end prochain Nov",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://brocabrac.fr/06/vence/",
+   "organizer": null,
+   "city": "Les Adrets-de-l'Estérel",
+   "dept": "83",
+   "lat": 43.52692,
+   "lon": 6.83259,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-07",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "brocante",
+    "marché de noël",
+    "vide-grenier",
+    "vide-greniers"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 80,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
+   "contact_checked": true
+  },
+  {
+   "id": "9c951de96f14",
+   "title": "Brocante et vide-grenier Castagniers (06670) - Brocabrac",
+   "summary": "Castagniers (06670) - Agenda des brocantes et des vide-greniers à Castagniers dans votre département. Vous aimez chiner ? Ne ratez aucun événement castagnérenque avec le calendrier Brocabrac ! Vide-greniers, brocantes et autres déballages... Castagniers Sélectionner une date Type d'événement Créer une alerte Choisir un lieu Castagniers Suggestion de lieux Provence-Alpes-Côte d'Azur 06 - Alpes-Maritimes Revest-les-Roches Cabris Saint-Martin-du-Var Auribeau-sur-Siagne Sospel La Gaude Créer une alerte Valider Choisir une date Toutes les dates Aujourd'hui Demain Ce week-end Cette semaine Le week-e",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://brocabrac.fr/06/castagniers/",
+   "organizer": null,
+   "city": "Cagnes-sur-Mer",
+   "dept": "06",
+   "lat": 43.67564,
+   "lon": 7.15009,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-07",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "brocante",
+    "marché de noël",
+    "vide-grenier",
+    "vide-greniers"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 80,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
+   "contact_checked": true
+  },
+  {
+   "id": "c162a99c4a73",
+   "title": "Brocante et vide-grenier Saint-Raphaël (83530) - Brocabrac",
+   "summary": "Saint-Raphaël (83530) - Agenda des brocantes et des vide-greniers à Saint-Raphaël dans votre département. Vous aimez chiner ? Ne ratez aucun événement raphaëlois avec le calendrier Brocabrac ! Vide-greniers, brocantes et autres déballages... Saint-Raphaël Sélectionner une date Type d'événement Créer une alerte Choisir un lieu Saint-Raphaël Suggestion de lieux Provence-Alpes-Côte d'Azur 83 - Var Saint-Paul-en-Forêt Les Adrets-de-l'Estérel Auribeau-sur-Siagne Callian Grimaud Le Cannet-des-Maures Créer une alerte Valider Choisir une date Toutes les dates Aujourd'hui Demain Ce week-end Cette semai",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://brocabrac.fr/83/saint-raphael/",
+   "organizer": null,
+   "city": "Les Adrets-de-l'Estérel",
+   "dept": "83",
+   "lat": 43.52692,
+   "lon": 6.83259,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-10",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "brocante",
+    "marché de noël",
+    "vide-grenier",
+    "vide-greniers"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 80,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
+   "contact_checked": true
+  },
+  {
+   "id": "3966680751a4",
+   "title": "Brocante et vide-grenier Fréjus (83370) - Novembre 2026",
+   "summary": "Fréjus (83370) - Agenda des brocantes et des vide-greniers à Fréjus dans votre département. Vous aimez chiner ? Ne ratez aucun événement fréjusien en novembre 2026 avec le calendrier Brocabrac ! Vide-greniers, brocantes et autres déballages... Fréjus Novembre 2026 Type d'événement Créer une alerte Choisir un lieu Fréjus Suggestion de lieux Provence-Alpes-Côte d'Azur 83 - Var Saint-Paul-en-Forêt Les Adrets-de-l'Estérel Auribeau-sur-Siagne Callian Grimaud Gonfaron Créer une alerte Valider Choisir une date Toutes les dates Aujourd'hui Demain Ce week-end Cette semaine Le week-end prochain Novembre",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://brocabrac.fr/83/frejus/novembre/",
+   "organizer": null,
+   "city": "Les Adrets-de-l'Estérel",
+   "dept": "83",
+   "lat": 43.52692,
+   "lon": 6.83259,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-07",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "brocante",
+    "marché de noël",
+    "vide-grenier",
+    "vide-greniers"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 80,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
+   "contact_checked": true
+  },
+  {
+   "id": "4772c527ea17",
+   "title": "Brocante et vide-grenier Puget-sur-Argens (83480) - Brocabrac",
+   "summary": "Puget-sur-Argens (83480) - Agenda des brocantes et des vide-greniers à Puget-sur-Argens dans votre département. Vous aimez chiner ? Ne ratez aucun événement pugétois avec le calendrier Brocabrac ! Vide-greniers, brocantes et autres déballages... Puget-sur-Argens Sélectionner une date Type d'événement Créer une alerte Choisir un lieu Puget-sur-Argens Suggestion de lieux Provence-Alpes-Côte d'Azur 83 - Var Saint-Paul-en-Forêt Cabasse Les Adrets-de-l'Estérel Auribeau-sur-Siagne Callian Flassans-sur-Issole Créer une alerte Valider Choisir une date Toutes les dates Aujourd'hui Demain Ce week-end Ce",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://brocabrac.fr/83/puget-sur-argens/",
+   "organizer": null,
+   "city": "Les Adrets-de-l'Estérel",
+   "dept": "83",
+   "lat": 43.52692,
+   "lon": 6.83259,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-05",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "brocante",
+    "marché de noël",
+    "vide-grenier",
+    "vide-greniers"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 80,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
+   "contact_checked": true
+  },
+  {
+   "id": "5c4455df8140",
+   "title": "Brocante et vide-grenier Le Plan-de-la-Tour (83120) - Brocabrac",
+   "summary": "Le Plan-de-la-Tour (83120) - Agenda des brocantes et des vide-greniers à Le Plan-de-la-Tour dans votre département. Vous aimez chiner ? Ne ratez aucun événement plantourian avec le calendrier Brocabrac ! Vide-greniers, brocantes et autres déballages... Le Plan-de-la-Tour Sélectionner une date Type d'événement Créer une alerte Choisir un lieu Le Plan-de-la-Tour Suggestion de lieux Provence-Alpes-Côte d'Azur 83 - Var Vins-sur-Caramy Saint-Paul-en-Forêt Cabasse Les Adrets-de-l'Estérel Callian Carnoules Créer une alerte Valider Choisir une date Toutes les dates Aujourd'hui Demain Ce week-end Cette",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESaAHEIkXXUEMBKvrt5ELL-YAzk5rTaw6aOc7TWaJebH5ThnaXbddDRawgQV7DDKjJaG3pJfWn4FIGneL_7X-qo_9heu6RK1RgTcRgKeVCTufvHbQ6_cxXvBXbN3GC1Sw80cmrBUAABf7y",
+   "organizer": null,
+   "city": "Les Adrets-de-l'Estérel",
+   "dept": "83",
+   "lat": 43.52692,
+   "lon": 6.83259,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-07",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "brocante",
+    "marché de noël",
+    "vide-grenier",
+    "vide-greniers"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 80,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
+   "contact_checked": true
+  },
+  {
+   "id": "3b5698c93d75",
+   "title": "Vide-greniers, brocantes et bourses - Var - Novembre",
+   "summary": "L'agenda indispensable pour dénicher les meilleurs vide-greniers, brocantes, bourses d'objets et bourses de collectionneurs près de chez vous. Ne manquez plus une occasion de faire des trouvailles uniques. Lancez votre recherche maintenant et trouvez l'événement idéal pour chiner ! Ouvrir formulaire de recherche Où recherchez-vous ? Var Enregistrer ma recherche Quand ? Toutes les dates Les week-ends La semaine prochaine Mois Période personnalisée Quoi ? Tous les types Novembre Décembre Janvier Février Mars Avril Mai Juin Juillet Août Septembre Octobre Du au Vide greniers Brocante, salon d'anti",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESbQHEIkXXiZ9wBc5GKx6d1EnG1ZoEw9X6ZMc7fc7q9s7JXYx3pHxfPREc1qMJ8m1N4RN1GvxeS82wzs6cGRimCD17HK__ZgewvNpyeyZOXkxOs0a_v2Dk8sJEfCzQk-o0RKgvAzFkN3pSK2cmzYQ",
+   "organizer": null,
+   "city": "Fréjus",
+   "dept": "83",
+   "lat": 43.44566,
+   "lon": 6.77051,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-07",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "brocante",
+    "recherche",
+    "vide-greniers"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 80,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
+   "contact_checked": true
+  },
+  {
+   "id": "9b84007c2dc5",
+   "title": "Festival Tous en Sons ! 2026 : la musique jeune public à Marseille du 1er au 23 décembre - Que faire en famille ?",
+   "summary": "Tous en Sons revient du 29 novembre au 23 décembre à Marseille, Aix en Provence et aux alentours pour une nouvelle édition! Actualités Evénements Spectacles Festival Tous en Sons ! 2026 : la musique jeune public à Marseille du 1er au 23 décembre par Pauline 16 octobre 2026 Pauline 16 octobre 2026 6,2K Du mardi 1er au mercredi 23 décembre 2026 , le festival Tous en Sons ! revient pour sa 8e édition . Pendant trois semaines, ce rendez-vous marseillais entièrement consacré à la musique jeune public fait découvrir aux enfants toutes sortes de musiques : classique, jazz, électro, ciné-concert ou co",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://quefaireenfamille.com/festival-tous-en-sons/",
    "organizer": null,
    "city": "Marseille",
    "dept": "13",
@@ -834,34 +1296,29 @@
    "lon": 5.405,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-12-26",
+   "event_date": "2026-12-23",
    "published": null,
    "contact": {
     "emails": [
-     "culture45@marseille.fr"
+     "contact@quefaireenfamille.com"
     ],
-    "phones": [
-     "04 91 14 60 30"
-    ],
-    "forms": [
-     "https://www.facebook.com/sharer/sharer.php?u=https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
-     "https://www.linkedin.com/sharing/share-offsite/?url=https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
-     "https://twitter.com/share?url=https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/"
-    ]
+    "phones": [],
+    "forms": []
    },
-   "mode": "demandes",
+   "mode": "evenements",
    "via": null,
    "keywords": [
-    "appel à candidatures",
-    "appel à manifestation d'intérêt",
-    "food-truck"
+    "carnaval",
+    "concert",
+    "festival",
+    "fêtes"
    ],
    "fiable": false,
    "hors_zone": null,
    "score": 80,
-   "found_at": "2026-10-31T10:54:29+00:00",
+   "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-11-01"
+   "lien_ok": "2026-11-07"
   },
   {
    "id": "f73891f2ddb8",
@@ -1092,45 +1549,50 @@
    "lien_ok": "2026-10-28"
   },
   {
-   "id": "9b84007c2dc5",
-   "title": "Festival Tous en Sons ! 2026 : la musique jeune public à Marseille du 1er au 23 décembre - Que faire en famille ?",
-   "summary": "Tous en Sons revient du 29 novembre au 23 décembre à Marseille, Aix en Provence et aux alentours pour une nouvelle édition! Actualités Evénements Spectacles Festival Tous en Sons ! 2026 : la musique jeune public à Marseille du 1er au 23 décembre par Pauline 16 octobre 2026 Pauline 16 octobre 2026 6,2K Du mardi 1er au mercredi 23 décembre 2026 , le festival Tous en Sons ! revient pour sa 8e édition . Pendant trois semaines, ce rendez-vous marseillais entièrement consacré à la musique jeune public fait découvrir aux enfants toutes sortes de musiques : classique, jazz, électro, ciné-concert ou co",
+   "id": "1e094e4d05fd",
+   "title": "Salon-de-Provence - Agenda : le Samedi 5 Décembre 2026 - Sorties, spectacles, concerts et manifestations",
+   "summary": "Salon-de-Provence - L'agenda de tous les spectacles, sorties, manifestations, concerts, conférences, expositions, soirées : Samedi 5 Décembre 2026 - 5-12-2026 Salon-de-Provence Concert, spectacle, etc. Je publie sur le JDS Concert, spectacle, etc. Aujourd'hui Demain Ce week-end Agenda Sorties & loisirs Actu Artistes en tournée Publier sur JDS Vos idées sorties Grands événements Activité & Expérience Activité & Expérience : voir tout Aventure Visites Nature Aquatique & nautique Pilotage Ateliers Bien-être Gastronomie Jeux Interactives & immersives Manifestations Manifestations : voir tout Anima",
    "type": "Événement",
    "source": "Recherche web",
-   "url": "https://quefaireenfamille.com/festival-tous-en-sons/",
+   "url": "https://www.jds.fr/salon-de-provence/agenda/agenda-du-jour/samedi-5-decembre-2026-5-12-2026_JPJ",
    "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-12-23",
+   "event_date": "2026-12-05",
    "published": null,
    "contact": {
-    "emails": [
-     "contact@quefaireenfamille.com"
-    ],
+    "emails": [],
     "phones": [],
-    "forms": []
+    "forms": [
+     "https://www.jds.fr/newsletter-archives/toutes-les-newsletter-jds-fr?origin=modal-newsletter&dpt=13&list=1"
+    ]
    },
    "mode": "evenements",
    "via": null,
    "keywords": [
+    "carnaval",
     "concert",
-    "festival"
+    "festival",
+    "fête",
+    "fête de la musique",
+    "fêtes",
+    "marché de noël"
    ],
    "fiable": false,
    "hors_zone": null,
-   "score": 80,
-   "found_at": "2026-10-28T05:49:20+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-28"
+   "score": 75,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
+   "contact_checked": true
   },
   {
    "id": "7a9df4672862",
    "title": "Festival Régional De Théâtre Amateur",
-   "summary": "06 Nov 2026 Festival Régional De Théâtre Amateur Comme chaque année, cet évènement incontournable à Puget est organisé par la Compagnie Le QUIPROQUO du Foyer Culturel Laïque et la Ville de Puget sur Argens. Puget-sur-Argens",
+   "summary": "07 Nov 2026 Festival Régional De Théâtre Amateur Comme chaque année, cet évènement incontournable à Puget est organisé par la Compagnie Le QUIPROQUO du Foyer Culturel Laïque et la Ville de Puget sur Argens. Puget-sur-Argens",
    "type": "Événement",
    "source": "Page surveillée",
    "url": "https://www.esterel-cotedazur.com/en/cards/festival-regional-de-theatre-amateur/",
@@ -1141,7 +1603,7 @@
    "lon": 6.68553,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-11-06",
+   "event_date": "2026-11-07",
    "published": null,
    "contact": {
     "emails": [],
@@ -1177,7 +1639,7 @@
    "lon": 6.68553,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-11-06",
+   "event_date": "2026-11-28",
    "published": null,
    "contact": {
     "emails": [
@@ -1269,6 +1731,44 @@
    "hors_zone": null,
    "score": 75,
    "found_at": "2026-10-14T05:39:31+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "1cc63aa14f8c",
+   "title": "Salon Made in France Varois",
+   "summary": "14 Nov 2026 Salon Made in France Varois Le Salon Made in France Varois met à l'honneur le savoir-faire français avec des exposants locaux du Var! Puget-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/salon-made-in-france-varois-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Puget-sur-Argens",
+   "dept": "83",
+   "lat": 43.47045,
+   "lon": 6.68553,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-14",
+   "published": null,
+   "contact": {
+    "emails": [
+     "contact@levillagemadeinfrance.fr"
+    ],
+    "phones": [
+     "09 88 07 32 41",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "exposants",
+    "salon"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-11-07T11:42:37+00:00",
    "contact_checked": true
   },
   {
@@ -1416,6 +1916,118 @@
    "hors_zone": null,
    "score": 75,
    "found_at": "2026-10-25T05:38:16+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "927c42406080",
+   "title": "vide grenier marché de noel - Bras-d'Asse (04)",
+   "summary": "9h-18h Marché de Noël, foire artisanale, vide grenier, bourses aux jouets, vêtements, autos motos Exposition véhicules anciens auto moto Food truck asiatique Camion pizza Château gonflable etc ..... Retour | Provence-Alpes-Côte d'Azur > Alpes de Haute-Provence > Bras-d'Asse Nov. 22 Dimanche 22 Novembre 2026 Bras-d'Asse (04) vide grenier marché de noel Vide-greniers et marché aux puces Partager Infos Accès Exposants Contact Informations générales 9h-18h Entrée gratuite 80 exposants attendus Marché de Noël, foire artisanale, vide grenier, bourses aux jouets, vêtements, autos motos Exposition véh",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://vide-greniers.org/evenement/1036664",
+   "organizer": null,
+   "city": null,
+   "dept": "04",
+   "lat": 44.09,
+   "lon": 6.24,
+   "approx": true,
+   "deadline": null,
+   "event_date": "2026-11-22",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "exposants",
+    "foire",
+    "marché de noël",
+    "vide-greniers"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
+   "contact_checked": true
+  },
+  {
+   "id": "d343513ec424",
+   "title": "Fête de la Châtaigne – 8 novembre 2026 à La Garde-Freinet | Guide du Golfe",
+   "summary": "Fête locale à La Garde-Freinet, Place de la Mairie. 8 novembre 2026. Plan d’accès et infos pratiques sur le Guide du Golfe. Dimanche 8 novembre 2026 09:00 – 18:00 Place de la Mairie 83680 La Garde-Freinet Y aller Gratuit Agenda Appeler À propos Animations toutes la journée. Marché traditionnel de la châtaigne proposé par le Comité des Fêtes, vente produits dérivés, produits du terroir, marrons grillés. Animations toutes la journée. Snack et buvette sur place. Accessibilité et services Animaux acceptés Accès handicapé Adapté aux enfants Toilettes Parking gratuit Stationnement limité dans le tem",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESdAHEIkXX1JwChYeLWodL0b2LtdlKAO1ANN0Wxa3-tmRfYVbPM254hZyvStv9gW-iOmp9QRWNFIC-g8f0IA1v2wz43t14bnlnH69iEz1qyPh6i5ZY8QtH8zgmPx8feoRDWsqAQR6pbcY9XDaTGtNzSoOErPNH",
+   "organizer": null,
+   "city": "La Garde-Freinet",
+   "dept": "83",
+   "lat": 43.31321,
+   "lon": 6.48008,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-08",
+   "published": null,
+   "contact": {
+    "emails": [
+     "patrickburet@sfr.fr"
+    ],
+    "phones": [
+     "06 11 52 19 48"
+    ],
+    "forms": [
+     "https://www.google.com/inscription?type=pro",
+     "https://www.google.com/inscription"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fête",
+    "fêtes"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
+   "contact_checked": true
+  },
+  {
+   "id": "d3bb986aee89",
+   "title": "Vide grenier - Villefranche-sur-Mer (06)",
+   "summary": "8 h00 17 h00 Retour | Provence-Alpes-Côte d'Azur > Alpes-Maritimes > Villefranche-sur-Mer Nov. 8 Dimanche 8 Novembre 2026 Villefranche-sur-Mer (06) Vide grenier Vide-greniers et marché aux puces Partager Infos Accès Exposants Contact Informations générales 8 h00 17 h00 Entrée gratuite 85 exposants attendus Accès Plage des Marinières - Alpes-Maritimes , Villefranche-sur-Mer Itinéraire Google Maps Apple maps Open Street map Bing maps Waze Informations exposants 85 exposants maximum Contact Comité des fêtes de villefranche Contacter par téléphone Connectez-vous pour pouvoir envoyer un message dir",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESaAHEIkXXW4RE1F1oPEM7IyBFM1SlLoFwlzgH_h1o88Tf5FKkPsi-BDOk8dUbLqaPfI1ah98csG3eQCj5CS8npnuhwJd0PH1vOBxW4Y98-6aSogSWKUORkOE8aSiOWpsUEn2ZRu3FjRGl",
+   "organizer": null,
+   "city": null,
+   "dept": "06",
+   "lat": 43.94,
+   "lon": 7.18,
+   "approx": true,
+   "deadline": null,
+   "event_date": "2026-11-08",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "exposants",
+    "fêtes",
+    "vide-greniers"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
    "contact_checked": true
   },
   {
@@ -2004,41 +2616,6 @@
    "lien_ok": "2026-10-28"
   },
   {
-   "id": "e56a5b082887",
-   "title": "Couple en Danger",
-   "summary": "06 Nov 2026 Couple en Danger La prochaine soirée théâtrale au cinéma le Vox Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/couple-en-danger-5/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-06",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "07 69 20 21 36",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "soirée"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 70,
-   "found_at": "2026-10-27T05:40:24+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "e0310f9cae76",
    "title": "Chœur Sardes X Sacrée Musique",
    "summary": "07 Nov 2026 Chœur Sardes X Sacrée Musique La Saison Musicale vous invite à une expérience tout à fait inédite : une soirée entièrement illuminée à la vraie bougie avec les Tenores di Orosei, l’une des plus célèbres formations de polyphonies Sardes. Fréjus",
@@ -2257,6 +2834,40 @@
    "contact_checked": true
   },
   {
+   "id": "09ce1e8acc00",
+   "title": "Salon Bien-être & Thérapies",
+   "summary": "21 Nov 2026 au 22 Nov 2026 Salon Bien-être & Thérapies 10ᵉ édition sur le thème « l’enthousiasme : booster son hiver et rester zen » Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/salon-bien-etre-therapies/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-21",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "salon"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "ded17c759a62",
    "title": "Ultra trail des troupes de marine",
    "summary": "21 Nov 2026 au 22 Nov 2026 Ultra trail des troupes de marine L’Ultra-Trail des Troupes de Marine se tiendra les 21 et 22 novembre 2026 à Fréjus, autour du Musée des Troupes de Marine. Cet événement propose trois parcours de 24,4 km, 58,8 km et 128 km, adaptés à différents niveaux. Fréjus",
@@ -2363,6 +2974,40 @@
    "hors_zone": null,
    "score": 70,
    "found_at": "2026-11-02T13:28:07+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "396b20f9ebe9",
+   "title": "Marché de Noël Manosque 2026 : dates, accès, spécialités",
+   "summary": "Le marché de Noël de Manosque du 11 au 24 décembre 2026 : chalets promenade Aubert Millot, patinoire, petit train et spécialités provençales. Visuel d’illustration Ouvre le 11 décembre Marché de Noël de Manosque Le marché de Noël de Manosque installe une vingtaine de chalets sur la promenade Aubert Millot, dans la ville de Jean Giono, avec patinoire, petit train et spécialités provençales. Rendez-vous local Authentique Familial Gourmand Petit (moins de 30 chalets) Mis à jour le 25 octobre 2026 Localisation du Marché de Noël de Manosque Voir les marchés alentour Les points forts du Marché de No",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESaQHEIkXXO_Basb9TZYwTs7Q6iKndsyZqWqK38KicXhaxuy9mUvQJTV83mTZVxKV7Qq2pLJg4d2UjzAQoPbO90KU_VsrwTDRYxZVrufXEBAoQ5woROBdDq2BmAmW4wHmh4HZi8LNj3XsHYg",
+   "organizer": null,
+   "city": "Manosque",
+   "dept": "04",
+   "lat": 43.82654,
+   "lon": 5.79024,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-24",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fêtes",
+    "marché de noël"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
    "contact_checked": true
   },
   {
@@ -2516,6 +3161,148 @@
    "lien_ok": "2026-10-28"
   },
   {
+   "id": "ce7dc13d7b7a",
+   "title": "FESTIVAL C’EST PAS CLASSIQUE 2026 DANS LES ALPES-MARITIMES",
+   "summary": "Découvrez la programmation musicale du festival C'est Pas Classique 2026 LIVE Facebook X Pinterest WhatsApp Email Découvrez la programmation musicale du festival C’est Pas Classique 2026 Du 07 au 22/11/2026 dans le département des Alpes-Maritimes (06). C’est pas Classique déploie sa 21ème édition avec une ambition toujours aussi claire : faire vivre la musique classique autrement, en la faisant dialoguer avec le jazz, la pop, la danse et les musiques du monde. Le festival déploie plus de 25 concerts gratuits dans 14 communes, avec une programmation pensée pour toucher tous les publics, des plu",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESlwEBxCJF14m3QMnRgywpAk7HOx1RmrrMTiIhB8Sb-uYp3G3Y6Ukr72tEL4OYz7EYQJsN44fQzBdm3kS-y8RPTTpb2eOlZpaTVOSaHAgyRd71sYGfsqv55qEr4O3Uw3SKWx5QKLA6-G7ornB6Zheqxn7AwIMJkTqT6n2h-RLkKGpAuBEXyqRLK2NJMQl9D-YpFl6568r06YLv",
+   "organizer": null,
+   "city": "Nice",
+   "dept": "06",
+   "lat": 43.71273,
+   "lon": 7.25531,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-22",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://www.helloasso.com/associations/aix-qui"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "cherche",
+    "festival"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 65,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
+   "contact_checked": true
+  },
+  {
+   "id": "611249ad962e",
+   "title": "Election de Miss Golfe de Saint -Tropez | Fête locale Ramatuelle | Golfe de Saint-Tropez Destination",
+   "summary": "ÉLECTION DE MISS GOLFE DE SAINT-TROPEZ Retour à la liste Ramatuelle Samedi 28 novembre 2026 à 12h Ajouter à mon agenda ÉLECTION DE MISS GOLFE DE SAINT-TROPEZ Avec le comité Miss France Mannequin et Féminin Pluriel Activités %% prestaItem.prestaVO.regiondo.duration_values_display %% %% prestaItem.prestaVO.regiondo.duration_type_display %% A part. de %% prestaItem.prestaVO.regiondo.base_price_display %% € %% prestaItem.prestaVO.regiondo.original_price_display %%€ A part. de %% formatRegiondoPrix(prestaItem.prestaVO.donneesPrivees.regiondo_prix) %% € %% prestaItem.prestaVO.tarifsMinMax.tarifMax %",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESywEBxCJF12bLJ-OBjdKSriSWJKkzsoauc0Lj37sxORgawsEXft8aaAk9Uvay3V3aM-NjvuFR5Ro68GTyvbHbm7BFcjeFvNfPIUzEFM7vbXCX6JFj-JjFREP6sAaoio47JeghUxDXSFb0mHy2ZEh5mLP8zUZv4pkFUEU-nQ7cs5tZJ9cFh4sDTh4q6Dy1JkYAJhOIi0qFLqRNN9pmUuelAtLIXABiescbvqYoQo5OG4CSLHcB4hux1K5IGYbdFOIlP0vIyvBn05HFe96CeQ",
+   "organizer": null,
+   "city": "Saint-Tropez",
+   "dept": "83",
+   "lat": 43.26495,
+   "lon": 6.65812,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-28",
+   "published": null,
+   "contact": {
+    "emails": [
+     "info@visitgolfe.com"
+    ],
+    "phones": [
+     "04 98 12 64 00"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fête"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 60,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
+   "contact_checked": true
+  },
+  {
+   "id": "71f31f5fb5a4",
+   "title": "Babel Minots sur Instagram: \"Sortez vos agendas ! Babel Minots est de retour avec les beaux jours, rendez-vous du 17 au 26 mars 2027 à Marseille pour la 13e édition du festival ! ☀️ Côté pro, nous vous accueillerons du 1",
+   "summary": "18 likes, 1 comments - babelminots le November 6, 2026: \"Sortez vos agendas ! Babel Minots est de retour avec les beaux jours, rendez-vous du 17 au 26 mars 2027 à Marseille pour la 13e édition du festival ! ☀️ Côté pro, nous vous accueillerons du 17 au 19 mars pour trois jours de rencontres et d’échanges autour du futur de nos minots ! 👀 Comme vous le savez, le festival vous donne également rendez-vous au-delà des frontières phocéennes avec : Babel Mômes du 22 au 29 mars 2027 en Seine-Saint-Denis et dans le Grand Paris Ty’ Babel du 24 au 28 mars 2027 à Saint-Nazaire Rendez-vous très bientôt po",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESZQHEIkXXRM0zFC9Ht0-XZMQ1OHo19iLwiGqlCEgmRhlzef4YoeSC7Nca28d9mZYDddXp3ss40gKYHDR4dEExYUWe45kR6wuO71OhpAb5SbNWFAapZKFvkOqnJ7PfP9jtFv2Zqqxr&gsessionid=L9v2aKA8JzNcE4-2Gn4NgODGa2OZCiNZnmTTgHiDA4bMFKQpoQizAA",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2027-03-26",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://www.google.com/accounts/emailsignup/"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 60,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
+   "contact_checked": true
+  },
+  {
+   "id": "d0f8d5eeaf45",
+   "title": "Marché de Noël, animations gratuites, feu d artifices - Le Tignet (06)",
+   "summary": "11h 19h Demande du dossier par mail avec description et photos des produits vendus. Complet en stand alimentaire à consommer sur place. 11h - 17h jeux, déambulations, maquillage, tours de poneys, offerts. 11h chorale chants de Noël des enfants 11h45 arrivée du Père Noël, photo libre 14h conte Casse Noisette pour enfants 14h 17h sculptures de barbe à papa 16h arrivée du Père Noël 17h chorale chants de Noël 17h45 spectacle de feu 18h45 feu d artifices 19h fin du marché. Retour | Provence-Alpes-Côte d'Azur > Alpes-Maritimes > Le Tignet Déc. 5 Samedi 5 Décembre 2026 Le Tignet (06) Marché de Noël, ",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESXwHEIkXXM0mvB7DMZNJf3nNQOZ5apfULPElPlcO4fw0bHGBi9-uRq6LMEP4BThwfmXFtJg_i1vFF6ITNUJT1fTUa0Vo0N-WzdptZxql4CbIa_pGQUqSkNN_zw2DgBG_A",
+   "organizer": null,
+   "city": null,
+   "dept": "06",
+   "lat": 43.94,
+   "lon": 7.18,
+   "approx": true,
+   "deadline": null,
+   "event_date": "2026-12-05",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "exposants",
+    "marché de noël"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 60,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
+   "contact_checked": true
+  },
+  {
    "id": "4cf3d939c8e4",
    "title": "Fête votive de Saint-Aygulf à Fréjus : édition 2027 le 5 septembre – Fête de Village",
    "summary": "La fête votive de Saint-Aygulf, à Fréjus (Var), est annoncée pour le dimanche 5 septembre 2027, place de la Poste. Cette tradition de fin d'été honore saint Aygulphe, moine pèlerin de l'abbaye de Lérins : procession jusqu'à la calanque des Louvans, arrivée du pointu Le Saint-Aygulf, remontée de la statue du saint par le chemin des Douaniers, messe, danses folkloriques et aïoli partagé. L'accès à la fête est libre, le repas payant et sur réservation. Les horaires détaillés de l'édition 2027 ne sont pas encore communiqués. Une tradition de fin d’été à Saint-Aygulf À Saint-Aygulf, quartier balnéa",
@@ -2650,6 +3437,265 @@
    "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true,
    "lien_ok": "2026-10-28"
+  },
+  {
+   "id": "781ea0fc8cce",
+   "title": "Nos marchés",
+   "summary": "L’accent donne du relief aux couleurs et aux senteurs de Provence. Vous êtes bien au cœur d’un de nos nombreux marchés de Méditerranée Portes de Maures. L’accent donne du relief aux couleurs et aux senteurs de Provence. Vous êtes bien au cœur d’un de nos nombreux marchés de Méditerranée Portes de Maures. Rendez-vous incontournables de la convivialité, les artisans et producteurs y partagent le fruit de leur travail. Une ambiance de jours heureux musarde au fil des étals de produits frais et de qualité. Un lieu idéal aussi pour les cadeaux souvenirs …et découvrir l’âme de nos villages. Liste Ca",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.mpmtourisme.com/nos-marches",
+   "organizer": null,
+   "city": "La Londe-les-Maures",
+   "dept": "83",
+   "lat": 43.14765,
+   "lon": 6.2513,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-07",
+   "published": null,
+   "contact": {
+    "emails": [
+     "bienvenue@mpmtourisme.com"
+    ],
+    "phones": [
+     "04 94 01 53 10",
+     "04 94 48 56 27",
+     "04 94 48 08 00"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "marché de noël"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 55,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
+   "contact_checked": true
+  },
+  {
+   "id": "c23dbe5fbdd6",
+   "title": "Les villages et marchés de Noël des Alpes-Maritimes",
+   "summary": "Mis à jour le 29/10/2026 Image Introduction Marchés de Noël, villages illuminés, gourmandises et animations pour les enfants… Préparez vos sorties de Noël 2026 dans les Alpes-Maritimes ! De Nice à Cannes, des villages de l’arrière-pays jusqu’à Monaco, Kidiklik rassemble les rendez-vous à partager en famille. Article en cours de mise à jour pour Noël 2026. Les dates et les programmes sont complétés au fil des annonces des organisateurs. Paragraphes LES COUPS DE ♡ DE NOËL DE KIDIKLIK Description Dans notre belle ville de Nice , dans un village provençal ou un centre shopping ... la magie de Noël",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESowEBxCJF1x-3Zryc3knasGrVVzy4NeJS-8qfqHrsB97ZEWIzB5tHVJHP3-MufOHm4Z8D42lY275tS_crv20g5o-mrOhAFkDZmfMWPAQnS42uINIVDfY-SKTBIliTffRFicy2MepV6jm_brSNwFx7nmvHOyA53LIdBk7zRVkzvnAy611emBYgVPDkC3b5RqYx0Xx15cYsRrxxYBmsnBInENuIbWnN",
+   "organizer": null,
+   "city": "Valbonne",
+   "dept": "06",
+   "lat": 43.62734,
+   "lon": 7.01656,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-24",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://www.google.com/newsletter.html",
+     "https://journaldemonaco.gouv.mc/Journaux/2026/Journal-8785/Appel-a-candidature-pour-l-exploitation-des-chalets-de-vente-pour-la-demande-d-emplacements-pour-des-structures-foraines-alimentaires-privees-avec-ou-sans-terrasse-pour-des-boutiques-de-vente-au-detail-privees-et-pour-des-maneges-ou-attractions-au-s",
+     "https://coaraze.fr/2026/10/05/marche-de-noel-inscriptions-ouvertes-pour-les-exposants/"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "marché de noël"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 55,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
+   "contact_checked": true
+  },
+  {
+   "id": "a6b3f755dfa3",
+   "title": "Les villages et marchés de Noël des Alpes-Maritimes",
+   "summary": "Mis à jour le 29/10/2026 Image Introduction Marchés de Noël, villages illuminés, gourmandises et animations pour les enfants… Préparez vos sorties de Noël 2026 dans les Alpes-Maritimes ! De Nice à Cannes, des villages de l’arrière-pays jusqu’à Monaco, Kidiklik rassemble les rendez-vous à partager en famille. Article en cours de mise à jour pour Noël 2026. Les dates et les programmes sont complétés au fil des annonces des organisateurs. Paragraphes LES COUPS DE ♡ DE NOËL DE KIDIKLIK Description Dans notre belle ville de Nice , dans un village provençal ou un centre shopping ... la magie de Noël",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESowEBxCJF18SptJuRtx-RoH53DDh1knKpLbpu8BFGf6fV7QUCdFEtWO6PWw5W_k_LznNyoSXCrG14C3-1X-y0csqFsfTWzu09URKmg8-yZ7ruF27TPiU7oZHfIApbWyq3D5FLy1M3KfkbcyI-fhSQ3r_conwxalALT68vRas8ZvgeMRPLw4qYubTgGNP9uWBg8HYt56KUWoZq03hoYbypE7CEk9zl",
+   "organizer": null,
+   "city": "Valbonne",
+   "dept": "06",
+   "lat": 43.62734,
+   "lon": 7.01656,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-24",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://www.google.com/newsletter.html",
+     "https://journaldemonaco.gouv.mc/Journaux/2026/Journal-8785/Appel-a-candidature-pour-l-exploitation-des-chalets-de-vente-pour-la-demande-d-emplacements-pour-des-structures-foraines-alimentaires-privees-avec-ou-sans-terrasse-pour-des-boutiques-de-vente-au-detail-privees-et-pour-des-maneges-ou-attractions-au-s",
+     "https://coaraze.fr/2026/10/05/marche-de-noel-inscriptions-ouvertes-pour-les-exposants/"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "marché de noël"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 55,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
+   "contact_checked": true
+  },
+  {
+   "id": "11c0bbe0be47",
+   "title": "Les villages et marchés de Noël des Alpes-Maritimes",
+   "summary": "Mis à jour le 29/10/2026 Image Introduction Marchés de Noël, villages illuminés, gourmandises et animations pour les enfants… Préparez vos sorties de Noël 2026 dans les Alpes-Maritimes ! De Nice à Cannes, des villages de l’arrière-pays jusqu’à Monaco, Kidiklik rassemble les rendez-vous à partager en famille. Article en cours de mise à jour pour Noël 2026. Les dates et les programmes sont complétés au fil des annonces des organisateurs. Paragraphes LES COUPS DE ♡ DE NOËL DE KIDIKLIK Description Dans notre belle ville de Nice , dans un village provençal ou un centre shopping ... la magie de Noël",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESowEBxCJF17DME94ZhExXMJVD_tM-oI5mUaACWzKHJLia0kjMoE39mRu8JGEMRrjSXvM-UhsXYrZzhW3U2UM-RRQLTVsFpWeXdZhobftEnFcYfWPJ_YDwOjwnc4ujtrDlilVYjrjQC9oFS-_T4UyCFIh2JJmy3UD5D-9DjKnZzmCFctVEkxK6u2zv3a3_mpVJ-ln1MdVNGgJOkX8M7CLnVg79RJcM",
+   "organizer": null,
+   "city": "Valbonne",
+   "dept": "06",
+   "lat": 43.62734,
+   "lon": 7.01656,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-24",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://www.google.com/newsletter.html",
+     "https://journaldemonaco.gouv.mc/Journaux/2026/Journal-8785/Appel-a-candidature-pour-l-exploitation-des-chalets-de-vente-pour-la-demande-d-emplacements-pour-des-structures-foraines-alimentaires-privees-avec-ou-sans-terrasse-pour-des-boutiques-de-vente-au-detail-privees-et-pour-des-maneges-ou-attractions-au-s",
+     "https://coaraze.fr/2026/10/05/marche-de-noel-inscriptions-ouvertes-pour-les-exposants/"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "marché de noël"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 55,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
+   "contact_checked": true
+  },
+  {
+   "id": "ae488b0d2c10",
+   "title": "Que faire ce week-end du 6 au 8 novembre 2026 sur la Côte d'Azur ? - Tribuca.net",
+   "summary": "Théâtre, concerts, salons gourmands, fêtes traditionnelles et activités sportives : du vendredi 6 au dimanche 8 novembre, les Alpes-Maritimes proposent de nombreuses occasions de sortir. Voici notre sélection pour profiter du week-end. Life & Style Alpes-Maritimes , Roquefort-les-Pins , Saint-Paul-de-Vence , Antibes , Cagnes-sur-Mer , Cannes , Isola , Menton , Mouans-Sartoux , Nice Camille Guil 6 novembre 2026 Ajouter Tribuca à vos sources préférées Théâtre, concerts, salons gourmands, fêtes traditionnelles et activités sportives : du vendredi 6 au dimanche 8 novembre, les Alpes-Maritimes prop",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESkQEBxCJF16WbLV9gbevUJ_a-z-AMir0F3UhrvD_I8_Pa4EzBIs2LNL3rLyKEiw5XCm3i-pc9fo68m29EW3LMElSHNcFyIJiG7ATVEOXjfUv2OhC_wXt5z-oLqJvoY1qo5XMu7gf-zpPmaF8G9ReWXPDkdBBPxZ4I7AVVjHafv4NJle4Lu4tMaajZh_MpMrko9OFV",
+   "organizer": null,
+   "city": "Cagnes-sur-Mer",
+   "dept": "06",
+   "lat": 43.67564,
+   "lon": 7.15009,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-08",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 92 17 55 00"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fêtes"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 55,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
+   "contact_checked": true
+  },
+  {
+   "id": "9709313ae23d",
+   "title": "Les villages et marchés de Noël des Alpes-Maritimes",
+   "summary": "Mis à jour le 29/10/2026 Image Introduction Marchés de Noël, villages illuminés, gourmandises et animations pour les enfants… Préparez vos sorties de Noël 2026 dans les Alpes-Maritimes ! De Nice à Cannes, des villages de l’arrière-pays jusqu’à Monaco, Kidiklik rassemble les rendez-vous à partager en famille. Article en cours de mise à jour pour Noël 2026. Les dates et les programmes sont complétés au fil des annonces des organisateurs. Paragraphes LES COUPS DE ♡ DE NOËL DE KIDIKLIK Description Dans notre belle ville de Nice , dans un village provençal ou un centre shopping ... la magie de Noël",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESogEBxCJF12JOTYk8ZtXJ6cRXSbp-Y0p9u4CwanKrh_GIkAFHyq_7C_AmEX5c293M3uWbqnpatwucFVl4d7EGTOG1FwEpFGNXc9sDecJVjsmPINa7NJJ-U3HbkbUXOsUZ3njrvJgDxSyoD81mhlSyutvB4PTmnGciuex-SSmh97TB6Dah8kdUO-OpAC4CnlgwhEwfv2qFMhn96hLF61JgOEYZeAE",
+   "organizer": null,
+   "city": "Valbonne",
+   "dept": "06",
+   "lat": 43.62734,
+   "lon": 7.01656,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-24",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://www.google.com/newsletter.html",
+     "https://journaldemonaco.gouv.mc/Journaux/2026/Journal-8785/Appel-a-candidature-pour-l-exploitation-des-chalets-de-vente-pour-la-demande-d-emplacements-pour-des-structures-foraines-alimentaires-privees-avec-ou-sans-terrasse-pour-des-boutiques-de-vente-au-detail-privees-et-pour-des-maneges-ou-attractions-au-s",
+     "https://coaraze.fr/2026/10/05/marche-de-noel-inscriptions-ouvertes-pour-les-exposants/"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "marché de noël"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 55,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
+   "contact_checked": true
+  },
+  {
+   "id": "68294af3f321",
+   "title": "Les villages et marchés de Noël des Alpes-Maritimes",
+   "summary": "Mis à jour le 29/10/2026 Image Introduction Marchés de Noël, villages illuminés, gourmandises et animations pour les enfants… Préparez vos sorties de Noël 2026 dans les Alpes-Maritimes ! De Nice à Cannes, des villages de l’arrière-pays jusqu’à Monaco, Kidiklik rassemble les rendez-vous à partager en famille. Article en cours de mise à jour pour Noël 2026. Les dates et les programmes sont complétés au fil des annonces des organisateurs. Paragraphes LES COUPS DE ♡ DE NOËL DE KIDIKLIK Description Dans notre belle ville de Nice , dans un village provençal ou un centre shopping ... la magie de Noël",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://cotedazur.kidiklik.fr/articles/334953-les-villages-et-marches-de-noel-des-alpes-maritimes.html",
+   "organizer": null,
+   "city": "Valbonne",
+   "dept": "06",
+   "lat": 43.62734,
+   "lon": 7.01656,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-24",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://cotedazur.kidiklik.fr/newsletter.html",
+     "https://journaldemonaco.gouv.mc/Journaux/2026/Journal-8785/Appel-a-candidature-pour-l-exploitation-des-chalets-de-vente-pour-la-demande-d-emplacements-pour-des-structures-foraines-alimentaires-privees-avec-ou-sans-terrasse-pour-des-boutiques-de-vente-au-detail-privees-et-pour-des-maneges-ou-attractions-au-s",
+     "https://coaraze.fr/2026/10/05/marche-de-noel-inscriptions-ouvertes-pour-les-exposants/"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "marché de noël"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 55,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "lien_ok": "2026-11-07",
+   "contact_checked": true
   },
   {
    "id": "18b1f1109381",
