@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-07T11:42:37+00:00",
- "count": 107,
- "new_count": 33,
+ "updated": "2026-11-07T19:23:34+00:00",
+ "count": 91,
+ "new_count": 0,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -13,11 +13,12 @@
   },
   "Recherche web": {
    "ok": true,
-   "found": 97
+   "found": 0,
+   "note": "recherche web faite le matin seulement (économise le quota)"
   },
   "Festivals PACA": {
    "ok": true,
-   "found": 3,
+   "found": 0,
    "note": "359 festivals suivis"
   },
   "Pages surveillées": {
@@ -471,41 +472,6 @@
    "contact_checked": true
   },
   {
-   "id": "993dac53cc4f",
-   "title": "Créateurices sur Instagram: \"☃️ Il est encore temps de postuler dans les marchés et boutiques de créateur·ices pour les fêtes de fin d'années. Ne tarde pas à envoyer ta candidature ! ⏰ © Photo de couverture : @oeilpapill",
-   "summary": "111 likes, 3 comments - createurices le October 20, 2026: \"☃️ Il est encore temps de postuler dans les marchés et boutiques de créateur·ices pour les fêtes de fin d'années. Ne tarde pas à envoyer ta candidature ! ⏰ © Photo de couverture : @oeilpapillon pour @roseframboise__ ✌️ 13 (Bouches-du-Rhône) Marseille 2e - Marché de Noël par Shlag Market - du 4 au 6 décembre 2026, au @docksvillage - Date limite des candidatures non connue - Plus d'infos avec 👉 @shlagmarket ✌️ 13 (Bouches-du-Rhône) Marseille 6e - Marché de Noël par Shlag Market - du 18 au 20 décembre 2026, à la @brasserie_zoumai - Date l",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.google.com/goto?url=CAESZQHEIkXXTTgXFkckZgBKHbVmVHR_QIiNNyyWgMN0pzFd2SXJVINsSYr8xQIUu90aj1gbGFgc67Q7-csj57U3fMxTwnqgXmP9Ah-H0tjj2mL9BVCovXw9S_9kvuaUCE0Z51FeEJit",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": "2026-11-15",
-   "event_date": "2026-12-06",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "candidature",
-    "fêtes",
-    "marché de noël"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 85,
-   "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
-  },
-  {
    "id": "284fedaf572b",
    "title": "Convention d’autorisation d’occupation temporaire du domaine public à destination d’une activité de restauration.",
    "summary": "Avis de marché. Prestations de services",
@@ -640,179 +606,6 @@
    "contact_checked": true
   },
   {
-   "id": "625295c89b60",
-   "title": "Noël au Palais 2026 : appel à candidatures pour un food-truck et un chalet so… – Mairie des 4ᵉ et 5ᵉ arrondissements de Marseille",
-   "summary": "À l’occasion de Noël au Palais 2026, la Mairie des 4ᵉ et 5ᵉ arrondissements de Marseille lance un appel à manifestation d’intérêt (AMI) à destina… Partager cette page Facebook LinkedIn Twitter E-mail Organisé du 19 au 26 décembre 2026 , avec une fermeture le 25 décembre, cet événement familial et festif proposera aux habitants des animations et des moments de convivialité dans l’esprit des fêtes de fin d’année. À travers cet appel à candidatures, la mairie de secteur souhaite associer les structures engagées dans des démarches sociales, solidaires et durables à cette nouvelle édition. Deux emp",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-26",
-   "published": null,
-   "contact": {
-    "emails": [
-     "culture45@marseille.fr"
-    ],
-    "phones": [
-     "04 91 14 60 30"
-    ],
-    "forms": [
-     "https://www.facebook.com/sharer/sharer.php?u=https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
-     "https://www.linkedin.com/sharing/share-offsite/?url=https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
-     "https://twitter.com/share?url=https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à candidatures",
-    "appel à manifestation d'intérêt",
-    "emplacement",
-    "food-truck"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 85,
-   "found_at": "2026-10-31T10:54:29+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-11-07"
-  },
-  {
-   "id": "a0f7be956ebf",
-   "title": "Festival : Les femmes s'en mêlent 2026 - Salon-de-Provence : dates, programmation, billetterie",
-   "summary": "Festival, le 7 novembre 2026, à Salon-de-Provence (Bouches du Rhône) - horaires, tarifs, renseignements. Depuis 1997, le festival Les Femmes s’en Mêlent œuvre pour une plus grande visibilité des artistes femmes dans les musiques actuelles. Les Salon-de-Provence Concert, spectacle, etc. Je publie sur le JDS Concert, spectacle, etc. Aujourd'hui Demain Ce week-end Agenda Sorties & loisirs Actu Artistes en tournée Publier sur JDS Vos idées sorties Grands événements Activité & Expérience Activité & Expérience : voir tout Aventure Visites Nature Aquatique & nautique Pilotage Ateliers Bien-être Gastr",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.google.com/goto?url=CAESowEBxCJF10ucIt3LKQvr4o7wJWqDU3YQ3rrBUUbNCKAd6-Va4Y45OwPcV3K-kVGhgGpoHMhTvG-Q513rUPJhhqU1ujQ4vfipqMQN0tRJH6rmwfQOxZdIOgqycQhhWQf9t6X7oMFAVvNCAfb6EfdI1qRFuy4ygabWC5QL8q6qtb56dnvk6YW37s2B6uRI3i4vLstJ2rXDl_MWig1UKqj601JM8wfh&gsessionid=L9v2aKA8JzNcE4-2Gn4NgODGa2OZCiNZnmTTgHiDA4bMFKQpoQizAA",
-   "organizer": null,
-   "city": "Salon-de-Provence",
-   "dept": "13",
-   "lat": 43.6377,
-   "lon": 5.06204,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-07",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": [
-     "https://www.helloasso.com/associations/oeuvre-de-la-jeunesse-laique-de-salon-de-provence-centre-de-culture-et-loisirs-du-portail-coucou/evenements/festival-les-femmes-s-en-melent",
-     "https://www.jds.fr/newsletter-archives/toutes-les-newsletter-jds-fr?origin=modal-newsletter&dpt=13&list=1"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "carnaval",
-    "concert",
-    "festival",
-    "fête",
-    "fête de la musique",
-    "fêtes",
-    "marché de noël"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 85,
-   "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
-  },
-  {
-   "id": "ce207f0ea6c7",
-   "title": "Marché de créateurs Saint-Blaise 2026 - dates, horaires, ouverture, programme",
-   "summary": "Marché de Noël, le 15 novembre 2026, à Saint-Blaise (Alpes-Maritimes) - horaires, tarifs, renseignements. 9ème édition du marché de créateurs de Saint-Blaise avec 40 artistes et artisans créateurs venus de tout le département et sélectionnés Nice Concert, spectacle, etc. Je publie sur le JDS Concert, spectacle, etc. Aujourd'hui Demain Ce week-end Agenda Sorties & loisirs Actu Artistes en tournée Publier sur JDS Vos idées sorties Grands événements Activité & Expérience Activité & Expérience : voir tout Aventure Visites Nature Aquatique & nautique Pilotage Ateliers Bien-être Gastronomie Jeux Int",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.google.com/goto?url=CAESkAEBxCJF11GvaQt0Q_jr5VtQW67EsbeVjc9CJpMg5rUs4UZ2NzGEkCgJ5-gS7YYssYF_186RVA1mpJMkIzKPjfyeWMYV7xi9Z01h5RPa-geGQ9bIC5NCFAd-jZJ4SNlW6oBbaHmvvWJf8y-huBhCvHAMPSj7FNZbY5Z6NNNFx0y7XxuHpb41a4qK_3A2imK2jyE",
-   "organizer": null,
-   "city": "Nice",
-   "dept": "06",
-   "lat": 43.71273,
-   "lon": 7.25531,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-15",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": [
-     "https://www.jds.fr/newsletter-archives/toutes-les-newsletter-jds-fr?origin=modal-newsletter&dpt=06&list=1"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "carnaval",
-    "concert",
-    "festival",
-    "fête",
-    "fête de la musique",
-    "fêtes",
-    "marché de noël"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 85,
-   "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
-  },
-  {
-   "id": "b192c87a3461",
-   "title": "Les Belles Échappées - Marché de Noël et découverte d'Aix-en-Provence Gassin 2026 - dates, horaires, ouverture, programme",
-   "summary": "Marché de Noël, le 5 décembre 2026, à Gassin (Var) - horaires, tarifs, renseignements. Partez de Gassin pour une escapade à Aix-en-Provence ! Profitez d’une visite guidée de la ville avec Serge Vota, puis flânez au marché de Noël sur le cours Gassin Concert, spectacle, etc. Je publie sur le JDS Concert, spectacle, etc. Aujourd'hui Demain Ce week-end Agenda Sorties & loisirs Actu Artistes en tournée Publier sur JDS Vos idées sorties Grands événements Activité & Expérience Activité & Expérience : voir tout Aventure Visites Nature Aquatique & nautique Pilotage Ateliers Bien-être Gastronomie Jeux ",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.google.com/goto?url=CAESuwEBxCJF10a1XjUFeY-whnzw6N1XM6NDhrThmszSOdtl_G0fTZ5VCrjb431YWRyfKYQu7vlzUpxr9xz2RlYC10z4U7PF-oR97bTgzry0FOSFPVVeUetwge1FrK3X8ZczU4dl1H9syYkd6VughUAqMZnYlU1_4PcUmNzqloG7BGSfObikpS3E8LUZXTe0YpzNjJGA9s0H1UY4T9VC1-wFinxSzj4RuyXdVW-0aybnQzsQ9D_cXAmRGzIc1BeL",
-   "organizer": null,
-   "city": "Aix-en-Provence",
-   "dept": "13",
-   "lat": 43.54137,
-   "lon": 5.40612,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-05",
-   "published": null,
-   "contact": {
-    "emails": [
-     "lesbellesechappees@yahoo.fr"
-    ],
-    "phones": [
-     "06 85 38 25 77"
-    ],
-    "forms": [
-     "https://www.helloasso.com/",
-     "https://www.jds.fr/newsletter-archives/toutes-les-newsletter-jds-fr?origin=modal-newsletter&dpt=83&list=1"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "carnaval",
-    "concert",
-    "festival",
-    "fête",
-    "fête de la musique",
-    "fêtes",
-    "marché de noël"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 85,
-   "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
-  },
-  {
    "id": "e1586e0c02f0",
    "title": "📣 APPEL À CANDIDATURES – FOOD TRUCK / RESTAURATION 🍔🌭🥙 | Facebook",
    "summary": "📣 APPEL À CANDIDATURES – FOOD TRUCK / RESTAURATION 🍔🌭🥙 Dans le cadre de notre Vide-Grenier à Sanary, nous recherchons un food truck ou professionnel de la restauration/snacking pour proposer une...",
@@ -885,41 +678,84 @@
    "lien_ok": "2026-10-31"
   },
   {
-   "id": "c0b464bc4794",
-   "title": "Les marchés de Noël immanquables de Marseille et alentours !",
-   "summary": "Marchés de noël, foire aux santons… À l’arrivée de l’hiver, Marseille et sa région savent mettre de la magie de noël dans notre quotidien. © Francesco Bonino | Shutterstock Save Share Inès Azouz – Journaliste · novembre 5, 2026 Faites de nous votre source préférée Quoi de mieux que des marchés de noël pour nous faire vivre l’ambiance magique des fêtes ? Mis en place dès le mois de novembre pour la plupart, ces lieux éphémères sont les endroits parfaits pour se balader en famille et commencer à acheter les cadeaux qui attendront patiemment sous le sapin jusqu’au 25 décembre. Marseille Secrète v",
-   "type": "Événement",
+   "id": "625295c89b60",
+   "title": "Noël au Palais 2026 : appel à candidatures pour un food-truck et un chalet so… – Mairie des 4ᵉ et 5ᵉ arrondissements de Marseille",
+   "summary": "À l’occasion de Noël au Palais 2026, la Mairie des 4ᵉ et 5ᵉ arrondissements de Marseille lance un appel à manifestation d’intérêt (AMI) à destina… Partager cette page Facebook LinkedIn Twitter E-mail Organisé du 19 au 26 décembre 2026 , avec une fermeture le 25 décembre, cet événement familial et festif proposera aux habitants des animations et des moments de convivialité dans l’esprit des fêtes de fin d’année. À travers cet appel à candidatures, la mairie de secteur souhaite associer les structures engagées dans des démarches sociales, solidaires et durables à cette nouvelle édition. Deux emp",
+   "type": "Appel à candidatures",
    "source": "Recherche web",
-   "url": "https://www.google.com/goto?url=CAESfgHEIkXX1zqdrcDFUF_Sx1J_mAVswdZHQk0_et1l3eI9oQR6lOLJiuI69KOhkJy2f9ZJB2daOumBfCKeAO860mtv-BPrMrW4P4UDtb1Ekb8r8gZmgAdDcWWgeuX88LbkJ65yauWNL1jPi1Q1GQIf4OIlJ95M729U5gZPdrZtgg",
+   "url": "https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
    "organizer": null,
    "city": "Marseille",
    "dept": "13",
    "lat": 43.282,
    "lon": 5.405,
    "approx": false,
-   "deadline": "2027-01-03",
-   "event_date": "2026-11-28",
+   "deadline": null,
+   "event_date": "2026-12-26",
    "published": null,
    "contact": {
     "emails": [
-     "marseille@secretmedianetwork.com"
+     "culture45@marseille.fr"
     ],
+    "phones": [
+     "04 91 14 60 30"
+    ],
+    "forms": [
+     "https://www.facebook.com/sharer/sharer.php?u=https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
+     "https://www.linkedin.com/sharing/share-offsite/?url=https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
+     "https://twitter.com/share?url=https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à candidatures",
+    "appel à manifestation d'intérêt",
+    "food-truck"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 80,
+   "found_at": "2026-10-31T10:54:29+00:00",
+   "contact_checked": true,
+   "lien_ok": "2026-11-07"
+  },
+  {
+   "id": "a0f7be956ebf",
+   "title": "Festival : Les femmes s'en mêlent 2026 - Salon-de-Provence : dates, programmation, billetterie",
+   "summary": "Festival, le 7 novembre 2026, à Salon-de-Provence (Bouches du Rhône) - horaires, tarifs, renseignements. Depuis 1997, le festival Les Femmes s’en Mêlent œuvre pour une plus grande visibilité des artistes femmes dans les musiques actuelles. Les Salon-de-Provence Concert, spectacle, etc. Je publie sur le JDS Concert, spectacle, etc. Aujourd'hui Demain Ce week-end Agenda Sorties & loisirs Actu Artistes en tournée Publier sur JDS Vos idées sorties Grands événements Activité & Expérience Activité & Expérience : voir tout Aventure Visites Nature Aquatique & nautique Pilotage Ateliers Bien-être Gastr",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESowEBxCJF10ucIt3LKQvr4o7wJWqDU3YQ3rrBUUbNCKAd6-Va4Y45OwPcV3K-kVGhgGpoHMhTvG-Q513rUPJhhqU1ujQ4vfipqMQN0tRJH6rmwfQOxZdIOgqycQhhWQf9t6X7oMFAVvNCAfb6EfdI1qRFuy4ygabWC5QL8q6qtb56dnvk6YW37s2B6uRI3i4vLstJ2rXDl_MWig1UKqj601JM8wfh&gsessionid=L9v2aKA8JzNcE4-2Gn4NgODGa2OZCiNZnmTTgHiDA4bMFKQpoQizAA",
+   "organizer": null,
+   "city": "Salon-de-Provence",
+   "dept": "13",
+   "lat": 43.6377,
+   "lon": 5.06204,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-07",
+   "published": null,
+   "contact": {
+    "emails": [],
     "phones": [],
-    "forms": []
+    "forms": [
+     "https://www.helloasso.com/associations/oeuvre-de-la-jeunesse-laique-de-salon-de-provence-centre-de-culture-et-loisirs-du-portail-coucou/evenements/festival-les-femmes-s-en-melent",
+     "https://www.jds.fr/newsletter-archives/toutes-les-newsletter-jds-fr?origin=modal-newsletter&dpt=13&list=1"
+    ]
    },
    "mode": "evenements",
    "via": null,
    "keywords": [
-    "foire",
-    "fêtes",
-    "marché de noël"
+    "concert",
+    "festival"
    ],
    "fiable": false,
    "hors_zone": null,
    "score": 80,
    "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
+   "contact_checked": true,
+   "lien_ok": "2026-11-07"
   },
   {
    "id": "5ae9ea0df2f9",
@@ -956,331 +792,8 @@
    "hors_zone": null,
    "score": 80,
    "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
-  },
-  {
-   "id": "9360796e6057",
-   "title": "Brocante et vide-grenier Sanary-sur-Mer (83110) - Brocabrac",
-   "summary": "Sanary-sur-Mer (83110) - Agenda des brocantes et des vide-greniers à Sanary-sur-Mer dans votre département. Vous aimez chiner ? Ne ratez aucun événement sanaryen avec le calendrier Brocabrac ! Vide-greniers, brocantes et autres déballages... Sanary-sur-Mer Sélectionner une date Type d'événement Créer une alerte Choisir un lieu Sanary-sur-Mer Suggestion de lieux Provence-Alpes-Côte d'Azur 83 - Var La Destrousse Carnoules Puget-Ville Tourves Saint-Mandrier-sur-Mer Bandol Créer une alerte Valider Choisir une date Toutes les dates Aujourd'hui Demain Ce week-end Cette semaine Le week-end prochain N",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://brocabrac.fr/83/sanary-sur-mer/",
-   "organizer": null,
-   "city": "Six-Fours-les-Plages",
-   "dept": "83",
-   "lat": 43.09171,
-   "lon": 5.8176,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-14",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "brocante",
-    "marché de noël",
-    "vide-grenier",
-    "vide-greniers"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 80,
-   "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
-  },
-  {
-   "id": "5dfaf116b3e2",
-   "title": "Brocante et vide-grenier Le Plan-de-la-Tour (83120) - Brocabrac",
-   "summary": "Le Plan-de-la-Tour (83120) - Agenda des brocantes et des vide-greniers à Le Plan-de-la-Tour dans votre département. Vous aimez chiner ? Ne ratez aucun événement plantourian avec le calendrier Brocabrac ! Vide-greniers, brocantes et autres déballages... Le Plan-de-la-Tour Sélectionner une date Type d'événement Créer une alerte Choisir un lieu Le Plan-de-la-Tour Suggestion de lieux Provence-Alpes-Côte d'Azur 83 - Var Vins-sur-Caramy Saint-Paul-en-Forêt Cabasse Les Adrets-de-l'Estérel Callian Carnoules Créer une alerte Valider Choisir une date Toutes les dates Aujourd'hui Demain Ce week-end Cette",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.google.com/goto?url=CAESZwHEIkXXZH9iz8dC7AKZmXoStBVviCPF5hFFjkWwt64bHJC2xZf5ukgShuOnWkJYlqCyKlMqE0pdktzKQEpJrVluYVJ9-tQ9w_aRtqHQkjnaDk0rkr2VWz2SEM48FyXO48VYsDC7sGA",
-   "organizer": null,
-   "city": "Les Adrets-de-l'Estérel",
-   "dept": "83",
-   "lat": 43.52692,
-   "lon": 6.83259,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-07",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "brocante",
-    "marché de noël",
-    "vide-grenier",
-    "vide-greniers"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 80,
-   "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
-  },
-  {
-   "id": "95d59615baaa",
-   "title": "Brocante et vide-grenier Vence (06140) - Brocabrac",
-   "summary": "Vence (06140) - Agenda des brocantes et des vide-greniers à Vence dans votre département. Vous aimez chiner ? Ne ratez aucun événement vençois avec le calendrier Brocabrac ! Vide-greniers, brocantes et autres déballages... Vence Sélectionner une date Type d'événement Créer une alerte Choisir un lieu Vence Suggestion de lieux Provence-Alpes-Côte d'Azur 06 - Alpes-Maritimes Revest-les-Roches Cabris Saint-Paul-en-Forêt Les Adrets-de-l'Estérel Auribeau-sur-Siagne Callian Créer une alerte Valider Choisir une date Toutes les dates Aujourd'hui Demain Ce week-end Cette semaine Le week-end prochain Nov",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://brocabrac.fr/06/vence/",
-   "organizer": null,
-   "city": "Les Adrets-de-l'Estérel",
-   "dept": "83",
-   "lat": 43.52692,
-   "lon": 6.83259,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-07",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "brocante",
-    "marché de noël",
-    "vide-grenier",
-    "vide-greniers"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 80,
-   "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
-  },
-  {
-   "id": "9c951de96f14",
-   "title": "Brocante et vide-grenier Castagniers (06670) - Brocabrac",
-   "summary": "Castagniers (06670) - Agenda des brocantes et des vide-greniers à Castagniers dans votre département. Vous aimez chiner ? Ne ratez aucun événement castagnérenque avec le calendrier Brocabrac ! Vide-greniers, brocantes et autres déballages... Castagniers Sélectionner une date Type d'événement Créer une alerte Choisir un lieu Castagniers Suggestion de lieux Provence-Alpes-Côte d'Azur 06 - Alpes-Maritimes Revest-les-Roches Cabris Saint-Martin-du-Var Auribeau-sur-Siagne Sospel La Gaude Créer une alerte Valider Choisir une date Toutes les dates Aujourd'hui Demain Ce week-end Cette semaine Le week-e",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://brocabrac.fr/06/castagniers/",
-   "organizer": null,
-   "city": "Cagnes-sur-Mer",
-   "dept": "06",
-   "lat": 43.67564,
-   "lon": 7.15009,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-07",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "brocante",
-    "marché de noël",
-    "vide-grenier",
-    "vide-greniers"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 80,
-   "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
-  },
-  {
-   "id": "c162a99c4a73",
-   "title": "Brocante et vide-grenier Saint-Raphaël (83530) - Brocabrac",
-   "summary": "Saint-Raphaël (83530) - Agenda des brocantes et des vide-greniers à Saint-Raphaël dans votre département. Vous aimez chiner ? Ne ratez aucun événement raphaëlois avec le calendrier Brocabrac ! Vide-greniers, brocantes et autres déballages... Saint-Raphaël Sélectionner une date Type d'événement Créer une alerte Choisir un lieu Saint-Raphaël Suggestion de lieux Provence-Alpes-Côte d'Azur 83 - Var Saint-Paul-en-Forêt Les Adrets-de-l'Estérel Auribeau-sur-Siagne Callian Grimaud Le Cannet-des-Maures Créer une alerte Valider Choisir une date Toutes les dates Aujourd'hui Demain Ce week-end Cette semai",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://brocabrac.fr/83/saint-raphael/",
-   "organizer": null,
-   "city": "Les Adrets-de-l'Estérel",
-   "dept": "83",
-   "lat": 43.52692,
-   "lon": 6.83259,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-10",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "brocante",
-    "marché de noël",
-    "vide-grenier",
-    "vide-greniers"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 80,
-   "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
-  },
-  {
-   "id": "3966680751a4",
-   "title": "Brocante et vide-grenier Fréjus (83370) - Novembre 2026",
-   "summary": "Fréjus (83370) - Agenda des brocantes et des vide-greniers à Fréjus dans votre département. Vous aimez chiner ? Ne ratez aucun événement fréjusien en novembre 2026 avec le calendrier Brocabrac ! Vide-greniers, brocantes et autres déballages... Fréjus Novembre 2026 Type d'événement Créer une alerte Choisir un lieu Fréjus Suggestion de lieux Provence-Alpes-Côte d'Azur 83 - Var Saint-Paul-en-Forêt Les Adrets-de-l'Estérel Auribeau-sur-Siagne Callian Grimaud Gonfaron Créer une alerte Valider Choisir une date Toutes les dates Aujourd'hui Demain Ce week-end Cette semaine Le week-end prochain Novembre",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://brocabrac.fr/83/frejus/novembre/",
-   "organizer": null,
-   "city": "Les Adrets-de-l'Estérel",
-   "dept": "83",
-   "lat": 43.52692,
-   "lon": 6.83259,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-07",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "brocante",
-    "marché de noël",
-    "vide-grenier",
-    "vide-greniers"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 80,
-   "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
-  },
-  {
-   "id": "4772c527ea17",
-   "title": "Brocante et vide-grenier Puget-sur-Argens (83480) - Brocabrac",
-   "summary": "Puget-sur-Argens (83480) - Agenda des brocantes et des vide-greniers à Puget-sur-Argens dans votre département. Vous aimez chiner ? Ne ratez aucun événement pugétois avec le calendrier Brocabrac ! Vide-greniers, brocantes et autres déballages... Puget-sur-Argens Sélectionner une date Type d'événement Créer une alerte Choisir un lieu Puget-sur-Argens Suggestion de lieux Provence-Alpes-Côte d'Azur 83 - Var Saint-Paul-en-Forêt Cabasse Les Adrets-de-l'Estérel Auribeau-sur-Siagne Callian Flassans-sur-Issole Créer une alerte Valider Choisir une date Toutes les dates Aujourd'hui Demain Ce week-end Ce",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://brocabrac.fr/83/puget-sur-argens/",
-   "organizer": null,
-   "city": "Les Adrets-de-l'Estérel",
-   "dept": "83",
-   "lat": 43.52692,
-   "lon": 6.83259,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-05",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "brocante",
-    "marché de noël",
-    "vide-grenier",
-    "vide-greniers"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 80,
-   "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
-  },
-  {
-   "id": "5c4455df8140",
-   "title": "Brocante et vide-grenier Le Plan-de-la-Tour (83120) - Brocabrac",
-   "summary": "Le Plan-de-la-Tour (83120) - Agenda des brocantes et des vide-greniers à Le Plan-de-la-Tour dans votre département. Vous aimez chiner ? Ne ratez aucun événement plantourian avec le calendrier Brocabrac ! Vide-greniers, brocantes et autres déballages... Le Plan-de-la-Tour Sélectionner une date Type d'événement Créer une alerte Choisir un lieu Le Plan-de-la-Tour Suggestion de lieux Provence-Alpes-Côte d'Azur 83 - Var Vins-sur-Caramy Saint-Paul-en-Forêt Cabasse Les Adrets-de-l'Estérel Callian Carnoules Créer une alerte Valider Choisir une date Toutes les dates Aujourd'hui Demain Ce week-end Cette",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.google.com/goto?url=CAESaAHEIkXXUEMBKvrt5ELL-YAzk5rTaw6aOc7TWaJebH5ThnaXbddDRawgQV7DDKjJaG3pJfWn4FIGneL_7X-qo_9heu6RK1RgTcRgKeVCTufvHbQ6_cxXvBXbN3GC1Sw80cmrBUAABf7y",
-   "organizer": null,
-   "city": "Les Adrets-de-l'Estérel",
-   "dept": "83",
-   "lat": 43.52692,
-   "lon": 6.83259,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-07",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "brocante",
-    "marché de noël",
-    "vide-grenier",
-    "vide-greniers"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 80,
-   "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
-  },
-  {
-   "id": "3b5698c93d75",
-   "title": "Vide-greniers, brocantes et bourses - Var - Novembre",
-   "summary": "L'agenda indispensable pour dénicher les meilleurs vide-greniers, brocantes, bourses d'objets et bourses de collectionneurs près de chez vous. Ne manquez plus une occasion de faire des trouvailles uniques. Lancez votre recherche maintenant et trouvez l'événement idéal pour chiner ! Ouvrir formulaire de recherche Où recherchez-vous ? Var Enregistrer ma recherche Quand ? Toutes les dates Les week-ends La semaine prochaine Mois Période personnalisée Quoi ? Tous les types Novembre Décembre Janvier Février Mars Avril Mai Juin Juillet Août Septembre Octobre Du au Vide greniers Brocante, salon d'anti",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.google.com/goto?url=CAESbQHEIkXXiZ9wBc5GKx6d1EnG1ZoEw9X6ZMc7fc7q9s7JXYx3pHxfPREc1qMJ8m1N4RN1GvxeS82wzs6cGRimCD17HK__ZgewvNpyeyZOXkxOs0a_v2Dk8sJEfCzQk-o0RKgvAzFkN3pSK2cmzYQ",
-   "organizer": null,
-   "city": "Fréjus",
-   "dept": "83",
-   "lat": 43.44566,
-   "lon": 6.77051,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-07",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "brocante",
-    "recherche",
-    "vide-greniers"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 80,
-   "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
+   "contact_checked": true,
+   "lien_ok": "2026-11-07"
   },
   {
    "id": "9b84007c2dc5",
@@ -1308,10 +821,8 @@
    "mode": "evenements",
    "via": null,
    "keywords": [
-    "carnaval",
     "concert",
-    "festival",
-    "fêtes"
+    "festival"
    ],
    "fiable": false,
    "hors_zone": null,
@@ -1547,47 +1058,6 @@
    "found_at": "2026-10-14T05:39:31+00:00",
    "contact_checked": true,
    "lien_ok": "2026-10-28"
-  },
-  {
-   "id": "1e094e4d05fd",
-   "title": "Salon-de-Provence - Agenda : le Samedi 5 Décembre 2026 - Sorties, spectacles, concerts et manifestations",
-   "summary": "Salon-de-Provence - L'agenda de tous les spectacles, sorties, manifestations, concerts, conférences, expositions, soirées : Samedi 5 Décembre 2026 - 5-12-2026 Salon-de-Provence Concert, spectacle, etc. Je publie sur le JDS Concert, spectacle, etc. Aujourd'hui Demain Ce week-end Agenda Sorties & loisirs Actu Artistes en tournée Publier sur JDS Vos idées sorties Grands événements Activité & Expérience Activité & Expérience : voir tout Aventure Visites Nature Aquatique & nautique Pilotage Ateliers Bien-être Gastronomie Jeux Interactives & immersives Manifestations Manifestations : voir tout Anima",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.jds.fr/salon-de-provence/agenda/agenda-du-jour/samedi-5-decembre-2026-5-12-2026_JPJ",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-05",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": [
-     "https://www.jds.fr/newsletter-archives/toutes-les-newsletter-jds-fr?origin=modal-newsletter&dpt=13&list=1"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "carnaval",
-    "concert",
-    "festival",
-    "fête",
-    "fête de la musique",
-    "fêtes",
-    "marché de noël"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
   },
   {
    "id": "7a9df4672862",
@@ -1919,6 +1389,118 @@
    "contact_checked": true
   },
   {
+   "id": "993dac53cc4f",
+   "title": "Créateurices sur Instagram: \"☃️ Il est encore temps de postuler dans les marchés et boutiques de créateur·ices pour les fêtes de fin d'années. Ne tarde pas à envoyer ta candidature ! ⏰ © Photo de couverture : @oeilpapill",
+   "summary": "111 likes, 3 comments - createurices le October 20, 2026: \"☃️ Il est encore temps de postuler dans les marchés et boutiques de créateur·ices pour les fêtes de fin d'années. Ne tarde pas à envoyer ta candidature ! ⏰ © Photo de couverture : @oeilpapillon pour @roseframboise__ ✌️ 13 (Bouches-du-Rhône) Marseille 2e - Marché de Noël par Shlag Market - du 4 au 6 décembre 2026, au @docksvillage - Date limite des candidatures non connue - Plus d'infos avec 👉 @shlagmarket ✌️ 13 (Bouches-du-Rhône) Marseille 6e - Marché de Noël par Shlag Market - du 18 au 20 décembre 2026, à la @brasserie_zoumai - Date l",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESZQHEIkXXTTgXFkckZgBKHbVmVHR_QIiNNyyWgMN0pzFd2SXJVINsSYr8xQIUu90aj1gbGFgc67Q7-csj57U3fMxTwnqgXmP9Ah-H0tjj2mL9BVCovXw9S_9kvuaUCE0Z51FeEJit",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-06",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "candidature",
+    "fêtes",
+    "marché de noël"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "contact_checked": true,
+   "lien_ok": "2026-11-07"
+  },
+  {
+   "id": "ce207f0ea6c7",
+   "title": "Marché de créateurs Saint-Blaise 2026 - dates, horaires, ouverture, programme",
+   "summary": "Marché de Noël, le 15 novembre 2026, à Saint-Blaise (Alpes-Maritimes) - horaires, tarifs, renseignements. 9ème édition du marché de créateurs de Saint-Blaise avec 40 artistes et artisans créateurs venus de tout le département et sélectionnés Nice Concert, spectacle, etc. Je publie sur le JDS Concert, spectacle, etc. Aujourd'hui Demain Ce week-end Agenda Sorties & loisirs Actu Artistes en tournée Publier sur JDS Vos idées sorties Grands événements Activité & Expérience Activité & Expérience : voir tout Aventure Visites Nature Aquatique & nautique Pilotage Ateliers Bien-être Gastronomie Jeux Int",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESkAEBxCJF11GvaQt0Q_jr5VtQW67EsbeVjc9CJpMg5rUs4UZ2NzGEkCgJ5-gS7YYssYF_186RVA1mpJMkIzKPjfyeWMYV7xi9Z01h5RPa-geGQ9bIC5NCFAd-jZJ4SNlW6oBbaHmvvWJf8y-huBhCvHAMPSj7FNZbY5Z6NNNFx0y7XxuHpb41a4qK_3A2imK2jyE",
+   "organizer": null,
+   "city": "Nice",
+   "dept": "06",
+   "lat": 43.71273,
+   "lon": 7.25531,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-15",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://www.jds.fr/newsletter-archives/toutes-les-newsletter-jds-fr?origin=modal-newsletter&dpt=06&list=1"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert",
+    "marché de noël"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "contact_checked": true,
+   "lien_ok": "2026-11-07"
+  },
+  {
+   "id": "b192c87a3461",
+   "title": "Les Belles Échappées - Marché de Noël et découverte d'Aix-en-Provence Gassin 2026 - dates, horaires, ouverture, programme",
+   "summary": "Marché de Noël, le 5 décembre 2026, à Gassin (Var) - horaires, tarifs, renseignements. Partez de Gassin pour une escapade à Aix-en-Provence ! Profitez d’une visite guidée de la ville avec Serge Vota, puis flânez au marché de Noël sur le cours Gassin Concert, spectacle, etc. Je publie sur le JDS Concert, spectacle, etc. Aujourd'hui Demain Ce week-end Agenda Sorties & loisirs Actu Artistes en tournée Publier sur JDS Vos idées sorties Grands événements Activité & Expérience Activité & Expérience : voir tout Aventure Visites Nature Aquatique & nautique Pilotage Ateliers Bien-être Gastronomie Jeux",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESuwEBxCJF10a1XjUFeY-whnzw6N1XM6NDhrThmszSOdtl_G0fTZ5VCrjb431YWRyfKYQu7vlzUpxr9xz2RlYC10z4U7PF-oR97bTgzry0FOSFPVVeUetwge1FrK3X8ZczU4dl1H9syYkd6VughUAqMZnYlU1_4PcUmNzqloG7BGSfObikpS3E8LUZXTe0YpzNjJGA9s0H1UY4T9VC1-wFinxSzj4RuyXdVW-0aybnQzsQ9D_cXAmRGzIc1BeL",
+   "organizer": null,
+   "city": "Aix-en-Provence",
+   "dept": "13",
+   "lat": 43.54137,
+   "lon": 5.40612,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-05",
+   "published": null,
+   "contact": {
+    "emails": [
+     "lesbellesechappees@yahoo.fr"
+    ],
+    "phones": [
+     "06 85 38 25 77"
+    ],
+    "forms": [
+     "https://www.helloasso.com/",
+     "https://www.jds.fr/newsletter-archives/toutes-les-newsletter-jds-fr?origin=modal-newsletter&dpt=83&list=1"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert",
+    "marché de noël"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "contact_checked": true,
+   "lien_ok": "2026-11-07"
+  },
+  {
    "id": "927c42406080",
    "title": "vide grenier marché de noel - Bras-d'Asse (04)",
    "summary": "9h-18h Marché de Noël, foire artisanale, vide grenier, bourses aux jouets, vêtements, autos motos Exposition véhicules anciens auto moto Food truck asiatique Camion pizza Château gonflable etc ..... Retour | Provence-Alpes-Côte d'Azur > Alpes de Haute-Provence > Bras-d'Asse Nov. 22 Dimanche 22 Novembre 2026 Bras-d'Asse (04) vide grenier marché de noel Vide-greniers et marché aux puces Partager Infos Accès Exposants Contact Informations générales 9h-18h Entrée gratuite 80 exposants attendus Marché de Noël, foire artisanale, vide grenier, bourses aux jouets, vêtements, autos motos Exposition véh",
@@ -1951,8 +1533,8 @@
    "hors_zone": null,
    "score": 75,
    "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
+   "contact_checked": true,
+   "lien_ok": "2026-11-07"
   },
   {
    "id": "d343513ec424",
@@ -1992,8 +1574,8 @@
    "hors_zone": null,
    "score": 75,
    "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
+   "contact_checked": true,
+   "lien_ok": "2026-11-07"
   },
   {
    "id": "d3bb986aee89",
@@ -2027,8 +1609,8 @@
    "hors_zone": null,
    "score": 75,
    "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
+   "contact_checked": true,
+   "lien_ok": "2026-11-07"
   },
   {
    "id": "900e30fce8cf",
@@ -2977,40 +2559,6 @@
    "contact_checked": true
   },
   {
-   "id": "396b20f9ebe9",
-   "title": "Marché de Noël Manosque 2026 : dates, accès, spécialités",
-   "summary": "Le marché de Noël de Manosque du 11 au 24 décembre 2026 : chalets promenade Aubert Millot, patinoire, petit train et spécialités provençales. Visuel d’illustration Ouvre le 11 décembre Marché de Noël de Manosque Le marché de Noël de Manosque installe une vingtaine de chalets sur la promenade Aubert Millot, dans la ville de Jean Giono, avec patinoire, petit train et spécialités provençales. Rendez-vous local Authentique Familial Gourmand Petit (moins de 30 chalets) Mis à jour le 25 octobre 2026 Localisation du Marché de Noël de Manosque Voir les marchés alentour Les points forts du Marché de No",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.google.com/goto?url=CAESaQHEIkXXO_Basb9TZYwTs7Q6iKndsyZqWqK38KicXhaxuy9mUvQJTV83mTZVxKV7Qq2pLJg4d2UjzAQoPbO90KU_VsrwTDRYxZVrufXEBAoQ5woROBdDq2BmAmW4wHmh4HZi8LNj3XsHYg",
-   "organizer": null,
-   "city": "Manosque",
-   "dept": "04",
-   "lat": 43.82654,
-   "lon": 5.79024,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-24",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "fêtes",
-    "marché de noël"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 70,
-   "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
-  },
-  {
    "id": "099aec8d0d51",
    "title": "L'enquête magique des lutins",
    "summary": "23 Dec 2026 L'enquête magique des lutins Le 23 décembre à 14h30, partez en famille à la chasse aux énigmes de Noël dans le village médiéval de Roquebrune-sur-Argens et sauvez la magie des fêtes ! Roquebrune-sur-Argens",
@@ -3186,15 +2734,14 @@
    "mode": "evenements",
    "via": null,
    "keywords": [
-    "cherche",
     "festival"
    ],
    "fiable": false,
    "hors_zone": null,
-   "score": 65,
+   "score": 60,
    "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
+   "contact_checked": true,
+   "lien_ok": "2026-11-07"
   },
   {
    "id": "611249ad962e",
@@ -3230,8 +2777,8 @@
    "hors_zone": null,
    "score": 60,
    "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
+   "contact_checked": true,
+   "lien_ok": "2026-11-07"
   },
   {
    "id": "71f31f5fb5a4",
@@ -3265,42 +2812,8 @@
    "hors_zone": null,
    "score": 60,
    "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
-  },
-  {
-   "id": "d0f8d5eeaf45",
-   "title": "Marché de Noël, animations gratuites, feu d artifices - Le Tignet (06)",
-   "summary": "11h 19h Demande du dossier par mail avec description et photos des produits vendus. Complet en stand alimentaire à consommer sur place. 11h - 17h jeux, déambulations, maquillage, tours de poneys, offerts. 11h chorale chants de Noël des enfants 11h45 arrivée du Père Noël, photo libre 14h conte Casse Noisette pour enfants 14h 17h sculptures de barbe à papa 16h arrivée du Père Noël 17h chorale chants de Noël 17h45 spectacle de feu 18h45 feu d artifices 19h fin du marché. Retour | Provence-Alpes-Côte d'Azur > Alpes-Maritimes > Le Tignet Déc. 5 Samedi 5 Décembre 2026 Le Tignet (06) Marché de Noël, ",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.google.com/goto?url=CAESXwHEIkXXM0mvB7DMZNJf3nNQOZ5apfULPElPlcO4fw0bHGBi9-uRq6LMEP4BThwfmXFtJg_i1vFF6ITNUJT1fTUa0Vo0N-WzdptZxql4CbIa_pGQUqSkNN_zw2DgBG_A",
-   "organizer": null,
-   "city": null,
-   "dept": "06",
-   "lat": 43.94,
-   "lon": 7.18,
-   "approx": true,
-   "deadline": null,
-   "event_date": "2026-12-05",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "exposants",
-    "marché de noël"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 60,
-   "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
+   "contact_checked": true,
+   "lien_ok": "2026-11-07"
   },
   {
    "id": "4cf3d939c8e4",
@@ -3439,30 +2952,24 @@
    "lien_ok": "2026-10-28"
   },
   {
-   "id": "781ea0fc8cce",
-   "title": "Nos marchés",
-   "summary": "L’accent donne du relief aux couleurs et aux senteurs de Provence. Vous êtes bien au cœur d’un de nos nombreux marchés de Méditerranée Portes de Maures. L’accent donne du relief aux couleurs et aux senteurs de Provence. Vous êtes bien au cœur d’un de nos nombreux marchés de Méditerranée Portes de Maures. Rendez-vous incontournables de la convivialité, les artisans et producteurs y partagent le fruit de leur travail. Une ambiance de jours heureux musarde au fil des étals de produits frais et de qualité. Un lieu idéal aussi pour les cadeaux souvenirs …et découvrir l’âme de nos villages. Liste Ca",
+   "id": "396b20f9ebe9",
+   "title": "Marché de Noël Manosque 2026 : dates, accès, spécialités",
+   "summary": "Le marché de Noël de Manosque du 11 au 24 décembre 2026 : chalets promenade Aubert Millot, patinoire, petit train et spécialités provençales. Visuel d’illustration Ouvre le 11 décembre Marché de Noël de Manosque Le marché de Noël de Manosque installe une vingtaine de chalets sur la promenade Aubert Millot, dans la ville de Jean Giono, avec patinoire, petit train et spécialités provençales. Rendez-vous local Authentique Familial Gourmand Petit (moins de 30 chalets) Mis à jour le 25 octobre 2026 Localisation du Marché de Noël de Manosque Voir les marchés alentour Les points forts du Marché de No",
    "type": "Événement",
    "source": "Recherche web",
-   "url": "https://www.mpmtourisme.com/nos-marches",
+   "url": "https://www.google.com/goto?url=CAESaQHEIkXXO_Basb9TZYwTs7Q6iKndsyZqWqK38KicXhaxuy9mUvQJTV83mTZVxKV7Qq2pLJg4d2UjzAQoPbO90KU_VsrwTDRYxZVrufXEBAoQ5woROBdDq2BmAmW4wHmh4HZi8LNj3XsHYg",
    "organizer": null,
-   "city": "La Londe-les-Maures",
-   "dept": "83",
-   "lat": 43.14765,
-   "lon": 6.2513,
+   "city": "Manosque",
+   "dept": "04",
+   "lat": 43.82654,
+   "lon": 5.79024,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-11-07",
+   "event_date": "2026-12-24",
    "published": null,
    "contact": {
-    "emails": [
-     "bienvenue@mpmtourisme.com"
-    ],
-    "phones": [
-     "04 94 01 53 10",
-     "04 94 48 56 27",
-     "04 94 48 08 00"
-    ],
+    "emails": [],
+    "phones": [],
     "forms": []
    },
    "mode": "evenements",
@@ -3474,33 +2981,29 @@
    "hors_zone": null,
    "score": 55,
    "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
+   "contact_checked": true,
+   "lien_ok": "2026-11-07"
   },
   {
-   "id": "c23dbe5fbdd6",
-   "title": "Les villages et marchés de Noël des Alpes-Maritimes",
-   "summary": "Mis à jour le 29/10/2026 Image Introduction Marchés de Noël, villages illuminés, gourmandises et animations pour les enfants… Préparez vos sorties de Noël 2026 dans les Alpes-Maritimes ! De Nice à Cannes, des villages de l’arrière-pays jusqu’à Monaco, Kidiklik rassemble les rendez-vous à partager en famille. Article en cours de mise à jour pour Noël 2026. Les dates et les programmes sont complétés au fil des annonces des organisateurs. Paragraphes LES COUPS DE ♡ DE NOËL DE KIDIKLIK Description Dans notre belle ville de Nice , dans un village provençal ou un centre shopping ... la magie de Noël",
+   "id": "d0f8d5eeaf45",
+   "title": "Marché de Noël, animations gratuites, feu d artifices - Le Tignet (06)",
+   "summary": "11h 19h Demande du dossier par mail avec description et photos des produits vendus. Complet en stand alimentaire à consommer sur place. 11h - 17h jeux, déambulations, maquillage, tours de poneys, offerts. 11h chorale chants de Noël des enfants 11h45 arrivée du Père Noël, photo libre 14h conte Casse Noisette pour enfants 14h 17h sculptures de barbe à papa 16h arrivée du Père Noël 17h chorale chants de Noël 17h45 spectacle de feu 18h45 feu d artifices 19h fin du marché. Retour | Provence-Alpes-Côte d'Azur > Alpes-Maritimes > Le Tignet Déc. 5 Samedi 5 Décembre 2026 Le Tignet (06) Marché de Noël,",
    "type": "Événement",
    "source": "Recherche web",
-   "url": "https://www.google.com/goto?url=CAESowEBxCJF1x-3Zryc3knasGrVVzy4NeJS-8qfqHrsB97ZEWIzB5tHVJHP3-MufOHm4Z8D42lY275tS_crv20g5o-mrOhAFkDZmfMWPAQnS42uINIVDfY-SKTBIliTffRFicy2MepV6jm_brSNwFx7nmvHOyA53LIdBk7zRVkzvnAy611emBYgVPDkC3b5RqYx0Xx15cYsRrxxYBmsnBInENuIbWnN",
+   "url": "https://www.google.com/goto?url=CAESXwHEIkXXM0mvB7DMZNJf3nNQOZ5apfULPElPlcO4fw0bHGBi9-uRq6LMEP4BThwfmXFtJg_i1vFF6ITNUJT1fTUa0Vo0N-WzdptZxql4CbIa_pGQUqSkNN_zw2DgBG_A",
    "organizer": null,
-   "city": "Valbonne",
+   "city": null,
    "dept": "06",
-   "lat": 43.62734,
-   "lon": 7.01656,
-   "approx": false,
+   "lat": 43.94,
+   "lon": 7.18,
+   "approx": true,
    "deadline": null,
-   "event_date": "2026-12-24",
+   "event_date": "2026-12-05",
    "published": null,
    "contact": {
     "emails": [],
     "phones": [],
-    "forms": [
-     "https://www.google.com/newsletter.html",
-     "https://journaldemonaco.gouv.mc/Journaux/2026/Journal-8785/Appel-a-candidature-pour-l-exploitation-des-chalets-de-vente-pour-la-demande-d-emplacements-pour-des-structures-foraines-alimentaires-privees-avec-ou-sans-terrasse-pour-des-boutiques-de-vente-au-detail-privees-et-pour-des-maneges-ou-attractions-au-s",
-     "https://coaraze.fr/2026/10/05/marche-de-noel-inscriptions-ouvertes-pour-les-exposants/"
-    ]
+    "forms": []
    },
    "mode": "evenements",
    "via": null,
@@ -3511,82 +3014,8 @@
    "hors_zone": null,
    "score": 55,
    "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
-  },
-  {
-   "id": "a6b3f755dfa3",
-   "title": "Les villages et marchés de Noël des Alpes-Maritimes",
-   "summary": "Mis à jour le 29/10/2026 Image Introduction Marchés de Noël, villages illuminés, gourmandises et animations pour les enfants… Préparez vos sorties de Noël 2026 dans les Alpes-Maritimes ! De Nice à Cannes, des villages de l’arrière-pays jusqu’à Monaco, Kidiklik rassemble les rendez-vous à partager en famille. Article en cours de mise à jour pour Noël 2026. Les dates et les programmes sont complétés au fil des annonces des organisateurs. Paragraphes LES COUPS DE ♡ DE NOËL DE KIDIKLIK Description Dans notre belle ville de Nice , dans un village provençal ou un centre shopping ... la magie de Noël",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.google.com/goto?url=CAESowEBxCJF18SptJuRtx-RoH53DDh1knKpLbpu8BFGf6fV7QUCdFEtWO6PWw5W_k_LznNyoSXCrG14C3-1X-y0csqFsfTWzu09URKmg8-yZ7ruF27TPiU7oZHfIApbWyq3D5FLy1M3KfkbcyI-fhSQ3r_conwxalALT68vRas8ZvgeMRPLw4qYubTgGNP9uWBg8HYt56KUWoZq03hoYbypE7CEk9zl",
-   "organizer": null,
-   "city": "Valbonne",
-   "dept": "06",
-   "lat": 43.62734,
-   "lon": 7.01656,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-24",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": [
-     "https://www.google.com/newsletter.html",
-     "https://journaldemonaco.gouv.mc/Journaux/2026/Journal-8785/Appel-a-candidature-pour-l-exploitation-des-chalets-de-vente-pour-la-demande-d-emplacements-pour-des-structures-foraines-alimentaires-privees-avec-ou-sans-terrasse-pour-des-boutiques-de-vente-au-detail-privees-et-pour-des-maneges-ou-attractions-au-s",
-     "https://coaraze.fr/2026/10/05/marche-de-noel-inscriptions-ouvertes-pour-les-exposants/"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "marché de noël"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 55,
-   "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
-  },
-  {
-   "id": "11c0bbe0be47",
-   "title": "Les villages et marchés de Noël des Alpes-Maritimes",
-   "summary": "Mis à jour le 29/10/2026 Image Introduction Marchés de Noël, villages illuminés, gourmandises et animations pour les enfants… Préparez vos sorties de Noël 2026 dans les Alpes-Maritimes ! De Nice à Cannes, des villages de l’arrière-pays jusqu’à Monaco, Kidiklik rassemble les rendez-vous à partager en famille. Article en cours de mise à jour pour Noël 2026. Les dates et les programmes sont complétés au fil des annonces des organisateurs. Paragraphes LES COUPS DE ♡ DE NOËL DE KIDIKLIK Description Dans notre belle ville de Nice , dans un village provençal ou un centre shopping ... la magie de Noël",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.google.com/goto?url=CAESowEBxCJF17DME94ZhExXMJVD_tM-oI5mUaACWzKHJLia0kjMoE39mRu8JGEMRrjSXvM-UhsXYrZzhW3U2UM-RRQLTVsFpWeXdZhobftEnFcYfWPJ_YDwOjwnc4ujtrDlilVYjrjQC9oFS-_T4UyCFIh2JJmy3UD5D-9DjKnZzmCFctVEkxK6u2zv3a3_mpVJ-ln1MdVNGgJOkX8M7CLnVg79RJcM",
-   "organizer": null,
-   "city": "Valbonne",
-   "dept": "06",
-   "lat": 43.62734,
-   "lon": 7.01656,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-24",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": [
-     "https://www.google.com/newsletter.html",
-     "https://journaldemonaco.gouv.mc/Journaux/2026/Journal-8785/Appel-a-candidature-pour-l-exploitation-des-chalets-de-vente-pour-la-demande-d-emplacements-pour-des-structures-foraines-alimentaires-privees-avec-ou-sans-terrasse-pour-des-boutiques-de-vente-au-detail-privees-et-pour-des-maneges-ou-attractions-au-s",
-     "https://coaraze.fr/2026/10/05/marche-de-noel-inscriptions-ouvertes-pour-les-exposants/"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "marché de noël"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 55,
-   "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
+   "contact_checked": true,
+   "lien_ok": "2026-11-07"
   },
   {
    "id": "ae488b0d2c10",
@@ -3620,82 +3049,8 @@
    "hors_zone": null,
    "score": 55,
    "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
-  },
-  {
-   "id": "9709313ae23d",
-   "title": "Les villages et marchés de Noël des Alpes-Maritimes",
-   "summary": "Mis à jour le 29/10/2026 Image Introduction Marchés de Noël, villages illuminés, gourmandises et animations pour les enfants… Préparez vos sorties de Noël 2026 dans les Alpes-Maritimes ! De Nice à Cannes, des villages de l’arrière-pays jusqu’à Monaco, Kidiklik rassemble les rendez-vous à partager en famille. Article en cours de mise à jour pour Noël 2026. Les dates et les programmes sont complétés au fil des annonces des organisateurs. Paragraphes LES COUPS DE ♡ DE NOËL DE KIDIKLIK Description Dans notre belle ville de Nice , dans un village provençal ou un centre shopping ... la magie de Noël",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.google.com/goto?url=CAESogEBxCJF12JOTYk8ZtXJ6cRXSbp-Y0p9u4CwanKrh_GIkAFHyq_7C_AmEX5c293M3uWbqnpatwucFVl4d7EGTOG1FwEpFGNXc9sDecJVjsmPINa7NJJ-U3HbkbUXOsUZ3njrvJgDxSyoD81mhlSyutvB4PTmnGciuex-SSmh97TB6Dah8kdUO-OpAC4CnlgwhEwfv2qFMhn96hLF61JgOEYZeAE",
-   "organizer": null,
-   "city": "Valbonne",
-   "dept": "06",
-   "lat": 43.62734,
-   "lon": 7.01656,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-24",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": [
-     "https://www.google.com/newsletter.html",
-     "https://journaldemonaco.gouv.mc/Journaux/2026/Journal-8785/Appel-a-candidature-pour-l-exploitation-des-chalets-de-vente-pour-la-demande-d-emplacements-pour-des-structures-foraines-alimentaires-privees-avec-ou-sans-terrasse-pour-des-boutiques-de-vente-au-detail-privees-et-pour-des-maneges-ou-attractions-au-s",
-     "https://coaraze.fr/2026/10/05/marche-de-noel-inscriptions-ouvertes-pour-les-exposants/"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "marché de noël"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 55,
-   "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
-  },
-  {
-   "id": "68294af3f321",
-   "title": "Les villages et marchés de Noël des Alpes-Maritimes",
-   "summary": "Mis à jour le 29/10/2026 Image Introduction Marchés de Noël, villages illuminés, gourmandises et animations pour les enfants… Préparez vos sorties de Noël 2026 dans les Alpes-Maritimes ! De Nice à Cannes, des villages de l’arrière-pays jusqu’à Monaco, Kidiklik rassemble les rendez-vous à partager en famille. Article en cours de mise à jour pour Noël 2026. Les dates et les programmes sont complétés au fil des annonces des organisateurs. Paragraphes LES COUPS DE ♡ DE NOËL DE KIDIKLIK Description Dans notre belle ville de Nice , dans un village provençal ou un centre shopping ... la magie de Noël",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://cotedazur.kidiklik.fr/articles/334953-les-villages-et-marches-de-noel-des-alpes-maritimes.html",
-   "organizer": null,
-   "city": "Valbonne",
-   "dept": "06",
-   "lat": 43.62734,
-   "lon": 7.01656,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-24",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": [
-     "https://cotedazur.kidiklik.fr/newsletter.html",
-     "https://journaldemonaco.gouv.mc/Journaux/2026/Journal-8785/Appel-a-candidature-pour-l-exploitation-des-chalets-de-vente-pour-la-demande-d-emplacements-pour-des-structures-foraines-alimentaires-privees-avec-ou-sans-terrasse-pour-des-boutiques-de-vente-au-detail-privees-et-pour-des-maneges-ou-attractions-au-s",
-     "https://coaraze.fr/2026/10/05/marche-de-noel-inscriptions-ouvertes-pour-les-exposants/"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "marché de noël"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 55,
-   "found_at": "2026-11-07T11:42:37+00:00",
-   "lien_ok": "2026-11-07",
-   "contact_checked": true
+   "contact_checked": true,
+   "lien_ok": "2026-11-07"
   },
   {
    "id": "18b1f1109381",
@@ -3945,6 +3300,41 @@
    "found_at": "2026-10-14T05:39:31+00:00",
    "contact_checked": true,
    "lien_ok": "2026-10-28"
+  },
+  {
+   "id": "1e094e4d05fd",
+   "title": "Salon-de-Provence - Agenda : le Samedi 5 Décembre 2026 - Sorties, spectacles, concerts et manifestations",
+   "summary": "Salon-de-Provence - L'agenda de tous les spectacles, sorties, manifestations, concerts, conférences, expositions, soirées : Samedi 5 Décembre 2026 - 5-12-2026 Salon-de-Provence Concert, spectacle, etc. Je publie sur le JDS Concert, spectacle, etc. Aujourd'hui Demain Ce week-end Agenda Sorties & loisirs Actu Artistes en tournée Publier sur JDS Vos idées sorties Grands événements Activité & Expérience Activité & Expérience : voir tout Aventure Visites Nature Aquatique & nautique Pilotage Ateliers Bien-être Gastronomie Jeux Interactives & immersives Manifestations Manifestations : voir tout Anima",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.jds.fr/salon-de-provence/agenda/agenda-du-jour/samedi-5-decembre-2026-5-12-2026_JPJ",
+   "organizer": null,
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-05",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://www.jds.fr/newsletter-archives/toutes-les-newsletter-jds-fr?origin=modal-newsletter&dpt=13&list=1"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 50,
+   "found_at": "2026-11-07T11:42:37+00:00",
+   "contact_checked": true,
+   "lien_ok": "2026-11-07"
   },
   {
    "id": "3cb782f60fd2",

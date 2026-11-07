@@ -1747,5 +1747,17 @@
   "lon": 5.10141,
   "city": "Cheval-Blanc",
   "dept": "84"
+ },
+ "salon-de-provence": {
+  "lat": 43.6377,
+  "lon": 5.06204,
+  "city": "Salon-de-Provence",
+  "dept": "13"
+ },
+ "la garde-freinet": {
+  "lat": 43.31321,
+  "lon": 6.48008,
+  "city": "La Garde-Freinet",
+  "dept": "83"
  }
 }
