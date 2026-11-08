@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-08T11:54:50+00:00",
+ "updated": "2026-11-08T19:37:40+00:00",
  "count": 89,
- "new_count": 2,
+ "new_count": 0,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -13,7 +13,8 @@
   },
   "Recherche web": {
    "ok": true,
-   "found": 32
+   "found": 0,
+   "note": "recherche web faite le matin seulement (économise le quota)"
   },
   "Festivals PACA": {
    "ok": true,
@@ -76,8 +77,8 @@
    "hors_zone": null,
    "score": 100,
    "found_at": "2026-11-08T11:54:50+00:00",
-   "lien_ok": "2026-11-08",
-   "contact_checked": true
+   "contact_checked": true,
+   "lien_ok": "2026-11-08"
   },
   {
    "id": "3ede42726119",
@@ -567,50 +568,6 @@
    "contact_checked": true
   },
   {
-   "id": "625295c89b60",
-   "title": "Noël au Palais 2026 : appel à candidatures pour un food-truck et un chalet so… – Mairie des 4ᵉ et 5ᵉ arrondissements de Marseille",
-   "summary": "À l’occasion de Noël au Palais 2026, la Mairie des 4ᵉ et 5ᵉ arrondissements de Marseille lance un appel à manifestation d’intérêt (AMI) à destina… Partager cette page Facebook LinkedIn Twitter E-mail Organisé du 19 au 26 décembre 2026 , avec une fermeture le 25 décembre, cet événement familial et festif proposera aux habitants des animations et des moments de convivialité dans l’esprit des fêtes de fin d’année. À travers cet appel à candidatures, la mairie de secteur souhaite associer les structures engagées dans des démarches sociales, solidaires et durables à cette nouvelle édition. Deux emp",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-26",
-   "published": null,
-   "contact": {
-    "emails": [
-     "culture45@marseille.fr"
-    ],
-    "phones": [
-     "04 91 14 60 30"
-    ],
-    "forms": [
-     "https://www.facebook.com/sharer/sharer.php?u=https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
-     "https://www.linkedin.com/sharing/share-offsite/?url=https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
-     "https://twitter.com/share?url=https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à candidatures",
-    "appel à manifestation d'intérêt",
-    "emplacement",
-    "food-truck"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 85,
-   "found_at": "2026-10-31T10:54:29+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-11-08"
-  },
-  {
    "id": "e1586e0c02f0",
    "title": "📣 APPEL À CANDIDATURES – FOOD TRUCK / RESTAURATION 🍔🌭🥙 | Facebook",
    "summary": "📣 APPEL À CANDIDATURES – FOOD TRUCK / RESTAURATION 🍔🌭🥙 Dans le cadre de notre Vide-Grenier à Sanary, nous recherchons un food truck ou professionnel de la restauration/snacking pour proposer une...",
@@ -681,6 +638,49 @@
    "found_at": "2026-10-31T10:54:29+00:00",
    "contact_checked": true,
    "lien_ok": "2026-10-31"
+  },
+  {
+   "id": "625295c89b60",
+   "title": "Noël au Palais 2026 : appel à candidatures pour un food-truck et un chalet so… – Mairie des 4ᵉ et 5ᵉ arrondissements de Marseille",
+   "summary": "À l’occasion de Noël au Palais 2026, la Mairie des 4ᵉ et 5ᵉ arrondissements de Marseille lance un appel à manifestation d’intérêt (AMI) à destina… Partager cette page Facebook LinkedIn Twitter E-mail Organisé du 19 au 26 décembre 2026 , avec une fermeture le 25 décembre, cet événement familial et festif proposera aux habitants des animations et des moments de convivialité dans l’esprit des fêtes de fin d’année. À travers cet appel à candidatures, la mairie de secteur souhaite associer les structures engagées dans des démarches sociales, solidaires et durables à cette nouvelle édition. Deux emp",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-26",
+   "published": null,
+   "contact": {
+    "emails": [
+     "culture45@marseille.fr"
+    ],
+    "phones": [
+     "04 91 14 60 30"
+    ],
+    "forms": [
+     "https://www.facebook.com/sharer/sharer.php?u=https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
+     "https://www.linkedin.com/sharing/share-offsite/?url=https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
+     "https://twitter.com/share?url=https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à candidatures",
+    "appel à manifestation d'intérêt",
+    "food-truck"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 80,
+   "found_at": "2026-10-31T10:54:29+00:00",
+   "contact_checked": true,
+   "lien_ok": "2026-11-08"
   },
   {
    "id": "5ae9ea0df2f9",
