@@ -1759,5 +1759,12 @@
   "lon": 6.48008,
   "city": "La Garde-Freinet",
   "dept": "83"
- }
+ },
+ "zone:grenoble": null,
+ "zone:halluin": null,
+ "zone:lille": null,
+ "zone:noel bernouville": null,
+ "zone:normandie": null,
+ "zone:la madeleine": null,
+ "zone:noel de ruitz": null
 }

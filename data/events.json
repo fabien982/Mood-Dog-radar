@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-07T19:23:34+00:00",
- "count": 91,
- "new_count": 0,
+ "updated": "2026-11-08T11:54:50+00:00",
+ "count": 89,
+ "new_count": 2,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -13,8 +13,7 @@
   },
   "Recherche web": {
    "ok": true,
-   "found": 0,
-   "note": "recherche web faite le matin seulement (économise le quota)"
+   "found": 32
   },
   "Festivals PACA": {
    "ok": true,
@@ -23,23 +22,23 @@
   },
   "Pages surveillées": {
    "ok": true,
-   "found": 27,
+   "found": 24,
    "errors": []
   }
  },
  "web_runs": {
-  "Candidatures": "2026-11-07",
+  "Candidatures": "2026-11-08",
   "Instagram": "2026-11-07",
   "Fêtes et festivals": "2026-11-07",
-  "Mairies de ma zone": "2026-11-07",
+  "Mairies de ma zone": "2026-11-08",
   "Festivals, domaines et châteaux": "2026-11-07",
   "Festivals suivis": "2026-11-07"
  },
  "events": [
   {
-   "id": "0bd01dc36ce3",
+   "id": "6a52440f4811",
    "title": "Marseille (13) : Food-truck solidaire Noël au Palais 2026",
-   "summary": "Marseille : Food-truck solidaire Noël au Palais 2026. Date limite : 8 novembre 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Food-truck solidaire Noël au Palais 2026 Mis à jour le 7 novembre 2026 Date limite : 8 novembre 2026 Ouvert, J-1 Réservé aux structures de l'économie sociale et solidaire (ESS) : la mairie des 4e et 5e arrondissements cherche un food truck solidaire (snacks et douceurs, pas de repas complets, avec un volet social ou d'insertion) pour Noël au Palais, au pa",
+   "summary": "Marseille : Food-truck solidaire Noël au Palais 2026. Date limite : 8 novembre 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Food-truck solidaire Noël au Palais 2026 Mis à jour le 8 novembre 2026 Date limite : 8 novembre 2026 Dernier jour Réservé aux structures de l'économie sociale et solidaire (ESS) : la mairie des 4e et 5e arrondissements cherche un food truck solidaire (snacks et douceurs, pas de repas complets, avec un volet social ou d'insertion) pour Noël au Palais, au p",
    "type": "Recherche un food truck",
    "source": "Page surveillée",
    "url": "https://wikifoodtruck.fr/appels-food-truck/marseille-food-truck-solidaire-noel-au-palais-2026",
@@ -54,14 +53,13 @@
    "published": null,
    "contact": {
     "emails": [
-     "francois@wikifoodtruck.fr",
      "culture45@marseille.fr"
     ],
     "phones": [],
     "forms": [
      "https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
-     "https://wikifoodtruck.fr/appels-food-truck/nice-aot-campus-universitaire-pour-food-truck-2026",
-     "https://wikifoodtruck.fr/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026"
+     "https://wikifoodtruck.fr/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2",
+     "https://wikifoodtruck.fr/appels-food-truck/valbonne-appel-a-candidature-food-truck-pompidou-2026"
     ]
    },
    "mode": "demandes",
@@ -77,9 +75,9 @@
    "fiable": true,
    "hors_zone": null,
    "score": 100,
-   "found_at": "2026-10-28T13:18:09+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-11-07"
+   "found_at": "2026-11-08T11:54:50+00:00",
+   "lien_ok": "2026-11-08",
+   "contact_checked": true
   },
   {
    "id": "3ede42726119",
@@ -287,12 +285,12 @@
    "lien_ok": "page source"
   },
   {
-   "id": "1c4731f86c14",
-   "title": "Récital Piano-Voix",
-   "summary": "07 Nov 2026 Récital Piano-Voix Une soirée exceptionnelle organisée par Lisa Angell. Venez profiter d'un concert rare ou Rémy Bailet pianiste concertiste accompagne 25 artistes. Saint-Raphaël",
+   "id": "0a87c3cc25a1",
+   "title": "La grande soirée Guinguette et Paillettes",
+   "summary": "21 Nov 2026 La grande soirée Guinguette et Paillettes Les Papakools et la Cassiop’Team Rugby s’unissent pour vous proposer une soirée placée sous le signe de la fête, de la musique et de la convivialité ! Saint-Raphaël",
    "type": "Événement",
    "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/recital-piano-voix/",
+   "url": "https://www.esterel-cotedazur.com/en/cards/la-grande-soiree-guinguette-et-paillettes/",
    "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
    "city": "Saint-Raphaël",
    "dept": "83",
@@ -300,14 +298,11 @@
    "lon": 6.84991,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-11-07",
+   "event_date": "2026-11-21",
    "published": null,
    "contact": {
-    "emails": [
-     "lisa.revs83@gmail.com"
-    ],
+    "emails": [],
     "phones": [
-     "06 14 43 37 41",
      "04 94 19 10 60"
     ],
     "forms": []
@@ -315,13 +310,14 @@
    "mode": "evenements",
    "via": null,
    "keywords": [
-    "concert",
+    "fête",
+    "guinguette",
     "soirée"
    ],
    "fiable": false,
    "hors_zone": null,
    "score": 90,
-   "found_at": "2026-11-03T12:45:48+00:00",
+   "found_at": "2026-10-31T10:54:29+00:00",
    "contact_checked": true
   },
   {
@@ -399,41 +395,6 @@
    "hors_zone": null,
    "score": 90,
    "found_at": "2026-10-28T14:05:03+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "0a87c3cc25a1",
-   "title": "La grande soirée Guinguette et Paillettes",
-   "summary": "21 Nov 2026 La grande soirée Guinguette et Paillettes Les Papakools et la Cassiop’Team Rugby s’unissent pour vous proposer une soirée placée sous le signe de la fête, de la musique et de la convivialité ! Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/la-grande-soiree-guinguette-et-paillettes/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-21",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "fête",
-    "guinguette"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 90,
-   "found_at": "2026-10-31T10:54:29+00:00",
    "contact_checked": true
   },
   {
@@ -568,12 +529,12 @@
    "contact_checked": true
   },
   {
-   "id": "c6ce7fcb64d1",
+   "id": "2fc5fca2cbe4",
    "title": "Soirée Choucroute",
    "summary": "14 Nov 2026 Soirée Choucroute Le Comité des Fêtes de Roquebrune-sur-Argens vous donne rendez-vous le samedi 14 novembre pour une soirée conviviale et festive placée sous le signe de la gourmandise ! Roquebrune-sur-Argens",
    "type": "Événement",
    "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/soiree-choucroute-4/",
+   "url": "https://www.esterel-cotedazur.com/en/cards/soiree-choucroute/",
    "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
    "city": "Roquebrune-sur-Argens",
    "dept": "83",
@@ -602,8 +563,52 @@
    "fiable": false,
    "hors_zone": null,
    "score": 85,
-   "found_at": "2026-10-28T05:49:20+00:00",
+   "found_at": "2026-11-08T11:54:50+00:00",
    "contact_checked": true
+  },
+  {
+   "id": "625295c89b60",
+   "title": "Noël au Palais 2026 : appel à candidatures pour un food-truck et un chalet so… – Mairie des 4ᵉ et 5ᵉ arrondissements de Marseille",
+   "summary": "À l’occasion de Noël au Palais 2026, la Mairie des 4ᵉ et 5ᵉ arrondissements de Marseille lance un appel à manifestation d’intérêt (AMI) à destina… Partager cette page Facebook LinkedIn Twitter E-mail Organisé du 19 au 26 décembre 2026 , avec une fermeture le 25 décembre, cet événement familial et festif proposera aux habitants des animations et des moments de convivialité dans l’esprit des fêtes de fin d’année. À travers cet appel à candidatures, la mairie de secteur souhaite associer les structures engagées dans des démarches sociales, solidaires et durables à cette nouvelle édition. Deux emp",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-26",
+   "published": null,
+   "contact": {
+    "emails": [
+     "culture45@marseille.fr"
+    ],
+    "phones": [
+     "04 91 14 60 30"
+    ],
+    "forms": [
+     "https://www.facebook.com/sharer/sharer.php?u=https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
+     "https://www.linkedin.com/sharing/share-offsite/?url=https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
+     "https://twitter.com/share?url=https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à candidatures",
+    "appel à manifestation d'intérêt",
+    "emplacement",
+    "food-truck"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 85,
+   "found_at": "2026-10-31T10:54:29+00:00",
+   "contact_checked": true,
+   "lien_ok": "2026-11-08"
   },
   {
    "id": "e1586e0c02f0",
@@ -676,86 +681,6 @@
    "found_at": "2026-10-31T10:54:29+00:00",
    "contact_checked": true,
    "lien_ok": "2026-10-31"
-  },
-  {
-   "id": "625295c89b60",
-   "title": "Noël au Palais 2026 : appel à candidatures pour un food-truck et un chalet so… – Mairie des 4ᵉ et 5ᵉ arrondissements de Marseille",
-   "summary": "À l’occasion de Noël au Palais 2026, la Mairie des 4ᵉ et 5ᵉ arrondissements de Marseille lance un appel à manifestation d’intérêt (AMI) à destina… Partager cette page Facebook LinkedIn Twitter E-mail Organisé du 19 au 26 décembre 2026 , avec une fermeture le 25 décembre, cet événement familial et festif proposera aux habitants des animations et des moments de convivialité dans l’esprit des fêtes de fin d’année. À travers cet appel à candidatures, la mairie de secteur souhaite associer les structures engagées dans des démarches sociales, solidaires et durables à cette nouvelle édition. Deux emp",
-   "type": "Appel à candidatures",
-   "source": "Recherche web",
-   "url": "https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-26",
-   "published": null,
-   "contact": {
-    "emails": [
-     "culture45@marseille.fr"
-    ],
-    "phones": [
-     "04 91 14 60 30"
-    ],
-    "forms": [
-     "https://www.facebook.com/sharer/sharer.php?u=https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
-     "https://www.linkedin.com/sharing/share-offsite/?url=https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
-     "https://twitter.com/share?url=https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à candidatures",
-    "appel à manifestation d'intérêt",
-    "food-truck"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 80,
-   "found_at": "2026-10-31T10:54:29+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-11-07"
-  },
-  {
-   "id": "a0f7be956ebf",
-   "title": "Festival : Les femmes s'en mêlent 2026 - Salon-de-Provence : dates, programmation, billetterie",
-   "summary": "Festival, le 7 novembre 2026, à Salon-de-Provence (Bouches du Rhône) - horaires, tarifs, renseignements. Depuis 1997, le festival Les Femmes s’en Mêlent œuvre pour une plus grande visibilité des artistes femmes dans les musiques actuelles. Les Salon-de-Provence Concert, spectacle, etc. Je publie sur le JDS Concert, spectacle, etc. Aujourd'hui Demain Ce week-end Agenda Sorties & loisirs Actu Artistes en tournée Publier sur JDS Vos idées sorties Grands événements Activité & Expérience Activité & Expérience : voir tout Aventure Visites Nature Aquatique & nautique Pilotage Ateliers Bien-être Gastr",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.google.com/goto?url=CAESowEBxCJF10ucIt3LKQvr4o7wJWqDU3YQ3rrBUUbNCKAd6-Va4Y45OwPcV3K-kVGhgGpoHMhTvG-Q513rUPJhhqU1ujQ4vfipqMQN0tRJH6rmwfQOxZdIOgqycQhhWQf9t6X7oMFAVvNCAfb6EfdI1qRFuy4ygabWC5QL8q6qtb56dnvk6YW37s2B6uRI3i4vLstJ2rXDl_MWig1UKqj601JM8wfh&gsessionid=L9v2aKA8JzNcE4-2Gn4NgODGa2OZCiNZnmTTgHiDA4bMFKQpoQizAA",
-   "organizer": null,
-   "city": "Salon-de-Provence",
-   "dept": "13",
-   "lat": 43.6377,
-   "lon": 5.06204,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-07",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": [
-     "https://www.helloasso.com/associations/oeuvre-de-la-jeunesse-laique-de-salon-de-provence-centre-de-culture-et-loisirs-du-portail-coucou/evenements/festival-les-femmes-s-en-melent",
-     "https://www.jds.fr/newsletter-archives/toutes-les-newsletter-jds-fr?origin=modal-newsletter&dpt=13&list=1"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert",
-    "festival"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 80,
-   "found_at": "2026-11-07T11:42:37+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-11-07"
   },
   {
    "id": "5ae9ea0df2f9",
@@ -1062,7 +987,7 @@
   {
    "id": "7a9df4672862",
    "title": "Festival Régional De Théâtre Amateur",
-   "summary": "07 Nov 2026 Festival Régional De Théâtre Amateur Comme chaque année, cet évènement incontournable à Puget est organisé par la Compagnie Le QUIPROQUO du Foyer Culturel Laïque et la Ville de Puget sur Argens. Puget-sur-Argens",
+   "summary": "08 Nov 2026 Festival Régional De Théâtre Amateur Comme chaque année, cet évènement incontournable à Puget est organisé par la Compagnie Le QUIPROQUO du Foyer Culturel Laïque et la Ville de Puget sur Argens. Puget-sur-Argens",
    "type": "Événement",
    "source": "Page surveillée",
    "url": "https://www.esterel-cotedazur.com/en/cards/festival-regional-de-theatre-amateur/",
@@ -1073,7 +998,7 @@
    "lon": 6.68553,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-11-07",
+   "event_date": "2026-11-08",
    "published": null,
    "contact": {
     "emails": [],
@@ -2198,42 +2123,6 @@
    "lien_ok": "2026-10-28"
   },
   {
-   "id": "e0310f9cae76",
-   "title": "Chœur Sardes X Sacrée Musique",
-   "summary": "07 Nov 2026 Chœur Sardes X Sacrée Musique La Saison Musicale vous invite à une expérience tout à fait inédite : une soirée entièrement illuminée à la vraie bougie avec les Tenores di Orosei, l’une des plus célèbres formations de polyphonies Sardes. Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/choeur-sardes-x-sacree-musique-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-07",
-   "published": null,
-   "contact": {
-    "emails": [
-     "billetterie@sacreemusique.fr"
-    ],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "soirée"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 70,
-   "found_at": "2026-11-02T13:28:07+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "30b864c10d84",
    "title": "Salon d'Art Contemporain",
    "summary": "12 Nov 2026 au 22 Nov 2026 Salon d'Art Contemporain Le Lions Club Saint-Raphaël Côte d'Azur propose ce salon d'art contemporain présentant les œuvres de plus 25 artistes : peintres, sculpteurs et photographes. La Villa Aurélienne sera le prestigieux écrin de cet évènement artistique. Fréjus",
@@ -2263,6 +2152,77 @@
    "via": null,
    "keywords": [
     "salon"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-11-06T12:55:10+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "02a5bfa5e0b1",
+   "title": "L'Apéros Swing",
+   "summary": "14 Nov 2026 L'Apéros Swing Soirée de musique festive et dansante organisée par Classic Jazz Paca dans le cadre de ses fameux Apéros Swing avec le 5tet du Caveau de la Huchette Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/laperos-swing/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-14",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "soirée"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-11-03T12:45:48+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "77425d40e5f5",
+   "title": "Loto du CARF",
+   "summary": "14 Nov 2026 Loto du CARF Le grand loto du CARF est de retour ! Pour la toute première fois, nous vous donnons rendez-vous le samedi 14 Novembre dans la salle Pierre Clère de Saint-Raphaël pour une soirée de jeu inoubliable et pleine de surprises. Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/loto-du-carf-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-14",
+   "published": null,
+   "contact": {
+    "emails": [
+     "contact@carfrugby.fr"
+    ],
+    "phones": [
+     "07 67 70 44 82",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "soirée"
    ],
    "fiable": false,
    "hors_zone": null,
@@ -2342,77 +2302,6 @@
    "hors_zone": null,
    "score": 70,
    "found_at": "2026-10-30T05:52:02+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "02a5bfa5e0b1",
-   "title": "L'Apéros Swing",
-   "summary": "14 Nov 2026 L'Apéros Swing Soirée de musique festive et dansante organisée par Classic Jazz Paca dans le cadre de ses fameux Apéros Swing avec le 5tet du Caveau de la Huchette Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/laperos-swing/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-14",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "soirée"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 70,
-   "found_at": "2026-11-03T12:45:48+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "77425d40e5f5",
-   "title": "Loto du CARF",
-   "summary": "14 Nov 2026 Loto du CARF Le grand loto du CARF est de retour ! Pour la toute première fois, nous vous donnons rendez-vous le samedi 14 Novembre dans la salle Pierre Clère de Saint-Raphaël pour une soirée de jeu inoubliable et pleine de surprises. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/loto-du-carf-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-14",
-   "published": null,
-   "contact": {
-    "emails": [
-     "contact@carfrugby.fr"
-    ],
-    "phones": [
-     "07 67 70 44 82",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "soirée"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 70,
-   "found_at": "2026-11-06T12:55:10+00:00",
    "contact_checked": true
   },
   {
@@ -2556,6 +2445,43 @@
    "hors_zone": null,
    "score": 70,
    "found_at": "2026-11-02T13:28:07+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "c6ce7fcb64d1",
+   "title": "Soirée Choucroute",
+   "summary": "14 Nov 2026 Soirée Choucroute Le Comité des Fêtes de Roquebrune-sur-Argens vous donne rendez-vous le samedi 14 novembre pour une soirée conviviale et festive placée sous le signe de la gourmandise ! Roquebrune-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/soiree-choucroute-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Roquebrune-sur-Argens",
+   "dept": "83",
+   "lat": 43.42692,
+   "lon": 6.66176,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-14",
+   "published": null,
+   "contact": {
+    "emails": [
+     "cdf.roquebrune@orange.fr"
+    ],
+    "phones": [
+     "07 59 66 65 91",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fêtes"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
   },
   {
