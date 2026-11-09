@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-08T19:37:40+00:00",
- "count": 89,
+ "updated": "2026-11-09T13:52:27+00:00",
+ "count": 81,
  "new_count": 0,
  "sources": {
   "BOAMP": {
@@ -23,7 +23,7 @@
   },
   "Pages surveillées": {
    "ok": true,
-   "found": 24,
+   "found": 20,
    "errors": []
   }
  },
@@ -36,50 +36,6 @@
   "Festivals suivis": "2026-11-07"
  },
  "events": [
-  {
-   "id": "6a52440f4811",
-   "title": "Marseille (13) : Food-truck solidaire Noël au Palais 2026",
-   "summary": "Marseille : Food-truck solidaire Noël au Palais 2026. Date limite : 8 novembre 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Food-truck solidaire Noël au Palais 2026 Mis à jour le 8 novembre 2026 Date limite : 8 novembre 2026 Dernier jour Réservé aux structures de l'économie sociale et solidaire (ESS) : la mairie des 4e et 5e arrondissements cherche un food truck solidaire (snacks et douceurs, pas de repas complets, avec un volet social ou d'insertion) pour Noël au Palais, au p",
-   "type": "Recherche un food truck",
-   "source": "Page surveillée",
-   "url": "https://wikifoodtruck.fr/appels-food-truck/marseille-food-truck-solidaire-noel-au-palais-2026",
-   "organizer": "Wikifoodtruck – appels à candidatures des mairies",
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": "2026-11-08",
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [
-     "culture45@marseille.fr"
-    ],
-    "phones": [],
-    "forms": [
-     "https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
-     "https://wikifoodtruck.fr/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2",
-     "https://wikifoodtruck.fr/appels-food-truck/valbonne-appel-a-candidature-food-truck-pompidou-2026"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "candidature",
-    "cherche",
-    "emplacement",
-    "food truck",
-    "food-truck",
-    "foodtruck"
-   ],
-   "fiable": true,
-   "hors_zone": null,
-   "score": 100,
-   "found_at": "2026-11-08T11:54:50+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-11-08"
-  },
   {
    "id": "3ede42726119",
    "title": "DSP - DELEGATION DE SERVICE PUBLIC POUR L'EXPLOITATION DU SNACK BUVETTE DU MARCHE AUX FRUITS ET LEGUMES ANDRE VIDAU",
@@ -112,90 +68,6 @@
    "score": 100,
    "found_at": "2026-11-06T20:51:21+00:00",
    "contact_checked": true
-  },
-  {
-   "id": "eb9cf028f2bd",
-   "title": "Marseille (13) : Food-truck solidaire Noël au Palais 2026",
-   "summary": "Marseille : Food-truck solidaire Noël au Palais 2026. Date limite : 8 novembre 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Food-truck solidaire Noël au Palais 2026 Mis à jour le 31 octobre 2026 Date limite : 8 novembre 2026 Ouvert, J-8 Réservé aux structures de l'économie sociale et solidaire (ESS) : la mairie des 4e et 5e arrondissements cherche un food truck solidaire (snacks et douceurs, pas de repas complets, avec un volet social ou d'insertion) pour Noël au Palais, au pa",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.google.com/goto?url=CAESmAEB6zswFSNUhfrSblY52MaIA027zu8WX4xz5-WmBa93bU8R-aF6EOQ69geFe5EJ4qrLgKr5ZP-HAQsuGySBKD225PUeKpHX00NUj_na67JcOp4pSismZ-RvekJpmQL_kox3Lu0obaFqZjsdCPPuz2IvFeF-S4IYksZ6wtmTUeJI6dSaSTAZaZ8NuP6L6wrRYYYq6vCcZwf93g",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": "2026-11-08",
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [
-     "francois@wikifoodtruck.fr",
-     "culture45@marseille.fr"
-    ],
-    "phones": [],
-    "forms": [
-     "https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
-     "https://www.google.com/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026",
-     "https://www.google.com/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "cherche",
-    "food truck",
-    "food-truck"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 95,
-   "found_at": "2026-10-31T10:54:29+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-31"
-  },
-  {
-   "id": "939a818e1d37",
-   "title": "Marseille (13) : Food-truck solidaire Noël au Palais 2026",
-   "summary": "Marseille : Food-truck solidaire Noël au Palais 2026. Date limite : 8 novembre 2026. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › Marseille 📢 Appels à candidatures Marseille Food-truck solidaire Noël au Palais 2026 Mis à jour le 30 octobre 2026 Date limite : 8 novembre 2026 Ouvert, J-9 Réservé aux structures de l'économie sociale et solidaire (ESS) : la mairie des 4e et 5e arrondissements cherche un food truck solidaire (snacks et douceurs, pas de repas complets, avec un volet social ou d'insertion) pour Noël au Palais, au pa",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.google.com/goto?url=CAESmAEB6zswFTuiomXSHSOzWrECSVabX8ucIX36d_Ecw5msqnR1zgdJ-75WH0YAuSzFvcki1-huKQnAsJnTJabGLVDon3Iocrs9tiRil0rQ0pRBLs1L_Gp5xSKln3O5hjJ3h9pXTQoyNGIW8okligsc1ox-Dfw2oFFGyoQ8CPB2vuY94JYJdPWQ-3VfdDe-vB4OMxw3RWQ1B76y-w",
-   "organizer": null,
-   "city": "Marseille",
-   "dept": "13",
-   "lat": 43.282,
-   "lon": 5.405,
-   "approx": false,
-   "deadline": "2026-11-08",
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [
-     "francois@wikifoodtruck.fr",
-     "culture45@marseille.fr"
-    ],
-    "phones": [],
-    "forms": [
-     "https://www.marseille4-5.fr/news/noel-au-palais-2026-appel-a-candidatures-pour-un-food-truck-et-un-chalet-solidaires/",
-     "https://www.google.com/appels-food-truck/allauch-appel-a-candidature-food-truck-noel-2026",
-     "https://www.google.com/appels-food-truck/marseille-appel-a-manifestation-d-interet-food-trucks-2026-2"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "cherche",
-    "food truck",
-    "food-truck"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 95,
-   "found_at": "2026-10-30T05:52:02+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-30"
   },
   {
    "id": "9a8973b58aa7",
@@ -985,114 +857,6 @@
    "lien_ok": "2026-10-28"
   },
   {
-   "id": "7a9df4672862",
-   "title": "Festival Régional De Théâtre Amateur",
-   "summary": "08 Nov 2026 Festival Régional De Théâtre Amateur Comme chaque année, cet évènement incontournable à Puget est organisé par la Compagnie Le QUIPROQUO du Foyer Culturel Laïque et la Ville de Puget sur Argens. Puget-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/festival-regional-de-theatre-amateur/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Puget-sur-Argens",
-   "dept": "83",
-   "lat": 43.47045,
-   "lon": 6.68553,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-08",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 94 45 61 63",
-     "04 94 19 61 35",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-10-27T05:40:24+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "9b57dd3fdf9b",
-   "title": "FESTIVAL DU MAS D'HIVER",
-   "summary": "06 Nov 2026 au 28 Nov 2026 FESTIVAL DU MAS D'HIVER Recurring festival every year at the same time with different artists! Puget-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/festival-du-mas-dhiver/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Puget-sur-Argens",
-   "dept": "83",
-   "lat": 43.47045,
-   "lon": 6.68553,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-28",
-   "published": null,
-   "contact": {
-    "emails": [
-     "info@lemas-concert.com"
-    ],
-    "phones": [
-     "04 94 55 51 83",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-10-11T05:27:20+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "ef3716ab9094",
-   "title": "Concert de l'Harmonie Aurélienne",
-   "summary": "08 Nov 2026 Concert de l'Harmonie Aurélienne Concert d'automne partagé avec l'Harmonie Indépendante des Arcs Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/concert-de-lharmonie-aurelienne-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-08",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "06 60 63 79 75",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-10-11T05:27:20+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "860747038f7c",
    "title": "« Shock »",
    "summary": "10 Nov 2026 « Shock » Concert Pop Rock organisé par l'association Manège du service de pédopsychiatrie située à l'hôpital intercommunal de Fréjus Saint-Raphaël. Saint-Raphaël",
@@ -1164,44 +928,6 @@
    "hors_zone": null,
    "score": 75,
    "found_at": "2026-11-07T11:42:37+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "8df2559ba4a3",
-   "title": "Quinteto Libertad",
-   "summary": "20 Nov 2026 Quinteto Libertad La Casa Jazz propose un concert dans le respect des racines du « nuevo tango », entre sensualité, ferveur, mélodies sublimes et harmonies de Buenos Aires. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/quinteto-libertad-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-20",
-   "published": null,
-   "contact": {
-    "emails": [
-     "billetterie@ville-saintraphael.fr"
-    ],
-    "phones": [
-     "04 98 11 89 00",
-     "07 85 60 51 27",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
   },
   {
@@ -1311,6 +1037,118 @@
    "hors_zone": null,
    "score": 75,
    "found_at": "2026-10-25T05:38:16+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "900e30fce8cf",
+   "title": "Gospel de Noël",
+   "summary": "06 Dec 2026 Gospel de Noël Participez à un concert gospel au sein d'un lieu enchanteur, l'Eglise Saint-Pierre Saint-Paul située dans le cœur du village médiéval à Roquebrune-sur-Argens, où musique et voix humaine se marient pour créer une expérience sensorielle inoubliable. Roquebrune-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/gospel-de-noel/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Roquebrune-sur-Argens",
+   "dept": "83",
+   "lat": 43.42692,
+   "lon": 6.66176,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-06",
+   "published": null,
+   "contact": {
+    "emails": [
+     "village@roquebrunesurargens.fr"
+    ],
+    "phones": [
+     "04 94 19 89 89",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-11-01T11:49:25+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "9b57dd3fdf9b",
+   "title": "FESTIVAL DU MAS D'HIVER",
+   "summary": "06 Nov 2026 au 28 Nov 2026 FESTIVAL DU MAS D'HIVER Recurring festival every year at the same time with different artists! Puget-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/festival-du-mas-dhiver/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Puget-sur-Argens",
+   "dept": "83",
+   "lat": 43.47045,
+   "lon": 6.68553,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-28",
+   "published": null,
+   "contact": {
+    "emails": [
+     "info@lemas-concert.com"
+    ],
+    "phones": [
+     "04 94 55 51 83",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-10-11T05:27:20+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "8df2559ba4a3",
+   "title": "Quinteto Libertad",
+   "summary": "20 Nov 2026 Quinteto Libertad La Casa Jazz propose un concert dans le respect des racines du « nuevo tango », entre sensualité, ferveur, mélodies sublimes et harmonies de Buenos Aires. Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/quinteto-libertad-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-20",
+   "published": null,
+   "contact": {
+    "emails": [
+     "billetterie@ville-saintraphael.fr"
+    ],
+    "phones": [
+     "04 98 11 89 00",
+     "07 85 60 51 27",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
   },
   {
@@ -1460,119 +1298,6 @@
    "found_at": "2026-11-07T11:42:37+00:00",
    "contact_checked": true,
    "lien_ok": "2026-11-07"
-  },
-  {
-   "id": "d343513ec424",
-   "title": "Fête de la Châtaigne – 8 novembre 2026 à La Garde-Freinet | Guide du Golfe",
-   "summary": "Fête locale à La Garde-Freinet, Place de la Mairie. 8 novembre 2026. Plan d’accès et infos pratiques sur le Guide du Golfe. Dimanche 8 novembre 2026 09:00 – 18:00 Place de la Mairie 83680 La Garde-Freinet Y aller Gratuit Agenda Appeler À propos Animations toutes la journée. Marché traditionnel de la châtaigne proposé par le Comité des Fêtes, vente produits dérivés, produits du terroir, marrons grillés. Animations toutes la journée. Snack et buvette sur place. Accessibilité et services Animaux acceptés Accès handicapé Adapté aux enfants Toilettes Parking gratuit Stationnement limité dans le tem",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.google.com/goto?url=CAESdAHEIkXX1JwChYeLWodL0b2LtdlKAO1ANN0Wxa3-tmRfYVbPM254hZyvStv9gW-iOmp9QRWNFIC-g8f0IA1v2wz43t14bnlnH69iEz1qyPh6i5ZY8QtH8zgmPx8feoRDWsqAQR6pbcY9XDaTGtNzSoOErPNH",
-   "organizer": null,
-   "city": "La Garde-Freinet",
-   "dept": "83",
-   "lat": 43.31321,
-   "lon": 6.48008,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-08",
-   "published": null,
-   "contact": {
-    "emails": [
-     "patrickburet@sfr.fr"
-    ],
-    "phones": [
-     "06 11 52 19 48"
-    ],
-    "forms": [
-     "https://www.google.com/inscription?type=pro",
-     "https://www.google.com/inscription"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "fête",
-    "fêtes"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-11-07T11:42:37+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-11-07"
-  },
-  {
-   "id": "d3bb986aee89",
-   "title": "Vide grenier - Villefranche-sur-Mer (06)",
-   "summary": "8 h00 17 h00 Retour | Provence-Alpes-Côte d'Azur > Alpes-Maritimes > Villefranche-sur-Mer Nov. 8 Dimanche 8 Novembre 2026 Villefranche-sur-Mer (06) Vide grenier Vide-greniers et marché aux puces Partager Infos Accès Exposants Contact Informations générales 8 h00 17 h00 Entrée gratuite 85 exposants attendus Accès Plage des Marinières - Alpes-Maritimes , Villefranche-sur-Mer Itinéraire Google Maps Apple maps Open Street map Bing maps Waze Informations exposants 85 exposants maximum Contact Comité des fêtes de villefranche Contacter par téléphone Connectez-vous pour pouvoir envoyer un message dir",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.google.com/goto?url=CAESaAHEIkXXW4RE1F1oPEM7IyBFM1SlLoFwlzgH_h1o88Tf5FKkPsi-BDOk8dUbLqaPfI1ah98csG3eQCj5CS8npnuhwJd0PH1vOBxW4Y98-6aSogSWKUORkOE8aSiOWpsUEn2ZRu3FjRGl",
-   "organizer": null,
-   "city": null,
-   "dept": "06",
-   "lat": 43.94,
-   "lon": 7.18,
-   "approx": true,
-   "deadline": null,
-   "event_date": "2026-11-08",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "exposants",
-    "fêtes",
-    "vide-greniers"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-11-07T11:42:37+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-11-07"
-  },
-  {
-   "id": "900e30fce8cf",
-   "title": "Gospel de Noël",
-   "summary": "06 Dec 2026 Gospel de Noël Participez à un concert gospel au sein d'un lieu enchanteur, l'Eglise Saint-Pierre Saint-Paul située dans le cœur du village médiéval à Roquebrune-sur-Argens, où musique et voix humaine se marient pour créer une expérience sensorielle inoubliable. Roquebrune-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/gospel-de-noel/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-06",
-   "published": null,
-   "contact": {
-    "emails": [
-     "village@roquebrunesurargens.fr"
-    ],
-    "phones": [
-     "04 94 19 89 89",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-11-01T11:49:25+00:00",
-   "contact_checked": true
   },
   {
    "id": "fa535172c79a",
@@ -2160,6 +1885,43 @@
    "contact_checked": true
   },
   {
+   "id": "e1b46d18f65d",
+   "title": "Journée bien-être Yoga, Sensorialité et Oenologie",
+   "summary": "14 Nov 2026 Journée bien-être Yoga, Sensorialité et Oenologie In Roquebrune-sur-Argens, enjoy a full day dedicated to the body, the senses and taste. In the gentle light of a Provençal autumn, take the time to slow down and listen — to your breath, an aroma, a fruit. Roquebrune-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/journee-bien-etre-yoga-sensorialite-et-oenologie/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Roquebrune-sur-Argens",
+   "dept": "83",
+   "lat": 43.42692,
+   "lon": 6.66176,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-14",
+   "published": null,
+   "contact": {
+    "emails": [
+     "juliedumond22@gmail.com"
+    ],
+    "phones": [
+     "06 15 34 55 48",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "journée"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-10-28T05:49:20+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "02a5bfa5e0b1",
    "title": "L'Apéros Swing",
    "summary": "14 Nov 2026 L'Apéros Swing Soirée de musique festive et dansante organisée par Classic Jazz Paca dans le cadre de ses fameux Apéros Swing avec le 5tet du Caveau de la Huchette Saint-Raphaël",
@@ -2228,43 +1990,6 @@
    "hors_zone": null,
    "score": 70,
    "found_at": "2026-11-06T12:55:10+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "e1b46d18f65d",
-   "title": "Journée bien-être Yoga, Sensorialité et Oenologie",
-   "summary": "14 Nov 2026 Journée bien-être Yoga, Sensorialité et Oenologie In Roquebrune-sur-Argens, enjoy a full day dedicated to the body, the senses and taste. In the gentle light of a Provençal autumn, take the time to slow down and listen — to your breath, an aroma, a fruit. Roquebrune-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/journee-bien-etre-yoga-sensorialite-et-oenologie/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-14",
-   "published": null,
-   "contact": {
-    "emails": [
-     "juliedumond22@gmail.com"
-    ],
-    "phones": [
-     "06 15 34 55 48",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "journée"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 70,
-   "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
   },
   {
@@ -2935,41 +2660,6 @@
    "via": null,
    "keywords": [
     "marché de noël"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 55,
-   "found_at": "2026-11-07T11:42:37+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-11-07"
-  },
-  {
-   "id": "ae488b0d2c10",
-   "title": "Que faire ce week-end du 6 au 8 novembre 2026 sur la Côte d'Azur ? - Tribuca.net",
-   "summary": "Théâtre, concerts, salons gourmands, fêtes traditionnelles et activités sportives : du vendredi 6 au dimanche 8 novembre, les Alpes-Maritimes proposent de nombreuses occasions de sortir. Voici notre sélection pour profiter du week-end. Life & Style Alpes-Maritimes , Roquefort-les-Pins , Saint-Paul-de-Vence , Antibes , Cagnes-sur-Mer , Cannes , Isola , Menton , Mouans-Sartoux , Nice Camille Guil 6 novembre 2026 Ajouter Tribuca à vos sources préférées Théâtre, concerts, salons gourmands, fêtes traditionnelles et activités sportives : du vendredi 6 au dimanche 8 novembre, les Alpes-Maritimes prop",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.google.com/goto?url=CAESkQEBxCJF16WbLV9gbevUJ_a-z-AMir0F3UhrvD_I8_Pa4EzBIs2LNL3rLyKEiw5XCm3i-pc9fo68m29EW3LMElSHNcFyIJiG7ATVEOXjfUv2OhC_wXt5z-oLqJvoY1qo5XMu7gf-zpPmaF8G9ReWXPDkdBBPxZ4I7AVVjHafv4NJle4Lu4tMaajZh_MpMrko9OFV",
-   "organizer": null,
-   "city": "Cagnes-sur-Mer",
-   "dept": "06",
-   "lat": 43.67564,
-   "lon": 7.15009,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-08",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 92 17 55 00"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "fêtes"
    ],
    "fiable": false,
    "hors_zone": null,
