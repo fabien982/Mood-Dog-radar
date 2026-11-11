@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-10T21:16:44+00:00",
+ "updated": "2026-11-11T12:41:39+00:00",
  "count": 81,
- "new_count": 0,
+ "new_count": 1,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -23,7 +23,7 @@
   },
   "Pages surveillées": {
    "ok": true,
-   "found": 20,
+   "found": 19,
    "errors": []
   }
  },
@@ -224,44 +224,6 @@
    "hors_zone": null,
    "score": 90,
    "found_at": "2026-10-31T10:54:29+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "caeaa2c35194",
-   "title": "Concert - Farfalle della notte - Soirée Italie",
-   "summary": "27 Nov 2026 Concert - Farfalle della notte - Soirée Italie Farfalle della notte - Soirée Italie Puget-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/concert-farfalle-della-notte-soiree-italie/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Puget-sur-Argens",
-   "dept": "83",
-   "lat": 43.47045,
-   "lon": 6.68553,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-27",
-   "published": null,
-   "contact": {
-    "emails": [
-     "culture@mairie-puget-sur-argens.com"
-    ],
-    "phones": [
-     "04 94 19 61 35",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert",
-    "soirée"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 90,
-   "found_at": "2026-10-12T05:30:37+00:00",
    "contact_checked": true
   },
   {
@@ -927,42 +889,6 @@
    "contact_checked": true
   },
   {
-   "id": "860747038f7c",
-   "title": "« Shock »",
-   "summary": "10 Nov 2026 « Shock » Concert Pop Rock organisé par l'association Manège du service de pédopsychiatrie située à l'hôpital intercommunal de Fréjus Saint-Raphaël. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/shock-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-10",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "07 62 47 32 46",
-     "06 69 71 09 22",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-10-14T05:39:31+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "1cc63aa14f8c",
    "title": "Salon Made in France Varois",
    "summary": "14 Nov 2026 Salon Made in France Varois Le Salon Made in France Varois met à l'honneur le savoir-faire français avec des exposants locaux du Var! Puget-sur-Argens",
@@ -1036,42 +962,6 @@
    "hors_zone": null,
    "score": 75,
    "found_at": "2026-10-28T05:49:20+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "8287fb5281da",
-   "title": "Concert de piano classique",
-   "summary": "21 Nov 2026 Concert de piano classique Le Rotary Club de Saint-Raphaël organise un concert au profit des Sauveteurs en Mer (SNSM) Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/concert-de-piano-classique-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-21",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "07 89 94 71 59",
-     "04 98 11 89 00",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-11-03T12:45:48+00:00",
    "contact_checked": true
   },
   {
@@ -1182,6 +1072,79 @@
    "hors_zone": null,
    "score": 75,
    "found_at": "2026-11-01T11:49:25+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "caeaa2c35194",
+   "title": "Concert - Farfalle della notte - Soirée Italie",
+   "summary": "27 Nov 2026 Concert - Farfalle della notte - Soirée Italie Farfalle della notte - Soirée Italie Puget-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/concert-farfalle-della-notte-soiree-italie/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Puget-sur-Argens",
+   "dept": "83",
+   "lat": 43.47045,
+   "lon": 6.68553,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-27",
+   "published": null,
+   "contact": {
+    "emails": [
+     "culture@mairie-puget-sur-argens.com"
+    ],
+    "phones": [
+     "04 94 19 61 35",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-10-12T05:30:37+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "8287fb5281da",
+   "title": "Concert de piano classique",
+   "summary": "21 Nov 2026 Concert de piano classique Le Rotary Club de Saint-Raphaël organise un concert au profit des Sauveteurs en Mer (SNSM) Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/concert-de-piano-classique-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-21",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "07 89 94 71 59",
+     "04 98 11 89 00",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-11-03T12:45:48+00:00",
    "contact_checked": true
   },
   {
@@ -1918,43 +1881,6 @@
    "contact_checked": true
   },
   {
-   "id": "77425d40e5f5",
-   "title": "Loto du CARF",
-   "summary": "14 Nov 2026 Loto du CARF Le grand loto du CARF est de retour ! Pour la toute première fois, nous vous donnons rendez-vous le samedi 14 Novembre dans la salle Pierre Clère de Saint-Raphaël pour une soirée de jeu inoubliable et pleine de surprises. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/loto-du-carf-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-14",
-   "published": null,
-   "contact": {
-    "emails": [
-     "contact@carfrugby.fr"
-    ],
-    "phones": [
-     "07 67 70 44 82",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "soirée"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 70,
-   "found_at": "2026-11-06T12:55:10+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "e1b46d18f65d",
    "title": "Journée bien-être Yoga, Sensorialité et Oenologie",
    "summary": "14 Nov 2026 Journée bien-être Yoga, Sensorialité et Oenologie In Roquebrune-sur-Argens, enjoy a full day dedicated to the body, the senses and taste. In the gentle light of a Provençal autumn, take the time to slow down and listen — to your breath, an aroma, a fruit. Roquebrune-sur-Argens",
@@ -1989,6 +1915,43 @@
    "hors_zone": null,
    "score": 70,
    "found_at": "2026-10-28T05:49:20+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "77425d40e5f5",
+   "title": "Loto du CARF",
+   "summary": "14 Nov 2026 Loto du CARF Le grand loto du CARF est de retour ! Pour la toute première fois, nous vous donnons rendez-vous le samedi 14 Novembre dans la salle Pierre Clère de Saint-Raphaël pour une soirée de jeu inoubliable et pleine de surprises. Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/loto-du-carf-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-14",
+   "published": null,
+   "contact": {
+    "emails": [
+     "contact@carfrugby.fr"
+    ],
+    "phones": [
+     "07 67 70 44 82",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "soirée"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-11-06T12:55:10+00:00",
    "contact_checked": true
   },
   {
@@ -2166,6 +2129,40 @@
    "hors_zone": null,
    "score": 70,
    "found_at": "2026-11-02T13:28:07+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "bc08bb6fb4d4",
+   "title": "Inauguration foire aux santons",
+   "summary": "06 Dec 2026 Inauguration foire aux santons Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/inauguration-foire-aux-santons/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-06",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "foire"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-11-11T12:41:39+00:00",
    "contact_checked": true
   },
   {
