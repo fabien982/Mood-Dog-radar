@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-11T21:53:21+00:00",
+ "updated": "2026-11-12T13:44:40+00:00",
  "count": 81,
- "new_count": 0,
+ "new_count": 1,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -23,7 +23,7 @@
   },
   "Pages surveillées": {
    "ok": true,
-   "found": 19,
+   "found": 20,
    "errors": []
   }
  },
@@ -224,6 +224,44 @@
    "hors_zone": null,
    "score": 90,
    "found_at": "2026-10-31T10:54:29+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "caeaa2c35194",
+   "title": "Concert - Farfalle della notte - Soirée Italie",
+   "summary": "27 Nov 2026 Concert - Farfalle della notte - Soirée Italie Farfalle della notte - Soirée Italie Puget-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/concert-farfalle-della-notte-soiree-italie/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Puget-sur-Argens",
+   "dept": "83",
+   "lat": 43.47045,
+   "lon": 6.68553,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-27",
+   "published": null,
+   "contact": {
+    "emails": [
+     "culture@mairie-puget-sur-argens.com"
+    ],
+    "phones": [
+     "04 94 19 61 35",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert",
+    "soirée"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 90,
+   "found_at": "2026-10-12T05:30:37+00:00",
    "contact_checked": true
   },
   {
@@ -1038,6 +1076,44 @@
    "contact_checked": true
   },
   {
+   "id": "d4bda3afd1f0",
+   "title": "Fête de la Saint-Nicolas",
+   "summary": "06 Dec 2026 Fête de la Saint-Nicolas Tradition de la nuit du premier week-end de décembre, Saint-Nicolas, sur son âne, se rend dans les maisons des enfants. La tradition Saint-Nicolas se perpétue à Roquebrune-sur-Argens. Roquebrune-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/fete-de-la-saint-nicolas/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Roquebrune-sur-Argens",
+   "dept": "83",
+   "lat": 43.42692,
+   "lon": 6.66176,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-06",
+   "published": null,
+   "contact": {
+    "emails": [
+     "village@roquebrunesurargens.fr"
+    ],
+    "phones": [
+     "04 94 19 89 89",
+     "07 75 78 47 23",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fête"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-11-01T11:49:25+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "900e30fce8cf",
    "title": "Gospel de Noël",
    "summary": "06 Dec 2026 Gospel de Noël Participez à un concert gospel au sein d'un lieu enchanteur, l'Eglise Saint-Pierre Saint-Paul située dans le cœur du village médiéval à Roquebrune-sur-Argens, où musique et voix humaine se marient pour créer une expérience sensorielle inoubliable. Roquebrune-sur-Argens",
@@ -1072,43 +1148,6 @@
    "hors_zone": null,
    "score": 75,
    "found_at": "2026-11-01T11:49:25+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "caeaa2c35194",
-   "title": "Concert - Farfalle della notte - Soirée Italie",
-   "summary": "27 Nov 2026 Concert - Farfalle della notte - Soirée Italie Farfalle della notte - Soirée Italie Puget-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/concert-farfalle-della-notte-soiree-italie/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Puget-sur-Argens",
-   "dept": "83",
-   "lat": 43.47045,
-   "lon": 6.68553,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-27",
-   "published": null,
-   "contact": {
-    "emails": [
-     "culture@mairie-puget-sur-argens.com"
-    ],
-    "phones": [
-     "04 94 19 61 35",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-10-12T05:30:37+00:00",
    "contact_checked": true
   },
   {
@@ -1329,44 +1368,6 @@
    "hors_zone": null,
    "score": 75,
    "found_at": "2026-10-26T05:42:56+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "d4bda3afd1f0",
-   "title": "Fête de la Saint-Nicolas",
-   "summary": "06 Dec 2026 Fête de la Saint-Nicolas Tradition de la nuit du premier week-end de décembre, Saint-Nicolas, sur son âne, se rend dans les maisons des enfants. La tradition Saint-Nicolas se perpétue à Roquebrune-sur-Argens. Roquebrune-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/fete-de-la-saint-nicolas/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-06",
-   "published": null,
-   "contact": {
-    "emails": [
-     "village@roquebrunesurargens.fr"
-    ],
-    "phones": [
-     "04 94 19 89 89",
-     "07 75 78 47 23",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "fête"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-11-01T11:49:25+00:00",
    "contact_checked": true
   },
   {
@@ -1881,6 +1882,43 @@
    "contact_checked": true
   },
   {
+   "id": "687b7624278e",
+   "title": "Thomas Marty - Soirée caritative Octobre Rose",
+   "summary": "14 Nov 2026 Thomas Marty - Soirée caritative Octobre Rose Soirée caritative \"Octobre Rose\" - Thomas Marty en spectacle Puget-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/thomas-marty-soiree-caritative-octobre-rose/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Puget-sur-Argens",
+   "dept": "83",
+   "lat": 43.47045,
+   "lon": 6.68553,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-14",
+   "published": null,
+   "contact": {
+    "emails": [
+     "culture@mairie-puget-sur-argens.com"
+    ],
+    "phones": [
+     "04 94 19 61 35",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "soirée"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-11-12T13:44:40+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "e1b46d18f65d",
    "title": "Journée bien-être Yoga, Sensorialité et Oenologie",
    "summary": "14 Nov 2026 Journée bien-être Yoga, Sensorialité et Oenologie In Roquebrune-sur-Argens, enjoy a full day dedicated to the body, the senses and taste. In the gentle light of a Provençal autumn, take the time to slow down and listen — to your breath, an aroma, a fruit. Roquebrune-sur-Argens",
@@ -2054,43 +2092,6 @@
    "hors_zone": null,
    "score": 70,
    "found_at": "2026-10-29T05:51:19+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "6f1dae7334cc",
-   "title": "Salon du Palais Gourmand",
-   "summary": "27 Nov 2026 au 29 Nov 2026 Salon du Palais Gourmand Du 27 novembre au 29 novembre 2026, le Salon Gastronomie à Saint-Raphaël transforme le Palais des Congrès en un véritable temple du goût. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/salon-du-palais-gourmand-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-27",
-   "published": null,
-   "contact": {
-    "emails": [
-     "wareorganisation83@gmail.com"
-    ],
-    "phones": [
-     "04 94 52 80 80",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "salon"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 70,
-   "found_at": "2026-11-03T12:45:48+00:00",
    "contact_checked": true
   },
   {
