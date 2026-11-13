@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-12T21:49:26+00:00",
+ "updated": "2026-11-13T13:04:18+00:00",
  "count": 81,
- "new_count": 0,
+ "new_count": 1,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -23,7 +23,7 @@
   },
   "Pages surveillées": {
    "ok": true,
-   "found": 20,
+   "found": 22,
    "errors": []
   }
  },
@@ -852,44 +852,6 @@
    "lien_ok": "2026-10-28"
   },
   {
-   "id": "7b60089b0064",
-   "title": "Festival C'est Pas Classique 2026",
-   "summary": "C’est pas classique, le rendez-vous culturel majeur des Alpes-Maritimes fait une halte à Mandelieu-La Napoule Webcam en direct Facebook Twitter Youtube LinkedIn Instagram Je suis Parent Senior Nouvel arrivant Sportif Festival C'est Pas Classique 2026 Concert 12 novembre 2026 Partager VOIR TOUS LES ÉVÉNEMENTS C’est pas classique, le rendez-vous culturel majeur des Alpes-Maritimes fait une halte à Mandelieu-La Napoule 12 novembre 2026 à 19h00 au 809, boulevard des écureuils 1er étage C'est pas Classique est un festival de musique classique, organisé par le Département des Alpes-Maritimes dans pl",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.mandelieu.fr/agenda/48863/15921-festival-c-est-pas-classique-2026.htm",
-   "organizer": null,
-   "city": "Mandelieu-la-Napoule",
-   "dept": "06",
-   "lat": 43.54447,
-   "lon": 6.93366,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-12",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 92 97 30 00"
-    ],
-    "forms": [
-     "https://www.mandelieu.fr/18746-appel-a-candidatures.htm"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert",
-    "festival"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 80,
-   "found_at": "2026-10-14T05:39:31+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-28"
-  },
-  {
    "id": "9b57dd3fdf9b",
    "title": "FESTIVAL DU MAS D'HIVER",
    "summary": "06 Nov 2026 au 28 Nov 2026 FESTIVAL DU MAS D'HIVER Recurring festival every year at the same time with different artists! Puget-sur-Argens",
@@ -1003,6 +965,42 @@
    "contact_checked": true
   },
   {
+   "id": "8287fb5281da",
+   "title": "Concert de piano classique",
+   "summary": "21 Nov 2026 Concert de piano classique Le Rotary Club de Saint-Raphaël organise un concert au profit des Sauveteurs en Mer (SNSM) Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/concert-de-piano-classique-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-21",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "07 89 94 71 59",
+     "04 98 11 89 00",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-11-03T12:45:48+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "fe60790ec551",
    "title": "Chœur de l'Opéra de Toulon X Sacrée Musique",
    "summary": "04 Dec 2026 Chœur de l'Opéra de Toulon X Sacrée Musique Concert de Noël Fréjus",
@@ -1076,44 +1074,6 @@
    "contact_checked": true
   },
   {
-   "id": "d4bda3afd1f0",
-   "title": "Fête de la Saint-Nicolas",
-   "summary": "06 Dec 2026 Fête de la Saint-Nicolas Tradition de la nuit du premier week-end de décembre, Saint-Nicolas, sur son âne, se rend dans les maisons des enfants. La tradition Saint-Nicolas se perpétue à Roquebrune-sur-Argens. Roquebrune-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/fete-de-la-saint-nicolas/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-06",
-   "published": null,
-   "contact": {
-    "emails": [
-     "village@roquebrunesurargens.fr"
-    ],
-    "phones": [
-     "04 94 19 89 89",
-     "07 75 78 47 23",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "fête"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-11-01T11:49:25+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "900e30fce8cf",
    "title": "Gospel de Noël",
    "summary": "06 Dec 2026 Gospel de Noël Participez à un concert gospel au sein d'un lieu enchanteur, l'Eglise Saint-Pierre Saint-Paul située dans le cœur du village médiéval à Roquebrune-sur-Argens, où musique et voix humaine se marient pour créer une expérience sensorielle inoubliable. Roquebrune-sur-Argens",
@@ -1151,26 +1111,28 @@
    "contact_checked": true
   },
   {
-   "id": "8287fb5281da",
-   "title": "Concert de piano classique",
-   "summary": "21 Nov 2026 Concert de piano classique Le Rotary Club de Saint-Raphaël organise un concert au profit des Sauveteurs en Mer (SNSM) Saint-Raphaël",
+   "id": "d4bda3afd1f0",
+   "title": "Fête de la Saint-Nicolas",
+   "summary": "06 Dec 2026 Fête de la Saint-Nicolas Tradition de la nuit du premier week-end de décembre, Saint-Nicolas, sur son âne, se rend dans les maisons des enfants. La tradition Saint-Nicolas se perpétue à Roquebrune-sur-Argens. Roquebrune-sur-Argens",
    "type": "Événement",
    "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/concert-de-piano-classique-4/",
+   "url": "https://www.esterel-cotedazur.com/en/cards/fete-de-la-saint-nicolas/",
    "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
+   "city": "Roquebrune-sur-Argens",
    "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
+   "lat": 43.42692,
+   "lon": 6.66176,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-11-21",
+   "event_date": "2026-12-06",
    "published": null,
    "contact": {
-    "emails": [],
+    "emails": [
+     "village@roquebrunesurargens.fr"
+    ],
     "phones": [
-     "07 89 94 71 59",
-     "04 98 11 89 00",
+     "04 94 19 89 89",
+     "07 75 78 47 23",
      "04 94 19 10 60"
     ],
     "forms": []
@@ -1178,12 +1140,12 @@
    "mode": "evenements",
    "via": null,
    "keywords": [
-    "concert"
+    "fête"
    ],
    "fiable": false,
    "hors_zone": null,
    "score": 75,
-   "found_at": "2026-11-03T12:45:48+00:00",
+   "found_at": "2026-11-01T11:49:25+00:00",
    "contact_checked": true
   },
   {
@@ -1858,7 +1820,7 @@
    "lon": 6.84991,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-11-12",
+   "event_date": "2026-11-22",
    "published": null,
    "contact": {
     "emails": [
@@ -1879,6 +1841,40 @@
    "hors_zone": null,
    "score": 70,
    "found_at": "2026-11-06T12:55:10+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "02a5bfa5e0b1",
+   "title": "L'Apéros Swing",
+   "summary": "14 Nov 2026 L'Apéros Swing Soirée de musique festive et dansante organisée par Classic Jazz Paca dans le cadre de ses fameux Apéros Swing avec le 5tet du Caveau de la Huchette Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/laperos-swing/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-14",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "soirée"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-11-03T12:45:48+00:00",
    "contact_checked": true
   },
   {
@@ -1919,43 +1915,6 @@
    "contact_checked": true
   },
   {
-   "id": "e1b46d18f65d",
-   "title": "Journée bien-être Yoga, Sensorialité et Oenologie",
-   "summary": "14 Nov 2026 Journée bien-être Yoga, Sensorialité et Oenologie In Roquebrune-sur-Argens, enjoy a full day dedicated to the body, the senses and taste. In the gentle light of a Provençal autumn, take the time to slow down and listen — to your breath, an aroma, a fruit. Roquebrune-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/journee-bien-etre-yoga-sensorialite-et-oenologie/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-14",
-   "published": null,
-   "contact": {
-    "emails": [
-     "juliedumond22@gmail.com"
-    ],
-    "phones": [
-     "06 15 34 55 48",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "journée"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 70,
-   "found_at": "2026-10-28T05:49:20+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "77425d40e5f5",
    "title": "Loto du CARF",
    "summary": "14 Nov 2026 Loto du CARF Le grand loto du CARF est de retour ! Pour la toute première fois, nous vous donnons rendez-vous le samedi 14 Novembre dans la salle Pierre Clère de Saint-Raphaël pour une soirée de jeu inoubliable et pleine de surprises. Saint-Raphaël",
@@ -1993,24 +1952,27 @@
    "contact_checked": true
   },
   {
-   "id": "02a5bfa5e0b1",
-   "title": "L'Apéros Swing",
-   "summary": "14 Nov 2026 L'Apéros Swing Soirée de musique festive et dansante organisée par Classic Jazz Paca dans le cadre de ses fameux Apéros Swing avec le 5tet du Caveau de la Huchette Saint-Raphaël",
+   "id": "e1b46d18f65d",
+   "title": "Journée bien-être Yoga, Sensorialité et Oenologie",
+   "summary": "14 Nov 2026 Journée bien-être Yoga, Sensorialité et Oenologie In Roquebrune-sur-Argens, enjoy a full day dedicated to the body, the senses and taste. In the gentle light of a Provençal autumn, take the time to slow down and listen — to your breath, an aroma, a fruit. Roquebrune-sur-Argens",
    "type": "Événement",
    "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/laperos-swing/",
+   "url": "https://www.esterel-cotedazur.com/en/cards/journee-bien-etre-yoga-sensorialite-et-oenologie/",
    "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
+   "city": "Roquebrune-sur-Argens",
    "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
+   "lat": 43.42692,
+   "lon": 6.66176,
    "approx": false,
    "deadline": null,
    "event_date": "2026-11-14",
    "published": null,
    "contact": {
-    "emails": [],
+    "emails": [
+     "juliedumond22@gmail.com"
+    ],
     "phones": [
+     "06 15 34 55 48",
      "04 94 19 10 60"
     ],
     "forms": []
@@ -2018,12 +1980,12 @@
    "mode": "evenements",
    "via": null,
    "keywords": [
-    "soirée"
+    "journée"
    ],
    "fiable": false,
    "hors_zone": null,
    "score": 70,
-   "found_at": "2026-11-03T12:45:48+00:00",
+   "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
   },
   {
@@ -2092,6 +2054,43 @@
    "hors_zone": null,
    "score": 70,
    "found_at": "2026-10-29T05:51:19+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "6f1dae7334cc",
+   "title": "Salon du Palais Gourmand",
+   "summary": "27 Nov 2026 au 29 Nov 2026 Salon du Palais Gourmand Du 27 novembre au 29 novembre 2026, le Salon Gastronomie à Saint-Raphaël transforme le Palais des Congrès en un véritable temple du goût. Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/salon-du-palais-gourmand-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-27",
+   "published": null,
+   "contact": {
+    "emails": [
+     "wareorganisation83@gmail.com"
+    ],
+    "phones": [
+     "04 94 52 80 80",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "salon"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-11-13T13:04:18+00:00",
    "contact_checked": true
   },
   {
