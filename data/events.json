@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-14T19:53:35+00:00",
- "count": 79,
- "new_count": 0,
+ "updated": "2026-11-15T12:42:53+00:00",
+ "count": 75,
+ "new_count": 1,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -23,7 +23,7 @@
   },
   "Pages surveillées": {
    "ok": true,
-   "found": 16,
+   "found": 14,
    "errors": []
   }
  },
@@ -100,6 +100,45 @@
    "hors_zone": null,
    "score": 100,
    "found_at": "2026-11-10T13:26:53+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "c7913201862d",
+   "title": "Appel à candidatures food truck : modèle gratuit pour mairie",
+   "summary": "Modèle gratuit d'appel à candidatures foodtruck pour commune et organisateur : avis, règlement, cahier des charges, formulaire. Personnalisable, export Word. Ce que contient le dossier L'avis d'appel à candidatures : le texte à publier sur votre site, au recueil des actes ou dans la presse locale. Le règlement de la consultation , en 9 articles : objet, cadre juridique, pièces à fournir, critères pondérés, calendrier, remise des dossiers, liste complémentaire. Le cahier des charges , en 13 articles : emplacements, durée, redevance d'occupation, véhicule, installations gaz et électrique, eau, d",
+   "type": "Appel à candidatures",
+   "source": "Page surveillée",
+   "url": "https://wikifoodtruck.fr/modele-appel-candidatures-food-truck",
+   "organizer": "Wikifoodtruck – appels à candidatures des mairies",
+   "city": null,
+   "dept": null,
+   "lat": null,
+   "lon": null,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://wikifoodtruck.fr/appels-food-truck",
+     "https://wikifoodtruck.fr/?contact=1"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à candidatures",
+    "candidature",
+    "food truck",
+    "foodtruck"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 100,
+   "found_at": "2026-11-15T12:42:53+00:00",
+   "lien_ok": "2026-11-15",
    "contact_checked": true
   },
   {
@@ -431,44 +470,6 @@
    "hors_zone": null,
    "score": 85,
    "found_at": "2026-10-28T14:05:03+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "2fc5fca2cbe4",
-   "title": "Soirée Choucroute",
-   "summary": "14 Nov 2026 Soirée Choucroute Le Comité des Fêtes de Roquebrune-sur-Argens vous donne rendez-vous le samedi 14 novembre pour une soirée conviviale et festive placée sous le signe de la gourmandise ! Roquebrune-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/soiree-choucroute/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-14",
-   "published": null,
-   "contact": {
-    "emails": [
-     "cdf.roquebrune@orange.fr"
-    ],
-    "phones": [
-     "07 59 66 65 91",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "fêtes",
-    "soirée"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 85,
-   "found_at": "2026-11-08T11:54:50+00:00",
    "contact_checked": true
   },
   {
@@ -888,44 +889,6 @@
    "contact_checked": true
   },
   {
-   "id": "1cc63aa14f8c",
-   "title": "Salon Made in France Varois",
-   "summary": "14 Nov 2026 Salon Made in France Varois Le Salon Made in France Varois met à l'honneur le savoir-faire français avec des exposants locaux du Var! Puget-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/salon-made-in-france-varois-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Puget-sur-Argens",
-   "dept": "83",
-   "lat": 43.47045,
-   "lon": 6.68553,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-14",
-   "published": null,
-   "contact": {
-    "emails": [
-     "contact@levillagemadeinfrance.fr"
-    ],
-    "phones": [
-     "09 88 07 32 41",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "exposants",
-    "salon"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-11-07T11:42:37+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "de9289efd093",
    "title": "Quinteto Libertad",
    "summary": "20 Nov 2026 Quinteto Libertad La Casa Jazz presents a concert that honors the roots of “nuevo tango,” blending sensuality, passion, sublime melodies, and the harmonies of Buenos Aires. Saint-Raphaël",
@@ -1073,6 +1036,43 @@
    "contact_checked": true
   },
   {
+   "id": "900e30fce8cf",
+   "title": "Gospel de Noël",
+   "summary": "06 Dec 2026 Gospel de Noël Participez à un concert gospel au sein d'un lieu enchanteur, l'Eglise Saint-Pierre Saint-Paul située dans le cœur du village médiéval à Roquebrune-sur-Argens, où musique et voix humaine se marient pour créer une expérience sensorielle inoubliable. Roquebrune-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/gospel-de-noel/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Roquebrune-sur-Argens",
+   "dept": "83",
+   "lat": 43.42692,
+   "lon": 6.66176,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-06",
+   "published": null,
+   "contact": {
+    "emails": [
+     "village@roquebrunesurargens.fr"
+    ],
+    "phones": [
+     "04 94 19 89 89",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-11-01T11:49:25+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "d4bda3afd1f0",
    "title": "Fête de la Saint-Nicolas",
    "summary": "06 Dec 2026 Fête de la Saint-Nicolas Tradition de la nuit du premier week-end de décembre, Saint-Nicolas, sur son âne, se rend dans les maisons des enfants. La tradition Saint-Nicolas se perpétue à Roquebrune-sur-Argens. Roquebrune-sur-Argens",
@@ -1182,43 +1182,6 @@
    "hors_zone": null,
    "score": 75,
    "found_at": "2026-11-03T12:45:48+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "900e30fce8cf",
-   "title": "Gospel de Noël",
-   "summary": "06 Dec 2026 Gospel de Noël Participez à un concert gospel au sein d'un lieu enchanteur, l'Eglise Saint-Pierre Saint-Paul située dans le cœur du village médiéval à Roquebrune-sur-Argens, où musique et voix humaine se marient pour créer une expérience sensorielle inoubliable. Roquebrune-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/gospel-de-noel/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-06",
-   "published": null,
-   "contact": {
-    "emails": [
-     "village@roquebrunesurargens.fr"
-    ],
-    "phones": [
-     "04 94 19 89 89",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-11-01T11:49:25+00:00",
    "contact_checked": true
   },
   {
@@ -1917,77 +1880,6 @@
    "contact_checked": true
   },
   {
-   "id": "e1b46d18f65d",
-   "title": "Journée bien-être Yoga, Sensorialité et Oenologie",
-   "summary": "14 Nov 2026 Journée bien-être Yoga, Sensorialité et Oenologie In Roquebrune-sur-Argens, enjoy a full day dedicated to the body, the senses and taste. In the gentle light of a Provençal autumn, take the time to slow down and listen — to your breath, an aroma, a fruit. Roquebrune-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/journee-bien-etre-yoga-sensorialite-et-oenologie/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-14",
-   "published": null,
-   "contact": {
-    "emails": [
-     "juliedumond22@gmail.com"
-    ],
-    "phones": [
-     "06 15 34 55 48",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "journée"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 70,
-   "found_at": "2026-10-28T05:49:20+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "ded17c759a62",
-   "title": "Ultra trail des troupes de marine",
-   "summary": "21 Nov 2026 au 22 Nov 2026 Ultra trail des troupes de marine L’Ultra-Trail des Troupes de Marine se tiendra les 21 et 22 novembre 2026 à Fréjus, autour du Musée des Troupes de Marine. Cet événement propose trois parcours de 24,4 km, 58,8 km et 128 km, adaptés à différents niveaux. Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/ultra-trail-des-troupes-de-marine-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-21",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "trail"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 70,
-   "found_at": "2026-10-29T05:51:19+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "3da93ae43a24",
    "title": "Palais Gourmand Fair",
    "summary": "27 Nov 2026 au 29 Nov 2026 Palais Gourmand Fair From November 27 to November 29, 2026, the Salon Gastronomie in Saint-Raphaël will transform the Palais des Congrès into a true temple of taste. Saint-Raphaël",
@@ -2094,43 +1986,6 @@
    "hors_zone": null,
    "score": 70,
    "found_at": "2026-11-11T12:41:39+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "c6ce7fcb64d1",
-   "title": "Soirée Choucroute",
-   "summary": "14 Nov 2026 Soirée Choucroute Le Comité des Fêtes de Roquebrune-sur-Argens vous donne rendez-vous le samedi 14 novembre pour une soirée conviviale et festive placée sous le signe de la gourmandise ! Roquebrune-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/soiree-choucroute-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-14",
-   "published": null,
-   "contact": {
-    "emails": [
-     "cdf.roquebrune@orange.fr"
-    ],
-    "phones": [
-     "07 59 66 65 91",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "fêtes"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 70,
-   "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
   },
   {
