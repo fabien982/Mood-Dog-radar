@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15T20:21:43+00:00",
- "count": 75,
- "new_count": 0,
+ "updated": "2026-11-16T13:36:36+00:00",
+ "count": 74,
+ "new_count": 2,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -23,7 +23,7 @@
   },
   "Pages surveillées": {
    "ok": true,
-   "found": 14,
+   "found": 17,
    "errors": []
   }
  },
@@ -139,7 +139,7 @@
    "score": 100,
    "found_at": "2026-11-15T12:42:53+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-11-15"
+   "lien_ok": "2026-11-16"
   },
   {
    "id": "9a8973b58aa7",
@@ -1036,6 +1036,44 @@
    "contact_checked": true
   },
   {
+   "id": "d4bda3afd1f0",
+   "title": "Fête de la Saint-Nicolas",
+   "summary": "06 Dec 2026 Fête de la Saint-Nicolas Tradition de la nuit du premier week-end de décembre, Saint-Nicolas, sur son âne, se rend dans les maisons des enfants. La tradition Saint-Nicolas se perpétue à Roquebrune-sur-Argens. Roquebrune-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/fete-de-la-saint-nicolas/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Roquebrune-sur-Argens",
+   "dept": "83",
+   "lat": 43.42692,
+   "lon": 6.66176,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-06",
+   "published": null,
+   "contact": {
+    "emails": [
+     "village@roquebrunesurargens.fr"
+    ],
+    "phones": [
+     "04 94 19 89 89",
+     "07 75 78 47 23",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fête"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-11-01T11:49:25+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "900e30fce8cf",
    "title": "Gospel de Noël",
    "summary": "06 Dec 2026 Gospel de Noël Participez à un concert gospel au sein d'un lieu enchanteur, l'Eglise Saint-Pierre Saint-Paul située dans le cœur du village médiéval à Roquebrune-sur-Argens, où musique et voix humaine se marient pour créer une expérience sensorielle inoubliable. Roquebrune-sur-Argens",
@@ -1073,28 +1111,26 @@
    "contact_checked": true
   },
   {
-   "id": "d4bda3afd1f0",
-   "title": "Fête de la Saint-Nicolas",
-   "summary": "06 Dec 2026 Fête de la Saint-Nicolas Tradition de la nuit du premier week-end de décembre, Saint-Nicolas, sur son âne, se rend dans les maisons des enfants. La tradition Saint-Nicolas se perpétue à Roquebrune-sur-Argens. Roquebrune-sur-Argens",
+   "id": "fa535172c79a",
+   "title": "Chœur d'enfants X Sacrée Musique",
+   "summary": "11 Dec 2026 Chœur d'enfants X Sacrée Musique Une nouvelle date à marquer d'une pierre blanche dans la Saison Musicale : pour ce deuxième concert de Noël à la Cathédrale, découvrez la Maîtrise Sainte-Philomène de Haguenau, lauréate du très prestigieux Prix Liliane Bettencourt pour le chant choral. Fréjus",
    "type": "Événement",
    "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/fete-de-la-saint-nicolas/",
+   "url": "https://www.esterel-cotedazur.com/en/cards/choeur-denfants-x-sacree-musique-4/",
    "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
+   "city": "Saint-Raphaël",
    "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
+   "lat": 43.44268,
+   "lon": 6.84991,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-12-06",
+   "event_date": "2026-12-11",
    "published": null,
    "contact": {
     "emails": [
-     "village@roquebrunesurargens.fr"
+     "billetterie@sacreemusique.fr"
     ],
     "phones": [
-     "04 94 19 89 89",
-     "07 75 78 47 23",
      "04 94 19 10 60"
     ],
     "forms": []
@@ -1102,12 +1138,12 @@
    "mode": "evenements",
    "via": null,
    "keywords": [
-    "fête"
+    "concert"
    ],
    "fiable": false,
    "hors_zone": null,
    "score": 75,
-   "found_at": "2026-11-01T11:49:25+00:00",
+   "found_at": "2026-10-26T05:42:56+00:00",
    "contact_checked": true
   },
   {
@@ -1220,42 +1256,6 @@
    "lien_ok": "2026-11-07"
   },
   {
-   "id": "ce207f0ea6c7",
-   "title": "Marché de créateurs Saint-Blaise 2026 - dates, horaires, ouverture, programme",
-   "summary": "Marché de Noël, le 15 novembre 2026, à Saint-Blaise (Alpes-Maritimes) - horaires, tarifs, renseignements. 9ème édition du marché de créateurs de Saint-Blaise avec 40 artistes et artisans créateurs venus de tout le département et sélectionnés Nice Concert, spectacle, etc. Je publie sur le JDS Concert, spectacle, etc. Aujourd'hui Demain Ce week-end Agenda Sorties & loisirs Actu Artistes en tournée Publier sur JDS Vos idées sorties Grands événements Activité & Expérience Activité & Expérience : voir tout Aventure Visites Nature Aquatique & nautique Pilotage Ateliers Bien-être Gastronomie Jeux Int",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.google.com/goto?url=CAESkAEBxCJF11GvaQt0Q_jr5VtQW67EsbeVjc9CJpMg5rUs4UZ2NzGEkCgJ5-gS7YYssYF_186RVA1mpJMkIzKPjfyeWMYV7xi9Z01h5RPa-geGQ9bIC5NCFAd-jZJ4SNlW6oBbaHmvvWJf8y-huBhCvHAMPSj7FNZbY5Z6NNNFx0y7XxuHpb41a4qK_3A2imK2jyE",
-   "organizer": null,
-   "city": "Nice",
-   "dept": "06",
-   "lat": 43.71273,
-   "lon": 7.25531,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-15",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": [
-     "https://www.jds.fr/newsletter-archives/toutes-les-newsletter-jds-fr?origin=modal-newsletter&dpt=06&list=1"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert",
-    "marché de noël"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-11-07T11:42:37+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-11-07"
-  },
-  {
    "id": "b192c87a3461",
    "title": "Les Belles Échappées - Marché de Noël et découverte d'Aix-en-Provence Gassin 2026 - dates, horaires, ouverture, programme",
    "summary": "Marché de Noël, le 5 décembre 2026, à Gassin (Var) - horaires, tarifs, renseignements. Partez de Gassin pour une escapade à Aix-en-Provence ! Profitez d’une visite guidée de la ville avec Serge Vota, puis flânez au marché de Noël sur le cours Gassin Concert, spectacle, etc. Je publie sur le JDS Concert, spectacle, etc. Aujourd'hui Demain Ce week-end Agenda Sorties & loisirs Actu Artistes en tournée Publier sur JDS Vos idées sorties Grands événements Activité & Expérience Activité & Expérience : voir tout Aventure Visites Nature Aquatique & nautique Pilotage Ateliers Bien-être Gastronomie Jeux",
@@ -1331,42 +1331,6 @@
    "found_at": "2026-11-07T11:42:37+00:00",
    "contact_checked": true,
    "lien_ok": "2026-11-07"
-  },
-  {
-   "id": "fa535172c79a",
-   "title": "Chœur d'enfants X Sacrée Musique",
-   "summary": "11 Dec 2026 Chœur d'enfants X Sacrée Musique Une nouvelle date à marquer d'une pierre blanche dans la Saison Musicale : pour ce deuxième concert de Noël à la Cathédrale, découvrez la Maîtrise Sainte-Philomène de Haguenau, lauréate du très prestigieux Prix Liliane Bettencourt pour le chant choral. Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/choeur-denfants-x-sacree-musique-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-11",
-   "published": null,
-   "contact": {
-    "emails": [
-     "billetterie@sacreemusique.fr"
-    ],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-10-26T05:42:56+00:00",
-   "contact_checked": true
   },
   {
    "id": "a5f509f73ce3",
@@ -1545,42 +1509,6 @@
    "hors_zone": null,
    "score": 75,
    "found_at": "2026-10-28T05:49:20+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-28"
-  },
-  {
-   "id": "572b2e20b590",
-   "title": "Marché de créateurs Saint-Blaise 2026 - dates, horaires, ouverture, programme",
-   "summary": "Marché de Noël, le 15 novembre 2026, à Saint-Blaise (Alpes-Maritimes) - horaires, tarifs, renseignements. 9ème édition du marché de créateurs de Saint-Blaise avec 40 artistes et artisans créateurs venus de tout le département et sélectionnés Nice Concert, spectacle, etc. Je publie sur le JDS Concert, spectacle, etc. Aujourd'hui Demain Ce week-end Agenda Sorties & loisirs Actu Artistes en tournée Publier sur JDS Vos idées sorties Grands événements Activité & Expérience Activité & Expérience : voir tout Aventure Visites Nature Aquatique & nautique Pilotage Ateliers Bien-être Gastronomie Jeux Int",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.jds.fr/nice/manifestations/marche-de-noel/marche-de-createurs-1803257_A",
-   "organizer": null,
-   "city": "Nice",
-   "dept": "06",
-   "lat": 43.71273,
-   "lon": 7.25531,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-15",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": [
-     "https://www.jds.fr/newsletter-archives/toutes-les-newsletter-jds-fr?origin=modal-newsletter&dpt=06&list=1"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert",
-    "marché de noël"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-10-21T05:39:46+00:00",
    "contact_checked": true,
    "lien_ok": "2026-10-28"
   },
@@ -1880,6 +1808,74 @@
    "contact_checked": true
   },
   {
+   "id": "384cd5b5641c",
+   "title": "The Big \"Guinguette and Glitter\" Party",
+   "summary": "21 Nov 2026 The Big \"Guinguette and Glitter\" Party The Papakools and the Cassiop’Team Rugby are joining forces to bring you an evening filled with celebration, music, and fun! Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/the-big-guinguette-and-glitter-party/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-21",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "guinguette"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-11-16T13:36:36+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "ded17c759a62",
+   "title": "Ultra trail des troupes de marine",
+   "summary": "21 Nov 2026 au 22 Nov 2026 Ultra trail des troupes de marine L’Ultra-Trail des Troupes de Marine se tiendra les 21 et 22 novembre 2026 à Fréjus, autour du Musée des Troupes de Marine. Cet événement propose trois parcours de 24,4 km, 58,8 km et 128 km, adaptés à différents niveaux. Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/ultra-trail-des-troupes-de-marine-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-21",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "trail"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-11-16T13:36:36+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "3da93ae43a24",
    "title": "Palais Gourmand Fair",
    "summary": "27 Nov 2026 au 29 Nov 2026 Palais Gourmand Fair From November 27 to November 29, 2026, the Salon Gastronomie in Saint-Raphaël will transform the Palais des Congrès into a true temple of taste. Saint-Raphaël",
@@ -1914,44 +1910,6 @@
    "hors_zone": null,
    "score": 70,
    "found_at": "2026-11-14T12:09:28+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "31225759a500",
-   "title": "La journée des collectionneurs au Village Made in France",
-   "summary": "28 Nov 2026 La journée des collectionneurs au Village Made in France 5ème édition de la journée des collectionneurs au Musée du Jouet Puget-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/la-journee-des-collectionneurs-au-village-made-in-france-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Puget-sur-Argens",
-   "dept": "83",
-   "lat": 43.47045,
-   "lon": 6.68553,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-28",
-   "published": null,
-   "contact": {
-    "emails": [
-     "collectionbienjouet@gmail.com"
-    ],
-    "phones": [
-     "09 83 69 31 63",
-     "09 88 07 32 41",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "journée"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 70,
-   "found_at": "2026-11-02T13:28:07+00:00",
    "contact_checked": true
   },
   {
