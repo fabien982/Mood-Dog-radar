@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-16T23:43:37+00:00",
- "count": 74,
- "new_count": 0,
+ "updated": "2026-11-17T14:21:39+00:00",
+ "count": 77,
+ "new_count": 3,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -139,7 +139,7 @@
    "score": 100,
    "found_at": "2026-11-15T12:42:53+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-11-16"
+   "lien_ok": "2026-11-17"
   },
   {
    "id": "9a8973b58aa7",
@@ -963,12 +963,12 @@
    "contact_checked": true
   },
   {
-   "id": "fe60790ec551",
+   "id": "d9f1846347c9",
    "title": "Chœur de l'Opéra de Toulon X Sacrée Musique",
    "summary": "04 Dec 2026 Chœur de l'Opéra de Toulon X Sacrée Musique Concert de Noël Fréjus",
    "type": "Événement",
    "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/choeur-de-lopera-de-toulon-x-sacree-musique-4/",
+   "url": "https://www.esterel-cotedazur.com/en/cards/choeur-de-lopera-de-toulon-x-sacree-musique/",
    "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
    "city": "Saint-Raphaël",
    "dept": "83",
@@ -979,12 +979,8 @@
    "event_date": "2026-12-04",
    "published": null,
    "contact": {
-    "emails": [
-     "billetterie@sacreemusique.fr"
-    ],
-    "phones": [
-     "04 94 19 10 60"
-    ],
+    "emails": [],
+    "phones": [],
     "forms": []
    },
    "mode": "evenements",
@@ -995,7 +991,7 @@
    "fiable": false,
    "hors_zone": null,
    "score": 75,
-   "found_at": "2026-10-25T05:38:16+00:00",
+   "found_at": "2026-11-17T14:21:39+00:00",
    "contact_checked": true
   },
   {
@@ -1071,6 +1067,42 @@
    "hors_zone": null,
    "score": 75,
    "found_at": "2026-11-01T11:49:25+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "fe60790ec551",
+   "title": "Chœur de l'Opéra de Toulon X Sacrée Musique",
+   "summary": "04 Dec 2026 Chœur de l'Opéra de Toulon X Sacrée Musique Concert de Noël Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/choeur-de-lopera-de-toulon-x-sacree-musique-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-04",
+   "published": null,
+   "contact": {
+    "emails": [
+     "billetterie@sacreemusique.fr"
+    ],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-10-25T05:38:16+00:00",
    "contact_checked": true
   },
   {
@@ -1913,6 +1945,38 @@
    "contact_checked": true
   },
   {
+   "id": "31225759a500",
+   "title": "La journée des collectionneurs au Village Made in France",
+   "summary": "28 Nov 2026 La journée des collectionneurs au Village Made in France 5ème édition de la journée des collectionneurs au Musée du Jouet Puget-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/la-journee-des-collectionneurs-au-village-made-in-france-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Puget-sur-Argens",
+   "dept": "83",
+   "lat": 43.47045,
+   "lon": 6.68553,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-28",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "journée"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-11-17T14:21:39+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "bc08bb6fb4d4",
    "title": "Inauguration foire aux santons",
    "summary": "06 Dec 2026 Inauguration foire aux santons Fréjus",
@@ -1944,6 +2008,40 @@
    "hors_zone": null,
    "score": 70,
    "found_at": "2026-11-11T12:41:39+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "613410980cf9",
+   "title": "Tennis de table : AMSL de Fréjus VS Courbevoie",
+   "summary": "11 Dec 2026 Tennis de table : AMSL de Fréjus VS Courbevoie Match de tennis de table de la Pro B, saison 2026-2027, journée 5, opposant l'AMSL Fréjus à Courbevoie. L'entrée est gratuite. Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/tennis-de-table-amsl-de-frejus-vs-courbevoie-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-11",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "journée"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-11-17T14:21:39+00:00",
    "contact_checked": true
   },
   {
