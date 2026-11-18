@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-17T22:51:25+00:00",
+ "updated": "2026-11-18T13:55:29+00:00",
  "count": 77,
- "new_count": 0,
+ "new_count": 1,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -139,7 +139,7 @@
    "score": 100,
    "found_at": "2026-11-15T12:42:53+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-11-17"
+   "lien_ok": "2026-11-18"
   },
   {
    "id": "9a8973b58aa7",
@@ -927,6 +927,40 @@
    "contact_checked": true
   },
   {
+   "id": "6b2f2000e0b4",
+   "title": "Concert solidaire Explore Ton Talent au service de la solidarité animale",
+   "summary": "20 Nov 2026 Concert solidaire Explore Ton Talent au service de la solidarité animale Concert solidaire avec The Gosse, Kaluu et Lorenzo, animé par l'AMSLF Danse et DJ Yaya, au profit de l'association Kéopse83. Un don (patée, litière, croquettes, friandises, jouets, couvertures) équivaut à une entrée. Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/concert-solidaire-explore-ton-talent-au-service-de-la-solidarite-animale-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-20",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-11-18T13:55:29+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "f0fa296e2f71",
    "title": "Classical Piano Concert",
    "summary": "21 Nov 2026 Classical Piano Concert The Rotary Club of Saint-Raphaël is organizing a concert to benefit the Sauveteurs en Mer (SNSM) Saint-Raphaël",
@@ -1032,6 +1066,43 @@
    "contact_checked": true
   },
   {
+   "id": "900e30fce8cf",
+   "title": "Gospel de Noël",
+   "summary": "06 Dec 2026 Gospel de Noël Participez à un concert gospel au sein d'un lieu enchanteur, l'Eglise Saint-Pierre Saint-Paul située dans le cœur du village médiéval à Roquebrune-sur-Argens, où musique et voix humaine se marient pour créer une expérience sensorielle inoubliable. Roquebrune-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/gospel-de-noel/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Roquebrune-sur-Argens",
+   "dept": "83",
+   "lat": 43.42692,
+   "lon": 6.66176,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-06",
+   "published": null,
+   "contact": {
+    "emails": [
+     "village@roquebrunesurargens.fr"
+    ],
+    "phones": [
+     "04 94 19 89 89",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-11-01T11:49:25+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "d4bda3afd1f0",
    "title": "Fête de la Saint-Nicolas",
    "summary": "06 Dec 2026 Fête de la Saint-Nicolas Tradition de la nuit du premier week-end de décembre, Saint-Nicolas, sur son âne, se rend dans les maisons des enfants. La tradition Saint-Nicolas se perpétue à Roquebrune-sur-Argens. Roquebrune-sur-Argens",
@@ -1103,43 +1174,6 @@
    "hors_zone": null,
    "score": 75,
    "found_at": "2026-10-25T05:38:16+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "900e30fce8cf",
-   "title": "Gospel de Noël",
-   "summary": "06 Dec 2026 Gospel de Noël Participez à un concert gospel au sein d'un lieu enchanteur, l'Eglise Saint-Pierre Saint-Paul située dans le cœur du village médiéval à Roquebrune-sur-Argens, où musique et voix humaine se marient pour créer une expérience sensorielle inoubliable. Roquebrune-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/gospel-de-noel/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-06",
-   "published": null,
-   "contact": {
-    "emails": [
-     "village@roquebrunesurargens.fr"
-    ],
-    "phones": [
-     "04 94 19 89 89",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-11-01T11:49:25+00:00",
    "contact_checked": true
   },
   {
@@ -2008,40 +2042,6 @@
    "hors_zone": null,
    "score": 70,
    "found_at": "2026-11-11T12:41:39+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "613410980cf9",
-   "title": "Tennis de table : AMSL de Fréjus VS Courbevoie",
-   "summary": "11 Dec 2026 Tennis de table : AMSL de Fréjus VS Courbevoie Match de tennis de table de la Pro B, saison 2026-2027, journée 5, opposant l'AMSL Fréjus à Courbevoie. L'entrée est gratuite. Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/tennis-de-table-amsl-de-frejus-vs-courbevoie-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-11",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "journée"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 70,
-   "found_at": "2026-11-17T14:21:39+00:00",
    "contact_checked": true
   },
   {
