@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-19T14:24:05+00:00",
- "count": 77,
- "new_count": 0,
+ "updated": "2026-11-19T22:39:22+00:00",
+ "count": 78,
+ "new_count": 1,
  "sources": {
   "BOAMP": {
    "ok": true,
-   "found": 11
+   "found": 15
   },
   "Alertes Google": {
    "ok": true,
@@ -470,6 +470,38 @@
    "hors_zone": null,
    "score": 85,
    "found_at": "2026-10-28T14:05:03+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "f994fd34e14c",
+   "title": "Convention de mise à disposition ponctuelle du domaine public pour l'exploitation d'une activité de restauration mobile de type food-truck sur le campus Trotabas d'Université Cote",
+   "summary": "Avis de marché. Prestations de services",
+   "type": "Marché public",
+   "source": "BOAMP",
+   "url": "https://www.boamp.fr/pages/avis/?q=idweb:26-112651",
+   "organizer": "Université Côte d'Azur",
+   "city": null,
+   "dept": "06",
+   "lat": 43.94,
+   "lon": 7.18,
+   "approx": true,
+   "deadline": "2026-12-10",
+   "event_date": null,
+   "published": "2026-11-19",
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "food-truck"
+   ],
+   "fiable": true,
+   "hors_zone": null,
+   "score": 85,
+   "found_at": "2026-11-19T22:39:22+00:00",
    "contact_checked": true
   },
   {
