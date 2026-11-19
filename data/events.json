@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T22:34:21+00:00",
+ "updated": "2026-11-19T14:24:05+00:00",
  "count": 77,
  "new_count": 0,
  "sources": {
@@ -23,7 +23,7 @@
   },
   "Pages surveillées": {
    "ok": true,
-   "found": 17,
+   "found": 18,
    "errors": []
   }
  },
@@ -139,7 +139,7 @@
    "score": 100,
    "found_at": "2026-11-15T12:42:53+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-11-18"
+   "lien_ok": "2026-11-19"
   },
   {
    "id": "9a8973b58aa7",
@@ -1874,40 +1874,6 @@
    "contact_checked": true
   },
   {
-   "id": "384cd5b5641c",
-   "title": "The Big \"Guinguette and Glitter\" Party",
-   "summary": "21 Nov 2026 The Big \"Guinguette and Glitter\" Party The Papakools and the Cassiop’Team Rugby are joining forces to bring you an evening filled with celebration, music, and fun! Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/the-big-guinguette-and-glitter-party/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-21",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "guinguette"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 70,
-   "found_at": "2026-11-16T13:36:36+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "ded17c759a62",
    "title": "Ultra trail des troupes de marine",
    "summary": "21 Nov 2026 au 22 Nov 2026 Ultra trail des troupes de marine L’Ultra-Trail des Troupes de Marine se tiendra les 21 et 22 novembre 2026 à Fréjus, autour du Musée des Troupes de Marine. Cet événement propose trois parcours de 24,4 km, 58,8 km et 128 km, adaptés à différents niveaux. Fréjus",
@@ -1934,6 +1900,40 @@
    "via": null,
    "keywords": [
     "trail"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-11-16T13:36:36+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "384cd5b5641c",
+   "title": "The Big \"Guinguette and Glitter\" Party",
+   "summary": "21 Nov 2026 The Big \"Guinguette and Glitter\" Party The Papakools and the Cassiop’Team Rugby are joining forces to bring you an evening filled with celebration, music, and fun! Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/the-big-guinguette-and-glitter-party/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-21",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "guinguette"
    ],
    "fiable": false,
    "hors_zone": null,
