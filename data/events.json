@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-19T22:39:22+00:00",
- "count": 78,
- "new_count": 1,
+ "updated": "2026-11-20T13:58:52+00:00",
+ "count": 77,
+ "new_count": 0,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -23,7 +23,7 @@
   },
   "Pages surveillées": {
    "ok": true,
-   "found": 18,
+   "found": 16,
    "errors": []
   }
  },
@@ -139,7 +139,7 @@
    "score": 100,
    "found_at": "2026-11-15T12:42:53+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-11-19"
+   "lien_ok": "2026-11-20"
   },
   {
    "id": "9a8973b58aa7",
@@ -993,42 +993,6 @@
    "contact_checked": true
   },
   {
-   "id": "f0fa296e2f71",
-   "title": "Classical Piano Concert",
-   "summary": "21 Nov 2026 Classical Piano Concert The Rotary Club of Saint-Raphaël is organizing a concert to benefit the Sauveteurs en Mer (SNSM) Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/classical-piano-concert/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-21",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "07 89 94 71 59",
-     "04 98 11 89 00",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-11-14T12:09:28+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "d9f1846347c9",
    "title": "Chœur de l'Opéra de Toulon X Sacrée Musique",
    "summary": "04 Dec 2026 Chœur de l'Opéra de Toulon X Sacrée Musique Concert de Noël Fréjus",
@@ -1098,6 +1062,44 @@
    "contact_checked": true
   },
   {
+   "id": "d4bda3afd1f0",
+   "title": "Fête de la Saint-Nicolas",
+   "summary": "06 Dec 2026 Fête de la Saint-Nicolas Tradition de la nuit du premier week-end de décembre, Saint-Nicolas, sur son âne, se rend dans les maisons des enfants. La tradition Saint-Nicolas se perpétue à Roquebrune-sur-Argens. Roquebrune-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/fete-de-la-saint-nicolas/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Roquebrune-sur-Argens",
+   "dept": "83",
+   "lat": 43.42692,
+   "lon": 6.66176,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-06",
+   "published": null,
+   "contact": {
+    "emails": [
+     "village@roquebrunesurargens.fr"
+    ],
+    "phones": [
+     "04 94 19 89 89",
+     "07 75 78 47 23",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fête"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-11-01T11:49:25+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "900e30fce8cf",
    "title": "Gospel de Noël",
    "summary": "06 Dec 2026 Gospel de Noël Participez à un concert gospel au sein d'un lieu enchanteur, l'Eglise Saint-Pierre Saint-Paul située dans le cœur du village médiéval à Roquebrune-sur-Argens, où musique et voix humaine se marient pour créer une expérience sensorielle inoubliable. Roquebrune-sur-Argens",
@@ -1135,28 +1137,26 @@
    "contact_checked": true
   },
   {
-   "id": "d4bda3afd1f0",
-   "title": "Fête de la Saint-Nicolas",
-   "summary": "06 Dec 2026 Fête de la Saint-Nicolas Tradition de la nuit du premier week-end de décembre, Saint-Nicolas, sur son âne, se rend dans les maisons des enfants. La tradition Saint-Nicolas se perpétue à Roquebrune-sur-Argens. Roquebrune-sur-Argens",
+   "id": "f0fa296e2f71",
+   "title": "Classical Piano Concert",
+   "summary": "21 Nov 2026 Classical Piano Concert The Rotary Club of Saint-Raphaël is organizing a concert to benefit the Sauveteurs en Mer (SNSM) Saint-Raphaël",
    "type": "Événement",
    "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/fete-de-la-saint-nicolas/",
+   "url": "https://www.esterel-cotedazur.com/en/cards/classical-piano-concert/",
    "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
+   "city": "Saint-Raphaël",
    "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
+   "lat": 43.44268,
+   "lon": 6.84991,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-12-06",
+   "event_date": "2026-11-21",
    "published": null,
    "contact": {
-    "emails": [
-     "village@roquebrunesurargens.fr"
-    ],
+    "emails": [],
     "phones": [
-     "04 94 19 89 89",
-     "07 75 78 47 23",
+     "07 89 94 71 59",
+     "04 98 11 89 00",
      "04 94 19 10 60"
     ],
     "forms": []
@@ -1164,12 +1164,12 @@
    "mode": "evenements",
    "via": null,
    "keywords": [
-    "fête"
+    "concert"
    ],
    "fiable": false,
    "hors_zone": null,
    "score": 75,
-   "found_at": "2026-11-01T11:49:25+00:00",
+   "found_at": "2026-11-14T12:09:28+00:00",
    "contact_checked": true
   },
   {
@@ -1903,40 +1903,6 @@
    "hors_zone": null,
    "score": 70,
    "found_at": "2026-11-06T12:55:10+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "ded17c759a62",
-   "title": "Ultra trail des troupes de marine",
-   "summary": "21 Nov 2026 au 22 Nov 2026 Ultra trail des troupes de marine L’Ultra-Trail des Troupes de Marine se tiendra les 21 et 22 novembre 2026 à Fréjus, autour du Musée des Troupes de Marine. Cet événement propose trois parcours de 24,4 km, 58,8 km et 128 km, adaptés à différents niveaux. Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/ultra-trail-des-troupes-de-marine-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-21",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "trail"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 70,
-   "found_at": "2026-11-16T13:36:36+00:00",
    "contact_checked": true
   },
   {
