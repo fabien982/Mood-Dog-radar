@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20T22:13:52+00:00",
- "count": 77,
- "new_count": 0,
+ "updated": "2026-11-21T13:26:44+00:00",
+ "count": 76,
+ "new_count": 3,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -23,7 +23,7 @@
   },
   "Pages surveillées": {
    "ok": true,
-   "found": 16,
+   "found": 17,
    "errors": []
   }
  },
@@ -139,7 +139,43 @@
    "score": 100,
    "found_at": "2026-11-15T12:42:53+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-11-20"
+   "lien_ok": "2026-11-21"
+  },
+  {
+   "id": "ef595cb9277c",
+   "title": "Concert à la bougie",
+   "summary": "05 Dec 2026 Concert à la bougie À l’approche des fêtes de Noël, la Ville de Saint-Raphaël accueille le Festival Sacrée Musique pour un concert à la bougie à la basilique Notre-Dame de la Victoire. Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/concert-a-la-bougie-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-05",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert",
+    "festival",
+    "fêtes"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 95,
+   "found_at": "2026-11-21T13:26:44+00:00",
+   "contact_checked": true
   },
   {
    "id": "9a8973b58aa7",
@@ -502,6 +538,42 @@
    "hors_zone": null,
    "score": 85,
    "found_at": "2026-11-19T22:39:22+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "d13d392f318f",
+   "title": "Soirée cabaret",
+   "summary": "28 Nov 2026 Soirée cabaret Soirée organisée par le Comité d'Animation d'Agay. Agay",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/soiree-cabaret-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-28",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "06 61 82 06 25",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "animation",
+    "soirée"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 85,
+   "found_at": "2026-11-21T13:26:44+00:00",
    "contact_checked": true
   },
   {
@@ -921,12 +993,12 @@
    "contact_checked": true
   },
   {
-   "id": "de9289efd093",
-   "title": "Quinteto Libertad",
-   "summary": "20 Nov 2026 Quinteto Libertad La Casa Jazz presents a concert that honors the roots of “nuevo tango,” blending sensuality, passion, sublime melodies, and the harmonies of Buenos Aires. Saint-Raphaël",
+   "id": "f0fa296e2f71",
+   "title": "Classical Piano Concert",
+   "summary": "21 Nov 2026 Classical Piano Concert The Rotary Club of Saint-Raphaël is organizing a concert to benefit the Sauveteurs en Mer (SNSM) Saint-Raphaël",
    "type": "Événement",
    "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/quinteto-libertad/",
+   "url": "https://www.esterel-cotedazur.com/en/cards/classical-piano-concert/",
    "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
    "city": "Saint-Raphaël",
    "dept": "83",
@@ -934,15 +1006,13 @@
    "lon": 6.84991,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-11-20",
+   "event_date": "2026-11-21",
    "published": null,
    "contact": {
-    "emails": [
-     "billetterie@ville-saintraphael.fr"
-    ],
+    "emails": [],
     "phones": [
+     "07 89 94 71 59",
      "04 98 11 89 00",
-     "07 85 60 51 27",
      "04 94 19 10 60"
     ],
     "forms": []
@@ -956,40 +1026,6 @@
    "hors_zone": null,
    "score": 75,
    "found_at": "2026-11-14T12:09:28+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "6b2f2000e0b4",
-   "title": "Concert solidaire Explore Ton Talent au service de la solidarité animale",
-   "summary": "20 Nov 2026 Concert solidaire Explore Ton Talent au service de la solidarité animale Concert solidaire avec The Gosse, Kaluu et Lorenzo, animé par l'AMSLF Danse et DJ Yaya, au profit de l'association Kéopse83. Un don (patée, litière, croquettes, friandises, jouets, couvertures) équivaut à une entrée. Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/concert-solidaire-explore-ton-talent-au-service-de-la-solidarite-animale-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-20",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-11-18T13:55:29+00:00",
    "contact_checked": true
   },
   {
@@ -1062,44 +1098,6 @@
    "contact_checked": true
   },
   {
-   "id": "d4bda3afd1f0",
-   "title": "Fête de la Saint-Nicolas",
-   "summary": "06 Dec 2026 Fête de la Saint-Nicolas Tradition de la nuit du premier week-end de décembre, Saint-Nicolas, sur son âne, se rend dans les maisons des enfants. La tradition Saint-Nicolas se perpétue à Roquebrune-sur-Argens. Roquebrune-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/fete-de-la-saint-nicolas/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-06",
-   "published": null,
-   "contact": {
-    "emails": [
-     "village@roquebrunesurargens.fr"
-    ],
-    "phones": [
-     "04 94 19 89 89",
-     "07 75 78 47 23",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "fête"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-11-01T11:49:25+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "900e30fce8cf",
    "title": "Gospel de Noël",
    "summary": "06 Dec 2026 Gospel de Noël Participez à un concert gospel au sein d'un lieu enchanteur, l'Eglise Saint-Pierre Saint-Paul située dans le cœur du village médiéval à Roquebrune-sur-Argens, où musique et voix humaine se marient pour créer une expérience sensorielle inoubliable. Roquebrune-sur-Argens",
@@ -1137,26 +1135,28 @@
    "contact_checked": true
   },
   {
-   "id": "f0fa296e2f71",
-   "title": "Classical Piano Concert",
-   "summary": "21 Nov 2026 Classical Piano Concert The Rotary Club of Saint-Raphaël is organizing a concert to benefit the Sauveteurs en Mer (SNSM) Saint-Raphaël",
+   "id": "d4bda3afd1f0",
+   "title": "Fête de la Saint-Nicolas",
+   "summary": "06 Dec 2026 Fête de la Saint-Nicolas Tradition de la nuit du premier week-end de décembre, Saint-Nicolas, sur son âne, se rend dans les maisons des enfants. La tradition Saint-Nicolas se perpétue à Roquebrune-sur-Argens. Roquebrune-sur-Argens",
    "type": "Événement",
    "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/classical-piano-concert/",
+   "url": "https://www.esterel-cotedazur.com/en/cards/fete-de-la-saint-nicolas/",
    "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
+   "city": "Roquebrune-sur-Argens",
    "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
+   "lat": 43.42692,
+   "lon": 6.66176,
    "approx": false,
    "deadline": null,
-   "event_date": "2026-11-21",
+   "event_date": "2026-12-06",
    "published": null,
    "contact": {
-    "emails": [],
+    "emails": [
+     "village@roquebrunesurargens.fr"
+    ],
     "phones": [
-     "07 89 94 71 59",
-     "04 98 11 89 00",
+     "04 94 19 89 89",
+     "07 75 78 47 23",
      "04 94 19 10 60"
     ],
     "forms": []
@@ -1164,12 +1164,12 @@
    "mode": "evenements",
    "via": null,
    "keywords": [
-    "concert"
+    "fête"
    ],
    "fiable": false,
    "hors_zone": null,
    "score": 75,
-   "found_at": "2026-11-14T12:09:28+00:00",
+   "found_at": "2026-11-01T11:49:25+00:00",
    "contact_checked": true
   },
   {
@@ -1242,44 +1242,6 @@
    "hors_zone": null,
    "score": 75,
    "found_at": "2026-10-26T05:42:56+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "8df2559ba4a3",
-   "title": "Quinteto Libertad",
-   "summary": "20 Nov 2026 Quinteto Libertad La Casa Jazz propose un concert dans le respect des racines du « nuevo tango », entre sensualité, ferveur, mélodies sublimes et harmonies de Buenos Aires. Saint-Raphaël",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/quinteto-libertad-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-20",
-   "published": null,
-   "contact": {
-    "emails": [
-     "billetterie@ville-saintraphael.fr"
-    ],
-    "phones": [
-     "04 98 11 89 00",
-     "07 85 60 51 27",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true
   },
   {
@@ -1940,6 +1902,40 @@
    "contact_checked": true
   },
   {
+   "id": "ded17c759a62",
+   "title": "Ultra trail des troupes de marine",
+   "summary": "21 Nov 2026 au 22 Nov 2026 Ultra trail des troupes de marine L’Ultra-Trail des Troupes de Marine se tiendra les 21 et 22 novembre 2026 à Fréjus, autour du Musée des Troupes de Marine. Cet événement propose trois parcours de 24,4 km, 58,8 km et 128 km, adaptés à différents niveaux. Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/ultra-trail-des-troupes-de-marine-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-21",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "trail"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-11-21T13:26:44+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "3da93ae43a24",
    "title": "Palais Gourmand Fair",
    "summary": "27 Nov 2026 au 29 Nov 2026 Palais Gourmand Fair From November 27 to November 29, 2026, the Salon Gastronomie in Saint-Raphaël will transform the Palais des Congrès into a true temple of taste. Saint-Raphaël",
@@ -1974,38 +1970,6 @@
    "hors_zone": null,
    "score": 70,
    "found_at": "2026-11-14T12:09:28+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "31225759a500",
-   "title": "La journée des collectionneurs au Village Made in France",
-   "summary": "28 Nov 2026 La journée des collectionneurs au Village Made in France 5ème édition de la journée des collectionneurs au Musée du Jouet Puget-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/la-journee-des-collectionneurs-au-village-made-in-france-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Puget-sur-Argens",
-   "dept": "83",
-   "lat": 43.47045,
-   "lon": 6.68553,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-28",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "journée"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 70,
-   "found_at": "2026-11-17T14:21:39+00:00",
    "contact_checked": true
   },
   {
