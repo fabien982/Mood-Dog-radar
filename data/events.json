@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-22T21:01:22+00:00",
- "count": 71,
- "new_count": 0,
+ "updated": "2026-11-23T15:56:15+00:00",
+ "count": 70,
+ "new_count": 5,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -23,7 +23,7 @@
   },
   "Pages surveillées": {
    "ok": true,
-   "found": 15,
+   "found": 19,
    "errors": []
   }
  },
@@ -139,7 +139,7 @@
    "score": 100,
    "found_at": "2026-11-15T12:42:53+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-11-22"
+   "lien_ok": "2026-11-23"
   },
   {
    "id": "ef595cb9277c",
@@ -301,6 +301,41 @@
    "hors_zone": null,
    "score": 90,
    "found_at": "2026-10-12T05:30:37+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "58a387640868",
+   "title": "Sacrée musique : Chœur d’enfants – Grand concert de Noël",
+   "summary": "11 Dec 2026 Sacrée musique : Chœur d’enfants – Grand concert de Noël Soixante voix d’enfants angéliques entonneront les plus beaux chants de Noël à Fréjus… Une soirée qui promet de vous émerveiller ! Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/sacree-musique-choeur-denfants-grand-concert-de-noel/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-11",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert",
+    "soirée"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 90,
+   "found_at": "2026-11-23T15:56:15+00:00",
    "contact_checked": true
   },
   {
@@ -1067,42 +1102,6 @@
    "contact_checked": true
   },
   {
-   "id": "fe60790ec551",
-   "title": "Chœur de l'Opéra de Toulon X Sacrée Musique",
-   "summary": "04 Dec 2026 Chœur de l'Opéra de Toulon X Sacrée Musique Concert de Noël Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/choeur-de-lopera-de-toulon-x-sacree-musique-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-04",
-   "published": null,
-   "contact": {
-    "emails": [
-     "billetterie@sacreemusique.fr"
-    ],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-10-25T05:38:16+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "fa535172c79a",
    "title": "Chœur d'enfants X Sacrée Musique",
    "summary": "11 Dec 2026 Chœur d'enfants X Sacrée Musique Une nouvelle date à marquer d'une pierre blanche dans la Saison Musicale : pour ce deuxième concert de Noël à la Cathédrale, découvrez la Maîtrise Sainte-Philomène de Haguenau, lauréate du très prestigieux Prix Liliane Bettencourt pour le chant choral. Fréjus",
@@ -1136,6 +1135,42 @@
    "hors_zone": null,
    "score": 75,
    "found_at": "2026-10-26T05:42:56+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "fe60790ec551",
+   "title": "Chœur de l'Opéra de Toulon X Sacrée Musique",
+   "summary": "04 Dec 2026 Chœur de l'Opéra de Toulon X Sacrée Musique Concert de Noël Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/choeur-de-lopera-de-toulon-x-sacree-musique-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-04",
+   "published": null,
+   "contact": {
+    "emails": [
+     "billetterie@sacreemusique.fr"
+    ],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-10-25T05:38:16+00:00",
    "contact_checked": true
   },
   {
@@ -1206,42 +1241,6 @@
    "keywords": [
     "concert",
     "marché de noël"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-11-07T11:42:37+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-11-07"
-  },
-  {
-   "id": "927c42406080",
-   "title": "vide grenier marché de noel - Bras-d'Asse (04)",
-   "summary": "9h-18h Marché de Noël, foire artisanale, vide grenier, bourses aux jouets, vêtements, autos motos Exposition véhicules anciens auto moto Food truck asiatique Camion pizza Château gonflable etc ..... Retour | Provence-Alpes-Côte d'Azur > Alpes de Haute-Provence > Bras-d'Asse Nov. 22 Dimanche 22 Novembre 2026 Bras-d'Asse (04) vide grenier marché de noel Vide-greniers et marché aux puces Partager Infos Accès Exposants Contact Informations générales 9h-18h Entrée gratuite 80 exposants attendus Marché de Noël, foire artisanale, vide grenier, bourses aux jouets, vêtements, autos motos Exposition véh",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://vide-greniers.org/evenement/1036664",
-   "organizer": null,
-   "city": null,
-   "dept": "04",
-   "lat": 44.09,
-   "lon": 6.24,
-   "approx": true,
-   "deadline": null,
-   "event_date": "2026-11-22",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "exposants",
-    "foire",
-    "marché de noël",
-    "vide-greniers"
    ],
    "fiable": false,
    "hors_zone": null,
@@ -1689,77 +1688,6 @@
    "lien_ok": "2026-10-28"
   },
   {
-   "id": "30b864c10d84",
-   "title": "Salon d'Art Contemporain",
-   "summary": "12 Nov 2026 au 22 Nov 2026 Salon d'Art Contemporain Le Lions Club Saint-Raphaël Côte d'Azur propose ce salon d'art contemporain présentant les œuvres de plus 25 artistes : peintres, sculpteurs et photographes. La Villa Aurélienne sera le prestigieux écrin de cet évènement artistique. Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/salon-dart-contemporain-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-22",
-   "published": null,
-   "contact": {
-    "emails": [
-     "s.bibliotheque@ville-frejus.fr"
-    ],
-    "phones": [
-     "04 94 51 01 89",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "salon"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 70,
-   "found_at": "2026-11-06T12:55:10+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "ded17c759a62",
-   "title": "Ultra trail des troupes de marine",
-   "summary": "21 Nov 2026 au 22 Nov 2026 Ultra trail des troupes de marine L’Ultra-Trail des Troupes de Marine se tiendra les 21 et 22 novembre 2026 à Fréjus, autour du Musée des Troupes de Marine. Cet événement propose trois parcours de 24,4 km, 58,8 km et 128 km, adaptés à différents niveaux. Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/ultra-trail-des-troupes-de-marine-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-22",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "trail"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 70,
-   "found_at": "2026-11-21T13:26:44+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "3da93ae43a24",
    "title": "Palais Gourmand Fair",
    "summary": "27 Nov 2026 au 29 Nov 2026 Palais Gourmand Fair From November 27 to November 29, 2026, the Salon Gastronomie in Saint-Raphaël will transform the Palais des Congrès into a true temple of taste. Saint-Raphaël",
@@ -1797,6 +1725,44 @@
    "contact_checked": true
   },
   {
+   "id": "31225759a500",
+   "title": "La journée des collectionneurs au Village Made in France",
+   "summary": "28 Nov 2026 La journée des collectionneurs au Village Made in France 5ème édition de la journée des collectionneurs au Musée du Jouet Puget-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/la-journee-des-collectionneurs-au-village-made-in-france-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Puget-sur-Argens",
+   "dept": "83",
+   "lat": 43.47045,
+   "lon": 6.68553,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-28",
+   "published": null,
+   "contact": {
+    "emails": [
+     "collectionbienjouet@gmail.com"
+    ],
+    "phones": [
+     "09 83 69 31 63",
+     "09 88 07 32 41",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "journée"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-11-23T15:56:15+00:00",
+   "contact_checked": true
+  },
+  {
    "id": "bc08bb6fb4d4",
    "title": "Inauguration foire aux santons",
    "summary": "06 Dec 2026 Inauguration foire aux santons Fréjus",
@@ -1828,6 +1794,113 @@
    "hors_zone": null,
    "score": 70,
    "found_at": "2026-11-11T12:41:39+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "613410980cf9",
+   "title": "Tennis de table : AMSL de Fréjus VS Courbevoie",
+   "summary": "11 Dec 2026 Tennis de table : AMSL de Fréjus VS Courbevoie Match de tennis de table de la Pro B, saison 2026-2027, journée 5, opposant l'AMSL Fréjus à Courbevoie. L'entrée est gratuite. Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/tennis-de-table-amsl-de-frejus-vs-courbevoie-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-11",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "journée"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-11-23T15:56:15+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "ce203c348b37",
+   "title": "Soirée années 80",
+   "summary": "12 Dec 2026 Soirée années 80 Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/soiree-annees-80/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-12",
+   "published": null,
+   "contact": {
+    "emails": [
+     "tourisme@frejus.fr"
+    ],
+    "phones": [
+     "04 94 51 83 83",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "soirée"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-11-23T15:56:15+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "ddd3bba2e6c3",
+   "title": "Le Chœur du Sud au Forum de Fréjus – Happy’Handy",
+   "summary": "12 Dec 2026 Le Chœur du Sud au Forum de Fréjus – Happy’Handy Happy’Handy vous donne rendez-vous au Théâtre Le Forum de Fréjus pour une grande soirée musicale et solidaire avec Le Chœur du Sud, dirigé par le chef Jean-Luc Costa, et trois artistes invités. Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/le-choeur-du-sud-au-forum-de-frejus-happyhandy-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-12",
+   "published": null,
+   "contact": {
+    "emails": [
+     "contact@happyhandy.fr"
+    ],
+    "phones": [
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "soirée"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-11-23T15:56:15+00:00",
    "contact_checked": true
   },
   {
@@ -1981,41 +2054,6 @@
    "lien_ok": "2026-10-28"
   },
   {
-   "id": "ce7dc13d7b7a",
-   "title": "FESTIVAL C’EST PAS CLASSIQUE 2026 DANS LES ALPES-MARITIMES",
-   "summary": "Découvrez la programmation musicale du festival C'est Pas Classique 2026 LIVE Facebook X Pinterest WhatsApp Email Découvrez la programmation musicale du festival C’est Pas Classique 2026 Du 07 au 22/11/2026 dans le département des Alpes-Maritimes (06). C’est pas Classique déploie sa 21ème édition avec une ambition toujours aussi claire : faire vivre la musique classique autrement, en la faisant dialoguer avec le jazz, la pop, la danse et les musiques du monde. Le festival déploie plus de 25 concerts gratuits dans 14 communes, avec une programmation pensée pour toucher tous les publics, des plu",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.google.com/goto?url=CAESlwEBxCJF14m3QMnRgywpAk7HOx1RmrrMTiIhB8Sb-uYp3G3Y6Ukr72tEL4OYz7EYQJsN44fQzBdm3kS-y8RPTTpb2eOlZpaTVOSaHAgyRd71sYGfsqv55qEr4O3Uw3SKWx5QKLA6-G7ornB6Zheqxn7AwIMJkTqT6n2h-RLkKGpAuBEXyqRLK2NJMQl9D-YpFl6568r06YLv",
-   "organizer": null,
-   "city": "Nice",
-   "dept": "06",
-   "lat": 43.71273,
-   "lon": 7.25531,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-22",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": [
-     "https://www.helloasso.com/associations/aix-qui"
-    ]
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 60,
-   "found_at": "2026-11-07T11:42:37+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-11-07"
-  },
-  {
    "id": "611249ad962e",
    "title": "Election de Miss Golfe de Saint -Tropez | Fête locale Ramatuelle | Golfe de Saint-Tropez Destination",
    "summary": "ÉLECTION DE MISS GOLFE DE SAINT-TROPEZ Retour à la liste Ramatuelle Samedi 28 novembre 2026 à 12h Ajouter à mon agenda ÉLECTION DE MISS GOLFE DE SAINT-TROPEZ Avec le comité Miss France Mannequin et Féminin Pluriel Activités %% prestaItem.prestaVO.regiondo.duration_values_display %% %% prestaItem.prestaVO.regiondo.duration_type_display %% A part. de %% prestaItem.prestaVO.regiondo.base_price_display %% € %% prestaItem.prestaVO.regiondo.original_price_display %%€ A part. de %% formatRegiondoPrix(prestaItem.prestaVO.donneesPrivees.regiondo_prix) %% € %% prestaItem.prestaVO.tarifsMinMax.tarifMax %",
@@ -2117,39 +2155,6 @@
    "hors_zone": null,
    "score": 60,
    "found_at": "2026-10-21T05:39:46+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-28"
-  },
-  {
-   "id": "be9b1654a550",
-   "title": "FESTIVAL C’EST PAS CLASSIQUE 2026 DANS LES ALPES-MARITIMES",
-   "summary": "Découvrez la programmation musicale du festival C'est Pas Classique 2026 LIVE Facebook X Pinterest WhatsApp Email Découvrez la programmation musicale du festival C’est Pas Classique 2026 Du 07 au 22/11/2026 dans le département des Alpes-Maritimes (06). C’est pas Classique déploie sa 21ème édition avec une ambition toujours aussi claire : faire vivre la musique classique autrement, en la faisant dialoguer avec le jazz, la pop, la danse et les musiques du monde. Le festival déploie plus de 25 concerts gratuits dans 14 communes, avec une programmation pensée pour toucher tous les publics, des plu",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://nouvelle-vague.com/live/festival-cest-pas-classique-2026-dans-les-alpes-maritimes/",
-   "organizer": null,
-   "city": "Nice",
-   "dept": "06",
-   "lat": 43.71273,
-   "lon": 7.25531,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-22",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "festival"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 60,
-   "found_at": "2026-10-28T05:49:20+00:00",
    "contact_checked": true,
    "lien_ok": "2026-10-28"
   },
@@ -2572,39 +2577,6 @@
    "found_at": "2026-11-07T11:42:37+00:00",
    "contact_checked": true,
    "lien_ok": "2026-11-07"
-  },
-  {
-   "id": "3cb782f60fd2",
-   "title": "GrasseMat'Info",
-   "summary": "C’est pas classique 2026 : La musique pour tous ! À moins d’un mois du grand rendez-vous musical des Alpes-Maritimes, le festival C’est pas Classique prépare sa 21e édition, du 7 au 22 novembre 2026...",
-   "type": "Événement",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/JournalGrasseMat/posts/cest-pas-classique-2026-la-musique-pour-tous-%C3%A0-moins-dun-mois-du-grand-rendez-vo/1388796003237666/",
-   "organizer": null,
-   "city": null,
-   "dept": null,
-   "lat": null,
-   "lon": null,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-22",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": "Facebook",
-   "keywords": [
-    "festival"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 50,
-   "found_at": "2026-10-14T05:39:31+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-10-28"
   }
  ]
 }
