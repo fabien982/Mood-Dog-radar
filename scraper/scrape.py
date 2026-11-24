@@ -373,9 +373,31 @@ RE_PROMO = re.compile(
 )
 
 
+# Un particulier (futurs mariés, anniversaire, entreprise…) qui cherche un food truck.
+RE_PRIVATE_CTX = re.compile(
+    r"\b(notre|mon|ma|nos|le) (mariage|anniversaire|bapteme|communion|fiancailles|evjf|evg|seminaire|soiree d'entreprise"
+    r"|fete de famille|cousinade|bar-mitzvah|bar mitzvah|pot de depart|vin d'honneur)\b"
+    r"|on se marie|nous nous marions|futurs? (maries?|mariees?)|je me marie|nos invites|\d{2} ans de mariage|\bnos \d{2} ans\b"
+)
+RE_PRIVATE_ASK = re.compile(
+    r"(cherch|recherch|conseil|connai|recommand|devis|avis|idee|besoin|prestataire|adresse|quelqu'un|des retours|vos retours)"
+)
+RE_VENDOR = re.compile(
+    r"votre (mariage|evenement|anniversaire|soiree)|vos invites|privatis|nos formules|notre carte|notre food[\s-]?truck"
+    r"|demandez (votre|un) devis|contactez[- ]nous"
+)
+
+
+PRIVATE_OK_EXCL = {"location", "a louer", "serveur", "cuisinier", "mobilier"}
+
+
+def is_private(nt: str) -> bool:
+    return bool(RE_PRIVATE_CTX.search(nt) and RE_PRIVATE_ASK.search(nt) and not RE_VENDOR.search(nt))
+
+
 def has_signal(nt: str) -> bool:
     extra = [norm(x) for x in CFG.get("signaux", [])]
-    return bool(RE_SIGNAL.search(nt)) or any(x in nt for x in extra)
+    return bool(RE_SIGNAL.search(nt)) or any(x in nt for x in extra) or is_private(nt)
 
 
 def is_promo(nt: str) -> bool:
@@ -401,7 +423,8 @@ def km_between(lat1: float, lon1: float, lat2: float, lon2: float) -> float:
 
 def via_label(url: str) -> str | None:
     host = urlparse(url).netloc.lower()
-    for dom, label in (("instagram.com", "Instagram"), ("facebook.com", "Facebook"), ("fb.com", "Facebook")):
+    for dom, label in (("instagram.com", "Instagram"), ("facebook.com", "Facebook"), ("fb.com", "Facebook"),
+                       ("mariages.net", "Mariages.net"), ("leboncoin.fr", "Leboncoin"), ("wikifoodtruck.fr", "Wikifoodtruck")):
         if host.endswith(dom):
             return label
     return None
@@ -416,6 +439,8 @@ def classify(nt: str, source: str) -> str:
     if re.search(r"appel a (candidature|manifestation|projet)|\bami\b|dossier de candidature"
                  r"|candidatures? (ouvertes|jusqu|avant)|\baot\b|occupation (temporaire )?du domaine public", nt):
         return "Appel à candidatures"
+    if is_private(nt):
+        return "Mariage / particulier"
     if re.search(r"(recherch|cherch)\w*\s+(\S+\s+){0,4}(food[\s-]?trucks?|foodtrucks?|exposants|producteurs)", nt):
         return "Recherche un food truck"
     return "Événement"
@@ -469,7 +494,10 @@ def make_event(source: str, title: str, url: str, summary: str = "", organizer: 
     main = contains_any(nt, required_terms or (KW_EVENTS if events_mode else KW_MAIN))
     if not main:
         return None
-    if contains_any(nt, KW_EXCL):
+    excl = contains_any(nt, KW_EXCL)
+    if excl and is_private(nt):
+        excl = [w for w in excl if norm(w) not in PRIVATE_OK_EXCL]
+    if excl:
         return None
     if events_mode:
         if is_promo(nt) or RE_EVENT_BAD.search(nt):
@@ -530,7 +558,7 @@ def make_event(source: str, title: str, url: str, summary: str = "", organizer: 
     if events_mode and not (event_date or deadline):
         return None  # une fête sans date ne t'aide pas à remplir ton agenda
     score = SOURCE_WEIGHT.get(source, 30) + min(30, 15 * len(main)) + min(20, 5 * len(bonus))
-    score += 15 if kind == "Appel à candidatures" else 10 if kind == "Recherche un food truck" else 0
+    score += 15 if kind == "Appel à candidatures" else 10 if kind in ("Recherche un food truck", "Mariage / particulier") else 0
     score += 10 if deadline else 0
     score += 10 if loc["dept"] in DEPTS else 0
 
@@ -945,6 +973,11 @@ def verify_links(events: list[dict], budget: int = 200) -> list[dict]:
         time.sleep(0.4)
         if not got and page_link:
             ev["lien_ok"] = "page source"  # fiche officielle sans page détail lisible : on garde
+            out.append(ev)
+            continue
+        host = urlparse(ev["url"]).netloc.lower()
+        if not got and any(host == d or host.endswith("." + d) for d in conf.get("accepter_illisibles_de") or []):
+            ev["lien_ok"] = "illisible"  # site fermé aux robots (Leboncoin, Mariages.net…) : on garde l'extrait, « à vérifier »
             out.append(ev)
             continue
         if not got:

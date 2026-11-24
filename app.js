@@ -11,7 +11,7 @@ const STATUS = {
   refuse: "Refusé",
   masque: "Masqué",
 };
-const TYPE_CLASS = { "Appel à candidatures": "cand", "Recherche un food truck": "cand", "Marché public": "marche", "Événement": "event" };
+const TYPE_CLASS = { "Appel à candidatures": "cand", "Recherche un food truck": "cand", "Mariage / particulier": "prive", "Marché public": "marche", "Événement": "event" };
 const MONTHS = ["janv.", "févr.", "mars", "avr.", "mai", "juin", "juil.", "août", "sept.", "oct.", "nov.", "déc."];
 
 const $ = (s, el = document) => el.querySelector(s);
@@ -91,7 +91,7 @@ function ago(iso) {
   const j = Math.round(h / 24);
   return `il y a ${j} jour${j > 1 ? "s" : ""}`;
 }
-function isDemande(ev) { return TYPE_CLASS[ev.type] === "cand" || TYPE_CLASS[ev.type] === "marche"; }
+function isDemande(ev) { return ["cand", "marche", "prive"].includes(TYPE_CLASS[ev.type]); }
 function isNew(ev) {
   return !state.seen[ev.id] && ev.found_at && Date.now() - new Date(ev.found_at) < 4 * 86400000;
 }
@@ -141,7 +141,7 @@ function visible() {
     if (filter === "suivi" && st === "etudier" && !state.notes[ev.id]) return false;
     if (filter === "contact" && !hasContact(ev)) return false;
     if (filter === "date" && !ev.deadline && !ev.event_date) return false;
-    if (["cand", "marche", "event"].includes(filter) && TYPE_CLASS[ev.type] !== filter) return false;
+    if (["cand", "marche", "event", "prive"].includes(filter) && TYPE_CLASS[ev.type] !== filter) return false;
     if (dept && ev.dept !== dept) return false;
     if (q) {
       const hay = `${ev.title} ${ev.summary} ${ev.city} ${ev.organizer}`.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
@@ -280,7 +280,7 @@ function drawMap(list) {
     layer = L.layerGroup().addTo(map);
   }
   layer.clearLayers();
-  const colors = { cand: "#E8A317", marche: "#3A64C8", event: "#5E7A3A" };
+  const colors = { cand: "#E8A317", marche: "#3A64C8", event: "#5E7A3A", prive: "#C2417A" };
   const pts = [];
   list.filter((e) => e.lat != null).forEach((ev) => {
     const c = colors[TYPE_CLASS[ev.type]] || "#C8322B";

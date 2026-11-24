@@ -145,6 +145,7 @@ main { max-width: 760px; margin: 0 auto; }
 .tag.cand { background: #FFE9A8; color: #5A3E00; }
 .tag.marche { background: #DCE6FA; color: #1B3A78; }
 .tag.event { background: #E3EDD5; color: #36501A; }
+.tag.prive { background: #F9DCE8; color: #7A1E48; }
 .tag.new { background: var(--ketchup); color: #fff; }
 .tag.ok { background: #DDEBCB; color: #2F4A14; }
 .tag.warn { background: #F6E3C8; color: #7A4A12; }
@@ -153,6 +154,7 @@ main { max-width: 760px; margin: 0 auto; }
   .tag.cand { background: #4A3A10; color: #FFD65C; }
   .tag.marche { background: #1F3561; color: #C6D6FA; }
   .tag.event { background: #2C3E1B; color: #CFE3B5; }
+  .tag.prive { background: #4A1E33; color: #F6C2DA; }
   .tag.st { background: var(--moutarde); color: #2A1A0C; }
 }
 .ticket h2 {

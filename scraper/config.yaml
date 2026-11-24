@@ -223,6 +223,11 @@ verification_liens:
   actif: true
   max: 200                 # pages vérifiées au maximum par passage
   garder_illisibles: false # pages fermées (connexion Facebook…) : on les écarte
+  # Ces sites bloquent les robots : on garde quand même l'annonce (marquée « à vérifier »)
+  # si l'extrait trouvé par la recherche montre déjà une vraie demande dans ta zone.
+  accepter_illisibles_de:
+    - mariages.net
+    - leboncoin.fr
 
 # Combien de jours on garde une annonce sans date une fois trouvée.
 conserver_jours: 90
@@ -329,6 +334,25 @@ recherche_web:
       max: 60
       modeles:
         - '"{nom}" "food truck" OR foodtruck OR restauration OR exposants candidature OR "appel à candidatures" {annee}'
+
+    # --- Ajouté le 24/11/2026 : mariages, particuliers et plateformes de prestations ---
+    - nom: "Mariages & particuliers"
+      type: demandes          # futurs mariés, anniversaires, entreprises qui cherchent un food truck
+      tous_les_jours: 3
+      max: 18
+      modeles:
+        - 'site:mariages.net "food truck" {zone}'
+        - '"food truck" mariage cherche OR recherche OR conseil OR devis {zone} {annee}'
+        - '"food truck" anniversaire OR baptême OR EVJF OR séminaire cherche OR recherche {zone}'
+
+    - nom: "Plateformes de prestations"
+      type: demandes
+      tous_les_jours: 3
+      max: 18
+      modeles:
+        - 'site:wikifoodtruck.fr appel OR recherche OR candidature {zone}'
+        - 'site:leboncoin.fr "food truck" recherche OR cherche événement OR mariage {zone}'
+        - 'site:facebook.com/groups "cherche un food truck" OR "recherche un food truck" OR "besoin d''un food truck" {zone}'
 
     - nom: "Fêtes et festivals"
       type: evenements        # toutes les fêtes à venir, pour démarcher toi-même les organisateurs
