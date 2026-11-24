@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-23T15:56:15+00:00",
- "count": 70,
- "new_count": 5,
+ "updated": "2026-11-24T02:09:42+00:00",
+ "count": 98,
+ "new_count": 30,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -9,31 +9,30 @@
   },
   "Alertes Google": {
    "ok": true,
-   "found": 0
+   "found": 1
   },
   "Recherche web": {
    "ok": true,
-   "found": 0,
-   "note": "recherche web faite le matin seulement (économise le quota)"
+   "found": 100
   },
   "Festivals PACA": {
    "ok": true,
-   "found": 0,
+   "found": 1,
    "note": "359 festivals suivis"
   },
   "Pages surveillées": {
    "ok": true,
-   "found": 19,
+   "found": 18,
    "errors": []
   }
  },
  "web_runs": {
-  "Candidatures": "2026-11-08",
-  "Instagram": "2026-11-07",
-  "Fêtes et festivals": "2026-11-07",
-  "Mairies de ma zone": "2026-11-08",
-  "Festivals, domaines et châteaux": "2026-11-07",
-  "Festivals suivis": "2026-11-07"
+  "Candidatures": "2026-11-24",
+  "Instagram": "2026-11-24",
+  "Fêtes et festivals": "2026-11-24",
+  "Mairies de ma zone": "2026-11-24",
+  "Festivals, domaines et châteaux": "2026-11-24",
+  "Festivals suivis": "2026-11-24"
  },
  "events": [
   {
@@ -70,6 +69,50 @@
    "contact_checked": true
   },
   {
+   "id": "523085521ac3",
+   "title": "APPEL À CANDIDATURES INSTALLATION D’UN FOOD-TRUCK",
+   "summary": "APPEL À CANDIDATURES INSTALLATION D’UN FOOD-TRUCK AU CHAZELET HIVER 2026-2027A La commune de La Grave propose un emplacement pour un Food-Truck sur l’aire Votre mairie / Actualités / APPEL À CANDIDATURES INSTALLATION D’UN FOOD-TRUCK APPEL À CANDIDATURES INSTALLATION D’UN FOOD-TRUCK AU CHAZELET HIVER 2026-2027 A La commune de La Grave propose un emplacement pour un Food-Truck sur l’aire de pique-nique du Chazelet. SAISON D’HIVER: du 19 décembre 2026 au 14 mars 2027 COMMENT CANDIDATER ? Demandez le dossier de candidature par mail : mairie@lagrave-lameije.fr Le dossier complété devra être retourn",
+   "type": "Appel à candidatures",
+   "source": "Alerte Google",
+   "url": "https://station.illiwap.com/fr/public/05063fr/actu/appel-a-candidatures-installation-d-un-food-truck-1",
+   "organizer": null,
+   "city": "La Grave",
+   "dept": "05",
+   "lat": 45.05293,
+   "lon": 6.28743,
+   "approx": false,
+   "deadline": "2026-12-04",
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [
+     "mairie@lagrave-lameije.fr"
+    ],
+    "phones": [
+     "04 76 79 90 29"
+    ],
+    "forms": [
+     "https://station.illiwap.com/en/public/05063fr/actu/appel-a-candidatures-installation-d-un-food-truck-1",
+     "https://station.illiwap.com/es/public/05063fr/actu/appel-a-candidatures-installation-d-un-food-truck-1",
+     "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fstation.illiwap.com%2Ffr%2Fpublic%2F05063fr%2Factu%2Fappel-a-candidatures-installation-d-un-food-truck-1"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à candidatures",
+    "candidature",
+    "emplacement",
+    "food-truck"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 100,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "lien_ok": "2026-11-24",
+   "contact_checked": true
+  },
+  {
    "id": "8c46bbc574b8",
    "title": "Concession de service pour la gestion et l’exploitation d’un service de restauration rapide de type cafétéria",
    "summary": "Avis de marché. Prestations de services, Repas, traiteur",
@@ -100,6 +143,130 @@
    "hors_zone": null,
    "score": 100,
    "found_at": "2026-11-10T13:26:53+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "4e4177315de4",
+   "title": "Entre Plumes et Pages sur Instagram: \"APPEL À CANDIDATURES – FOOD TRUCKS ! Pour la deuxième édition du Salon Entre Plumes et Pages, qui se tiendra les 25 et 26 septembre 2027 à Pierrefeu-du-Var (83), nous recherchons 2 f",
+   "summary": "40 likes, 7 comments - entreplumesetpages le November 10, 2026: \"APPEL À CANDIDATURES – FOOD TRUCKS ! Pour la deuxième édition du Salon Entre Plumes et Pages, qui se tiendra les 25 et 26 septembre 2027 à Pierrefeu-du-Var (83), nous recherchons 2 food trucks pour régaler nos visiteurs et exposants tout au long du week-end ! Deux emplacements sont disponibles : • 1 food truck entièrement autonome en électricité. • 1 food truck nécessitant un branchement électrique. Quelques informations importantes : ✦ Présence obligatoire les deux jours. ✦ Emplacement payant directement auprès de la municipalit",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.instagram.com/p/DfkXwhsM3hU/",
+   "organizer": null,
+   "city": null,
+   "dept": "83",
+   "lat": 43.46,
+   "lon": 6.22,
+   "approx": true,
+   "deadline": null,
+   "event_date": "2027-09-26",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Instagram",
+   "keywords": [
+    "appel à candidatures",
+    "candidature",
+    "emplacement",
+    "exposants",
+    "food truck",
+    "food trucks",
+    "foodtruck",
+    "recherchons"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 100,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "lien_ok": "2026-11-24",
+   "contact_checked": true
+  },
+  {
+   "id": "e71b788ab233",
+   "title": "Entre Plumes et Pages sur Instagram: \"APPEL À CANDIDATURES – FOOD TRUCKS ! Pour la deuxième édition du Salon Entre Plumes et Pages, qui se tiendra les 25 et 26 septembre 2027 à Pierrefeu-du-Var (83), nous recherchons 2 f",
+   "summary": "40 likes, 7 comments - entreplumesetpages le November 10, 2026: \"APPEL À CANDIDATURES – FOOD TRUCKS ! Pour la deuxième édition du Salon Entre Plumes et Pages, qui se tiendra les 25 et 26 septembre 2027 à Pierrefeu-du-Var (83), nous recherchons 2 food trucks pour régaler nos visiteurs et exposants tout au long du week-end ! Deux emplacements sont disponibles : • 1 food truck entièrement autonome en électricité. • 1 food truck nécessitant un branchement électrique. Quelques informations importantes : ✦ Présence obligatoire les deux jours. ✦ Emplacement payant directement auprès de la municipalit",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESZAHEIkXXTa-dPb0Dk5aqbLXfhlHqmD7GnbAnedwZ9KwSlS77BVMspRyJooLZUGwXUl2pJULveiAXk3gu_j_jCzJhYYMl9DNmU_yBVx7bQxBWzLzB9NPwptrpb2y12G35qv0zBZA&gsessionid=nfV42zFYzUKF0K6b_sGWPzpblt36F0A4zjxVdt79wMCrUWrQj4pvtw",
+   "organizer": null,
+   "city": null,
+   "dept": "83",
+   "lat": 43.46,
+   "lon": 6.22,
+   "approx": true,
+   "deadline": null,
+   "event_date": "2027-09-26",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://www.google.com/accounts/emailsignup/"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à candidatures",
+    "candidature",
+    "emplacement",
+    "exposants",
+    "food truck",
+    "food trucks",
+    "foodtruck",
+    "recherchons"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 100,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "lien_ok": "2026-11-24",
+   "contact_checked": true
+  },
+  {
+   "id": "1931a1e9d91c",
+   "title": "Entre Plumes et Pages sur Instagram: \"APPEL À CANDIDATURES – FOOD TRUCKS ! Pour la deuxième édition du Salon Entre Plumes et Pages, qui se tiendra les 25 et 26 septembre 2027 à Pierrefeu-du-Var (83), nous recherchons 2 f",
+   "summary": "40 likes, 7 comments - entreplumesetpages le November 10, 2026: \"APPEL À CANDIDATURES – FOOD TRUCKS ! Pour la deuxième édition du Salon Entre Plumes et Pages, qui se tiendra les 25 et 26 septembre 2027 à Pierrefeu-du-Var (83), nous recherchons 2 food trucks pour régaler nos visiteurs et exposants tout au long du week-end ! Deux emplacements sont disponibles : • 1 food truck entièrement autonome en électricité. • 1 food truck nécessitant un branchement électrique. Quelques informations importantes : ✦ Présence obligatoire les deux jours. ✦ Emplacement payant directement auprès de la municipalit",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESZAHEIkXXiq61noVshWWPYur7FppdFpjiYPxlLOf-e3QIQGS08KY5qdf2FZ-alZ6ktbT01dTqn2oZPjtFFK2iUDFq2xqSSfeypSONB4hyTe7QoKKdTMS62hjJr8VmDDQ6OW5hx3c&gsessionid=hk2S23BHLTxQD_kAxD2swXJqUDenDp6hnwrSWt0gNszqHeDrC1okmA",
+   "organizer": null,
+   "city": null,
+   "dept": "83",
+   "lat": 43.46,
+   "lon": 6.22,
+   "approx": true,
+   "deadline": null,
+   "event_date": "2027-09-26",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://www.google.com/accounts/emailsignup/"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à candidatures",
+    "candidature",
+    "emplacement",
+    "exposants",
+    "food truck",
+    "food trucks",
+    "foodtruck",
+    "recherchons"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 100,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "lien_ok": "2026-11-24",
    "contact_checked": true
   },
   {
@@ -139,7 +306,49 @@
    "score": 100,
    "found_at": "2026-11-15T12:42:53+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-11-23"
+   "lien_ok": "2026-11-24"
+  },
+  {
+   "id": "26183d7c3d4c",
+   "title": "Entre Plumes et Pages sur Instagram: \"APPEL À CANDIDATURES – FOOD TRUCKS ! Pour la deuxième édition du Salon Entre Plumes et Pages, qui se tiendra les 25 et 26 septembre 2027 à Pierrefeu-du-Var (83), nous recherchons 2 f",
+   "summary": "40 likes, 7 comments - entreplumesetpages le November 10, 2026: \"APPEL À CANDIDATURES – FOOD TRUCKS ! Pour la deuxième édition du Salon Entre Plumes et Pages, qui se tiendra les 25 et 26 septembre 2027 à Pierrefeu-du-Var (83), nous recherchons 2 food trucks pour régaler nos visiteurs et exposants tout au long du week-end ! Deux emplacements sont disponibles : • 1 food truck entièrement autonome en électricité. • 1 food truck nécessitant un branchement électrique. Quelques informations importantes : ✦ Présence obligatoire les deux jours. ✦ Emplacement payant directement auprès de la municipalit",
+   "type": "Appel à candidatures",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESZQHEIkXXoFtLtiVcc8gOATQTx8YCBKtHhY5pON0NRLYf8DhGQxeXnSOkamSt5AeGD5vpqZ0R0X2L2L58qRH0--6kwbW06nLiP66YVUYRhv9nnAUirJW5xe_oEAmY8XhW2YK209oA&gsessionid=yeANvwpxFXBgG8WiD39u9MTeLsRd1FeBsVnFAx-Kr6MvCWbh-9C8fw",
+   "organizer": null,
+   "city": null,
+   "dept": "83",
+   "lat": 43.46,
+   "lon": 6.22,
+   "approx": true,
+   "deadline": null,
+   "event_date": "2027-09-26",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://www.google.com/accounts/emailsignup/"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à candidatures",
+    "candidature",
+    "emplacement",
+    "exposants",
+    "food truck",
+    "food trucks",
+    "foodtruck",
+    "recherchons"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 100,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "lien_ok": "2026-11-24",
+   "contact_checked": true
   },
   {
    "id": "ef595cb9277c",
@@ -542,6 +751,211 @@
    "contact_checked": true
   },
   {
+   "id": "6cf6c3effa1a",
+   "title": "@lefoudlagachette sur Instagram: \"🚨❄️ ON RECHERCHE DES FOOD TRUCKS SPÉCIAL HIVER ! 🧀🔥 Raclette 🧀, tartiflette 🥔, patates dans la meule, spécialités montagnardes… 🤤 On veut du CHAUD, du GOURMAND et du FROMAGE QUI COULE ! ",
+   "summary": "9 likes, 0 comments - lefoudlagachette le November 13, 2026: \"🚨❄️ ON RECHERCHE DES FOOD TRUCKS SPÉCIAL HIVER ! 🧀🔥 Raclette 🧀, tartiflette 🥔, patates dans la meule, spécialités montagnardes… 🤤 On veut du CHAUD, du GOURMAND et du FROMAGE QUI COULE ! 🤩🔥 📍 Le Fou d’la Gâchette – La Valette-du-Var 🚚 Vous êtes food truck et proposez ce genre de spécialités ? On veut vous rencontrer pour nos prochains événements hivernaux ! 😍 📩 Contactez-nous en MP 📞 06 11 44 62 76 📢 PARTAGEZ AU MAX ! 🙏❤️ Et si vous connaissez une pépite, identifiez-la en commentaire ! 👇🤩 #FoodTruck #RechercheFoodTruck #LaValetteDuVa",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.instagram.com/p/DfrW2nngYo3/",
+   "organizer": null,
+   "city": "Chaudon-Norante",
+   "dept": "04",
+   "lat": 43.97838,
+   "lon": 6.31346,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Instagram",
+   "keywords": [
+    "food truck",
+    "food trucks",
+    "foodtruck",
+    "recherche"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 85,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "lien_ok": "2026-11-24",
+   "contact_checked": true
+  },
+  {
+   "id": "2dc2668f6162",
+   "title": "@lefoudlagachette sur Instagram: \"🚨❄️ ON RECHERCHE DES FOOD TRUCKS SPÉCIAL HIVER ! 🧀🔥 Raclette 🧀, tartiflette 🥔, patates dans la meule, spécialités montagnardes… 🤤 On veut du CHAUD, du GOURMAND et du FROMAGE QUI COULE ! ",
+   "summary": "9 likes, 0 comments - lefoudlagachette le November 13, 2026: \"🚨❄️ ON RECHERCHE DES FOOD TRUCKS SPÉCIAL HIVER ! 🧀🔥 Raclette 🧀, tartiflette 🥔, patates dans la meule, spécialités montagnardes… 🤤 On veut du CHAUD, du GOURMAND et du FROMAGE QUI COULE ! 🤩🔥 📍 Le Fou d’la Gâchette – La Valette-du-Var 🚚 Vous êtes food truck et proposez ce genre de spécialités ? On veut vous rencontrer pour nos prochains événements hivernaux ! 😍 📩 Contactez-nous en MP 📞 06 11 44 62 76 📢 PARTAGEZ AU MAX ! 🙏❤️ Et si vous connaissez une pépite, identifiez-la en commentaire ! 👇🤩 #FoodTruck #RechercheFoodTruck #LaValetteDuVa",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESZQHEIkXX8bC93PsFlXmnwa5q6dGRVlQUdV9gjHoxRNlSKaRPeCk88wo_8MgapSRAoWUKXwcF4Jcq9BuwC3jv3rnTHsgkIC2XBLiGOX_7iUqKBLYqk1PTrWtUWhphBaXNf_ic8VPY&gsessionid=_FKdipBiuHmicMlXTT9C-ATn4NBB3RHzwqf_5zyhGNEb03LA5f4wUA",
+   "organizer": null,
+   "city": "Chaudon-Norante",
+   "dept": "04",
+   "lat": 43.97838,
+   "lon": 6.31346,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://www.google.com/accounts/emailsignup/"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "food truck",
+    "food trucks",
+    "foodtruck",
+    "recherche"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 85,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "lien_ok": "2026-11-24",
+   "contact_checked": true
+  },
+  {
+   "id": "856742fa8f75",
+   "title": "Fête de Saint André Aix-en-Provence 2026 : date, horaires, programme, tarifs",
+   "summary": "Manifestations, événements et animations, le 28 novembre 2026, à Aix-en-Provence (Bouches du Rhône) - horaires, tarifs, renseignements. Fête patronale de Saint-André sur la place du Val Saint-André. Venez préparer l’Avent et découvrir Marseille Concert, spectacle, etc. Je publie sur le JDS Concert, spectacle, etc. Aujourd'hui Demain Ce week-end Agenda Sorties & loisirs Actu Artistes en tournée Publier sur JDS Vos idées sorties Grands événements Marché de Noël Activité & Expérience Activité & Expérience : voir tout Aventure Visites Nature Aquatique & nautique Pilotage Ateliers Bien-être Gastron",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAEShgEBxCJF15p0nOoHgAcARryZAnnnCihPXQ5qAGZxI79s9aRatcQ41dCU9kmicbiC9AggFUIlciPm0MEkGeQynOfG-5QFmuxYA8dkRE64IS5inJhu9LdyFUs6hqcJBnkrQpqSkaD9TQeomBghAGR5Nc9bBf6rGLOKeFCv5vYJJ7mTdynwgYmqTQ&gsessionid=nZ7u4PDUlHIovikDT1x7NVyfljOhcisZ3TPz21cmouMxYhFq2_DMnQ",
+   "organizer": null,
+   "city": "Aix-en-Provence",
+   "dept": "13",
+   "lat": 43.54137,
+   "lon": 5.40612,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-28",
+   "published": null,
+   "contact": {
+    "emails": [
+     "nda.paroisse@gmail.com"
+    ],
+    "phones": [],
+    "forms": [
+     "https://www.jds.fr/newsletter-archives/toutes-les-newsletter-jds-fr?origin=modal-newsletter&dpt=13&list=1"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "carnaval",
+    "concert",
+    "festival",
+    "fête",
+    "fête de la musique",
+    "fêtes",
+    "marché de noël"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 85,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "lien_ok": "2026-11-24",
+   "contact_checked": true
+  },
+  {
+   "id": "244cfad5340a",
+   "title": "Concert Concert de Noël: Vivaldi les 4 saisons à Fréjus 2026 - Basilique Notre Dame De La Victoire Saint-Raphaël : places, billetterie, dates, réservations...",
+   "summary": "Concerts de Noël / du Nouvel An, le 30 décembre 2026, Basilique Notre Dame De La Victoire, eglise, à Saint-Raphaël (Var) - horaires, tarifs, renseignements. Programme : Antonio Vivaldi : Les Quatre Saisons Corelli : Concerto pour la Nuit de Fréjus Concert, spectacle, etc. Je publie sur le JDS Concert, spectacle, etc. Aujourd'hui Demain Ce week-end Agenda Sorties & loisirs Actu Artistes en tournée Publier sur JDS Vos idées sorties Grands événements Marché de Noël Activité & Expérience Activité & Expérience : voir tout Aventure Visites Nature Aquatique & nautique Pilotage Ateliers Bien-être Gast",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESpgEBxCJF10K_6D6sqK5DhtsN5eRhh3NzmRUzZGm7JIWdAOstTm5UFCsCH3RfuK090Pe3S92cibnMjQVapqduBLrasP-LRRd_3VLv9piCKbmDbQV-u-mPRJjNCIgl8J3XrKOZ7bbrOGGEYMOifgLt2VfDKlY3R2AgxVEdKMvC-CRGjuAfFXHsH8lkOmyZ_XiT7kmsypwaULQzvzE9mod38mAdt1CwWaal&gsessionid=7XmdKte_Zw30g21Ivsl0xJEogJIJQRngIm_pjeRVFgnN8SLBGlGwJQ",
+   "organizer": null,
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-30",
+   "published": null,
+   "contact": {
+    "emails": [
+     "euromusicproductions@gmail.com"
+    ],
+    "phones": [
+     "01 42 77 65 65"
+    ],
+    "forms": [
+     "https://www.jds.fr/newsletter-archives/toutes-les-newsletter-jds-fr?origin=modal-newsletter&dpt=83&list=1"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "carnaval",
+    "concert",
+    "festival",
+    "fête",
+    "fête de la musique",
+    "fêtes",
+    "marché de noël"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 85,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "lien_ok": "2026-11-24",
+   "contact_checked": true
+  },
+  {
+   "id": "ad2f5177be9f",
+   "title": "Marché de Noël - École maternelle Roger Delagnes Saintes-Maries-de-la-Mer 2026 - dates, horaires, ouverture, programme",
+   "summary": "Marché de Noël, le 8 décembre 2026, à Saintes-Maries-de-la-Mer (Bouches du Rhône) - horaires, tarifs, renseignements. Le 8 décembre : Marché de Noël et tombola. présence du Père Noël vente d'objets faits par les enfants vente de Saintes-Maries-de-la-Mer Concert, spectacle, etc. Je publie sur le JDS Concert, spectacle, etc. Aujourd'hui Demain Ce week-end Agenda Sorties & loisirs Actu Artistes en tournée Publier sur JDS Vos idées sorties Grands événements Marché de Noël Activité & Expérience Activité & Expérience : voir tout Aventure Visites Nature Aquatique & nautique Pilotage Ateliers Bien-êtr",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESpgEBxCJF16mHvz0rd_vV6brpYxfEEZgUQy0u_binDV1C9P-iMGu3XxAl3TQ4GjJGqXHqzc9Y838Iw3hAiwFfMe0GKcss8sG6HZMWl-lsmA9j1bPpTLidtB5M8Lg1z8U8v7roRBfUxp5IDHjEqoptglJYGyiIGGAoonMxHSkQddQKrakjp4de5KmBCFGbKDybgExkJxXjGgFs40DSp6H8ucMknDCsRffk&gsessionid=kSBgBmPDLfo-mzLLzyeEnVmfOkk0X10TIsetK4wRl9nCSOP0Gf2wlA",
+   "organizer": null,
+   "city": "Saintes-Maries-de-la-Mer",
+   "dept": "13",
+   "lat": 43.48959,
+   "lon": 4.40343,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-08",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 90 97 80 05"
+    ],
+    "forms": [
+     "https://www.jds.fr/newsletter-archives/toutes-les-newsletter-jds-fr?origin=modal-newsletter&dpt=13&list=1"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "carnaval",
+    "concert",
+    "festival",
+    "fête",
+    "fête de la musique",
+    "fêtes",
+    "marché de noël"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 85,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "lien_ok": "2026-11-24",
+   "contact_checked": true
+  },
+  {
    "id": "e1586e0c02f0",
    "title": "📣 APPEL À CANDIDATURES – FOOD TRUCK / RESTAURATION 🍔🌭🥙 | Facebook",
    "summary": "📣 APPEL À CANDIDATURES – FOOD TRUCK / RESTAURATION 🍔🌭🥙 Dans le cadre de notre Vide-Grenier à Sanary, nous recherchons un food truck ou professionnel de la restauration/snacking pour proposer une...",
@@ -612,6 +1026,188 @@
    "found_at": "2026-10-31T10:54:29+00:00",
    "contact_checked": true,
    "lien_ok": "2026-10-31"
+  },
+  {
+   "id": "1e3f7a88488f",
+   "title": "Agenda 2026 Brocantes et vide-greniers dans le Var (83) ce week-end",
+   "summary": "Consultez l'agenda 2026 des brocantes et vide-greniers dans le Var (83) : toutes les dates, villes et événements pour chiner aujourd’hui, ce week-end et tout au long du mois. Ce week-end en PACA Var (83) Agenda 2026 des brocantes Samedi 28 novembre 2026 Hyères 83400 Puces Saint-Nicolas Marché aux puces Hebdomadaire Dimanche 29 novembre 2026 Hyères 83400 Puces Saint-Nicolas Marché aux puces Hebdomadaire Samedi 5 décembre 2026 Hyères 83400 Puces Saint-Nicolas Marché aux puces Hebdomadaire Toulon 83000 Brocante vide-greniers du Mourillon Vide-grenier Mensuel Dimanche 6 décembre 2026 Hyères 83400 ",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.francebrocante.fr/brocante-83-var",
+   "organizer": null,
+   "city": "Hyères",
+   "dept": "83",
+   "lat": 43.11673,
+   "lon": 6.20255,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-28",
+   "published": null,
+   "contact": {
+    "emails": [
+     "agendafrancebrocante@gmail.com"
+    ],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "brocante",
+    "vide-grenier",
+    "vide-greniers"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 80,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "lien_ok": "2026-11-24",
+   "contact_checked": true
+  },
+  {
+   "id": "7b00027cdb7d",
+   "title": "Brocante et vide-grenier Saint-Laurent-du-Var (06700) - Brocabrac",
+   "summary": "Saint-Laurent-du-Var (06700) - Agenda des brocantes et des vide-greniers à Saint-Laurent-du-Var dans votre département. Vous aimez chiner ? Ne ratez aucun événement laurentin avec le calendrier Brocabrac ! Vide-greniers, brocantes et autres déballages... Saint-Laurent-du-Var Sélectionner une date Type d'événement Créer une alerte Choisir un lieu Saint-Laurent-du-Var Suggestion de lieux Provence-Alpes-Côte d'Azur 06 - Alpes-Maritimes Châteauneuf-Villevieille Les Adrets-de-l'Estérel Callian Le Tignet Montauroux Mouans-Sartoux Créer une alerte Valider Choisir une date Toutes les dates Aujourd'hui",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://brocabrac.fr/06/saint-laurent-du-var/",
+   "organizer": null,
+   "city": "Les Adrets-de-l'Estérel",
+   "dept": "83",
+   "lat": 43.52692,
+   "lon": 6.83259,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-25",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "brocante",
+    "marché de noël",
+    "vide-grenier",
+    "vide-greniers"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 80,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "lien_ok": "2026-11-24",
+   "contact_checked": true
+  },
+  {
+   "id": "543b5f813596",
+   "title": "Brocante et vide-grenier Cagnes-sur-Mer (06800) - Brocabrac",
+   "summary": "Cagnes-sur-Mer (06800) - Agenda des brocantes et des vide-greniers à Cagnes-sur-Mer dans votre département. Vous aimez chiner ? Ne ratez aucun événement cagnois avec le calendrier Brocabrac ! Vide-greniers, brocantes et autres déballages... Cagnes-sur-Mer Sélectionner une date Type d'événement Créer une alerte Choisir un lieu Cagnes-sur-Mer Suggestion de lieux Provence-Alpes-Côte d'Azur 06 - Alpes-Maritimes Châteauneuf-Villevieille Les Adrets-de-l'Estérel Callian Le Tignet Montauroux Mouans-Sartoux Créer une alerte Valider Choisir une date Toutes les dates Aujourd'hui Demain Ce week-end Cette ",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://brocabrac.fr/06/cagnes-sur-mer/",
+   "organizer": null,
+   "city": "Les Adrets-de-l'Estérel",
+   "dept": "83",
+   "lat": 43.52692,
+   "lon": 6.83259,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-25",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "brocante",
+    "marché de noël",
+    "vide-grenier",
+    "vide-greniers"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 80,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "lien_ok": "2026-11-24",
+   "contact_checked": true
+  },
+  {
+   "id": "e74d89e228c8",
+   "title": "Vide-grenier Saint-Martin-les-Eaux (04300) - Brocabrac",
+   "summary": "Saint-Martin-les-Eaux (04300) - Agenda des vide-greniers à Saint-Martin-les-Eaux dans votre département. Vous aimez chiner ? Ne ratez aucun événement saint-martinois avec le calendrier Brocabrac ! Vide-greniers, brocantes et autres déballages... Saint-Martin-les-Eaux Sélectionner une date Vide-Grenier Créer une alerte Choisir un lieu Saint-Martin-les-Eaux Suggestion de lieux Provence-Alpes-Côte d'Azur 04 - Alpes-de-Haute-Provence Villemus Montagnac-Montpezat Saint-Martin-de-Castillon Lourmarin Céreste Les Mées Créer une alerte Valider Choisir une date Toutes les dates Aujourd'hui Demain Ce wee",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESeAHEIkXXiPav3dZfX0oI4dKh5yg9KsSERphy1PKEX8Z9posfBVjmSUV14XdJNE4rQQW2kpzvpJw5QRae8pcmvoTcWiUb7DoW5HqRSVMOqapFFNlJ8GmXdVz1Iyq7gwf_r_Q6QXZWFlwaFMOb8VvUGMgr4HrEHboLIQ&gsessionid=sdXXJIy_xngpDTNevQAa04rJqkIaF2MOabinfyiUhBakfH-VuG6Z4Q",
+   "organizer": null,
+   "city": null,
+   "dept": "04",
+   "lat": 44.09,
+   "lon": 6.24,
+   "approx": true,
+   "deadline": null,
+   "event_date": "2026-11-28",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "brocante",
+    "fêtes",
+    "marché de noël",
+    "vide-grenier",
+    "vide-greniers"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 80,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "lien_ok": "2026-11-24",
+   "contact_checked": true
+  },
+  {
+   "id": "7381e1ff81d7",
+   "title": "Le Festival de Pâques d'Aix-en-Provence vient d'ouvrir sa billetterie - ICI",
+   "summary": "Le Festival de Pâques, grand rendez-vous international de musique classique, se déroulera du 20 mars au 4 avril 2027 à Aix-en-Provence. Le public peut déjà choisir ses places de concert dans la riche programmation. Le coup de coeur d'Hervé Godard Passer la publicité Publicité Revenir avant la publicité Émission L'événement d'ICI Provence Le Festival de Pâques d'Aix-en-Provence vient d'ouvrir sa billetterie Écouter (3 min) La soprano avignonnaise Julie Fuchs au Festival de Pâques 2027 - Edouard Brane Hervé Godard , ICI Provence Diffusé le jeudi 29 octobre 2026 à 8h50 Publié le jeudi 29 octobre ",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESwgEBxCJF1-05HSpgA4SEuWdgiFcWG1D8F2CpqsRU-cVP61ZzMfzflOwCh3xH3DkSxRRpTYt5xUhf3CLfUCBOSE2yFMF5H5etGwr19LgnopdNbbtU1QtPwX8jVHexyHGeaaUsbP7gq2qAnHb2puwPdOd6mXvEM_W3P23Gp0Cd18_Sbwwb1oGwxid6m8aGfVpLehhrgmvglVR9S4XkBMGGrnJ_51npQK2OqaHeqAuI9SQSC_aHFybtAHJZ0HQfkgGY1yiVOg&gsessionid=qdrSmYZqacqOTp8JyFzwJSpQkp0Y0hW4I20e5dW2QIvP5ZkU-ofpGQ",
+   "organizer": null,
+   "city": "Aix-en-Provence",
+   "dept": "13",
+   "lat": 43.54137,
+   "lon": 5.40612,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2027-04-04",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://www.google.com/ici-dossier-de-presse"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert",
+    "festival"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 80,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "lien_ok": "2026-11-24",
+   "contact_checked": true
   },
   {
    "id": "625295c89b60",
@@ -921,6 +1517,148 @@
    "lien_ok": "2026-10-28"
   },
   {
+   "id": "a478645be8ed",
+   "title": "draguignan petites annonces | 📢 RECHERCHE EMPLACEMENT POUR FOOD TRUCK – DRAGUIGNAN | Facebook",
+   "summary": "📢 RECHERCHE EMPLACEMENT POUR FOOD TRUCK – DRAGUIGNAN Bonsoir à tous ! Je suis à la recherche d’un emplacement pour le lancement prochain de mon activité de food truck sur le secteur de Draguignan...",
+   "type": "Recherche un food truck",
+   "source": "Recherche web",
+   "url": "https://www.facebook.com/groups/516747546399584/posts/1917069986367326/",
+   "organizer": null,
+   "city": "Draguignan",
+   "dept": "83",
+   "lat": 43.53234,
+   "lon": 6.46034,
+   "approx": false,
+   "deadline": null,
+   "event_date": null,
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "demandes",
+   "via": "Facebook",
+   "keywords": [
+    "emplacement",
+    "food truck",
+    "recherche"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "lien_ok": "2026-11-24",
+   "contact_checked": true
+  },
+  {
+   "id": "8e47511bcbd9",
+   "title": "Fête des Bormettes - La Londe-les-Maures",
+   "summary": "La Fête traditionnelle des Bormettes a lieu du 14 au 17 mai 2027 à l'occasion du week-end de Pentecôte. Accueil Que faire ? Sorties & Agenda Toutes les sorties Fête des Bormettes Description Tarifs Horaires Localisation Avis Description La Fête traditionnelle des Bormettes a lieu du 14 au 17 mai 2027 à l'occasion du week-end de Pentecôte. Retrouvez le goût d'une vraie fête de village avec des animations pour adultes et enfants : fête foraine avec manèges, auto tamponneuses, stand de tirs, spectacles, bals, retraite aux flambeaux, réveil en fanfare, concours de pétanque, super aïoli géant",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAEStwEBxCJF1xGcNVAPceZGW_NDusesVGbWsXd6v3yDXeJiIoJUN_M4tdTlqfFpraSRzjp-q1LUwo-imhvkGJlfe1uXswJ-N5cp6-I2cmbooZgHmLFrD4Ur_i00Jhba36_Fgc5xybngm4QYRxQJHHCNyTlLeHEnTERbvUVNkwi7mg4hFkvoWt9_nxo3AjZaZphPqRSFqBep191P4Zg9TUqGnqjTYFydPaasC7bYtIQkSSSRCcsXDXje0XI&gsessionid=lvG5mprTfa1yQJbz7lZJQ3S3spvn1fXY8A62FeD93jCwDmU4KhXAnw",
+   "organizer": null,
+   "city": "La Londe-les-Maures",
+   "dept": "83",
+   "lat": 43.14765,
+   "lon": 6.2513,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2027-05-17",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 94 01 53 10"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "bal",
+    "fête"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "lien_ok": "2026-11-24",
+   "contact_checked": true
+  },
+  {
+   "id": "33c0de3245a4",
+   "title": "3 Brocantes & Vide-Greniers à Toulon — Nov. 2026 | Brocante.io",
+   "summary": "Découvrez les 3 brocantes, vide-greniers et bourses à venir à Toulon — Nov. 2026 : dates de ce week-end, horaires, lieux et infos pratiques. Brocantes et Vide-greniers à Toulon : Chinez sous le soleil du Var Plongez au cœur de l’effervescence toulonnaise en découvrant les meilleurs vide-greniers et marchés aux puces de la rade. Que vous soyez un collectionneur averti ou un simple amateur de vintage, notre calendrier vous guide vers les trésors cachés du Var. Filtrer l'agenda 0 Lieu, date, type 3 événements à venir Retirer tous les filtres × Toulon × × Toutes les dates × Tous × Brocantes, brade",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAEShgEBxCJF18UL1KLV5u_kImygtChupBvDNHnXWSznNx3JR4nzoqoDGWHAtxstTQP__3U6D1tERjab-uZqgFchMygyJC4f3TO7iAeXB6f5QyCNQg9nIhz40loqMR2xVdhHlIrhUE3rA1qOi4V4fvaO-wvynD04vjwGFd4Edjr9bdnpRdvDxP6H9w&gsessionid=SP6S0cFZ7z4gW--rHI8L7B4CEhwtTENCjBvj49zzbk73HKz58PQ0YA",
+   "organizer": null,
+   "city": "Toulon",
+   "dept": "83",
+   "lat": 43.1367,
+   "lon": 5.9338,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-29",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "brocante",
+    "foire",
+    "vide-greniers"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "lien_ok": "2026-11-24",
+   "contact_checked": true
+  },
+  {
+   "id": "a1f17eaebab3",
+   "title": "Agenda 2026 Brocantes et vide-greniers dans les Alpes-Maritimes (06) ce week-end",
+   "summary": "Consultez l'agenda 2026 des brocantes et vide-greniers dans les Alpes-Maritimes (06) : toutes les dates, villes et événements pour chiner aujourd’hui, ce week-end et tout au long du mois. Ce week-end en PACA Alpes-Maritimes (06) Agenda 2026 des brocantes Jeudi 26 novembre 2026 Antibes 06600 Marché à la brocante d’Antibes Brocante Hebdomadaire Samedi 28 novembre 2026 Cannes 06400 Brocante des allées de la Liberté Brocante Hebdomadaire Antibes 06600 Marché à la brocante d’Antibes Brocante Hebdomadaire Dimanche 29 novembre 2026 Cannes 06400 Brocante des allées de la Liberté Brocante Hebdomadaire ",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.francebrocante.fr/brocante-06-alpes-maritimes",
+   "organizer": null,
+   "city": "Valbonne",
+   "dept": "06",
+   "lat": 43.62734,
+   "lon": 7.01656,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-26",
+   "published": null,
+   "contact": {
+    "emails": [
+     "agendafrancebrocante@gmail.com"
+    ],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "brocante",
+    "vide-greniers"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "lien_ok": "2026-11-24",
+   "contact_checked": true
+  },
+  {
    "id": "9b57dd3fdf9b",
    "title": "FESTIVAL DU MAS D'HIVER",
    "summary": "06 Nov 2026 au 28 Nov 2026 FESTIVAL DU MAS D'HIVER Recurring festival every year at the same time with different artists! Puget-sur-Argens",
@@ -1138,6 +1876,119 @@
    "contact_checked": true
   },
   {
+   "id": "28cb6f249e68",
+   "title": "Les marchés et vide-greniers - Blanche Serre-Ponçon",
+   "summary": "Marché de producteurs et vide-greniers à Seyne, Montclar, Chabanon, Selonnet, le Vernet, Auzet, Verdaches, Barles. Carte Liste Filtres 0 1 à 3 résultat(s) sur 3 Partager | Exporter Partagez votre recherche Le lien a été copié dans votre presse papier. Copier le lien Messenger Whatsapp Partager avec… Télécharger pdf Afficher la carte Affinez la recherche Période Sélectionnez… Aujourd’hui Demain Cette semaine Ce week-end Ces 3 prochains jours Indiquez vos dates Du Au Commune Sélectionnez… Montclar Seyne Filtres Réinitialiser Afficher les 3 résultats Marché à Seyne les Alpes Gratuit Seyne Jeudi 0",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESigEBxCJF12FWdu4MfqtXEzCyG5gh1LVq3ZuDEcAFt51fNF-gMbgb1pZLvjEq3Mm1vVwoOwQDpbRXH1qRDNqg6lB7KkhYpIAN1GGzzqD4p_PE0pKov4vh3gECi9auNAOFWBlrWbi1jlns-mqa_3fTuoNcpg20pA9m3HWJFWhNnUfDQxd-QhYmPqBvmGc&gsessionid=sdXXJIy_xngpDTNevQAa04rJqkIaF2MOabinfyiUhBakfH-VuG6Z4Q",
+   "organizer": null,
+   "city": "Seyne",
+   "dept": "04",
+   "lat": 44.34362,
+   "lon": 6.36867,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-31",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "foire",
+    "marché de producteurs",
+    "recherche",
+    "vide-greniers"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "lien_ok": "2026-11-24",
+   "contact_checked": true
+  },
+  {
+   "id": "748438714965",
+   "title": "Grande soirée du nouvel an | Estérel Côte d'Azur",
+   "summary": "Galerie Description **Grande soirée du Nouvel An : Fréjus vous donne rendez-vous pour un réveillon spectaculaire !** Le **31 décembre**, retrouvons-nous sur la place Formigé pour terminer l’année en beauté et accueillir **2027** dans une ambiance survoltée ! **Show danseurs, robot LED et effets spéciaux** : préparez-vous à une soirée pleine d’énergie et de surprises au cœur historique de Fréjus. Entre amis ou en famille, venez danser, faire la fête et partager le grand compte à rebours de minuit ! **Du 31 décembre 2026 à 18h au 1er janvier 2027 à 2h** **Place Formigé – Cœur historique de Fréju",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.esterel-cotedazur.com/fiches/grande-soiree-du-nouvel-an/",
+   "organizer": null,
+   "city": "Fréjus",
+   "dept": "83",
+   "lat": 43.44566,
+   "lon": 6.77051,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-31",
+   "published": null,
+   "contact": {
+    "emails": [
+     "tourisme@frejus.fr"
+    ],
+    "phones": [
+     "04 94 51 83 83",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fête",
+    "marché de noël"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "lien_ok": "2026-11-24",
+   "contact_checked": true
+  },
+  {
+   "id": "68294af3f321",
+   "title": "Les villages et marchés de Noël des Alpes-Maritimes",
+   "summary": "Mis à jour le 23/11/2026 Image Introduction Marchés de Noël, villages illuminés, gourmandises et animations pour les enfants… Préparez vos sorties de Noël 2026 dans les Alpes-Maritimes ! De Nice à Cannes, des villages de l’arrière-pays jusqu’à Monaco, Kidiklik rassemble les rendez-vous à partager en famille. Article en cours de mise à jour pour Noël 2026. Les dates et les programmes sont complétés au fil des annonces des organisateurs. Paragraphes LES COUPS DE ♡ DE NOËL DE KIDIKLIK Description Dans notre belle ville de Nice , dans un village provençal ou un centre shopping ... la magie de Noël",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://cotedazur.kidiklik.fr/articles/334953-les-villages-et-marches-de-noel-des-alpes-maritimes.html",
+   "organizer": null,
+   "city": "Valbonne",
+   "dept": "06",
+   "lat": 43.62734,
+   "lon": 7.01656,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-24",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://cotedazur.kidiklik.fr/newsletter.html",
+     "https://www.cannes.com/fr/dossiers-cannes-com/annee-2026/noel-a-cannes-2026.html",
+     "https://journaldemonaco.gouv.mc/Journaux/2026/Journal-8785/Appel-a-candidature-pour-l-exploitation-des-chalets-de-vente-pour-la-demande-d-emplacements-pour-des-structures-foraines-alimentaires-privees-avec-ou-sans-terrasse-pour-des-boutiques-de-vente-au-detail-privees-et-pour-des-maneges-ou-attractions-au-s"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fête",
+    "marché de noël"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "lien_ok": "2026-11-24",
+   "contact_checked": true
+  },
+  {
    "id": "fe60790ec551",
    "title": "Chœur de l'Opéra de Toulon X Sacrée Musique",
    "summary": "04 Dec 2026 Chœur de l'Opéra de Toulon X Sacrée Musique Concert de Noël Fréjus",
@@ -1248,41 +2099,6 @@
    "found_at": "2026-11-07T11:42:37+00:00",
    "contact_checked": true,
    "lien_ok": "2026-11-07"
-  },
-  {
-   "id": "a5f509f73ce3",
-   "title": "draguignan petites annonces | 📢 RECHERCHE EMPLACEMENT POUR FOOD TRUCK – DRAGUIGNAN | Facebook",
-   "summary": "📢 RECHERCHE EMPLACEMENT POUR FOOD TRUCK – DRAGUIGNAN Bonsoir à tous ! Je suis à la recherche d’un emplacement pour le lancement prochain de mon activité de food truck sur le secteur de Draguignan...",
-   "type": "Recherche un food truck",
-   "source": "Recherche web",
-   "url": "https://www.facebook.com/groups/516747546399584/posts/1917069986367326/",
-   "organizer": null,
-   "city": "Draguignan",
-   "dept": "83",
-   "lat": 43.53234,
-   "lon": 6.46034,
-   "approx": false,
-   "deadline": null,
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "demandes",
-   "via": "Facebook",
-   "keywords": [
-    "emplacement",
-    "food truck",
-    "recherche"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-10-29T05:51:19+00:00",
-   "contact_checked": true,
-   "lien_ok": "2026-11-01"
   },
   {
    "id": "6b0b6725eb10",
@@ -1688,6 +2504,42 @@
    "lien_ok": "2026-10-28"
   },
   {
+   "id": "37a6017fd667",
+   "title": "Marché de Noël",
+   "summary": "Des idées cadeaux uniques, du fait-main, de belles découvertes pour préparer les fêtes autrement. Artisans et créateurs vous feront découvrir leurs créations, objets originaux, décorations et petites merveilles à offrir ou à s'offrir. Marché de Noël Fêtes et manifestations Noël 83120 Le Plan de la Tour J’y vais en train Le 12 décembre 2026 Le Plan de la Tour Entrée libre. Retour | / Marché de Noël Marché de Noël 83120 Le Plan de la Tour J’y vais en train +33 (0)6 07 53 22 88 Présentation Des idées cadeaux uniques, du fait-main, de belles découvertes pour préparer les fêtes autrement. Artisans ",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAEScQHEIkXXYdNg6F_h-YV0R5FcxEhD6szMGSucATCQuHBzi5KuOTv9ZhhRuiSPWT6VzZ6FNM-WdY8IS_fT19kIpbY4wWx4h4BqNwtav1BZBtjSvtraNDORC5yYgw9Sj5ZTeDK7LbXnBjtDsll3meqf9_EJ&gsessionid=tsiEKpMjCAVQsLveXSUvKYrfME_DHgx2Tf91LnVh0OwK-oVZass-LQ",
+   "organizer": null,
+   "city": "Sainte-Maxime",
+   "dept": "83",
+   "lat": 43.31927,
+   "lon": 6.63529,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-12",
+   "published": null,
+   "contact": {
+    "emails": [
+     "dsery@golfe-sainttropez.fr"
+    ],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fêtes",
+    "marché de noël"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "lien_ok": "2026-11-24",
+   "contact_checked": true
+  },
+  {
    "id": "3da93ae43a24",
    "title": "Palais Gourmand Fair",
    "summary": "27 Nov 2026 au 29 Nov 2026 Palais Gourmand Fair From November 27 to November 29, 2026, the Salon Gastronomie in Saint-Raphaël will transform the Palais des Congrès into a true temple of taste. Saint-Raphaël",
@@ -1722,44 +2574,6 @@
    "hors_zone": null,
    "score": 70,
    "found_at": "2026-11-14T12:09:28+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "31225759a500",
-   "title": "La journée des collectionneurs au Village Made in France",
-   "summary": "28 Nov 2026 La journée des collectionneurs au Village Made in France 5ème édition de la journée des collectionneurs au Musée du Jouet Puget-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/la-journee-des-collectionneurs-au-village-made-in-france-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Puget-sur-Argens",
-   "dept": "83",
-   "lat": 43.47045,
-   "lon": 6.68553,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-11-28",
-   "published": null,
-   "contact": {
-    "emails": [
-     "collectionbienjouet@gmail.com"
-    ],
-    "phones": [
-     "09 83 69 31 63",
-     "09 88 07 32 41",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "journée"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 70,
-   "found_at": "2026-11-23T15:56:15+00:00",
    "contact_checked": true
   },
   {
@@ -1901,6 +2715,78 @@
    "hors_zone": null,
    "score": 70,
    "found_at": "2026-11-23T15:56:15+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "f16487c0e10e",
+   "title": "Ville de Châteaurenard",
+   "summary": "🎄 𝗟𝗮 𝗺𝗮𝗴𝗶𝗲 𝗱𝗲 𝗡𝗼𝗲̈𝗹 𝗮𝗿𝗿𝗶𝘃𝗲 𝗮̀ 𝗖𝗵𝗮̂𝘁𝗲𝗮𝘂𝗿𝗲𝗻𝗮𝗿𝗱 ! Rendez-vous les 4, 5 et 6 décembre 2026 pour le traditionnel Marché de Noël et la Foire aux santons ! Trois jours de festivités, de féerie et de...",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAES1AQBxCJF1-hs5j_cNHNPuKdgUDZdyaqGK5JGhOBiGqOCY4ZKKVYeMOpuHtRkbuW4ObkhT3dnbVQvsZTKRWxLeCOh-o6lnl3eB3z_BA3Xy5UzuYeXtMt_HsCMjRGMhTe3up_lcMXgxAqvljeVBsMvK0QRJiaWkaUifEccCfbIczlbluf42PJ1V14nGCH-gePXCP-8_Cp-2yfG3s7HDsxBK0FRvoaJ6jtyU8YuQPeRZZ0VxgvIWV-SnNomAjB2mqi5I5CK0LRmBzV8dM_mruzj6RbQfv2dXHHJIYVefqVHoZPUqYyiezkBnyKsYKhjZneo_n1nuGlFOr9yWPo8EOvTdwmKw1YIyRzJQNEyy4OK366eiH-oNIVJqb9yyV_WqjxbHwYM8nkaOkVB9OcKtHfBLev1Fn4Z7ebxsJn4q4HjGY5YCM5Sqw7kG9fdRlWAfb-CubaScqeS2v3knJfqu-HyLW8ShlrM8wIX1480pbT5_5BTl5wHfmyetvAl7MvRheafvcPrK7LKrGj-BT0pC5oPwp7kj5xiwVS8T2Ad1iFcwic_lLaye6Al-IS44hcDdElEV9YqwdYMRhik-v0Z5bAdTonsJI7WT50t6asYRlreuP-cU6kefE549jfFeXUfJG19Ljx3tTGL_9eZRj_ivgRcl6ORVW3vWuMbCNi3W5PEw0FysyCXQgRYJSBERaKe18BmuydQ62vRVSE2ySDgh6I49EboMaow4W4hvJDIlcf663TIsUZO4DcW3ekdGBwqhDSf2T7rKcCKJmqdmf0-rdodnfwggp9qnQ&gsessionid=xYb3LdOJ1tDoAuXlUfSqlwcQm1ELQyU3hJmAMeU7BJhehU0edyuwAQ",
+   "organizer": null,
+   "city": "Châteaurenard",
+   "dept": "13",
+   "lat": 43.8812,
+   "lon": 4.83364,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-06",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festivités",
+    "foire",
+    "marché de noël"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "lien_ok": "2026-11-24",
+   "contact_checked": true
+  },
+  {
+   "id": "6e444135f24b",
+   "title": "Marchés de Noël 2026 dans le Var : les plus beaux villages et animations en famille",
+   "summary": "Mis à jour le 23/11/2026 Image Introduction Où trouver un marché de Noël dans le Var ? Découvrez notre sélection de villages féeriques , marchés artisanaux et animations pour profiter de la magie de Noël avec les enfants ! Envie de plonger dans la magie de Noël ? Dès le mois de novembre , les villes et villages du Var se parent de leurs plus belles décorations pour accueillir les marchés de Noël , les chalets gourmands et les animations festives . Entre villages illuminés, artisans, spectacles, patinoires, balades en famille et rencontres avec le Père Noël , les occasions de s'émerveiller ne m",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESogEBxCJF16utKxxsB-jkSGmS3SKO2O1z-4S-Md_mRXlnT41aH3z0Yld8C1mw-xY89UNDYYD37C54j7vlCJP_P-QhSQvqG2u8lcJdAOUqF0PvuqopP3s8lWzi1p3BYorKNP2z6BO4vIjdhHUk0ErY0MS5K0Vqsnb_esDRsRKdHHgB5ZY1yv76oVgFQev-OLZiNq1RckA4Tbox0sF-Q4i8sokwEEM&gsessionid=QRIYsOCDzJNKoA84dEiCIPIzbzCYjAOtlZJs9FA4Wul6Gx28H1n_uA",
+   "organizer": null,
+   "city": "Vars",
+   "dept": "05",
+   "lat": 44.59117,
+   "lon": 6.68776,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-27",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://www.google.com/newsletter.html",
+     "https://le-lavandou.fr/les-candidatures-pour-le-marche-de-noel-2025-sont-ouvertes/"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fêtes",
+    "marché de noël"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "lien_ok": "2026-11-24",
    "contact_checked": true
   },
   {
@@ -2052,6 +2938,81 @@
    "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true,
    "lien_ok": "2026-10-28"
+  },
+  {
+   "id": "86e23a1d2981",
+   "title": "Gospel sur le village de Noël | Fête locale Ramatuelle | Golfe de Saint-Tropez Destination",
+   "summary": "Musique sur le village de Noël avec Universoul, un quartet de Gospel Retour à la liste Ramatuelle Samedi 12 décembre 2026 de 19h à 21h (Sous réserve de conditions météo favorables) Ajouter à mon agenda Musique sur le village de Noël avec Universoul, un quartet de Gospel Activités %% prestaItem.prestaVO.regiondo.duration_values_display %% %% prestaItem.prestaVO.regiondo.duration_type_display %% A part. de %% prestaItem.prestaVO.regiondo.base_price_display %% € %% prestaItem.prestaVO.regiondo.original_price_display %%€ A part. de %% formatRegiondoPrix(prestaItem.prestaVO.donneesPrivees.regiondo_",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESxAEBxCJF1wxDDwDkSjt9AGGQ4QrD0Yk3C3cFVjpssOHPDxds9AJjMwW0zh6X1g6sUKE6epwJDzVx_1o9e1rpvQGzwWm7Pt-FkNyj0yp_5dafsPn_ROJzE6Vl90eSYfCoqFqChBmBOtpP8pACtJvGC-V1Sj3G8ghjNqg-fgAKDit981gIw0Do1plvcxYWUKkyMbpWqR2XbwGDn0RBPVZ_vNFpTtdpIoMyjM44-CQec0Cfzi3bTwE4DaO18CmJcKuml_OcLCuw&gsessionid=nh4yq6mcMCCg4u-ZF-6xz0a9ZEmuF5MHLud3-05VxmUKf1JNh1tGMQ",
+   "organizer": null,
+   "city": "Saint-Tropez",
+   "dept": "83",
+   "lat": 43.26495,
+   "lon": 6.65812,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-12",
+   "published": null,
+   "contact": {
+    "emails": [
+     "info@mairie-ramatuelle.fr",
+     "info@visitgolfe.com"
+    ],
+    "phones": [
+     "04 98 12 66 66"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "fête"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 60,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "lien_ok": "2026-11-24",
+   "contact_checked": true
+  },
+  {
+   "id": "d59aeeda2903",
+   "title": "Tous en Sons 2026 : la 8e édition du festival jeune public débarque de Marseille au Sud Luberon du 1er au 23 décembre",
+   "summary": "Le festival de musique et spectacle jeune public Tous en Sons revient pour sa 8ᵉ édition du 1er au 23 décembre 2026. Proposant 30 représentations et 12 spectacles répartis dans 14 lieux entre Marseille et le Sud Luberon, l'événement invite les familles à célébrer l'imaginaire, la créativité et l'émerveillement des premières représentations. Découvrez les temps forts de la programmation. Région sud - Culture Tous en Sons 2026 : la 8e édition du festival jeune public débarque de Marseille au Sud Luberon du 1er au 23 décembre 3 min Par Jean-Michel Darras 08/11/2026 à 11:45 Le festival de musique ",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAES6AEBxCJF10_eu3piWb_FqFz-pMNJKH2av7ggJVocdOuWE6n71RdDWtF4qkbJ4acWWtsb2tbaC8zU6o07RAZM2cJeeZR3Xbm9rrgahAlWOTdt0w0DpEJOjn1ny8N6aS8J0SeUm_wHDRb-KQVnwzSsNb216NGog1LBozkqyRI6wZsG0kGgSHop-M86FeNWQWy9x4vGlfjwidKCWJPkBGqGHnxo6PUZb1SRTWMojx4jxzkGgW7M42UEQllN7bCJjU11iTt2C72zg85bfOzKucD2oqyHtYuLLkIPU29X8p_3aHNGo3B7HgRrGuJr&gsessionid=ZFfwJqL7nu8JtUdgV9qBxeh1uEZduCS4kej0soiKxw_-0UzorV1IRg",
+   "organizer": null,
+   "city": "Marseille",
+   "dept": "13",
+   "lat": 43.282,
+   "lon": 5.405,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-23",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "04 42 41 36 18"
+    ],
+    "forms": [
+     "https://www.google.com/nous-contacter"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "festival"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 60,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "lien_ok": "2026-11-24",
+   "contact_checked": true
   },
   {
    "id": "611249ad962e",
@@ -2227,6 +3188,114 @@
    "found_at": "2026-09-30T10:17:04+00:00",
    "contact_checked": true,
    "lien_ok": "2026-10-28"
+  },
+  {
+   "id": "362c203d2821",
+   "title": "Domaine Tropez sur Instagram: \"Pour la première fois, le Domaine Tropez vous invite à vivre une journée pleine de magie de Noël ✨🎄 Samedi 12 décembre 2026 De 10h à 20h Domaine Tropez, Gassin Pour cette première édition, ",
+   "summary": "185 likes, 14 comments - domaine_tropez le November 10, 2026: \"Pour la première fois, le Domaine Tropez vous invite à vivre une journée pleine de magie de Noël ✨🎄 Samedi 12 décembre 2026 De 10h à 20h Domaine Tropez, Gassin Pour cette première édition, nous avons imaginé un rendez-vous festif et convivial au cœur du Golfe de Saint-Tropez. Au programme de cette journée : 🎁 14 stands de producteurs et créateurs locaux pour découvrir des produits artisanaux et dénicher de jolis cadeaux de Noël. 🧀 Des food trucks et des gourmandises : raclette, fondue, huîtres, crêpes, gaufres et bien d’autres plai",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.instagram.com/p/DfjzHm-ERTC/",
+   "organizer": null,
+   "city": "Saint-Tropez",
+   "dept": "83",
+   "lat": 43.26495,
+   "lon": 6.65812,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-12",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": "Instagram",
+   "keywords": [
+    "marché de noël"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 55,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "lien_ok": "2026-11-24",
+   "contact_checked": true
+  },
+  {
+   "id": "5e15154e0f1a",
+   "title": "Marché de Noël à la Bulle à rêves - GOLFE SAINT TROPEZ",
+   "summary": "Le marché de Noël se déroule à La Bulle à Rêves, située au 14 Rue Saint-Exupéry à Cogolin, le dimanche 29 novembre 2026. Des artisans... Marché de Noël à la Bulle à rêves Date et heure 29-11-26 @ 11:00 ⇒ 29-11-26 @ 18:00 Commune Cogolin 14 Rue Saint-Exupéry, 83310 Cogolin 📍 Voir sur la carte Catégorie d'événement Marchés & Brocantes Le marché de Noël se déroule à La Bulle à Rêves, située au 14 Rue Saint-Exupéry à Cogolin, le dimanche 29 novembre 2026 . Des artisans locaux présentent leurs créations et des activités pour les enfants sont organisées. L’événement est accessible de 11h à 18h . L’e",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESkAEBxCJF1-HnRJR5nco6GDIIY7ZyTrin_urQJg9f7lT6UyI-9QXcSBu2zuTvnFTl-9H_pNU3FTvSqVSmpAK9GXMDgo1pwXWioQDI8Z_Ube_gpSHBEhJVDy-65j5QceDK4YuRXC5b9GVA87Ewl_5RpTrDFMi6zAIGz5kyLMA4szsP6cxacUd1s4pdFouePlKWmXY&gsessionid=tsiEKpMjCAVQsLveXSUvKYrfME_DHgx2Tf91LnVh0OwK-oVZass-LQ",
+   "organizer": null,
+   "city": "Cogolin",
+   "dept": "83",
+   "lat": 43.25117,
+   "lon": 6.53876,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-29",
+   "published": null,
+   "contact": {
+    "emails": [
+     "contact@monmeilleuranniversaire.com"
+    ],
+    "phones": [
+     "07 66 50 97 44"
+    ],
+    "forms": [
+     "https://golfe-saint-tropez.com/formulaire-de-contact-golfe-saint-tropez-com/",
+     "https://golfe-saint-tropez.com/formulaire-de-proposition-dun-evenement-dans-le-golfe-de-saint-tropez/"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "marché de noël"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 55,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "lien_ok": "2026-11-24",
+   "contact_checked": true
+  },
+  {
+   "id": "1aa1e3d64f98",
+   "title": "Mallau | 📲 Créatrice de contenu / Influenceuse & UGC Toulon, Var sur Instagram: \"J-10 avant le retour de l’un des plus beaux villages de Noël de Provence 🎄 Rendez-vous aux Hivernales de @lagarde83130 du 20 novembre au 27",
+   "summary": "232 likes, 6 comments - mallaury_d le November 10, 2026: \"J-10 avant le retour de l’un des plus beaux villages de Noël de Provence 🎄 Rendez-vous aux Hivernales de @lagarde83130 du 20 novembre au 27 décembre 2026 😍 —— Marche de Noël de la garde, marché de Noël var, plus beau marché de Noël du var\".",
+   "type": "Événement",
+   "source": "Recherche web",
+   "url": "https://www.google.com/goto?url=CAESaAHEIkXXyk52Gy2s2GW0Iy7HFMbHM8J__8RgoZSrXTlMQ1oEgLpEYgU6p3Bi3O3jeRN0i6Q7PMU2xA7fR4XaV6ICvIB_wgmGpJJ7a_tondEPAgkNFMDNv7VN9y4bQbuAv2EkJOv655eD&gsessionid=QRIYsOCDzJNKoA84dEiCIPIzbzCYjAOtlZJs9FA4Wul6Gx28H1n_uA",
+   "organizer": null,
+   "city": "Toulon",
+   "dept": "83",
+   "lat": 43.1367,
+   "lon": 5.9338,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-27",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": [
+     "https://www.google.com/accounts/emailsignup/"
+    ]
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "marché de noël"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 55,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "lien_ok": "2026-11-24",
+   "contact_checked": true
   },
   {
    "id": "396b20f9ebe9",

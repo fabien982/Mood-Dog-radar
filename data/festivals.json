@@ -353,7 +353,7 @@
   },
   "fete-de-la-musique-a-gardanne": {
    "slug": "fete-de-la-musique-a-gardanne",
-   "checked": null,
+   "checked": "2026-11-24",
    "appel": null,
    "name": "Fête de la Musique à Gardanne",
    "town": "Gardanne",
@@ -363,7 +363,7 @@
   },
   "fete-de-la-musique-a-lisle-sur-la-sorgue": {
    "slug": "fete-de-la-musique-a-lisle-sur-la-sorgue",
-   "checked": null,
+   "checked": "2026-11-24",
    "appel": null,
    "name": "Fête de la Musique à L'Isle-sur-la-Sorgue",
    "town": "L'Isle-sur-la-Sorgue",
@@ -373,7 +373,7 @@
   },
   "fete-de-la-musique-a-nice": {
    "slug": "fete-de-la-musique-a-nice",
-   "checked": null,
+   "checked": "2026-11-24",
    "appel": null,
    "name": "Fête de la Musique à Nice",
    "town": "Nice",
@@ -383,7 +383,7 @@
   },
   "fete-de-la-musique-a-la-garde": {
    "slug": "fete-de-la-musique-a-la-garde",
-   "checked": null,
+   "checked": "2026-11-24",
    "appel": null,
    "name": "Fête de la Musique à La Garde",
    "town": "La Garde",
@@ -393,7 +393,7 @@
   },
   "fete-de-la-musique-a-toulon": {
    "slug": "fete-de-la-musique-a-toulon",
-   "checked": null,
+   "checked": "2026-11-24",
    "appel": null,
    "name": "Fête de la Musique à Toulon",
    "town": "Toulon",
@@ -403,7 +403,7 @@
   },
   "fete-de-la-musique-a-la-valette-du-var": {
    "slug": "fete-de-la-musique-a-la-valette-du-var",
-   "checked": null,
+   "checked": "2026-11-24",
    "appel": null,
    "name": "Fête de la Musique à La Valette-du-Var",
    "town": "La Valette-du-Var",
@@ -423,7 +423,7 @@
   },
   "fete-de-la-musique-a-aix-en-provence": {
    "slug": "fete-de-la-musique-a-aix-en-provence",
-   "checked": null,
+   "checked": "2026-11-24",
    "appel": null,
    "name": "Fête de la Musique à Aix-en-Provence",
    "town": "Aix-en-Provence",
@@ -513,7 +513,7 @@
   },
   "fete-de-la-musique-a-miramas": {
    "slug": "fete-de-la-musique-a-miramas",
-   "checked": null,
+   "checked": "2026-11-24",
    "appel": null,
    "name": "Fête de la Musique à Miramas",
    "town": "Miramas",
@@ -573,7 +573,7 @@
   },
   "fete-de-la-musique-a-cavaillon": {
    "slug": "fete-de-la-musique-a-cavaillon",
-   "checked": null,
+   "checked": "2026-11-24",
    "appel": null,
    "name": "Fête de la Musique à Cavaillon",
    "town": "Cavaillon",
@@ -803,7 +803,7 @@
   },
   "fete-de-la-musique-a-orange": {
    "slug": "fete-de-la-musique-a-orange",
-   "checked": null,
+   "checked": "2026-11-24",
    "appel": null,
    "name": "Fête de la Musique à Orange",
    "town": "Orange",
@@ -2803,7 +2803,7 @@
   },
   "les-nuits-carrees": {
    "slug": "les-nuits-carrees",
-   "checked": null,
+   "checked": "2026-11-24",
    "appel": null,
    "name": "Les Nuits Carrées",
    "town": "Antibes",
@@ -3243,7 +3243,7 @@
   },
   "nuit-du-petit-saint-jean-de-valreas": {
    "slug": "nuit-du-petit-saint-jean-de-valreas",
-   "checked": null,
+   "checked": "2026-11-24",
    "appel": null,
    "name": "Nuit du Petit Saint-Jean de Valréas",
    "town": "Valréas",

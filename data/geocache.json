@@ -1767,5 +1767,179 @@
  "zone:normandie": null,
  "zone:la madeleine": null,
  "zone:noel de ruitz": null,
- "zone:canet-en-roussillon": null
+ "zone:canet-en-roussillon": null,
+ "zone:salon entre": null,
+ "zone:noel les": null,
+ "zone:arles du": null,
+ "zone:noel du domaine du moulin": null,
+ "zone:crau": {
+  "lat": 43.15569,
+  "lon": 6.08432,
+  "city": "La Crau",
+  "dept": "83"
+ },
+ "zone:fanfares": null,
+ "zone:melissa sadoski-veve": null,
+ "zone:prades": null,
+ "zone:pere noel activite": null,
+ "zone:fousseret": null,
+ "zone:noel pour": null,
+ "zone:chaud": {
+  "lat": 43.97838,
+  "lon": 6.31346,
+  "city": "Chaudon-Norante",
+  "dept": "04"
+ },
+ "zone:salon entre plumes": null,
+ "zone:pierrefeu-du-var": {
+  "lat": 43.24407,
+  "lon": 6.14436,
+  "city": "Pierrefeu-du-Var",
+  "dept": "83"
+ },
+ "zone:hourtin": null,
+ "zone:grand chambery": null,
+ "zone:domaine le grand air": null,
+ "zone:fiennes": null,
+ "zone:carry le rouet": {
+  "lat": 43.33345,
+  "lon": 5.15817,
+  "city": "Carry-le-Rouet",
+  "dept": "13"
+ },
+ "zone:color'a'geek": null,
+ "zone:telepherique de huy": null,
+ "zone:noel de puyloubier": null,
+ "zone:noel de bastogne": null,
+ "zone:bois": null,
+ "zone:delta": null,
+ "zone:toute heure": null,
+ "zone:hanoi": null,
+ "zone:villars-sur": {
+  "lat": 43.93756,
+  "lon": 7.08443,
+  "city": "Villars-sur-Var",
+  "dept": "06"
+ },
+ "zone:cotignac": {
+  "lat": 43.52156,
+  "lon": 6.15762,
+  "city": "Cotignac",
+  "dept": "83"
+ },
+ "zone:saint antonin": {
+  "lat": 43.9104,
+  "lon": 6.97749,
+  "city": "Saint-Antonin",
+  "dept": "06"
+ },
+ "zone:tourisme provence alpes": null,
+ "zone:valberg": null,
+ "zone:notre dame des neiges": null,
+ "zone:fontvieille": {
+  "lat": 43.72787,
+  "lon": 4.72085,
+  "city": "Fontvieille",
+  "dept": "13"
+ },
+ "zone:manduel notre": null,
+ "zone:pole culturel": null,
+ "zone:pierrefeu": {
+  "lat": 43.86748,
+  "lon": 7.08788,
+  "city": "Pierrefeu",
+  "dept": "06"
+ },
+ "zone:bouches-du-rhone": null,
+ "zone:dome": null,
+ "zone:parc chanot": null,
+ "zone:embrun": {
+  "lat": 44.56805,
+  "lon": 6.48472,
+  "city": "Embrun",
+  "dept": "05"
+ },
+ "zone:chateau": {
+  "lat": 44.08254,
+  "lon": 5.99811,
+  "city": "Château-Arnoux-Saint-Auban",
+  "dept": "04"
+ },
+ "zone:saint tropez hellfest": null,
+ "zone:clisson": null,
+ "zone:peuple": null,
+ "zone:la republique": null,
+ "zone:noel de treignac treignac": null,
+ "zone:noel desaignes": null,
+ "zone:noel en provence rendez-vous": null,
+ "zone:puyvert": {
+  "lat": 43.74849,
+  "lon": 5.33984,
+  "city": "Puyvert",
+  "dept": "84"
+ },
+ "zone:noel de montclar": null,
+ "zone:noel ville de chateaurenard": null,
+ "zone:noel aix en provence": {
+  "lat": 43.54137,
+  "lon": 5.40612,
+  "city": "Aix-en-Provence",
+  "dept": "13"
+ },
+ "zone:noel de robion": null,
+ "zone:noel d'estagel": null,
+ "zone:lattre": null,
+ "zone:dax": null,
+ "zone:domaine tropez": null,
+ "83120": {
+  "lat": 43.31927,
+  "lon": 6.63529,
+  "city": "Sainte-Maxime",
+  "dept": "83"
+ },
+ "zone:saint-cyr-sur-mer": {
+  "lat": 43.17278,
+  "lon": 5.70253,
+  "city": "Saint-Cyr-sur-Mer",
+  "dept": "83"
+ },
+ "zone:la duranne": null,
+ "zone:saint-andiol": {
+  "lat": 43.8331,
+  "lon": 4.94728,
+  "city": "Saint-Andiol",
+  "dept": "13"
+ },
+ "zone:foire": null,
+ "zone:tennis club de lancon-provence": null,
+ "zone:seyne les alpes": null,
+ "zone:montclar": {
+  "lat": 44.40256,
+  "lon": 6.33394,
+  "city": "Montclar",
+  "dept": "04"
+ },
+ "zone:capitole": null,
+ "zone:canisy": null,
+ "zone:la garde": {
+  "lat": 43.12772,
+  "lon": 6.01552,
+  "city": "La Garde",
+  "dept": "83"
+ },
+ "zone:musee jean aicard": null,
+ "zone:zenith": null,
+ "zone:deck": null,
+ "zone:saint-laurent-de-cuves": null,
+ "zone:la rochelle jean-marc desbois": null,
+ "zone:nocturna festival": null,
+ "zone:pays": null,
+ "zone:la foux d'allos": null,
+ "zone:pool": null,
+ "zone:chateaurenard": {
+  "lat": 43.8812,
+  "lon": 4.83364,
+  "city": "Châteaurenard",
+  "dept": "13"
+ }
 }
