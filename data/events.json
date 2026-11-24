@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-24T15:51:06+00:00",
+ "updated": "2026-11-24T23:51:41+00:00",
  "count": 91,
- "new_count": 1,
+ "new_count": 0,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -9,7 +9,7 @@
   },
   "Alertes Google": {
    "ok": true,
-   "found": 1
+   "found": 0
   },
   "Recherche web": {
    "ok": true,
@@ -72,7 +72,7 @@
   {
    "id": "b8f359b9a89e",
    "title": "La Grave (05) : Appel à candidatures food truck hiver 2026-2027",
-   "summary": "La Grave : Appel à candidatures food truck hiver 2026-2027. Date limite : 4 décembre 2026 à 12h00. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › La Grave 📢 Appels à candidatures La Grave Appel à candidatures food truck hiver 2026-2027 Mis à jour le 24 novembre 2026 Date limite : 4 décembre 2026 à 12h00 Ouvert, J-10 La commune de La Grave propose un emplacement pour un food truck sur l'aire de pique-nique du Chazelet pour la saison d'hiver 2026-2027. Les candidatures doivent être envoyées par mail avant le 4 décembre 2026 à mid",
+   "summary": "La Grave : Appel à candidatures food truck hiver 2026-2027. Date limite : 4 décembre 2026 à 12h00. Emplacements, redevance, critères et pièces demandées. Accueil › Appels food truck › Provence-Alpes-Côte d'Azur › La Grave 📢 Appels à candidatures La Grave Appel à candidatures food truck hiver 2026-2027 Mis à jour le 25 novembre 2026 Date limite : 4 décembre 2026 à 12h00 Ouvert, J-9 La commune de La Grave propose un emplacement pour un food truck sur l'aire de pique-nique du Chazelet pour la saison d'hiver 2026-2027. Les candidatures doivent être envoyées par mail avant le 4 décembre 2026 à midi",
    "type": "Appel à candidatures",
    "source": "Page surveillée",
    "url": "https://wikifoodtruck.fr/appels-food-truck/la-grave-appel-a-candidatures-food-truck-hiver-2026-2027",
@@ -108,50 +108,6 @@
    "hors_zone": null,
    "score": 100,
    "found_at": "2026-11-24T15:51:06+00:00",
-   "lien_ok": "2026-11-24",
-   "contact_checked": true
-  },
-  {
-   "id": "523085521ac3",
-   "title": "APPEL À CANDIDATURES INSTALLATION D’UN FOOD-TRUCK",
-   "summary": "APPEL À CANDIDATURES INSTALLATION D’UN FOOD-TRUCK AU CHAZELET HIVER 2026-2027A La commune de La Grave propose un emplacement pour un Food-Truck sur l’aire Votre mairie / Actualités / APPEL À CANDIDATURES INSTALLATION D’UN FOOD-TRUCK APPEL À CANDIDATURES INSTALLATION D’UN FOOD-TRUCK AU CHAZELET HIVER 2026-2027 A La commune de La Grave propose un emplacement pour un Food-Truck sur l’aire de pique-nique du Chazelet. SAISON D’HIVER: du 19 décembre 2026 au 14 mars 2027 COMMENT CANDIDATER ? Demandez le dossier de candidature par mail : mairie@lagrave-lameije.fr Le dossier complété devra être retourn",
-   "type": "Appel à candidatures",
-   "source": "Alerte Google",
-   "url": "https://station.illiwap.com/fr/public/05063fr/actu/appel-a-candidatures-installation-d-un-food-truck-1",
-   "organizer": null,
-   "city": "La Grave",
-   "dept": "05",
-   "lat": 45.05293,
-   "lon": 6.28743,
-   "approx": false,
-   "deadline": "2026-12-04",
-   "event_date": null,
-   "published": null,
-   "contact": {
-    "emails": [
-     "mairie@lagrave-lameije.fr"
-    ],
-    "phones": [
-     "04 76 79 90 29"
-    ],
-    "forms": [
-     "https://station.illiwap.com/en/public/05063fr/actu/appel-a-candidatures-installation-d-un-food-truck-1",
-     "https://station.illiwap.com/es/public/05063fr/actu/appel-a-candidatures-installation-d-un-food-truck-1",
-     "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fstation.illiwap.com%2Ffr%2Fpublic%2F05063fr%2Factu%2Fappel-a-candidatures-installation-d-un-food-truck-1"
-    ]
-   },
-   "mode": "demandes",
-   "via": null,
-   "keywords": [
-    "appel à candidatures",
-    "candidature",
-    "emplacement",
-    "food-truck"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 100,
-   "found_at": "2026-11-24T02:09:42+00:00",
    "contact_checked": true,
    "lien_ok": "2026-11-24"
   },
@@ -420,6 +376,50 @@
    "score": 95,
    "found_at": "2026-11-21T13:26:44+00:00",
    "contact_checked": true
+  },
+  {
+   "id": "523085521ac3",
+   "title": "APPEL À CANDIDATURES INSTALLATION D’UN FOOD-TRUCK",
+   "summary": "APPEL À CANDIDATURES INSTALLATION D’UN FOOD-TRUCK AU CHAZELET HIVER 2026-2027A La commune de La Grave propose un emplacement pour un Food-Truck sur l’aire Votre mairie / Actualités / APPEL À CANDIDATURES INSTALLATION D’UN FOOD-TRUCK APPEL À CANDIDATURES INSTALLATION D’UN FOOD-TRUCK AU CHAZELET HIVER 2026-2027 A La commune de La Grave propose un emplacement pour un Food-Truck sur l’aire de pique-nique du Chazelet. SAISON D’HIVER: du 19 décembre 2026 au 14 mars 2027 COMMENT CANDIDATER ? Demandez le dossier de candidature par mail : mairie@lagrave-lameije.fr Le dossier complété devra être retourn",
+   "type": "Appel à candidatures",
+   "source": "Alerte Google",
+   "url": "https://station.illiwap.com/fr/public/05063fr/actu/appel-a-candidatures-installation-d-un-food-truck-1",
+   "organizer": null,
+   "city": "La Grave",
+   "dept": "05",
+   "lat": 45.05293,
+   "lon": 6.28743,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-19",
+   "published": null,
+   "contact": {
+    "emails": [
+     "mairie@lagrave-lameije.fr"
+    ],
+    "phones": [
+     "04 76 79 90 29"
+    ],
+    "forms": [
+     "https://station.illiwap.com/en/public/05063fr/actu/appel-a-candidatures-installation-d-un-food-truck-1",
+     "https://station.illiwap.com/es/public/05063fr/actu/appel-a-candidatures-installation-d-un-food-truck-1",
+     "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fstation.illiwap.com%2Ffr%2Fpublic%2F05063fr%2Factu%2Fappel-a-candidatures-installation-d-un-food-truck-1"
+    ]
+   },
+   "mode": "demandes",
+   "via": null,
+   "keywords": [
+    "appel à candidatures",
+    "candidature",
+    "emplacement",
+    "food-truck"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 95,
+   "found_at": "2026-11-24T02:09:42+00:00",
+   "contact_checked": true,
+   "lien_ok": "2026-11-24"
   },
   {
    "id": "9a8973b58aa7",
