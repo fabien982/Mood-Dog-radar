@@ -1941,5 +1941,29 @@
   "lon": 4.83364,
   "city": "Châteaurenard",
   "dept": "13"
+ },
+ "chaudon-norante": {
+  "lat": 43.97838,
+  "lon": 6.31346,
+  "city": "Chaudon-Norante",
+  "dept": "04"
+ },
+ "saintes-maries-de-la-mer": {
+  "lat": 43.48959,
+  "lon": 4.40343,
+  "city": "Saintes-Maries-de-la-Mer",
+  "dept": "13"
+ },
+ "seyne": {
+  "lat": 44.34362,
+  "lon": 6.36867,
+  "city": "Seyne",
+  "dept": "04"
+ },
+ "chateaurenard": {
+  "lat": 43.8812,
+  "lon": 4.83364,
+  "city": "Châteaurenard",
+  "dept": "13"
  }
 }
