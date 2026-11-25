@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-24T23:51:41+00:00",
- "count": 91,
- "new_count": 0,
+ "updated": "2026-11-25T15:34:17+00:00",
+ "count": 93,
+ "new_count": 2,
  "sources": {
   "BOAMP": {
    "ok": true,
@@ -23,7 +23,7 @@
   },
   "Pages surveillées": {
    "ok": true,
-   "found": 19,
+   "found": 21,
    "errors": []
   }
  },
@@ -109,7 +109,7 @@
    "score": 100,
    "found_at": "2026-11-24T15:51:06+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-11-24"
+   "lien_ok": "2026-11-25"
   },
   {
    "id": "8c46bbc574b8",
@@ -181,7 +181,7 @@
    "score": 100,
    "found_at": "2026-11-15T12:42:53+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-11-24"
+   "lien_ok": "2026-11-25"
   },
   {
    "id": "4e4177315de4",
@@ -2266,6 +2266,79 @@
    "hors_zone": null,
    "score": 70,
    "found_at": "2026-11-14T12:09:28+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "31225759a500",
+   "title": "La journée des collectionneurs au Village Made in France",
+   "summary": "28 Nov 2026 La journée des collectionneurs au Village Made in France 5ème édition de la journée des collectionneurs au Musée du Jouet Puget-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/la-journee-des-collectionneurs-au-village-made-in-france-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Puget-sur-Argens",
+   "dept": "83",
+   "lat": 43.47045,
+   "lon": 6.68553,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-28",
+   "published": null,
+   "contact": {
+    "emails": [
+     "collectionbienjouet@gmail.com"
+    ],
+    "phones": [
+     "09 83 69 31 63",
+     "09 88 07 32 41",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "journée"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-11-25T15:34:17+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "53e7959ec811",
+   "title": "Théâtre \"Veille de Noël à Coursegude\"",
+   "summary": "29 Nov 2026 Théâtre \"Veille de Noël à Coursegude\" Boulouris Animation a le plaisir d'accueillir l'association La Rafelenco le Dimanche 29 novembre à 17h salle Blondelet à Boulouris pour la présentation de leur pièce de théatre en provençal \" Veille de Noël à Coursegude \". Saint-Raphaël",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/theatre-veille-de-noel-a-coursegude-4/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-11-29",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [
+     "06 78 65 48 70",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "animation"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 70,
+   "found_at": "2026-11-25T15:34:17+00:00",
    "contact_checked": true
   },
   {
