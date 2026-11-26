@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T23:35:30+00:00",
- "count": 93,
+ "updated": "2026-11-26T15:09:54+00:00",
+ "count": 92,
  "new_count": 0,
  "sources": {
   "BOAMP": {
@@ -23,7 +23,7 @@
   },
   "Pages surveillées": {
    "ok": true,
-   "found": 21,
+   "found": 19,
    "errors": []
   }
  },
@@ -109,7 +109,7 @@
    "score": 100,
    "found_at": "2026-11-24T15:51:06+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-11-25"
+   "lien_ok": "2026-11-26"
   },
   {
    "id": "8c46bbc574b8",
@@ -181,7 +181,7 @@
    "score": 100,
    "found_at": "2026-11-15T12:42:53+00:00",
    "contact_checked": true,
-   "lien_ok": "2026-11-25"
+   "lien_ok": "2026-11-26"
   },
   {
    "id": "4e4177315de4",
@@ -1388,38 +1388,6 @@
    "contact_checked": true
   },
   {
-   "id": "d9f1846347c9",
-   "title": "Chœur de l'Opéra de Toulon X Sacrée Musique",
-   "summary": "04 Dec 2026 Chœur de l'Opéra de Toulon X Sacrée Musique Concert de Noël Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/choeur-de-lopera-de-toulon-x-sacree-musique/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-04",
-   "published": null,
-   "contact": {
-    "emails": [],
-    "phones": [],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-11-17T14:21:39+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "0821880fefa4",
    "title": "Récital de piano à 4 mains : ClairObscur fête Noël",
    "summary": "04 Dec 2026 Récital de piano à 4 mains : ClairObscur fête Noël ClairObscur est un duo pianistique composé des artistes Anne Wischik et Emmanuelle Maggesi. Fréjus",
@@ -1454,6 +1422,43 @@
    "hors_zone": null,
    "score": 75,
    "found_at": "2026-10-25T05:38:16+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "900e30fce8cf",
+   "title": "Gospel de Noël",
+   "summary": "06 Dec 2026 Gospel de Noël Participez à un concert gospel au sein d'un lieu enchanteur, l'Eglise Saint-Pierre Saint-Paul située dans le cœur du village médiéval à Roquebrune-sur-Argens, où musique et voix humaine se marient pour créer une expérience sensorielle inoubliable. Roquebrune-sur-Argens",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/gospel-de-noel/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Roquebrune-sur-Argens",
+   "dept": "83",
+   "lat": 43.42692,
+   "lon": 6.66176,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-06",
+   "published": null,
+   "contact": {
+    "emails": [
+     "village@roquebrunesurargens.fr"
+    ],
+    "phones": [
+     "04 94 19 89 89",
+     "04 94 19 10 60"
+    ],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-11-01T11:49:25+00:00",
    "contact_checked": true
   },
   {
@@ -1495,43 +1500,6 @@
    "contact_checked": true
   },
   {
-   "id": "900e30fce8cf",
-   "title": "Gospel de Noël",
-   "summary": "06 Dec 2026 Gospel de Noël Participez à un concert gospel au sein d'un lieu enchanteur, l'Eglise Saint-Pierre Saint-Paul située dans le cœur du village médiéval à Roquebrune-sur-Argens, où musique et voix humaine se marient pour créer une expérience sensorielle inoubliable. Roquebrune-sur-Argens",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/gospel-de-noel/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Roquebrune-sur-Argens",
-   "dept": "83",
-   "lat": 43.42692,
-   "lon": 6.66176,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-06",
-   "published": null,
-   "contact": {
-    "emails": [
-     "village@roquebrunesurargens.fr"
-    ],
-    "phones": [
-     "04 94 19 89 89",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "concert"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 75,
-   "found_at": "2026-11-01T11:49:25+00:00",
-   "contact_checked": true
-  },
-  {
    "id": "fa535172c79a",
    "title": "Chœur d'enfants X Sacrée Musique",
    "summary": "11 Dec 2026 Chœur d'enfants X Sacrée Musique Une nouvelle date à marquer d'une pierre blanche dans la Saison Musicale : pour ce deuxième concert de Noël à la Cathédrale, découvrez la Maîtrise Sainte-Philomène de Haguenau, lauréate du très prestigieux Prix Liliane Bettencourt pour le chant choral. Fréjus",
@@ -1565,6 +1533,38 @@
    "hors_zone": null,
    "score": 75,
    "found_at": "2026-10-26T05:42:56+00:00",
+   "contact_checked": true
+  },
+  {
+   "id": "d9f1846347c9",
+   "title": "Chœur de l'Opéra de Toulon X Sacrée Musique",
+   "summary": "04 Dec 2026 Chœur de l'Opéra de Toulon X Sacrée Musique Concert de Noël Fréjus",
+   "type": "Événement",
+   "source": "Page surveillée",
+   "url": "https://www.esterel-cotedazur.com/en/cards/choeur-de-lopera-de-toulon-x-sacree-musique/",
+   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
+   "city": "Saint-Raphaël",
+   "dept": "83",
+   "lat": 43.44268,
+   "lon": 6.84991,
+   "approx": false,
+   "deadline": null,
+   "event_date": "2026-12-04",
+   "published": null,
+   "contact": {
+    "emails": [],
+    "phones": [],
+    "forms": []
+   },
+   "mode": "evenements",
+   "via": null,
+   "keywords": [
+    "concert"
+   ],
+   "fiable": false,
+   "hors_zone": null,
+   "score": 75,
+   "found_at": "2026-11-17T14:21:39+00:00",
    "contact_checked": true
   },
   {
@@ -2431,42 +2431,6 @@
     ],
     "phones": [
      "04 94 51 83 83",
-     "04 94 19 10 60"
-    ],
-    "forms": []
-   },
-   "mode": "evenements",
-   "via": null,
-   "keywords": [
-    "soirée"
-   ],
-   "fiable": false,
-   "hors_zone": null,
-   "score": 70,
-   "found_at": "2026-11-23T15:56:15+00:00",
-   "contact_checked": true
-  },
-  {
-   "id": "ddd3bba2e6c3",
-   "title": "Le Chœur du Sud au Forum de Fréjus – Happy’Handy",
-   "summary": "12 Dec 2026 Le Chœur du Sud au Forum de Fréjus – Happy’Handy Happy’Handy vous donne rendez-vous au Théâtre Le Forum de Fréjus pour une grande soirée musicale et solidaire avec Le Chœur du Sud, dirigé par le chef Jean-Luc Costa, et trois artistes invités. Fréjus",
-   "type": "Événement",
-   "source": "Page surveillée",
-   "url": "https://www.esterel-cotedazur.com/en/cards/le-choeur-du-sud-au-forum-de-frejus-happyhandy-4/",
-   "organizer": "Agenda Estérel Côte d'Azur (Saint-Raphaël, Fréjus, Pays de Fayence)",
-   "city": "Saint-Raphaël",
-   "dept": "83",
-   "lat": 43.44268,
-   "lon": 6.84991,
-   "approx": false,
-   "deadline": null,
-   "event_date": "2026-12-12",
-   "published": null,
-   "contact": {
-    "emails": [
-     "contact@happyhandy.fr"
-    ],
-    "phones": [
      "04 94 19 10 60"
     ],
     "forms": []
